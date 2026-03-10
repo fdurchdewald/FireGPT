@@ -1,0 +1,28 @@
+# 3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen .................................. 12
+
+- Literaturverzeichnis ................................................................................................................................. 14  A. Anhänge ................................................................................................................................................ 15  A.1 Liste der in der Umfrage befragten Schulleiter der LFS ................................................................... 15  A.2 Fragenstruktur sowie Begrüßungs- und Definitionsseite ................................................................. 16  A.3 Vollständige Darstellung der Umfrageergebnisse ............................................................................ 18  A.4 Kombinierte Darstellung von Umfrageergebnissen .......................................................................... 37  A.5 Darstellung weiterer Konzepte zur Generierung von Einsatzerfahrung ........................................... 40  B. Eigenständigkeitserklärung ................................................................................................................ 42       Kurzzusammenfassung  vii    Teil I: Fachartikel  Kurzzusammenfassung  In dem vorliegenden Fachartikel wird ein Konzept entwickelt, durch dessen Anwendung Ausbilder der  Landesfeuerwehrschulen auch während ihrer Tätigkeit an den Landesfeuerwehrschulen weiterhin  Einsatzerfahrung sammeln könnten. Die Anforderungen an das Konzept werden durch eine Befragung der  Schulleiter der Landesfeuerwehrschulen mittels einer Umfrage ermittelt.
+
+- Die Anforderungen an das Konzept werden durch eine Befragung der  Schulleiter der Landesfeuerwehrschulen mittels einer Umfrage ermittelt. Nach Abwägung unterschiedlicher  Konzeptideen wird auf Grundlage der Anforderungen ein Konzept vorgestellt.
+
+- Nach Abwägung unterschiedlicher  Konzeptideen wird auf Grundlage der Anforderungen ein Konzept vorgestellt. Dieses Konzept basiert auf  einem Austausch zwischen den Landesfeuerwehrschulen und Feuerwehren mittels Abordnungen von  Personal zur jeweils anderen Dienststelle.
+
+- Dieses Konzept basiert auf  einem Austausch zwischen den Landesfeuerwehrschulen und Feuerwehren mittels Abordnungen von  Personal zur jeweils anderen Dienststelle. Anschließend werden Vor- und Nachteile des Konzeptes für die  Landesfeuerwehrschulen und die am Austausch teilnehmenden Feuerwehren erläutert.
+
+- Anschließend werden Vor- und Nachteile des Konzeptes für die  Landesfeuerwehrschulen und die am Austausch teilnehmenden Feuerwehren erläutert. Neben der  Beantwortung der Forschungsfragen wird abschließend die Notwendigkeit und Möglichkeit zur Umsetzung  des Konzeptes beurteilt.
+
+- Neben der  Beantwortung der Forschungsfragen wird abschließend die Notwendigkeit und Möglichkeit zur Umsetzung  des Konzeptes beurteilt. Einleitung  1    1 Einleitung  Die Landesfeuerwehrschulen bzw. die entsprechenden Bildungseinrichtungen der Länder (im Folgenden  mit LFS abgekürzt) sind die Einrichtungen der Bundesländer zur Aus- und Fortbildung von  Feuerwehrführungskräften.
+
+- Einleitung  1    1 Einleitung  Die Landesfeuerwehrschulen bzw. die entsprechenden Bildungseinrichtungen der Länder (im Folgenden  mit LFS abgekürzt) sind die Einrichtungen der Bundesländer zur Aus- und Fortbildung von  Feuerwehrführungskräften. Den LFS kommt somit eine zentrale Rolle bei der Gewährleistung eines hohen  Ausbildungsstandes der neuen Feuerwehrführungskräfte und damit auch der Leistungsfähigkeit der  Feuerwehren im jeweiligen Bundesland zu.
+
+- Den LFS kommt somit eine zentrale Rolle bei der Gewährleistung eines hohen  Ausbildungsstandes der neuen Feuerwehrführungskräfte und damit auch der Leistungsfähigkeit der  Feuerwehren im jeweiligen Bundesland zu. Um diesem wichtigen Auftrag Rechnung zu tragen, muss es  deshalb der Anspruch jeder LFS sein, neben der Quantität vor allem für eine sehr hohe Qualität der Aus-  und Fortbildungen zu sorgen.
+
+- Um diesem wichtigen Auftrag Rechnung zu tragen, muss es  deshalb der Anspruch jeder LFS sein, neben der Quantität vor allem für eine sehr hohe Qualität der Aus-  und Fortbildungen zu sorgen. Auf die Qualität der Ausbildung haben viele Faktoren einen Einfluss, ein sehr  wesentlicher ist jedoch das Lehrpersonal einer LFS.
+
+- Auf die Qualität der Ausbildung haben viele Faktoren einen Einfluss, ein sehr  wesentlicher ist jedoch das Lehrpersonal einer LFS. Die vorliegende Facharbeit befasst sich deshalb  hauptsächlich mit dem Aspekt der Einsatzerfahrung des Lehrpersonals, inwiefern diese für ihre Tätigkeit  relevant ist und wie Einsatzerfahrung für das Lehrpersonal einer LFS generiert werden kann.
+
+- Die vorliegende Facharbeit befasst sich deshalb  hauptsächlich mit dem Aspekt der Einsatzerfahrung des Lehrpersonals, inwiefern diese für ihre Tätigkeit  relevant ist und wie Einsatzerfahrung für das Lehrpersonal einer LFS generiert werden kann. 2 Darstellung der Problemstellung  Bei den Aus- und Fortbildungen sollen Lehrgangsteilnehmer u. a. das Vorgehen im Realeinsatz erlernen.
+
+- 2 Darstellung der Problemstellung  Bei den Aus- und Fortbildungen sollen Lehrgangsteilnehmer u. a. das Vorgehen im Realeinsatz erlernen. Während die Lehrgangsteilnehmer in aller Regel aktive Mitglieder einer Feuerwehr sind, ist dies bei den  Ausbildern der LFS jedoch nicht zwingend gegeben.
+
+- Während die Lehrgangsteilnehmer in aller Regel aktive Mitglieder einer Feuerwehr sind, ist dies bei den  Ausbildern der LFS jedoch nicht zwingend gegeben. Aufgrund dieser Tatsache lassen sich  Forschungsfragen definieren, welche im Folgenden vorgestellt werden.
+

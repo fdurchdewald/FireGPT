@@ -1,0 +1,1592 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thema: 
+ 
+Controlling im Teilnehmer-Servicebereich  
+einer Feuerwehrschule 
+ 
+ 
+ 
+ 
+ 
+Facharbeit 
+ 
+im Rahmen der Ausbildung für das zweite Einstiegsamt der 
+Laufbahngruppe 2 im feuerwehrtechnischen Dienst 
+ 
+ 
+ 
+ 
+Dienststelle: 
+Landesschule und Technische Einrichtung  
+für Brand- und Katastrophenschutz 
+des Landes Brandenburg 
+ 
+ 
+ 
+Verfasser: 
+Brandreferendar 
+Andre Windemuth, M.Eng. 
+Bernauer Straße 85C 
+16515 Oranienburg 
+ 
+ 
+ 
+LG 2, 2. Einstiegsamt 
+8. Ausbildungsabschnitt 
+ 
+ 
+Abgabetermin: 
+21.12.2018 
+
+ 
+ 
+Danksagung 
+Ich möchte mich an dieser Stelle bei allen Gesprächspartnern und Vertretern von 
+Dienststellen bedanken, die mich bei den Recherchen zur Erstellung dieser Aus-
+arbeitung unterstützt haben. 
+Allen voran gilt mein Dank den Kolleginnen und Kollegen der Branddirektion Mün-
+chen, die mich während des Ausbildungsabschnittes sowohl bei der Recherche, 
+als auch mit der Bereitstellung von Literatur und Informationen zu den behörden-
+eigenen Prozessbeschreibungen unterstützt haben. 
+Mein besonderer Dank gilt auch meinen Korrekturlesern. 
+ 
+ 
+
+Inhaltsverzeichnis 
+II 
+Inhaltsverzeichnis 
+Abkürzungsverzeichnis ............................................................................. III 
+Abbildungsverzeichnis ............................................................................. IV 
+1 
+Einleitung ..........................................................................................1 
+1.1 
+Aufgabenstellung ................................................................................1 
+1.2 
+Problemstellung ..................................................................................1 
+1.3 
+Zielstellung und thematische Abgrenzung ..........................................1 
+1.4 
+Methodische Vorgehensweise ............................................................2 
+2 
+Controlling als Führungsinstrument ...............................................3 
+2.1 
+Herleitung für den öffentlichen Bereich ...............................................3 
+2.2 
+Funktionen und Aufgaben ...................................................................6 
+2.2.1 Planungsstufen des Controllings ........................................................7 
+2.2.2 Strategisches Controlling ....................................................................7 
+2.2.3 Operatives Controlling ........................................................................8 
+2.3 
+Controlling mit Kennzahlen .................................................................9 
+2.4 
+Berichtswesen - Informationsversorgung .......................................... 10 
+3 
+Controlling im Teilnehmer-Servicebereich einer 
+Feuerwehrschule ............................................................................ 12 
+3.1 
+Darstellung in Prozessen und Produkten .......................................... 12 
+3.2 
+Teilnehmer-Service ........................................................................... 14 
+3.2.1 Strategisches Controlling .................................................................. 15 
+3.2.2 Operatives Controlling ...................................................................... 16 
+3.2.3 Berichtswesen .................................................................................. 20 
+4 
+Zusammenfassung und Ausblick .................................................. 23 
+Anhangsverzeichnis ................................................................................. 27 
+Ehrenwörtliche Erklärung ........................................................................ 36 
+ 
+
+Abkürzungsverzeichnis 
+III 
+Abkürzungsverzeichnis 
+BSC  
+Balanced Scorecard 
+bspw.  
+beispielsweise 
+bzw.  
+beziehungsweise 
+DZ  
+ 
+Doppelzimmer 
+etc. 
+ 
+et cetera 
+evtl. 
+ 
+eventuell 
+EZ  
+ 
+Einzelzimmer 
+ggf. 
+ 
+gegebenenfalls 
+i.d.R.  
+in der Regel 
+i.S.d.  
+im Sinne des/der 
+KLR  
+Kostenleistungsrechnung 
+KGSt  
+Kommunale Gemeinschaftsstelle für Verwaltungsmanagement 
+NPM  
+New Public Management 
+NSM  
+Neues Steuerungsmodell 
+sog. 
+ 
+sogenannt 
+u.a. 
+ 
+unter anderem 
+ 
+
+Abbildungsverzeichnis 
+IV 
+Abbildungsverzeichnis 
+Abbildung 1: Drei-E-Konzept – Angelehnt an (Mundhenke, 2003, S. 7)  
+           nach (Budäus, 1999) .............................................................. 5 
+Abbildung 2: Regelkreis – PDCA-Zyklus – In Anlehnung an  
+          (Mundhenke, 1996) ................................................................. 5 
+Abbildung 3: Prozesslandkarte nach Muster Branddirektion München .......12 
+Abbildung 4: Balanced Scorecad angepasst für das NSM aus  
+          Thom und Ritz (2017, S. 185) ................................................13 
+Abbildung 5: Lernendes Controllingsystem .................................................15 
+ 
+
+Einleitung 
+1 
+1 
+Einleitung 
+1.1 Aufgabenstellung 
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule –  
+Entwickeln Sie ein Berichtswesen und Kennzahlensystem, das im Rahmen des 
+Controllings einer staatlichen Feuerwehrschule im Bereich des Teilnehmer- 
+Service (Platzvergabe, Unterbringung, Versorgung) eingesetzt werden kann. 
+1.2 Problemstellung 
+Die Bundesländer haben den gesetzlichen Auftrag zur Ausbildung von ehren- 
+sowie hauptamtlichen Angehörigen des Brand- und Katastrophenschutzes nach 
+den Maßgaben der jeweiligen landesrechtlichen Regelungen. Zur Erfüllung ihrer 
+Aufgaben unterhalten die Länder Feuerwehr- und Katastrophenschutzschulen, 
+die den vorhandenen Ausbildungsbedarf mit den ihnen hierfür zur Verfügung ge-
+stellten Ressourcen sicherstellen sollen. 
+Zur Erfassung der erforderlichen Ausbildungsbedarfe erfolgt eine jährliche Ab-
+frage- und Rückmeldeprozedur zwischen den Schulen und den jeweiligen Aufga-
+benträgern und folgt dabei der behördlichen Hierarchie. Das Ergebnis dieser Ab-
+fragen sind regelmäßig Bedarfe, welche das mit den Ressourcen der Schulen 
+darstellbare Ausbildungsangebot übersteigen. 
+Die Differenz zwischen Angebot und Nachfrage scheint seit mehreren Jahren 
+konstant zu sein. Aus den Bedarfsmeldungen, welche über die nachgeordneten 
+Instanzen an die Schulen gemeldet werden, ist nicht erkennbar, ob es sich um 
+reale Bedarfe oder um scheinbare Bedarfe handelt. In Ermangelung belastbarer 
+Zahlen zur Höhe der tatsächlichen Unterdeckung sind Kapazitätsanpassungen 
+gegenüber den behördlichen und politischen Entscheidungsgremien derzeit 
+schwer begründbar. 
+Um eine bedarfsgerechte Aufgabenerfüllung der Schulen zukunftsfähig sicherzu-
+stellen, ist es erforderlich, mithilfe geeigneter Kennzahlen und Berichte die tat-
+sächlichen Bedarfe zu ermitteln und künftige Entwicklungen nachvollziehbar zu 
+prognostizieren. 
+1.3 Zielstellung und thematische Abgrenzung 
+Im Rahmen von Facharbeiten wurden in den vergangenen Jahren mehrfach Fra-
+gestellungen zu Controlling-Instrumenten des Qualitätsmanagements an Feuer-
+wehrschulen untersucht, so z.B. in Stahn (2016) und Eisenhauer (2017). Die mit 
+der Aufgabenstellung zu dieser Facharbeit aufgeworfenen betriebswirtschaftli-
+chen Begrifflichkeiten sind ebenfalls als Bestandteile eines Steuerungssystemes 
+zu verstehen und reihen sich folglich in diesen Themenkomplex ein. 
+
+Einleitung 
+2 
+Da sich die Instrumente der Kennzahlensysteme und des Berichtswesens ge-
+genseitig bedingen und eine isolierte Betrachtung nur Rückschlüsse auf Einzel-
+prozesse liefern würde, erfolgt eine beispielhafte Darstellung anhand der gegen-
+seitigen Wechselwirkungen dieser Steuerungsinstrumente. 
+Zielstellung dieser Ausarbeitung soll es daher sein, die Systematik von Kennzah-
+lensystemen und des Berichtswesens im Kontext der sich im öffentlichen Sektor 
+immer mehr zu etablierenden, neuen Steuerungsmodelle darzustellen und her-
+zuleiten. Die Anwendbarkeit dieser Instrumente für den Teilnehmer-Service an 
+Feuerwehrschulen bezüglich der Themen der Platzvergabe, Unterbringung und 
+Versorgung soll theoretisch dargestellt werden. Zur Einordnung in der Kennzah-
+lensystematik erfolgt die Betrachtung des Teilnehmer-Service in Form von Pro-
+zessen und Produkten. 
+Nicht betrachtet wurden ökonomische Ansätze des Controllings, z. B. Deckungs-
+beitragsrechnung, Rentabilität, u.ä., sowie Ansätze des Bildungscontrollings, 
+welche vorrangig die Steuerung der Personalentwicklung im eigenen Unterneh-
+men betrachten und nicht unmittelbar auf die Kundenebene abzielen. 
+1.4 Methodische Vorgehensweise 
+Da Feuerwehrschulen dem Grunde nach als Einrichtungen der Erwachsenenbil-
+dung zu verstehen sind, wurde der Versuch unternommen, Informationen bezüg-
+lich der Controlling-Strukturen vergleichbarer Bildungseinrichtungen wie bei-
+spielsweise berufsgenossenschaftlichen Bildungsstätten, Schulen vergleichbarer 
+Hilfsorganisationen und Schulen im benachbarten deutschsprachigen Ausland in 
+Erfahrung zu bringen und vergleichend heranzuziehen. 
+Im Bearbeitungszeitraum dieser Ausarbeitung wurde eine Facharbeit mit nahezu 
+identischer Aufgabenstellung bezüglich der Controlling-Aspekte ausgegeben. 
+Um entsprechende Anfragen an den Dienststellen auf das notwendige Maß zu 
+beschränken, erfolgte eine Aufteilung der zu führenden Gespräche und Befra-
+gungen nach dem nord- und süddeutschen Raum, die Erkenntnisse wurden an-
+schließend wechselseitig ausgetauscht. 
+Als Ergebnis der geführten Gespräche und Befragungen war festzustellen, dass 
+ganzheitliche Controlling-Ansätze nahezu nicht vorhanden sind. Lediglich im 
+Landesfeuerwehrverband Kärnten sind solche Ansätze schon eingeführt. Aller-
+dings konnte trotz mehrfacher Versuche im Bearbeitungszeitraum kein Informa-
+tionsaustausch herbeigeführt werden. 
+Daher stützt sich diese Ausarbeitung vorrangig auf die Beschreibung der theore-
+tischen Controlling-Ansätze und versucht diese anhand bereits eingeführter Tei-
+linstrumente praktisch darzustellen. 
+ 
+
+Controlling als Führungsinstrument 
+3 
+2 
+Controlling als Führungsinstrument 
+2.1 Herleitung für den öffentlichen Bereich 
+Der Begriff Controlling wird gern als Begleiterscheinung der modernen Wirt-
+schaftsführung verortet. Seine Geschichte geht jedoch mehrere Jahrhunderte, 
+vielleicht sogar mehrere Jahrtausende zurück, in der deutlich wird, dass dieses 
+Konzept ursprünglich dem Staat und seiner effizienteren Führung diente. 
+(Lingnau, 1999, S. 74) 
+In der Zeit des wirtschaftlichen Aufschwungs des 19. Und 20. Jahrhunderts wurde 
+diese Idee vor allem in aufsteigenden amerikanischen Großkonzernen genutzt 
+und ausgebaut. Die freie Marktwirtschaft erkannte die Bedeutung dieses selbst-
+evaluierenden Instruments der Ressourcen- und Informationskontrolle für sich. 
+Damals bis heute hatte das Konzept des Controllings nur ein Ziel: die Informati-
+onsgewinnung von der Entscheidung und deren Ausführung zu trennen und zum 
+anderen die Informationen zentralisiert zu gewinnen und damit wieder koordinie-
+rungsfähig zu sein.(Gerlich, 1999, S. 3–4) 
+Erst in den 1980er Jahren fand das Controlling im Rahmen international geführ-
+ten Debatten zur Reform der öffentlichen Verwaltungen und der Einführung eines 
+„New Public Management“ (NPM) als Reformmodell wieder seinen Weg zurück 
+in staatliche Organisationen. Das bis dahin als unflexibel und damit ineffizient 
+empfundene System öffentlicher Administrationen sollte mit Hilfe neuer Steue-
+rungselemente wieder beweglicher gestaltet werden. (Sander, 2010, S. 1) 
+Zu Beginn der 90er Jahre wurde durch die Kommunale Gemeinschaftsstelle für 
+Verwaltungsmanagement (KGSt) eine auf deutsche Verwaltungen abgestimmte 
+Variante des „Neuen Steuerungsmodell“ (NSM) eingeführt, welche primär kom-
+munale Verwaltungen dazu befähigen sollte, ihre Leistungen als dienstleistungs-
+orientierte Behörden zu erbringen. (Sander, 2010, S. 1) 
+Dieser nötige Wandel vom bisherigen Bürokratiemodell zum NSM bzw. NPM voll-
+zieht sich gegenwärtig in vielen Ländern. (Lamers, 2018, S. 159); (Budäus, 1998, 
+S. 1–10); (Bürsch, 1996); (Brüggemeier, 1998, 138 ff.); (Busch, 2004, 28 ff.); (De-
+ckert, 2006, 40 ff.); (Dincher et al., 2017, 145 ff.); (KGSt, 1993, 1 ff.); (Krüger, 
+2017, 127 ff.); (Meixner, 1995, 1 ff.); (Mundhenke, 2003, 1 ff.); (Krems, 2010); 
+(Reinermann, 1996, 15 ff.); (Reinermann, 2000, 5 ff.) 
+Nach Lamers (2018, S. 160) ist das NPM ein internationales, integriertes Konzept 
+zur Modernisierung des öffentlichen Sektors, welches die politische und rechtli-
+che Steuerung um eine auf mehr Effektivität und Effizienz abzielende ökonomi-
+sche Komponente ergänzt. 
+Das in der Vergangenheit dominierend zur Anwendung gekommene Bürokra-
+tiemodell von Max Weber (Kieser und Walgenbach, 2016, 35 ff.); (Vahs, 2012, 
+24 f.) ist gekennzeichnet durch systematisiertes und formales Recht sowie durch 
+
+Controlling als Führungsinstrument 
+4 
+bürokratische Verwaltungen mit einem klaren Konzept wie Arbeitsteilung, Amts-
+hierarchie, Aktenmäßigkeit und schriftliche Kommunikation. Merkmal dieses bis-
+herigen Systems ist auch eine Inputsteuerung in Form einer Regelsteuerung, die 
+über die Bereitstellung von Finanzmitteln (Haushaltsmitteln) erfolgte. Diese Steu-
+erung führte zu teilweise negativen ökonomischen und psychologischen Wirkun-
+gen, wie beispielsweise dem sog. Dezemberfieber und starkem hierarchischem 
+Druck. Im Ergebnis führte dies dazu, dass Steuerungsdefiziten mit noch stärke-
+ren Regelungen entgegnet wurde. Systembedingt führte dies nicht selten zu ei-
+ner Fehl- bzw. Übersteuerung. Im Selbstverständnis hat dieses System Mitarbei-
+ter als Untergebene bzw. als Produktionsfaktor gesehen, durch welche Kosten 
+entstehen. (Lamers, 2018, S. 160) 
+Mit dem NPM-Konzept soll im Kern ein Systemwechsel hin zur Ergebnis- und 
+Anreizsteuerung erfolgen. Dabei liegt der Weg zur Ziel- bzw. Ergebniserreichung 
+in der Eigenverantwortung der unterstellten Einheiten bzw. Mitarbeiter. Damit 
+werden die Entscheidungen dezentralisiert und auf die nachgeordneten bzw. un-
+tersten Behörden oder Mitarbeiter verlagert. Die in Eigenverantwortung überge-
+benen Ziele müssen hierfür jedoch zunächst messbar beschrieben (operationali-
+siert) und der verantwortlichen Stelle müssen im Rahmen eines Kontraktmana-
+gements die zur Zielerfüllung erforderlichen Ressourcen zur Verfügung gestellt 
+werden. Das NPM versteht die Mitarbeiter als „Humankapital“ und im Selbstver-
+ständnis damit als wertvollstes Gut des Betriebes. (Lamers, 2018, S. 160) 
+Ergebnissteuerung i.S.d. NPM bedeutet dabei ein Maximum an Selbststeuerung 
+(„Steuern statt rudern“), ein Minimum an zentraler Steuerung („Resultate statt 
+Regeln“), Eigenverantwortung statt Hierarchie, Wettbewerb statt Monopol und 
+Motivation statt Alimentation. Als Ziele setzt sich das NPM: Wirtschaftlichkeit und 
+Finanzergebnis, bessere Qualität (Leistung, interne Prozesse), Bürgerorientie-
+rung (Adressatenzufriedenheit) und Mitarbeiterorientierung (Mitarbeiterzufrie-
+denheit). Als Rahmenbedingungen der neuen Steuerung gelten Recht bzw. Ge-
+setzmäßigkeit sowie die Qualität der erbrachten Leistungen. (Lamers, 2018, S. 
+160–161) 
+Als Hauptbegriffe der neuen Steuerung gelten Effektivität und Effizienz. (Budäus, 
+1999); (Budäus, 2012); (Buschor, 1993, 236 ff.); (Deckert, 2006, 52 ff.); (Mund-
+henke, 2003, S. 7) Diese Begriffe bilden die Grundlage des von Budäus bekannt 
+gemachten sog. „Drei-Ebenen-Konzept“, welches in Abbildung 1 in einer – ge-
+genüber den Literaturvorlagen modifizierten Form – dargestellt ist. (Lamers, 
+2018, S. 161) 
+Nach dem Konzept wird, ausgehend von den Zielen, Input bzw. Mitteleinsatz fest-
+gelegt. Der Output wiederum ist abhängig von der Prozesseffizienz (Effizienz des 
+Verwaltungshandelns). Als maßgeblich werden nach dem NPM jedoch die Wir-
+kungen („Outcome“) beim Bürger („Kunden“) angesehen. Werden die gewünsch-
+ten Wirkungen nicht erzielt, ist eine Anpassung oder Veränderung der politisch 
+gesetzten Ziele erforderlich und der Prozess muss erneut durchlaufen werden. 
+(Lamers, 2018, S. 161) 
+Als einer der Kernsätze des NPM gilt folgende These: 
+
+Controlling als Führungsinstrument 
+5 
+„Es kommt nicht nur darauf an, die Dinge richtig zu tun, sondern vor allem ist es 
+wichtig, die richtigen Dinge zu tun.“ 
+Demnach sollen Kosten und Leistungen stets abgewogen werden (Effizienz) und 
+die Wirksamkeit beim Empfänger der Leistung regelmäßig überprüft werden (Ef-
+fektivität). Eine bloße Optimierung der Aufbau- und Ablauforganisation und der 
+wirtschaftliche Einsatz von Ressourcen alleine ist demzufolge nicht zielführend, 
+denn „wenn „falsche Dinge“ effizient getan werden, wird Geldverschwendung re-
+duziert, aber nicht vermieden.“ (Lamers, 2018, S. 161) 
+Als Bindeglied einer Maßnahme im Sinne des Kontraktmanagements befindet 
+sich zwischen Zielfindung und Durchführung der Budgetprozess, in dem als Ge-
+genleistung für die bereitgestellten Ressourcen, die zu erbringende Leistung ver-
+einbart wird. Anschließend erfolgt die Analyse der erreichten Wirkungen, welche 
+dann ggf. Rückwirkungen auf die Zielvorgaben haben. Neue Steuerungsmodelle 
+lassen sich deshalb auch als Kreislauf („Regelkreis“ – PDCA-Zyklus) darstellen 
+(Mundhenke, 1996, S. 5). Hierbei werden sämtliche Schritte durch einen Control-
+ling-Prozess begleitet, wie in Abbildung 2 dargestellt ist. (Lamers, 2018, S. 162–
+163) 
+Abbildung 2: Regelkreis – PDCA-Zyklus – In Anlehnung an (Mundhenke, 1996)
+Abbildung 1: Drei-E-Konzept – Angelehnt an (Mundhenke, 2003, S. 7) nach (Budäus, 1999)
+
+Controlling als Führungsinstrument 
+6 
+Der Ansatz der neuen Steuerungsmodelle arbeitet mit einer Reihe von Instru-
+menten, die zur Einführung, Umsetzung und Weiterentwicklung erforderlich sind. 
+(Busch, 2004, S. 111), (Lamers, 2018, S. 163) 
+Zu diesen Instrumenten zählen u.a.: 
+- 
+Leitbild – zur Identifikation mit der gemeinsamen Aufgabe, 
+- 
+Zielvereinbarung – als verbindliche Festlegung der Rahmenbedingungen, 
+- 
+Budgetierung – Eigenverantwortlicher Ressourceneinsatz der Behörde, 
+- 
+Dezentralisierung – Entscheidung dezentral, im nachgeordneten Bereich, 
+- 
+Reform des Rechnungswesens – i.d.R. Einführung Doppik, 
+- 
+Kosten- und Leistungsrechnung (KLR) – Erstellung von Produktkatalogen, 
+- 
+Controlling – bringt Informationen für zukunftsgerichtete Entscheidungen, 
+- 
+Qualitätsmanagement – Einführung QM-System zur Qualitätssicherung, 
+- 
+Kontinuierlicher Verbesserungsprozess – z.B. Verbesserungsvorschläge, 
+- 
+Kunden- Bürgerbefragungen – Evaluation der Leistung, 
+- 
+Mitarbeiterbefragungen – geben Aufschluss zum „Betriebsklima“. 
+(Lamers, 2018, S. 163–167) 
+Zwischenzeitlich haben sich die Ansätze des NSM/NPM auch in Bundes- und 
+Landesverwaltungen etabliert. Während sich teilweise nur bestimmter Instru-
+mente, wie beispielsweise der Bildung von Produkthaushalten, der Evaluation 
+und dem Qualitätsmanagement bedient wird, wurde im Bundesland Hessen ein 
+Gesamtkonzept eingeführt, welches vergleichsweise konsequent dem Konzept 
+einer modernen und wirkungsorientierten Verwaltungsführung nach dem Vorbild 
+der Schweiz entspricht. (Krems, 2014) 
+Analog zu privatrechtlich organisierten Unternehmen erfolgen im öffentlichen 
+Sektor nach und nach auch Zertifizierungen nach den Qualitätsmanagement-
+Standards der DIN EN ISO 9001. (DIN EN ISO 9001:2015-11:2015) 
+Auch im Bereich der Aus- und Weiterbildung erfolgen in staatlichen Einrichtungen 
+zum Teil schon Zertifizierungen auf Grundlage der DIN ISO 29990, welche die 
+„grundlegenden Anforderungen an Lerndienstleistungen“ definiert und im Gegen-
+satz zur DIN EN ISO 9001 auf ein inhaltliches Qualitätsmanagement der Bil-
+dungsdienstleistung selbst abzielt und somit Aspekte wie Qualität der Dienstleis-
+tung und nachhaltigen Nutzen für den Kunden und Auftraggeber (Arbeitgeber) 
+betrachtet. (DIN ISO 29990:2010-12:2010) 
+2.2 Funktionen und Aufgaben 
+Zumeist steht der Controlling-Begriff in Verbindung mit ökonomischen und mo-
+netären Gesichtspunkten und verfolgt beispielsweise die Aufgaben des Erfolgs-, 
+Finanz- und Risikocontrolling. (Lachnit und Müller, 2012, S. 26) Controlling als 
+Führungsinstrument ist in seinen Funktionen und Ausprägungen jedoch weit ge-
+fasst und inhaltlich nicht abschließend beschrieben. 
+
+Controlling als Führungsinstrument 
+7 
+Der in Lamers (2018, S. 172) beschriebene Ansatz fasst Controlling „als beglei-
+tenden und betriebswirtschaftlichen Service für das Management zur Unterstüt-
+zung der zielorientierten Planung und Steuerung“ auf. Controlling ist demnach 
+„ebenfalls ein zentraler Baustein neuer Steuerungsmodelle, welcher – nach sei-
+nem Siegeszug in der Privatwirtschaft – auch für die öffentliche Verwaltung un-
+verzichtbar ist.“ (Mundhenke, 1996, 74 ff.); (Mundhenke, 2003, 20 ff.); (Steger, 
+2013, 25 ff.); (Tauberger, 2008, 2 ff.) 
+Das Controlling umfasst zur Unterstützung des Managements beim Festlegen 
+und Realisieren der Ziele folgende Funktionen und Aufgaben: 
+- 
+Analyse des Betriebsgeschehens, 
+- 
+Information der Leitungsebenen, 
+- 
+ergebnisorientierte Planung. 
+Die Philosophie des Controllings dient der „lernenden Organisation“ und ist somit 
+immer zukunftsorientiert, wohingegen reine Kontrolle vergangenheitsorientiert 
+ist. Zu den wesentlichen Aufgaben des Controllings zählen die Leitungsinforma-
+tion zum Zwecke der Navigation und die Koordinierung von Führungsaufgaben, 
+ohne dabei jedoch selbst eine Steuerungsfunktion wahrzunehmen. (Lamers, 
+2018, S. 172–173) 
+2.2.1 Planungsstufen des Controllings 
+Die Planung hat im Controlling die Aufgabe, eine Ordnung zu entwerfen bzw. 
+künftiges Handeln gedanklich vorzuplanen, um so die Bewältigung zukünftiger 
+Risiken und Unsicherheiten realisierbar zu machen. Mit der Kernfrage „Wozu sind 
+wir da?“ baut die Planung auf dem jeweiligen Leitbild einer Organisation auf. (La-
+mers, 2018, S. 174) 
+Für eine zeitliche Ordnung erfolgt die Aufteilung in zwei Planungsstufen, nämlich 
+der strategischen (langfristigen) Planung und der operativen (kurz- bis mittelfris-
+tigen) Planung. Beide Planungsstufen sollen im Folgenden mit einer Auswahl der 
+für sie gebräuchlichsten Instrumente vorgesellt werden. (Mundhenke, 2003, 136 
+ff.), (Tauberger, 2008, 32 ff.), (Lamers, 2018, 175 ff.) 
+2.2.2 Strategisches Controlling 
+Das strategische Controlling ist auf den mittel- bis langfristigen Erfolg einer Un-
+ternehmung ausgerichtet und orientiert sich an folgenden Fragestellungen: 
+- 
+„Welche Ziele werden verfolgt?“, 
+- 
+„Welche Wege werden zur Zielerreichung verfolgt?“, 
+- 
+„Wo will die Unternehmung in fünf oder zehn Jahren stehen?“ 
+Zur systematischen Beantwortung dieser Fragen empfiehlt sich die Nutzung der 
+beiden nachstehend genannten Instrumente. (Lamers, 2018, S. 175–176) 
+ 
+ 
+
+Controlling als Führungsinstrument 
+8 
+- 
+Portfolio-Analyse 
+Bei privaten Unternehmen ist die Portfolio-Analyse ein weit verbreitetes 
+Instrument des strategischen Controllings. Sie liefert Empfehlungen zur 
+Weiterentwicklung eigener Produkte vgl. Meffert, Burmann und Kirchgeorg 
+(2012, 279 f.). Dabei werden Marktanteil und relativer Markanteil für ein 
+Produkt grafisch dargestellt. Die Analyse erfolgt grafisch anhand der Zu-
+ordnung zu einem von vier Feldern, welches jeweils mit einer Handlungs-
+anweisung hinterlegt ist. Allerdings scheint dieses Instrument für das be-
+hördliche Handeln nicht relevant, da es vorrangig auf das unternehmeri-
+sche Ziel des Marktwachstums ausgerichtet ist. (Lamers, 2018, S. 175) 
+ 
+- 
+SOFT- bzw. SWOT-Analyse 
+Die SOFT- bzw. SWOT-Analyse arbeitet ähnlich wie die Portfolio-Analyse 
+mit einem Quadrantensystem, aus dem sich Handlungsempfehlungen ab-
+leiten lassen. (Meffert, Burmann und Kirchgeorg, 2012, 240 ff.) Die Quad-
+ranten sind dabei nach den internen Kriterien „Stärken“ (Strenghts), 
+„Schwächen“ (Weaknesses), sowie nach den externen Kriterien „Chan-
+cen“ (Opportunities) und „Risiken“ (Threats) benannt. 
+Ziel ist es insbesondere, systematisch die Chancen und Risiken des Mark-
+tes zu erfassen und mit den eigenen Stärken und Schwächen abzuglei-
+chen, um daraus entsprechende Empfehlungen abzuleiten. Da dieses In-
+strument nicht das Marktwachstum als Zielkriterium hat, ist es auch für das 
+strategische Controlling im öffentlichen Sektor geeignet. (Lamers, 2018, 
+S. 175) 
+2.2.3 Operatives Controlling 
+Das operative Controlling ist auf den kurz- bis mittelfristigen Erfolg einer Unter-
+nehmung ausgerichtet und orientiert sich an folgenden Fragestellungen: 
+- 
+„Wo besteht Handlungsbedarf?“, 
+- 
+„Was soll konkret passieren?“, 
+- 
+„Wie sollen die kommenden Monate/Jahre gestaltet werden? 
+Die Anstrengungen des operativen Controllings sind folglich auf den Erfolg bzw. 
+die Wirtschaftlichkeit der zu betrachtenden Periode ausgerichtet und steuern 
+diese durch die Leitungs- und Ressourcenplanung, die Kosten- und ggf. Erlös-
+planung sowie durch die Finanzplanung. (Lamers, 2018, S. 176) 
+Für das operative Controlling kommen nach Lamers (2018) u.a. die nachfolgend 
+beschriebenen Instrumente infrage: 
+- 
+Kennzahlen bzw. Kennzahlensysteme vgl. 2.3, 
+- 
+Kostenleistungsrechnung (KLR), 
+- 
+Budgetierung, 
+- 
+Balanced Scorecard (BSC), 
+wurde 1996 von Kaplan und Norton als „ausbalancierte Wertungsliste“ o-
+der „ausgewogenes Kennzahlensystem“ entwickelt, um eine zu einseitige, 
+
+Controlling als Führungsinstrument 
+9 
+nur an finanziellen Aspekten orientierte Steuerung durch einen „ganzheit-
+lichen“ Ansatz zu ersetzen (Kaplan und Norton, 1997), (Horváth & Part-
+ners, 2004, 3 ff.), (Friedag und Schmidt, 2015), (Jossé, 2005), (Scherer 
+und Alt, 2002), (Steger, 2013, 353 ff.), (Tauberger, 2008, 218 ff.), (Weber 
+und Schäffer, 2016, 200 ff.), (Wöhe, Döring und Brösel, 2016, 201 ff.). – 
+Die Urform der Balanced Scorecard berücksichtigt gleichgewichtig vier 
+Perspektiven: 
+ 
+- 
+Finanzperspektive: erfasst Zahlungsströme und Budgetgrößen, 
+- 
+Kundenperspektive: berücksichtigt u. a. Kundenzahl und -zufriedenheit, 
+- 
+Prozessperspektive (Leistungsperspektive): analysiert interne Prozesse, 
+- 
+Potenzialperspektive: erfasst u. a. Zahl, Qualifikation und Motivation der 
+Mitarbeiter; Lernen und Entwicklung. 
+Für den Bereich der öffentlichen Verwaltung ist eine weitere Perspektive 
+wichtig: 
+- 
+Perspektive der Positionierung im politisch-gesellschaftlichen Umfeld bzw. 
+Orientierung am gesellschaftspolitischen Auftrag (Deutsches Patent- und 
+Markenamt, 2005, S. 36). 
+Für jede Perspektive der Organisation werden, ausgehend von der Vision 
+und Strategie, die entsprechenden strategischen Ziele abgeleitet, welche 
+dann durch Messgrößen mit Soll- und Ist-Werten konkretisiert werden. So 
+entsteht idealerweise eine mehrdimensionale, ausgewogene Darstellung 
+der Erfolgsfaktoren einer Organisation. 
+- 
+Benchmarking 
+Beschreibt die Suche nach den „Besten Praktiken“, die zu Spitzenleistun-
+gen führen, und unterstützt das „Lernen von den Besten“ in einem konti-
+nuierlichen (Verbesserungs-) Prozess. (Lamers, 2018, S. 176–177) 
+2.3 Controlling mit Kennzahlen 
+Kennzahlen sollen eine schnelle und umfassende Übersicht zum Betriebsge-
+schehen ermöglichen. Sie bieten als Informationsinstrument die Möglichkeit, die 
+Wirklichkeit in vereinfachter und komprimierter Form abzubilden und können 
+komplexe Sachverhalte in einfacher und verdichteter Form beschreiben. Dadurch 
+ist es möglich, Abweichungen zu analysieren und im Sinne einer lernenden Or-
+ganisation einen Erkenntnisgewinn zu erzielen. (Lamers, 2018, S. 173–174) 
+Für die Planung, Kontrolle und bei der Ausgestaltung des Berichtswesens spielen 
+Kennzahlen eine wichtige Rolle. (Olfert und Rahn, 2013, 46 f.), (Schierenbeck 
+und Wöhle, 2016, 177 ff.), (Weber und Schäffer, 2016, 177 ff.), (Wöhe, Döring 
+und Brösel, 2016, 199 ff.), (Lamers, 2018, S. 178) 
+Dabei ermöglichen Kennzahlen: 
+- 
+Urteile über wichtige Sachverhalte und Zusammenhänge durch Bereitstel-
+lung zweckorientierten Wissens, 
+
+Controlling als Führungsinstrument 
+10 
+- 
+präzise, quantitative Aussagen, 
+- 
+einen schnellen und umfassenden Überblick über komplexe Zusammen-
+hänge. (Lamers, 2018, S. 178) 
+Kennzahlen können als Analyse- bzw. Kontrollinstrument eingesetzt werden oder 
+als Hilfsmittel der Steuerung dienen. 
+Als Vergleichs- oder Kontrollinstrument können sie zur Überprüfung aktueller 
+Kennzahlen mit vorgegebenen Zahlen eingesetzt werden. Hierfür eignen sich: 
+- 
+Soll-Ist-Vergleich (Zielvorgabe und tatsächlicher Stand), 
+- 
+Zeitvergleich (gleicher Betrieb, verschiedene Zeitpunkte), 
+- 
+Betriebsvergleich (verschiedene Betriebe, gleiche Zeitpunkte). 
+Als Hilfsmittel der Steuerung verfügen sie über einen normativen Charakter, z. B. 
+Vorgabe eines Kostenbudgets, eines Mindestgewinns oder einer internen Ver-
+zinsung. (Lamers, 2018, S. 178) 
+Kennzahlen lassen sich jedoch auch nach weiteren Kriterien klassifizieren, diese 
+können sein: 
+- 
+Phasenbezug (Bezug auf Entscheidungsphase, nach Zielgröße (normativ 
+aus Zielvereinbarung) oder nach Ist-Größe (deskriptiv, zur Beschreibung 
+der aktuellen Situation), 
+- 
+Zahlenart (absolute Zahlen, z.B. Summen, Differenzen, Mittelwerte oder 
+relative Zahlen, z.B. Beziehungszahlen, Gliederungszahlen, Indexzahlen), 
+- 
+Betriebsbereich (Gesamtbetrieb oder Teilbereich). (Lamers, 2018, S. 179) 
+2.4 Berichtswesen - Informationsversorgung 
+Dem Berichtswesen kommt eine Kernaufgabe des Controllings zu, da es für die 
+Information und Informationsversorgung der Leitungsebenen verantwortlich ist. 
+Führungsaufgabe ist es daher, ein schlankes und entscheidungsorientiertes Be-
+richtswesen aufzubauen. (Mundhenke, 1996, 88 ff.), (Weber und Schäffer, 2016, 
+237 ff.), (Lamers, 2018, S. 173) 
+Zielstellung eines solchen Informationssystems ist es daher, handlungsauslö-
+send zu sein und anhand der bereitgestellten Informationen ggf. Empfehlungen 
+zu frühzeitigen Kurskorrekturen zu geben. Voraussetzung hierfür ist jedoch die 
+bewusste Nutzung dieses Instrumentes durch die Bereitstellung der Informatio-
+nen durch den Controller und durch das gezielte Abrufen von Informationen durch 
+die Führung. (Lamers, 2018, S. 173–174) 
+Für den zielgerichteten Einsatz ergeben sich daher folgende Anforderungen an 
+das Berichtswesen: 
+- 
+Berichte müssen zeitnah vorliegen (Schnelligkeit vor Genauigkeit), 
+- 
+Beschränkung auf das Wesentliche vermeidet Informationsfluten, 
+- 
+Berichte müssen ansprechend gestaltet sein, z. B. mit geeigneten statisti-
+schen Diagrammen, 
+
+Controlling als Führungsinstrument 
+11 
+- 
+Berichte müssen auf allen hierarchischen Ebenen angemessen und an-
+forderungsgerecht („adressatengerecht“) vorliegen, 
+- 
+Berichte müssen regelmäßig, z. B. als Quartalsbericht, und bei Bedarf 
+bzw. auf Anforderung durch die Leitung erstellt werden 
+- 
+Berichte müssen eine Handlungsempfehlung geben können. 
+Darüber hinaus ist es insbesondere im öffentlichen Sektor wichtig, „dass eine 
+adressatengerechte Berichterstattung einen Bezug sowohl zur Legislaturplanung 
+der Regierung als auch zur mittelfristigen Planung herstellt und den jeweiligen 
+Betrag des Leistungsauftrages zur Zielerreichung verdeutlicht.“ (Thom und Ritz, 
+2017, S. 177) 
+Mit der Einführung neuer Steuerungsmodelle hat sich auch ein Wandel von ver-
+gangenheitsorientierten Rechenschaftsablagen der Verwaltungsleitung gegen-
+über den übergeordneten Instanzen hin zu vergleichenden Berichtsformen, die 
+für eine zukunftsorientierte Steuerung auf der Basis von integrierten Manage-
+mentsystemen vollzogen. Diese Systeme führen verschiedene Führungsinforma-
+tionen integriert zusammen und setzten diese zu einander in Bezug. Typischer-
+weise erfolgt diese Darstellung in sog. Cockpit-Systemen, deren „Tafeln- und In-
+strumente“ Rückschluss darüber geben sollen, ob sich die Organisation „auf 
+Kurs“ befindet und so auf anschauliche Weise die Möglichkeit der Datengewin-
+nung zur Steuerung liefern. (Thom und Ritz, 2017, S. 178) 
+Zum Aufbau eines „Verwaltungs-Cockpits“ sollte man dabei nach Thom und Ritz 
+(2017) folgenden Orientierungsrahmen berücksichtigen: 
+- 
+Inputgrüßen: Personal, Finanzen und Sachmittel; 
+- 
+Prozessinformationen: Kapazitätsauslastungen, Wartezeiten, anstehende 
+Aufgaben, Beschwerden, Projektfortschritte; 
+- 
+Ergebnisgrößen: Finanz-, Mengen- und Qualitätsinformationen nach Insti-
+tutionen, Aufgabenfeld, Produkt oder Produktgruppe; 
+- 
+Wirkungsgrößen (Impacts): Zufriedenheitsdaten, Verhaltensinformatio-
+nen; 
+- 
+Vergleichende Informationen: Dienststellenvergleiche, Zeitvergleiche, 
+Größenvergleiche. 
+Dabei sollten die Informationen nach Möglichkeit vergangenheitsbezogen und 
+Soll-Ist-vergleichend dargestellt und zu Prognosedaten in Bezug gesetzt werden. 
+(Thom und Ritz, 2017, S. 179) 
+Für die aktuelle Bewertung verschiedener Arbeitsbereiche haben sich „Ampel-
+Berichte“ als besonders geeignet erwiesen. Die Ampelfarben visualisieren dabei 
+zuvor gesteckte Grenzbereiche, die wie nachfolgend dargestellt ggf. Handlungs-
+erfordernisse signalisieren sollen. Dabei bedeuten: 
+- 
+grün: alles in Ordnung, kein Handlungsbedarf, 
+- 
+gelb: mögliche Zielabweichung; erhöhte Aufmerksamkeit ist geboten, 
+- 
+rot: deutliche Zielabweichung: sofortiges Gegensteuern ist erforderlich. 
+(Lamers, 2018, S. 174) 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+12 
+3 
+Controlling im Teilnehmer-Servicebereich einer 
+Feuerwehrschule 
+3.1 Darstellung in Prozessen und Produkten 
+Um die in Kapitel 2 dieser Arbeit beschriebenen Instrumente für das Controlling 
+im Teilnehmer-Servicebereich einer Feuerwehrschule zu adaptieren, ist es zu-
+nächst erforderlich, die Produkt- und Prozessstruktur einer Feuerwehrschule zu 
+analysieren. Dies soll nachfolgend beispielhaft in Abbildung 3 anhand einer „Pro-
+zesslandkarte“ nach einem Muster der Branddirektion München erfolgen. 
+Das Aufgaben- und Ausbildungsspektrum von staatlichen Feuerwehrschulen dif-
+feriert teilweise in Abhängigkeit von den entsprechenden landesrechtlichen Vor-
+schriften und Gegebenheiten. Mit der vorliegenden Ausarbeitung soll lediglich 
+eine beispielhafte Systematik aufgezeigt werden. Daher werden Umfang und In-
+halt der „Prozesslandkarte“ vereinfacht dargestellt. 
+Ausbildungen und Lehrgänge werden zu einem Kernprozess zusammengefasst, 
+dessen Produkt die „Qualifikation“ von Lehrgangsteilnehmern ist. Die Kernpro-
+zesse Seminare und Fortbildung erzeugen das Produkt „Kompetenzerhalt- und 
+erweiterung“. 
+Für die Realisierung dieser Kernprozesse ist es erforderlich den Kunden, in die-
+sem Fall den entsendenden Dienststellen, Teilnehmerplätze zuzuweisen. Die 
+Ausbildungen erfolgen zentral an den Feuerwehrschulen und nehmen zumeist 
+mehrere Tage bzw. Wochen in Anspruch. Daher wird ein Unterstützungsprozess 
+in Form einer Unterbringung und Versorgung erforderlich, der unmittelbar an den 
+Kernprozess gekoppelt ist. 
+Abbildung 3: Prozesslandkarte nach Muster Branddirektion München
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+13 
+Nachfolgend soll anhand einer Balanced Scorecard exemplarisch dargestellt 
+werden, welche Wechselwirkungen die einzelnen Perspektiven für die Vision und 
+Strategie „Bedarfsdeckendes Lehrgangangebot“ erzeugen (vgl. Abbildung 4). 
+In der Perspektive der „Internen Verwaltungsprozesse“ wird die Fragestellung der 
+Platzvergabe für die Teilnehmer verortet, welche wiederum durch die zur Verfü-
+gung stehenden Kapazitäten der Unterbringung und Versorgung begrenzt wer-
+den. 
+Aus der Wechselwirkung zwischen der Perspektive der „Wirtschaftlichkeit und 
+Gesetzmäßigkeit“ sowie den „Internen Verwaltungsprozessen“ ergeben sich 
+durch Zielvorgaben die Kennzahlen der „Deckung des gemeldeten Bedarfes“, 
+„Deckung des Bedarfes an Pflichtlehrgängen“ sowie „Optimale Ressourcenaus-
+lastung durch Lehrgangsorganisation“. 
+Die Perspektive „Lernen und Entwicklung“ stellt de facto die „Evaluationsper-
+spektive“ dar. Aus der Wechselwirkung mit der Perspektive „Interne Verwaltungs-
+prozesse“ lassen sich Kennzahlen der Ressourcennutzung ableiten, die ggf. 
+Rückschlüsse auf einen Optimierungsbedarf der Ressourcenverteilung geben 
+Kennzahlen mit Bezug zwischen den Perspektiven „Wirtschaftlichkeit und Ge-
+setzmäßigkeit“ sowie „Interne Verwaltungsprozesse“ 
+- 
+Deckung des gemeldeten Bedarfes 
+- 
+Deckung des Bedarfes an Pflichtlehrgängen 
+- 
+Optimale Ressourcenauslastung durch Lehrgangsorganisation 
+Abbildung 4: Balanced Scorecad angepasst für das NSM aus Thom und Ritz (2017, S. 185)
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+14 
+können, um somit beispielsweise ungenutzte Lehrsäle für Tagesseminare anbie-
+ten zu können. Ebenso ergibt sich aus der Kenntnis von nicht ausgelasteten Lehr-
+gängen ein Indikator zur Überprüfung von Inhalt oder Angebot. 
+Zwischen den Perspektiven „Wirkungsorientierung und Anspruchsgruppen“ so-
+wie „Lernen und Entwicklung“ lassen sich beispielsweise Kennzahlen zur Erhö-
+hung der Attraktivität der Einrichtung oder des Qualifikationsangebotes, zur in-
+haltlichen Entwicklung des Angebotes sowie zu den Kundenwünschen ableiten. 
+Für die Betrachtung einer Balanced Scorecard im Zusammenhang mit dem Con-
+trolling einer Feuerwehrschule, hat die Perspektive „Wirkungsorientierung und 
+Anspruchsgruppen“ mindestens zwei als „Kunden“ zu bezeichnende Parteien. 
+Zum einen sind dies die Teilnehmer selbst, zum anderen die entsendenden 
+Dienststellen. 
+Für die Wechselwirkung der Perspektiven „Wirkungsorientierung und Anspruchs-
+gruppen“ sowie „Wirtschaftlichkeit und Gesetzmäßigkeit“ ergibt sich als Qualitäts-
+kennzahl für die entsendende Dienststelle als Kunde die Frage nach der Nach-
+haltigkeit der Qualifikation. Die Fragestellung, welchen Nutzen die entsendende 
+Dienststelle durch die Qualifikationsmaßnahme hatte bzw. wie sich die Qualifika-
+tion auf die Prozesse der Dienststelle ausgewirkt haben, lässt sich beispielsweise 
+durch eine Evaluation der Kundenzufriedenheit nach n-Jahren abbilden. 
+3.2 Teilnehmer-Service 
+Die Resultate der begleitend zu dieser Arbeit geführten Gespräche zeigten über-
+wiegend auf, dass die jährlichen Bedarfsmeldungen die dafür bereitgestellten 
+Ressourcen der einzelnen Schulstandorte übersteigen. Damit ist offensichtlich, 
+Kennzahlen mit Bezug zwischen den Perspektiven „Lernen und Entwicklung“ 
+sowie „Interne Verwaltungsprozesse“ 
+- 
+Auslastung Lehrsäle, 
+- 
+Auslastung Gästezimmer (freie Zimmer und ggf. DZ als EZ- Nutzung), 
+- 
+Anzahl und Art nicht ausgelasteter Lehrgänge 
+Kennzahlen mit Bezug zwischen den Perspektiven „Wirkungsorientierung und 
+Anspruchsgruppen“ sowie „Lernen und Entwicklung“ 
+- 
+Attraktivität der Einrichtung und des Qualifikationsangebotes 
+- 
+Inhaltliche Entwicklung des Angebotes 
+- 
+Berücksichtigung von Kundenwünschen 
+Kennzahl mit Bezug zwischen den Perspektiven „Wirkungsorientierung und 
+Anspruchsgruppen“ sowie „Wirtschaftlichkeit und Gesetzmäßigkeit“ 
+- 
+Kundenzufriedenheit nach n-Jahren 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+15 
+dass derzeitig ein bedarfsdeckendes Angebot operativ nicht gewährleistet wer-
+den kann. 
+Diese Diskrepanz zwischen Angebot und Nachfrage besteht belegbar seit meh-
+reren Jahren. Die Höhe der scheinbaren Unterdeckung bleibt jedoch relativ kon-
+stant. Sofern die Gründe für diese Differenz nicht untersucht werden, besteht die 
+Gefahr, dass bei einer tatsächlichen Bedarfserhöhung ein Ausbildungsrückstau 
+entsteht, dem dann nur mit hohem Ressourceneinsatz entgegnet werden kann. 
+Zur Realisierung eines effektiven Teilnehmer-Service ist es daher erforderlich, 
+eine „Marktübersicht“ zu erstellen, die eine Prognose über die zu erwartenden 
+Bedarfe liefert. Um die gewünschten Steuerungspotentiale freizusetzen, muss 
+ein korrespondierendes System zwischen Berichtswesen, operativem sowie stra-
+tegischem Controlling geschaffen werden. 
+3.2.1 Strategisches Controlling 
+Um das Controlling als strategisches Steuerungsinstrument einsetzen zu kön-
+nen, ist es erforderlich, die künftigen Ausbildungsbedarfe zu prognostizieren. Die 
+zu betrachtende Periode sollte auch im Hinblick auf die Finanzplanung mögliche 
+Entwicklungen der kommenden 5-10 Jahre umfassen. Im Ausarbeitungszeitraum 
+dieser Facharbeit konnten im Rahmen von Gesprächen zwei theoretische Her-
+angehensweisen zur Bedarfsprognose diskutiert werden. 
+In Freistaat Bayern wird demnach ein Ansatz der Hochrechnung verfolgt. Zur Er-
+mittlung des Ausbildungsbedarfes von Gruppenführerlehrgängen wurden bei-
+spielsweise die Anzahl der Gruppen- und Staffelfahrzeuge mit der vorzuhalten-
+den Mindeststärke (Personalfaktor vgl. § 4 AVBayFwG) für Freiwillige Feuerweh-
+ren multipliziert. 
+Parallel dazu erfolgte eine statistische Auswertung der Verweildauer in der Funk-
+tion des Gruppenführers, die im Freistaat Bayern mit 11 Jahren ermittelt wurde. 
+Der Quotient aus der ermittelten Mindeststärke und der Verweildauer ergibt so 
+den jährlichen Bedarf an Ausbildungsplätzen für Gruppenführer. Der so ermittelte 
+Bedarf deckte sich nach den Erfahrungen in Bayern, abgesehen von statistischen 
+Abweichungen, nahezu mit den Bedarfsmeldungen. 
+Operatives 
+Controlling
+Berichtswesen
+Strategisches 
+Controlling
+Abbildung 5: Lernendes Controllingsystem 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+16 
+Mit dem Kollegen des IBK Heyrothsberge wurde die Systematik der Bedarfser-
+mittlung über die Gefahrenabwehrbedarfspläne der einzelnen Kommunen disku-
+tiert. Aus einem Soll/Ist-Abgleich in den Feuerwehren sowie der Berücksichtigung 
+einer angestrebten Bedarfsentwicklung aus den Gefahrenabwehrbedarfsplänen, 
+würde sich ein konkret definierter Lehrgangsbedarf ableiten lassen. 
+Beide Ansätze liefern konkrete Planungswerte, die den politischen Entschei-
+dungsgremien als Grundlage für die Bewilligung vorgelegter Schulentwicklungs-
+planungen dienen können. Die Validität dieser Werte kann durch einen turnus-
+mäßigen Abgleich der Kennzahlen aus dem operativen Bereich erhöht, und somit 
+eine Ressourcenanpassung, die Schul-, Unterbringungs- und Versorgungskapa-
+zität betreffen, langfristig gerechtfertigt werden. 
+Das strategische Controlling kann in diesem Zusammenhang jedoch nicht nur für 
+die quantitative Schulentwicklung herangezogen werden, sondern auch für die 
+qualitative Ausrichtung und Steuerung des Lehrgangs- und Ressourcenangebo-
+tes. Mit einem für die Bildungseinrichtung individuell zusammengestellten Be-
+richtswesen lassen sich, in einem vorab zu definierenden Zeitintervall, Rück-
+schlüsse auf Anpassungsbedürfnisse ableiten. Die Kennzahlen hierfür generie-
+ren sich u.a. aus mehreren Berichtszeiträumen des operativen Controllings. 
+3.2.2 Operatives Controlling 
+Der operative Bereich des Teilnehmer-Service beschäftigt sich mit der „Bewirt-
+schaftung“ der vorhandenen Ressourcen. Die Aspekte der Unterbringung und 
+Versorgung gehören zwar nach ihrer Einordnung in der Prozesslandkarte zu den 
+Unterstützungsprozessen, stellen aber kapazitätsseitig häufig eine angebotsbe-
+grenzende Größe dar. 
+Die für die Platzvergabe zu betrachtende Periode ist i.d.R. das kommende Lehr-
+gangsjahr. In Abhängigkeit von den zu durchlaufenden Hierarchieebenen zwi-
+schen der Schule und dem Kunden erfolgt der Prozess der Bedarfsermittlung 
+teilweise bereits im ersten Quartal des vorhergehenden Jahres. 
+Ermittlung über Gefahrenabwehrbedarfsplanung 
+- 
+Soll/Ist- Abgleich aus Gefahrenabwehrbedarfsplanung, 
+- 
+Berücksichtigung der individuellen Bedarfsentwicklung, 
+- 
+Meldung des konkreten Bedarfes für Folgezeiträume 
+Hochrechnung nach Beispiel Freistaat Bayern 
+- 
+Ermittlung von Produkt aus Funktionsbesetzung und vorzuhaltender 
+Mindeststärke 
+- 
+Statistische Ermittlung der Verweildauer in der Funktion 
+- 
+Quotient ergibt jährlichen Ausbildungsbedarf je Funktion 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+17 
+Aus den geführten Gesprächen zur Anfertigung dieser Ausarbeitung haben sich 
+im Wesentlichen vier gängige Systematiken der Platzvergabe herauskristallisiert, 
+die nachfolgend mit ihren Vor- und Nachteilen kurz erläutert werden. 
+ 
+ 
+Kontingentvergabe 
+Bedarfsabfrage und Vergabe der Teilnehmerplätze anhand von Quoten und 
+Kontingenten durch die Kaskade der Hierarchieebenen. 
+Vorteile:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nachteile: 
+Dienstweg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+kein Rückschluss auf Teilnehmer 
+Kontrolle durch Hierarchieebenen 
+schlechte Planbarkeit für Teilnehmer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Meldung von „Überbedarf“ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+realer Bedarf oft nicht bekannt 
+Freie Vergabe (first come – first serve) 
+Teilnehmerplätze werden anhand vorhandener Ressourcen frei zur Verfügung 
+gestellt, Kunden können bis zum Erreichen der Kapazität buchen. 
+Vorteile:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nachteile: 
+Kunde kann frei buchen 
+ 
+ 
+ 
+realer Bedarf nicht planbar 
+gute Ressourcenauslastung  
+ 
+ggf. Nichterfüllung gesetzl. Aufgaben, 
+Kunde kann ggf. Termin planen  
+da keine Steuerung der Buchungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nur Information der Hierarchieebenen 
+Terminvergabe für Teilnehmer 
+Bedarfsabfrage verläuft über Kaskade der Hierarchieebenen, Zuteilung von 
+Termintickets über die Kaskade der Hierarchieebenen erfolgt durch die 
+Schule. Verteilung der Tickets und Anmeldung erfolgt dann auf Kundenebene. 
+Vorteile:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nachteile: 
+Angebot gem. Nachfrage  
+ 
+ 
+Keine Information über tatsächliche 
+Kunde kann Teilnahme planen 
+ 
+Deckung des realen Bedarfes planbar 
+Hierarchieebenen werden  
+ 
+ 
+Anmeldung für Folgejahr nicht 
+durchlaufen  
+ 
+ 
+ 
+ 
+ 
+ 
+übertragbar 
+Rückschluss auf Teilnehmer 
+(Landesfeuerwehrschule Baden-Württemberg, 2018) 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+18 
+Grundsätzlich sind zunächst alle Systematiken zur Vergabe von Lehrgangsplät-
+zen geeignet. Wie jedoch eingangs unter 3.2 beschrieben, stellt sich die Situation 
+an den Feuerwehrschulen so dar, dass die Nachfrage an Teilnehmerplätzen das 
+mit den vorhandenen Ressourcen darstellbare Ausbildungsangebot zumeist 
+übersteigt. 
+Häufige Praxis ist daher die Bildung von Ausbildungskontingenten, deren Größe 
+der Verteilungsschlüssel nach Abschluss der Bedarfsermittlung zumeist durch 
+Schulbeiräte oder Landesgremien festgelegt werden. Die Kontingentgrößen be-
+stimmen sich beispielsweise anhand der Einwohnerzahl, der Größe und Anzahl 
+der Feuerwehren sowie den Gefahren oder der Fläche der zu begünstigen Ge-
+bietskörperschaften. Eine konkrete Zuteilung der Kontingente an die Feuerweh-
+ren erfolgt vielfach durch die jeweils übergeordneten Behörden. Eine bedarfsge-
+rechte Kontingentverteilung erfolgt dann jedoch nicht zwingend anhand realer 
+Nachfragen oder Bedürfnisse durch die Schulen, sondern kann erst in den nach-
+geordneten Instanzen stattfinden. 
+Neben der Zielstellung ein bedarfsdeckendes Lehrangebot anzubieten, ist es zur 
+Implementierung eines Controllings im Sinne des NSM (vgl. Punkt 2.1) jedoch, 
+u.a. erforderlich die Kundenzufriedenheit (Adressatenzufriedenheit) stärker zu 
+berücksichtigen. Verfolgt man den Ansatz des korrespondierenden Systems des 
+Teilnehmer-Service (vgl. Punkt 3.2), so müssen, bis zur strategischen Ressour-
+cenanpassung die vorhandenen Kapazitäten bestmöglich eingesetzt werden. Für 
+die Akzeptanz des Verteilungssystems bedarf es daher, neben der Kenntnis der 
+qualitativen und quantitativen Qualifizierungsbedarfe, auf Seiten der Schulen 
+auch die Transparenz der Vergabekriterien für die Kundenseite. 
+Gegenwärtig erfolgt in einigen Bundesländern die Einführung von zentralen und 
+webbasierten Mitgliederverwaltungssystemen für den Bereich des Brand- und 
+Personalisierte Bedarfsmeldung und Platzvergabe 
+Bedarfsmeldung erfolgt unmittelbar an Schule. Teilnehmerplatz wird nach er-
+folgter Planung per Ticketsystem an Teilnehmer zugewiesen. Terminwahl 
+nach Lehrgangsangebot. 
+Vorteile:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nachteile: 
+Rückschluss auf Teilnehmer  
+ 
+nur Information der Hierarchieebenen 
+optimale Ressourcenplanung  
+ 
+ggf. Wartezeit für Kommunen 
+Priorisierung der Platzvergabe 
+ 
+niedrigerer Priorisierungen 
+z.B. Anhand Bewertungszahl 
+der Gebietskörperschaft 
+Platzgarantie im Folgejahr 
+bei erneuter Anmeldung 
+(Feuerwehr- und Katastrophenschutzschule Rheinland-Pfalz) 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+19 
+Katastrophenschutzes. Ferner werden, soweit nicht bereits geschehen, an eini-
+gen Feuerwehrschulen webbasierte Teilnehmer-Verwaltungssysteme mit digita-
+lem Ticketsystem implementiert. Im Idealfall sind beide Funktionen in einem Sys-
+tem vereint oder sind kompatibel zueinander. – Die datenschutzrechtliche Kon-
+formität wird an dieser Stelle unterstellt. 
+Im Kern kommen bei diesen Programmlösungen die Systeme der „Termin-
+vergabe für Teilnehmer“, die „personalisierte Bedarfsermittlung und Platz-
+vergabe“ oder Mischformen zum Einsatz. Beide Systeme unterscheiden sich da-
+bei aktuell im Wesentlichen in ihrer Autonomie der Bedarfsmeldungen und dem 
+Zeitpunkt der personalisierten Teilnehmeranmeldung voneinander. Spätestens 
+nach der Verteilung der Lehrgangskontingente durch die übergeordneten Instan-
+zen erfolgt die Teilnehmeranmeldung über ein webbasiertes Ticketsystem, so 
+dass ein direkter Dialog zwischen Schule und dem Teilnehmer stattfinden kann. 
+Die klassischen Schulkennzahlen (vgl. Beispielübersicht Schulkennzahlen) an 
+sich bleiben von diesen Verwaltungssystemen zwar zunächst unberührt, da 
+diese, wie bereits beschrieben von den vorhandenen Schulressourcen abhängig 
+sind. Jedoch besteht durch den direkten Dialog mit dem Teilnehmer die Möglich-
+keit eine bessere Ressourcenauslastung zu erzielen und so ggf. die Kennzahlen 
+der Bedarfsdeckung zu erhöhen. 
+Eine verbesserte Ressourcenauslastung kann beispielsweise durch eine erwei-
+terte Abfrage im Rahmen der Online-Buchung eines Lehrgangsplatzes erfolgen. 
+Dadurch ist es möglich Informationen darüber zu erhalten, wie hoch ggf. der An-
+teil an Heimschläfern unter den Lehrgangsteilnehmern ist und welche Art und 
+Umfang der Versorgung gewünscht ist. Diese Dienstleistungen erfolgen zwar 
+zum Teil bereits parallel zur Lehrgangsrückmeldung, lassen sich auf diesem 
+Wege aber automatisiert abfragen und darstellen und ermöglichen so eine 
+frühere Planung freier Ressourcen. 
+Die Systeme arbeiten mit einem webbasierten Ticketsystem, bei dem sich der 
+Teilnehmer selbst über eine Webanwendung für das jeweilige Lehrangebot ein-
+buchen kann. Ist eine Inanspruchnahme des Lehrangebotes nicht möglich, so 
+kann eine Weitergabe in der Feuerwehr oder eine Rückgabe an die Schule erfol-
+gen. 
+Ebenso ist es möglich, durch Verwendung dieser Systeme eine effektive Rest-
+platzvergabe abzubilden, bei der zurückgegebene Lehrgangsplätze im System 
+freigemeldet werden und Kommunen, welche im Rahmen der Kontingentvergabe 
+nicht oder nicht im angemeldeten Umfang berücksichtigt werden konnten, ihre 
+Bedarfe ggf. kurzfristig realisieren können. 
+Zur Anwendung derartiger Systeme ist es allerdings auch erforderlich, die ent-
+sprechenden verfahrensrechtlichen Regelungen, einschließlich möglicher Sank-
+tionierungen, zur Platzvergabe anzupassen. Die Gewähr für die Erfüllung der ge-
+forderten Mindestqualifikationen der Teilnehmer sowie die Freimeldung zugewie-
+sener und nicht nutzbarer Lehrgangskapazitäten hat in dem Fall die entsendende 
+Dienststelle zu tragen. Durch die Personalisierung der Lehrgangskapazitäten und 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+20 
+die Verkürzung der Kommunikationswege besteht ggf. die Möglichkeit, Fehlmel-
+dungen zu reduzieren und die Bedarfsmeldung an den tatsächlichen Bedarf her-
+anzuführen. 
+Inwieweit sich die Synergien dieser Systeme realisieren lassen wird in einer wei-
+teren mittel- und langfristigen Betrachtung gesondert zu untersuchen sein. 
+3.2.3 Berichtswesen 
+Ein Berichtswesen hat, in diesem Fall bezogen auf den Teilnehmer-Service, die 
+Aufgabe der Bündelung und Bereitstellung von Informationen, die steuerungsre-
+levant für den Betrieb einer Feuerwehrschule sind. Diese Informationen lassen 
+sich, wie in den vorangegangenen Punkten dargestellt, aus den Kennzahlen des 
+operativen und strategischen Controlling ableiten und müssen miteinander in 
+Korrespondenz stehen. 
+Zur Steuerung der Prozesse und Produkte, sind im Vorfeld entsprechende Pro-
+zess- und Produktbeschreibungen zu erstellen, aus denen Zielvorgaben bzw. 
+Zielerreichungsgrade abzuleiten und in einem Berichtswesen darstellbar sind. 
+Ebenso müssen neben den Zielgrößen auch Informationen zur Regelmäßigkeit 
+der Berichterstattung definiert sein. Die zu erreichenden Meilensteine für die Er-
+stellung einer solchen Prozessbeschreibung sind beispielhaft in Anhang 2 für die 
+Beispielübersicht Schulkennzahlen 
+Platzvergabe: 
+für die Ausbildung nutzbare Kalendertage- und Wochen (ggf. begrenzt durch 
+Feiertag); daraus ableitbar: mögliche Anzahl an Ausbildungs- und Schülerta-
+gen 
+Leistungsvermögen des Lehrpersonals in Unterrichtseinheiten (UE), gestaffelt 
+nach Bedarf je Lehrgang/Lehrgangsart 
+Kapazitäten der Lehrsäle, Technik und Infrastruktur 
+Unterbringung: 
+Kapazitäten für Lehrveranstaltungen mit Mindest- und Maximalteilnehmerzah-
+len in Abhängigkeit von der Lehrmethode 
+Übernachtungskapazitäten 
+Umkleidemöglichkeiten und Sanitäre Einrichtungen für Heimschläfer 
+Versorgung: 
+Leistungsfähigkeit der Kantine (ggf. gestaffelte Mahlzeiten) 
+ggf. Flexibilität externer Dienstleister 
+Verfügbarkeit finanzieller Ressourcen (z.B. Wasser, Strom, Heizung, etc.) 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+21 
+Beschreibung der zu erreichenden Meilensteine eines Schulungsprozesses der 
+Branddirektion München zu entnehmen. 
+Für die Darstellung der Kennzahlen im Berichtswesen bietet sich, wie unter Punkt 
+2.4 beschrieben, die Wahl eines Ampelsystems an. Die einzelnen Ampelfarben 
+sind durch Führungsentscheidung mit entsprechenden „Schwellenwerten“ zu hin-
+terlegen, welche einen Rückschluss auf die zu steuernden Bereiche ermöglichen. 
+In Anhang 3 ist diese Systematik beispielhaft für die Qualitätskriterien der Feuer-
+wehr- und Rettungsdienstschule der Branddirektion München dargestellt. 
+Das Berichtswesen für den operativen Bereich muss die Kennzahlen und den 
+Ressourcenverbrauch für die aktuelle Bewirtschaftungsperiode abbilden können. 
+Es ist so auszugestalten, dass sowohl eine qualitative Übersicht über jedes Pro-
+dukt, als auch ein Gesamtüberblick über die Schulauslastung gewährleistet ist 
+(vgl. Anhänge 4, 5, 6). Die nachfolgend aufgeführten Angaben sollten einem Be-
+richtswesen des operativen Controllings mindestens zu entnehmen sein: 
+Im Hinblick auf die strategische Ausrichtung ist ein Berichtswesen, wie unter 
+Punkt 2.4 beschrieben, so aufzubauen, dass nicht nur die Leitungsebene der 
+Schule, sondern auch übergeordnete Stellen und die politischen Mandatsträger 
+einen Überblick über die Erfüllung der gesetzlichen und politischen Ziele gewin-
+nen können. 
+Neben einer Darstellung der operativen Kennzahlen im Vergleich zu den voran-
+gegangenen Perioden und der Validierung von prognostizierten Bedarfszahlen, 
+sollte ein strategisches Berichtswesen auch Verknüpfungen zu statischen Wer-
+ten der Landesentwicklung herstellen. 
+Zu berücksichtigende Indikatoren für die Veränderung von Bedarfen können bei-
+spielsweise die Bevölkerungsentwicklung, die Demografie, die Strukturentwick-
+lung, die Schaffung von Potentialen für die großflächige Ansiedelung von Indust-
+riebetrieben sowie die Durchführung von weitreichenden Infrastrukturmaßnah-
+men sein. 
+Im Berichtswesen des operativen Controlling darzustellende Angaben: 
+- 
+Lehrgangsauslastung, 
+- 
+Bedarfsdeckung, 
+- 
+Quote der erfolgreichen Lehrgangsteilnahme, 
+- 
+Ressourceneinhaltung, 
+- 
+Kundenzufriedenheit, 
+- 
+… 
+Periode der Berichterstellung: 
+- 
+monatlich, quartalsweise, halbjährlich, jährlich, nach Bedarf 
+
+Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule 
+22 
+Sowohl für die operativen, als auch für die strategischen Kennzahlen sollte das 
+Berichtswesen regelmäßig hinsichtlich seiner Aussagekraft überprüft und ggf. an-
+gepasst werden, da Veränderungen in den Referenzgrößen die Aussagekraft 
+dieser Systeme stark beeinflussen können. 
+ 
+Im Berichtswesen des strategischen Controlling darzustellende Angaben: 
+- 
+Lehrgangsauslastung, 
+- 
+Bedarfsdeckung, 
+- 
+Validität der prognostizierten Bedarfe, 
+- 
+langfristige Ressourceneinhaltung, 
+- 
+langfristige Kundenzufriedenheit (Evaluation nach n-Jahren, 
+- 
+Berücksichtigung weiterer Einflussfaktoren, 
+- 
+… 
+Periode der Berichterstellung: 
+- 
+halbjährlich, jährlich, nach Bedarf 
+
+Zusammenfassung und Ausblick 
+23 
+4 
+Zusammenfassung und Ausblick 
+Die Realisierung eines bedarfsdeckenden Ausbildungsangebotes gehört zu den 
+Hauptzielen von staatlichen Feuerwehrschulen. Dazu bedarf es neben der inhalt-
+lichen Entwicklung von Ausbildungsveranstaltungen vor allem auch der Bedarfs-
+ermittlung, der Lehrplanerstellung und Abstimmung sowie der Vergabe von Lehr-
+gangsplätzen im Rahmen des Teilnehmer-Service. Insbesondere bei der Platz-
+vergabe besteht häufig die Schwierigkeit der bedarfsangemessen Zuteilung, da 
+die Nachfrage das Lehrgangsangebot häufig überteigt. 
+Mit den in dieser Ausarbeitung dargestellten operativen und strategischen Con-
+trolling-Ansätzen der neuen Steuerungsmodelle lassen sich die Aspekte des Teil-
+nehmer-Service an staatlichen Feuerwehrschulen in Form einer Prozess- und 
+Produktstruktur abbilden und steuern. Durch die Einordnung und Betrachtung der 
+Prozesse in einer Balanced Scorecard lassen sich Wechselwirkungen mit ande-
+ren zu berücksichtigenden Perspektiven identifizieren. Durch eine ausgewogene 
+Zielbetrachtung- und gewichtung der einzelnen Perspektiven, ist es möglich, 
+diese miteinander zu verknüpfen und ein ausgewogenes Zielsystem zu erstellen. 
+Aus der Balanced Scorecad, die ein mögliches Zielsystem abbildet, lassen sich 
+für die operative und strategische Steuerung des Teilnehmer-Service Kennzah-
+len ableiten und in einem geeigneten Berichtswesen hinsichtlich ihrer Realisie-
+rung überprüfen. Durch eine regelmäßige Auswertung des Berichtswesens kön-
+nen sowohl die Kennzahlenerfüllung, die Kennzahlenabweichung sowie prognos-
+tizierte Entwicklungen aussagekräftig visualisiert werden und den Leitungsgre-
+mien im Prozess der Entscheidungsfindung unterstützend zu Verfügung gestellt 
+werden. 
+Entscheidend für den Erfolg der Einführung derartiger Steuerungssysteme ist es 
+jedoch, dass ein Controlling als Denkhaltung durch die am Prozess beteiligen 
+Akteure verinnerlicht und umgesetzt und nicht als Kontrolle verstanden wird. Erst 
+dadurch ist es möglich, die eigenen Prozesse und Prozessabläufe regelmäßig 
+kritisch zu hinterfragen und zu einen kontinuierlichen Verbesserungsprozess bei-
+zutragen, der letztendlich den Fortbestand einer lernenden Organisation sichern 
+kann. 
+Ausblickend sollte die Weiterentwicklung und Einführung dieser Management-
+Systeme auch in den Bereichen von Feuerwehrschulen vorangetrieben werden. 
+Nach der Realisierung eines bedarfsdeckenden Lehrgangsangebotes könnte 
+beispielsweise die Evaluierung des Kundennutzens der Qualifikationsmaßnahme 
+vorangetrieben werden und ggf. Indikatoren für die qualitative Verbesserung her-
+vorbringen. Darüber hinaus könnte die Rezertifizierung von Qualifikationen dis-
+kutiert werden, da insbesondere in Zeiten eines technischen und gesellschaftli-
+chen Wandels bislang keine umfänglichen Maßnahmen zum qualitätssichernden 
+Kompetenzerhalt bekannt sind, die über den üblichen jährlichen Ausbildungsauf-
+wand hinausgehen. 
+ 
+
+Literatur 
+24 
+5 
+Literatur 
+BRÜGGEMEIER, M., 1998. Controlling in der Öffentlichen Verwaltung. 3. Auf-
+lage. München: Mering. 
+BUDÄUS, D., 1998. Von der bürokratischen Steuerung zum New Public Ma-
+nagement – Eine Einführung. In: Budäus, D; Conrad, P; Schreyögg, G (Hrsg) 
+New public management. Berlin: de Gruyter. 
+BUDÄUS, D., 1999. Neues öffentliches Rechnungswesen – Notwendigkeiten, 
+Probleme und Perspektiven. In: Budäus, D; Gronbach,P (Hrsg) Umsetzung 
+neuer Rechnungs- und Informationssysteme in innovativen Verwaltungen. 1. 
+Norddeutsche Fachtagung zum New Public Management. Freiburg: Haufe. 
+BUDÄUS, D., 2012. Controlling in öffentlichen Verwaltungen auf der Grundlage 
+des neuen Haushalts- und Rechnungswesens, Stuttgart: Seminarunterlagen. 
+http://www.dietrich-budaeus.de/dokumente/Verwaltungscontrol-
+ling%20Teil%20I%20-%20Seminarunter-lagen%20Stuttgart%2021.%20Sep-
+tember%202012.pdf. Zugegriffen: 15. Jan. 2018 [online]. 
+BÜRSCH, M., 1996. Die Modernisierung der deutschen Landesverwaltungen: 
+zum Stand der Verwaltungsreform in den 16 Ländern. Bonn: Friedrich-Ebert-
+Stiftung. 
+BUSCH, V., 2004. Wettbewerbsbezogene Controllinginstrumente im Rahmen 
+des New Public Management. Vahlen, München. 
+BUSCHOR, E., 1993. Zwanzig Jahre Haushaltsreform – eine verwaltungswis-
+senschaftliche Bilanz. In: Brede H, Buschor E (Hrsg) Das neue Öffentliche 
+Rechnungswesen, Betriebswirtschaftliche Beiträge zur Haushaltsreform in 
+Deutschland, Österreich und der Schweiz. Baden-Baden: Nomos. 
+DECKERT, R., 2006. Steuerung von Verwaltungen über Ziele, Konzeptionelle 
+Grundlagen unter besonderer Berücksichtigung des Neuen Steuerungsmodells. 
+Diss., Hamburg. http://ediss.sub.uni-hamburg.de/voll-
+texte/2006/2789/pdf/DISSRD.pdf. Zugegriffen: 12.Jan.2018 [online]. 
+DEUTSCHES PATENT- UND MARKENAMT, 2005. Deutsches Patent- und 
+Markenamt Jahresbericht 2004. München. 
+DIN Deutsches Institut für Normung e.V. DIN EN ISO 9001:2015-11:2015, Qua-
+litätsmanagementsysteme - Anforderungen (ISO 9001:2015). Berlin: Beuth Ver-
+lag. 
+DIN Deutsches Institut für Normung e.V. DIN ISO 29990:2010-12:2010, Lern-
+dienstleistungen für die Aus- und Weiterbildung - Grundlegende Anforderungen 
+an Dienstleister (ISO 29990:2010). Berlin: Beuth Verlag. 
+DINCHER, R., H. MÜLLER-GODEFFROY, M. SCHARPF und T. SCHUPPAN, 
+2017. Einführung in die Betriebswirtschaftslehre für die Verwaltung. 4. Auflage. 
+Neuhofen: Forschungsstelle f. Betriebsführung u. Personalmanagement e. V. 
+
+Literatur 
+25 
+EISENHAUER, K.D., 2017. Veranstaltungsmanagement an den zentralen Aus-
+bildungseinrichtungen der nichtpolizeilichen Gefahrenabwehr im Zeitalter der 
+Digitalisierung. Facharbeit. 
+FRIEDAG, H.R. und W. SCHMIDT, 2015. Balanced Scorecard. 5. Auflage. Frei-
+burg: Haufe. 
+GERLICH, P., 1999. Controlling von Bildung, Evaluation oder Bildungs-Control-
+ling? Überblick, Anwendung und Implikation einer Aufwand-Nutzen-Betrachtung 
+von Bildung unter besonderer Berücksichtigung wirtschafts- und sozialpsycholo-
+gischer Aspekte am Beispiel akademischer Nachwuchskräfte in Banken. Mün-
+chen und Mehring: Rainer Hampp Verlag. ISBN 3-87988-369-6. 
+HORVÁTH & PARTNERS, 2004. Balanced Scorecard umsetzen. 3. Auflage. 
+Stuttgart: Schäffer-Poeschel. 
+JOSSÉ, G., 2005. Balanced Scorecard. Ziele und Strategien messbar umset-
+zen. 16. Auflage. München: Beck/DTV. 
+KAPLAN, R.S. und D.P. NORTON, 1997. Balanced Scorecard. Strategien er-
+folgreich umsetzen. Stuttgart: Schäffer-Poeschel. 
+KGST, 1993. Das neue Steuerungsmodell – Begründung, Konturen, Umset-
+zung. KGSt-Bericht 5/1993. Köln: KGSt. 
+KIESER, A. und P. WALGENBACH, 2016. Organisation. 6. Auflage. Stuttgart: 
+Schäffer-Poeschel. 
+KREMS, B., 2010. Kommentierte Quellenhinweise zu Public Management 
+(Stand: 2010-02-28). Beitrag in Verwaltungsmanagement.info. http://www.ver-
+waltungsmanagement.info/allgemein/quellen.htm. Zugegriffen: 12. Jan. 2018 
+[online]. 
+KREMS, B., 2014. New Public Management / Neues Steuerungsmodell / Wir-
+kungsorientierte Verwaltungsführung [online]. 10. November 2018 [Zugriff am: 
+7. Dezember 2018]. Verfügbar unter: http://www.olev.de/n/nsm.htm 
+KRÜGER, U., 2017. Betriebswirtschaftslehre für öffentliche Verwaltung. Grund-
+studium HS Bund. Brühl. 
+LACHNIT, L. und S. MÜLLER, 2012. Unternehmenscontrolling. Management-
+unterstützung bei Erfolgs-, Finanz-, Risiko- und Erfolgspotentialsteuerung. 2., 
+überarbeitete. Wiesbaden: Springer Fachmedien Wiesbaden. ISBN 978-3-
+8349-3141-2. 
+LAMERS, A., 2018. Public Management. Betriebswirtschatslehre der öffentli-
+chen Verwaltung - kompakt, prüfungsorientiert, leicht verständlich. 8., überar-
+beitete Auflage. Wiesbaden: Springer Fachmedien Wiesbaden GmbH. 
+LINGNAU, V., 1999. Geschichte des Controllings. In: Lingenfelder, M. (Hrsg.): 
+100 Jahre   Betriebswirtschaftslehre in Deutschland. 
+MEFFERT, H., C. BURMANN und M. KIRCHGEORG, 2012. Marketing, Grund-
+lagen marktorientierter Unternehensführung. 11. Auflage. Wiesbaden: Springer 
+Gabler. 
+
+Literatur 
+26 
+MEIXNER, H.E., 1995. Bausteine neuer Steuerungsmodelle. Bornheim-Rois-
+dorf: Hanseatischer Fachverl. f. Wirtschaft. 
+MUNDHENKE, E., 1996. New Public Management, Ergänzung zum Arbeits-
+buch Public Management. Brühl. 
+MUNDHENKE, E., 2003. Controlling/KLR in der Bundesverwaltung, Was man 
+dazu wissen sollte. 5. Auflage. Brühl: FH Bund. 
+OLFERT, K. und H.-J. RAHN, 2013. Einführung in die Betriebswirtschaftslehre 
+Kompendium. 11. Auflage. Herne: Kiehl. 
+REINERMANN, H., 1996. Verwaltung der Zukunft, was sage die Wissenschaft? 
+In: Fischer W, Mundhenke E (Hrsg) New Public Management, Mehr Effektivität 
+und Effizienz in der Bundesverwaltung. Brühl: FH Bund. 
+REINERMANN, H., 2000. Neues Politik- und Verwaltungsmanagement: Leitbild 
+und theoretische Grundlagen, DHfV, Speyer. http://www.uni-speyer.de/fi-
+les/de/Lehrst%C3%BChle/ehe -malige%20Lehrstuhlinhaber/Reiner-
+mann/spah130.pdf. Zugegriffen: 24. Jan. 2018 [online]. 
+SANDER, C., 2010. Das Neue Steuerungsmodell - Eine Evaluation der Verwal-
+tungsmodernisierung in der Stadt Kaarst [online]. Verfügbar unter: 
+https://www.uni-trier.de/fileadmin/fb3/POL/Mitarbeiter/Lorig__Wolf-
+gang/TSKR/TSKR_Bd1_Sept2010_Christian_Sander_Das_Neue_Steuerungs-
+modell.pdf 
+SCHERER, A.G. und J. ALT, 2002. Balanced Scorecard in Verwaltung und 
+Non-Profit-Organisationen. Stuttgart: Schäffer-Poeschel. 
+SCHIERENBECK, H. und C.B. WÖHLE, 2016. Grundzüge der Betriebswirt-
+schaftslehre. 19. Auflage. Berlin: de Gruyter/Oldenbourg. 
+STAHN, S., 2016. Qualitätsmanagement und Controlling an Feuerwehrschulen. 
+Facharbeit. 
+STEGER, J., 2013. Controlling: Grundlagen und Instrumente mit Fallbeispielen 
+und Lösungen. München: Oldenbourg. 
+TAUBERGER, A., 2008. Controlling für die öffentliche Verwaltung. München: 
+Oldenbourg. 
+THOM, N. und A. RITZ, 2017. Public Management. Innovative Konzepte zur 
+Führung im öffentlichen Sektor. 5. Auflage. Wiesbaden: Springer Fachmedien 
+Wiesbaden GmbH. ISBN 978-3-658-16212-2. 
+VAHS, D., 2012. Organisation, Ein Lehr- und Managementbuch. 8. Auflage. 
+Stuttgart: Schäffer-Poeschel. 
+WEBER, J. und U. SCHÄFFER, 2016. Einführung in das Controlling. 15. Auf-
+lage. Stuttgart: Schäffer-Poeschel. 
+WÖHE, G., U. DÖRING und G. BRÖSEL, 2016. Einführung in die allgemeine 
+Betriebswirtschaftslehre. 26. Auflage. München: Vahlen Verlag. 
+AVBayFwG – Vorschrift zur Ausführung des Bayerischen Feuerwehrgesetzes 
+
+Anhang 
+27 
+Anhang 
+Anhangsverzeichnis 
+Anhang 1: Übersicht der Gesprächspartner ................................................28 
+Anhang 2: Meilensteine der Prozesserstellung (Muster BF München) .......30 
+Anhang 3: Darstellung „Ampelsystem“ (Muster BF München) ....................31 
+Anhang 4: Vorlage-Lehrgangsauswertung (Quelle BF München) ...............32 
+Anhang 5: Beispielauswertung (Quelle BF München) .................................34 
+Anhang 6: Ausschnitt Lehrgangsübersicht mit Kennzahlenauswertung ......35 
+ 
+ 
+
+Anhang 
+28 
+Anhang 1: Übersicht der Gesprächspartner 
+ 
+Name, Vorname, ggf. 
+Dienstgrad 
+Funktion bzw. ehem. 
+Funktion 
+Dienststelle 
+Rudolph, Heinz, Lt.BD 
+Leiter der LSTE Land 
+Brandenburg 
+Landesschule und 
+Technische Einrichtung 
+für Brand- und Katastro-
+phenschutz des Landes 
+Brandenburg 
+Wohlrab, Jürgen 
+Brandschutzabschnitts-
+leiter; zuvor stellv. 
+Schulleiter SFSG 
+Berufsfeuerwehr 
+München 
+Hötzel, Tobias, BR 
+Unterabschnittsleiter 
+Aus- und Fortbildung 
+Berufsfeuerwehr 
+München 
+Meyer, Andreas 
+Stabsstelle Schulleitung 
+Landesfeuerwehrschule 
+Baden-Württemberg 
+Flügel, Martin 
+Abteilung Planung und 
+Infrastruktur 
+Feuerwehr- und Kata-
+strophenschutzschule 
+Rheinland Pfalz 
+Seidler, Frank 
+Lehrgangskoordinator 
+Feuerwehrakademie 
+Hamburg 
+Hart, Stefan 
+SB Lehrgansverwaltung 
+Bundesanstalt Techni-
+sches Hilfswerk, Ausbil-
+dungszentrum Hoya 
+Geyer, Bernhard 
+Leiter Qualitäts- 
+management 
+Landesfeuerwehr- 
+verband Tirol 
+Tschabuschnig,  
+Klaus, BR 
+Leiter der Landes- 
+feuerwehrschule; zu-
+ständig für Ausbildung 
+und QM-System 
+Kärntner Landes- 
+feuerwehrverband 
+Friebus, Mario, BOR 
+Abteilungsleiter Lehr-
+gangs- und Seminaror-
+ganisation 
+Institut für Brand- und 
+Katastrophenschutz 
+Heyrothsberge 
+Mitarbeiterin 
+Seminarverwaltung 
+Berufs- 
+genossenschaftliche 
+Bildungsstätte Jößnitz 
+Schaffrin, Boris 
+Geschäftsführer (Lehr-
+gangsverwaltungs- 
+programm LEVESO) 
+Simplements GmbH & 
+Co KG 
+
+Anhang 
+29 
+Maiworm, Björn, BD 
+Unterabschnittsleiter 
+VB-Brandschutzprüfung; 
+verantwortlich für die 
+Einführung eines QM-
+Systems im Abschnitt 
+VB 
+Berufsfeuerwehr 
+München 
+Witt, Alexandra 
+Verwaltungsreferentin, 
+Qualitätsmanagement-
+koordinatorin 
+Arbeitnehmer-Zentrum 
+Königswinter 
+Lidl, Carsten, BD 
+Referent Fachliche  
+Angelegenheiten der 
+Feuerwehren und des 
+Katastrophenschutzes; 
+Vorbeugender Brand-
+schutz; IuK-Wesen 
+Bayerisches Staatsmi-
+nisterium des Innern 
+und für Integration 
+Prof. 
+Dr. 
+Dollhausen, 
+Karin 
+Abteilungsleiterin 
+Deutsches Institut für  
+Erwachsenenbildung 
+Leibniz-Zentrum für  
+Lebenslanges Lernen 
+e.V. 
+Siemers, Michael 
+Aufstiegsbeamter 
+Berufsfeuerwehr 
+Bremen 
+ 
+ 
+
+Anhang 
+30 
+Anhang 2: Meilensteine der Prozesserstellung (Muster BF München) 
+ 
+ 
+
+Anhang 
+31 
+Anhang 3: Darstellung „Ampelsystem“ (Muster BF München) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Anhang 
+32 
+Anhang 4: Vorlage-Lehrgangsauswertung (Quelle BF München) 
+ 
+ 
+ 
+ 
+
+Anhang 
+33 
+ 
+ 
+ 
+ 
+
+Anhang 
+34 
+Anhang 5: Beispielauswertung (Quelle BF München) 
+ 
+ 
+ 
+ 
+
+Anhang 
+35 
+Anhang 6: Ausschnitt Lehrgangsübersicht mit Kennzahlenauswertung 
+ 
+ 
+
+Ehrenwörtliche Erklärung 
+36 
+Ehrenwörtliche Erklärung 
+Hiermit erkläre ich, dass ich die vorliegende Facharbeit selbständig angefertigt 
+habe. Es wurden nur die in der Arbeit ausdrücklich benannten Quellen und Hilfs-
+mittel benutzt. Wörtlich oder sinngemäß übernommenes Gedankengut habe ich 
+als solches kenntlich gemacht. Diese Arbeit hat in gleicher oder ähnlicher Form 
+ganz oder teilweise noch keiner Prüfungsbehörde vorgelegen. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ort, Datum 
+ 
+Unterschrift 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hinweis: Aus Gründen der besseren Lesbarkeit wird auf die parallele Verwen-
+dung der weiblichen und männlichen Sprachform verzichtet. Die ausschließliche 
+Verwendung der männlichen Form soll daher explizit als geschlechtsunabhängig 
+verstanden werden. 

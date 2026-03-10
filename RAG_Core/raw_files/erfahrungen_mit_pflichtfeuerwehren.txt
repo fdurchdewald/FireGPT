@@ -1,0 +1,1083 @@
+I 
+Tim Kirschner 
+Institut der Feuerwehr NRW
+Fachartikel 
+Erfahrungen mit Pflichtfeuerwehren
+Facharbeit gemäß § 20 Abs. 1 VAP2.2-Feu NRW
+Greven, den 08.06.2024
+
+ 
+II 
+ 
+Aufgabenstellung 
+Erfahrungen mit Pflichtfeuerwehren 
+Untersuchen Sie, welche Pflichtfeuerwehren es in Deutschland in den vergangenen 20 Jahren gegeben 
+hat. Untersuchen Sie, unter welchen Rechtsgrundlagen die Aufstellung erfolgte und beschreiben Sie die 
+gemachten Erfahrungen mit den Pflichtfeuerwehren. Ermitteln Sie auf dieser Grundlage Kriterien für die 
+Personalgewinnung. 
+ 
+ 
+
+ 
+III 
+ 
+Abkürzungsverzeichnis 
+ 
+Art. 
+Artikel 
+BF 
+Berufsfeuerwehr 
+BrSchG 
+Brandschutzgesetz 
+FF 
+Freiwillige Feuerwehr 
+FME 
+Funkmeldeempfänger 
+FUK 
+Feuerwehr Unfallkasse 
+FW 
+Feuerwehr 
+FwOV (Hessen) 
+Verordnung über die Organisation, Mindeststärke und Ausrüstung der öf-
+fentlichen Feuerwehren (Feuerwehr-Organisationsverordnung) Hessen 
+FwOV M-V 
+Verordnung über die Bedarfsermittlung und die Organisation der Feuer-
+wehren in Mecklenburg-Vorpommern (Feuerwehrorganisationsverord-
+nung) 
+FwVO (RLP) 
+Feuerwehrverordnung Rheinland-Pfalz 
+GG 
+Grundgesetz 
+GH 
+Gerätehaus 
+HBKG 
+Hessisches Gesetz über den Brandschutz, die Allgemeine Hilfe und den 
+Katastrophenschutz (Hessisches Brand- und Katastrophenschutzgesetz) 
+juris 
+Juristisches Informationssystem 
+LBKG 
+Landesgesetz über den Brandschutz, die allgemeine Hilfe und den Kata-
+strophenschutz (Brand- und Katastrophenschutzgesetz) 
+(länderspezifische Kennzeichnung wird im Text ergänzt) 
+LdF 
+Leitung der Feuerwehr 
+MindAusrVO-FF 
+Verordnung über die Mindeststärke und -ausrüstung der Freiwilligen Feu-
+erwehren Sachsen-Anhalt 
+NRW 
+Nordrhein-Westfalen 
+OrgFw 
+Organisation und Ausrüstung der freiwilligen Feuerwehren, Pflichtfeuer-
+wehren und Werkfeuerwehren sowie die Laufbahnen und die Ausbildung 
+ihrer Mitglieder Schleswig-Holstein (Organisationserlass Feuerwehren) 
+PF 
+Pflichtfeuerwehr 
+ 
+ 
+ 
+
+ 
+IV 
+ 
+Abbildungsverzeichnis 
+Abbildung 1: Prozessschritte (eigene Darstellung, 2024) ............................................................................ 2 
+ 
+Tabellenverzeichnis 
+Tabelle 1: Liste möglicher Pflichtfeuerwehren seit 2003 (eigene Darstellung, 2024) .................................. 4 
+Tabelle 2: gültige Rechtsgrundlage zum Zeitpunkt der Gründung der Pflichtfeuerwehren 
+(eigene Darstellung, 2024) ..................................................................................................... 5 
+Tabelle 3: Verordnung zur Aufstellung von Feuerwehren (eigene Darstellung, 2024) ................................ 5 
+Tabelle 4: empfohlene Kompetenzen für Angehörige der Feuerwehr (eigene Darstellung nach 
+(Erpenbeck, 2012, S. 20), 2024) ............................................................................................. 8 
+Tabelle 5: Suchergebnisse Internetrecherche (eigene Darstellung, 2024) ................................................ 12 
+Tabelle 6: Rückmeldungen telefonische Kontaktaufnahme – keine Pflichtfeuerwehr ................................ 20 
+Tabelle 7: Rückmeldungen erste Kontaktaufnahme - Pflichtfeuerwehren seit 2003 .................................. 28 
+ 
+ 
+In dieser Arbeit wird aus Gründen der besseren Lesbarkeit das generische Maskulinum verwendet. Weib-
+liche und anderweitige Geschlechteridentitäten werden dabei ausdrücklich mitgemeint, soweit es für die 
+Aussage erforderlich ist. 
+ 
+
+ 
+V 
+ 
+Inhalt 
+Teil I: Fachartikel ........................................................................................................................................ 1 
+Kurzzusammenfassung ............................................................................................................................. 1 
+1 Einleitung ................................................................................................................................................. 2 
+2 Darstellung der Problemstellung ........................................................................................................... 2 
+3 Herangehensweise .................................................................................................................................. 2 
+4 Ergebnisse ............................................................................................................................................... 3 
+4.1 Pflichtfeuerwehren der letzten 20 Jahren in Deutschland .................................................................. 3 
+4.2 Rechtsgrundlage für die Aufstellung zur Pflichtfeuerwehr .................................................................. 5 
+4.3 Erfahrungen aus den Pflichtfeuerwehren ........................................................................................... 6 
+5 Diskussion ............................................................................................................................................... 7 
+5.1 Pflichtfeuerwehr als Kompensationsmethode ..................................................................................... 7 
+5.2 Kriterien für die Personalgewinnung in der Feuerwehr ....................................................................... 8 
+6 Fazit .......................................................................................................................................................... 8 
+Teil II: Methoden-, Literatur- und Quellendokumentation ...................................................................... 9 
+1 Beschreibung der Methodik ................................................................................................................... 9 
+2 Begründung ............................................................................................................................................. 9 
+3 Literatur- und Quellendokumentation ................................................................................................. 10 
+3.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken ............................................ 10 
+3.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation ........................................ 11 
+3.3 Kriterien der Literatur- und Quellenauswahl ..................................................................................... 12 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen .................................. 13 
+Literaturverzeichnis ................................................................................................................................. 14 
+Eigenständigkeitserklärung .................................................................................................................... 18 
+Anhänge .................................................................................................................................................... 19 
+
+Kurzzusammenfassung 
+1 
+ 
+Teil I: Fachartikel 
+Kurzzusammenfassung 
+Die Gründung einer Pflichtfeuerwehr ist das letzte Mittel, welches eine Gemeinde oder eine Stadt in 
+Deutschland hat, um den Brandschutz sicherzustellen, wenn nicht genügend ehrenamtliche Einsatzkräfte 
+zur Verfügung stehen. In den letzten 20 Jahren wurden in neun Gemeinden Pflichtfeuerwehren einberufen. 
+Drei davon bestehen noch heute. Bei 16 weiteren Gemeinden war es gemäß verschiedener Presseartikel 
+innerhalb dieser Zeit zumindest schon einmal im Gespräch, eine Pflichtfeuerwehr zu gründen. 
+Durch eine intensive Internetrecherche sowie über die Kontaktaufnahme mit den Innenministerien der Län-
+der konnten diese Zahlen ermittelt werden. Sowohl durch telefonische Interviews als auch über eine quali-
+tative Expertenbefragung sind die Erfahrungen aus den Pflichtfeuerwehren zusammengetragen worden. 
+Die Gründe für die Einberufung der Pflichtfeuerwehren waren unterschiedlich. Während es in einigen Fällen 
+aufgrund örtlicher Gegebenheiten „nur“ zu wenig Einsatzkräfte gab bzw. gibt, sind die Gründe in anderen 
+Gemeinden deutlich komplexer. Dabei spielten Konflikte häufig eine große Rolle. Zu diesen Konflikten zäh-
+len Probleme mehrerer Personen auf verschiedenen Ebenen der Feuerwehr. Unstimmigkeiten innerhalb 
+der Mannschaft oder der Führung oder Probleme in der Kommunikation zwischen Feuerwehr und Verwal-
+tung führten zu größeren Austrittswellen, die wiederum zur Folge hatten, dass zu wenig Einsatzkräfte zur 
+Verfügung standen. Es wurden aber auch Konflikte mit einzelnen Mitgliedern der Feuerwehr genannt, die 
+zu großer Unruhe innerhalb der Feuerwehr führten. Nach erfolglosen Bemühungen die Konflikte zu lösen, 
+hat die Gemeinde nur noch die Möglichkeit gesehen, die „Nicht-Sicherstellung“ des Brandschutzes festzu-
+stellen, eine Pflichtfeuerwehr zu gründen und nur die „Nicht-Störer“ wieder für den Dienst zu verpflichten. 
+Insbesondere in den Gemeinden, in denen die Pflichtfeuerwehren aufgrund von Konflikten aufgestellt wur-
+den, konnten nur wenige Informationen seitens der Verantwortlichen über die genauen Gründe ermittelt 
+werden, da alle Befragten sehr zurückhaltend antworteten. Im telefonischen Kontakt konnten jedoch ein-
+zelne Erfahrungen herausgestellt werden. 
+Die Erfahrungen aus den neun Pflichtfeuerwehren, die nach 2003 bestanden, sowie die Rechtsgrundlagen, 
+auf denen die Einberufung der jeweiligen Pflichtfeuerwehr basierten, werden im Verlauf dieser Arbeit dar-
+gestellt. 
+Eine Verpflichtung der Bürger zum Dienst in der Feuerwehr stellt aus Sicht des Autors dieser Arbeit einen 
+erheblichen Eingriff in das private Leben jeder Einzelperson dar. Es ist daher von allen Beteiligten anzu-
+streben, die Pflichtfeuerwehr so schnell wie möglich wieder in eine Freiwillige Feuerwehr mit rein ehren-
+amtlichen Einsatzkräften umzuwandeln. Aus den Erfahrungen der Pflichtfeuerwehren werden einerseits 
+Kriterien für die Personalgewinnung, andererseits aber auch für die Personalbindung abgeleitet. 
+In einer abschließenden Diskussion wird erörtert, ob das gewünschte Ziel, eine leistungsfähige Feuerwehr 
+vorzuhalten, mit einer Verpflichtung von Einsatzkräften pauschal erfüllt ist. 
+ 
+ 
+
+Einleitung 
+2 
+ 
+1 Einleitung 
+In Deutschland ist es die Aufgabe der Gemeinden und Städte, den örtlichen Verhältnissen entsprechende 
+leistungsfähige Feuerwehren zu unterhalten. Zum 31.12.2021 bestanden deutschlandweit 23.977 Freiwil-
+lige Feuerwehren und 111 Berufsfeuerwehren (Deutscher Feuerwehrverband, 2021). Nach wie vor ist da-
+mit der größte Teil des abwehrenden Brandschutzes in Deutschland über das Ehrenamt geregelt. Wenn 
+jedoch zu wenige Einwohner bereit sind, sich ehrenamtlich zu engagieren, ist damit die Leistungsfähigkeit 
+der Feuerwehr in Gefahr und die Verwaltung einer betroffenen Gebietskörperschaft muss handeln. Führt 
+Mitgliederwerbung nicht zur Erhöhung der Anzahl an Einsatzkräften, kann die Einstellung von hauptamtli-
+chem Personal eine Lösung darstellen. Sollte keine dieser Maßnahmen zum Erfolg führen, ermöglichen 
+die Gesetze einiger Länder außerdem die Heranziehung von Einwohnern zum Dienst in der Feuerwehr. 
+Aufgrund des erheblichen Eingriffes in die Grundrechte jedes Einzelnen, ist der Verfasser dieses Artikels 
+der Meinung, dass eine Verpflichtung immer nur das letzte Mittel sein sollte, welches angewendet wird. 
+Das bedeutet, dass vorher alle anderen Maßnahmen, die eine Verpflichtung abwenden könnten, durch eine 
+Gemeinde geprüft worden sein müssen. Eine Heranziehung von Einwohnern erhöht zwar die Anzahl von 
+Einsatzkräften, ob die Anforderungen an eine leistungsfähige Feuerwehr im Sinne der Gesetze dadurch 
+erfüllt werden können, bleibt allerdings offen. 
+Im Verlauf dieser Arbeit wird auf diese Problemstellung noch einmal eingegangen. Für diesen Fachartikel 
+wurden die Pflichtfeuerwehren ermittelt, die in den letzten 20 Jahren bestanden haben. Durch Expertenin-
+terviews, die sowohl telefonisch als auch mittels Fragebögen erfolgten, sind die Erfahrungen aus den 
+Pflichtfeuerwehren gesammelt worden. Die Rückmeldungen der Befragten dienten im Verlauf als Grund-
+lage für die Ableitung von Kriterien zur Personalgewinnung von Feuerwehren. 
+2 Darstellung der Problemstellung 
+Die Gründung von Pflichtfeuerwehren stellt eine Ausnahmeregelung dar, die je nach Landesrecht per Ge-
+setz zulässig ist, wenn zu wenig ehrenamtliche Einsatzkräfte zur Verfügung stehen oder der Brandschutz 
+in der Gemeinde nicht gewährleistet ist. Da Pflichtfeuerwehren in Deutschland selten sind, findet kaum eine 
+nachhaltige Dokumentation bzw. wissenschaftliche Erfassung in Form von Statistiken etc. statt. Auch Er-
+fahrungsberichte aus den Pflichtfeuerwehren sind nicht vorhanden. Die Gründung einer Pflichtfeuerwehr 
+deutet auf Probleme der Personalhaltung hin. Diese sind z. B. dem demographischen Wandel, der Zu-
+nahme von Risiken (Pandemien, Unwetterereignisse) sowie dem Fachkräftemangel im Allgemeinen zuzu-
+ordnen und damit ebenso wie bei hauptamtlichen Kräften präsent. (AK Ausbildung AGBF und Deutscher 
+Städtetag, 2021) 
+3 Herangehensweise 
+Die Grundlage für diese Arbeit bildet die Recherche zu Pflichtfeuerwehren der letzten 20 Jahre. Dazu wur-
+den verschiedene Methoden angewendet. Abbildung 1 zeigt den Prozess zur Erhebung der Erfahrungen 
+aus den Pflichtfeuerwehren, wobei die Recherche betreffende Aspekte in Orange dargestellt sind.  
+Mit Hilfe von „juris“ wurde ermittelt, welche Länder eine gesetzliche Grundlage für die Einberufung einer 
+Pflichtfeuerwehr innerhalb der letzten 20 Jahre besaßen bzw. noch besitzen. Die weiteren Erhebungen 
+basierten auf diesen Erkenntnissen und gliederten sich in zwei Stränge. Einer dieser Stränge war eine 
+Internetrecherche, welche mit einer Suche bei „Google Scholar“ nach Literatur und wissenschaftlichen Ar-
+beiten startete. Die stichprobenartige Sichtung der Ergebnisse führte aber zu keinem für diese Arbeit nutz-
+baren Ergebnis. Konkrete Suchanfragen bei verschiedenen Datenbanken, z. B. der Fachzeitung „BRAND-
+SCHUTZ“ oder beim Archiv des „Deutschen Feuerwehrverbands“, verliefen ebenfalls erfolglos. Zuletzt 
+wurde über die Suchmaschine „Google“ eine Auflistung aller Pflichtfeuerwehren gesucht. Da aber auch 
+dies keine gesamte Zusammenstellung von Pflichtfeuerwehren ergab, wurde die Strategie geändert und 
+eine Recherche nach dem Schneeballsystem angewendet. 
+Abbildung 1: Prozessschritte (eigene Darstellung, 2024) 
+Recherche 
+Rechtsgrund-
+lagen 
+Internetrecher-
+che 
+Kontaktauf-
+nahme mit den 
+IM 
+Auswertung 
+der Ergebnisse 
+Validierung der 
+Ergebnisse 
+Qualitative 
+Umfrage 
+Interpretation 
+der Ergebnisse 
+
+Ergebnisse 
+3 
+ 
+Dabei wurden über verschiedene Kanäle alle Informationen im Zusammenhang mit Pflichtfeuerwehren in 
+den letzten 20 Jahren gesammelt, ungeachtet dessen, welche Art von Ergebnis (Zeitungsartikel, Presse-
+berichte, Facebook-Eintrag oder ähnliches) vorlag; daraus wurden dann weitere Quellen und Informationen 
+abgeleitet und überprüft. In einer Artikel-Recherche bei dem „Feuerwehr-Magazin“ der Ebner Media Group 
+GmbH & Co. KG sind erste Artikel gesammelt worden, die auch einzelne Auflistungen von Pflichtfeuerweh-
+ren in Deutschland beinhalteten. Weitere Suchen über „Wikipedia“ und „Google“ lieferten zusätzliche Er-
+gebnisse - ein Großteil davon waren Presseartikel oder Einträge auf Internetseiten. Die Zitierfähigkeit der 
+einzelnen Ergebnisse wurde zunächst nachrangig bewertet, da durch den Autor für die Erstellung dieser 
+Arbeit festgelegt wurde, alle Ergebnisse nach Abschluss der Recherche zu validieren. Der zweite Strang 
+wurde durch eine direkte Kontaktaufnahme mit den Innenministerien der Länder (als oberste Aufsichtsbe-
+hörden für den betroffenen Rechtsbereich) realisiert. Im Rahmen der Kontaktaufnahme sind die entspre-
+chenden Stellen zur Übermittlung von genaueren Erkenntnissen, ob Pflichtfeuerwehren in den eigenen 
+Wirkbereichen bestanden haben oder bestehen, erbeten worden. Zur Validierung der Ergebnisse erfolgte 
+eine Kontaktaufnahme per Telefon oder E-Mail, um herauszustellen, welche Feuerwehren tatsächlich in-
+nerhalb der letzten 20 Jahre den Status einer Pflichtfeuerwehr innehatten. In Gemeinden, in denen eine 
+Pflichtfeuerwehr bestand bzw. besteht, wurde nach Experten gefragt, die von Erfahrungen aus den Pflicht-
+feuerwehren berichten können. Um die Erfahrungen zu sammeln (Blau markierte Schritte in Abbildung 1) 
+erfolgte eine erste Kontaktaufnahme mit den Experten sowohl telefonisch als auch schriftlich (siehe Anhang 
+Tabelle 6 und Tabelle 7). Je nach Rückmeldungen und Auskunftsbereitschaften wurden bei Ansprechpart-
+nern, die wenig bzw. zunächst keine Auskunft geben wollten, die Erfahrungen im Rahmen eines telefoni-
+schen Teilinterviews gesammelt. Die Ansprechpartner, die eine höhere Auskunftsbereitschaft erkennen 
+ließen, erhielten mit der Möglichkeit, persönliche Erfahrungen schriftlich auszuformulieren, einen struktu-
+rierten Fragebogen für eine qualitative Umfrage. Die gesammelten Erfahrungen wurden ausgewertet und 
+Ansätze zur Personalgewinnung und -bindung abgeleitet. Diese Ansätze sind angelehnt z. B. an die Aus-
+führungen des Deutschen Städtetages 2021 (AK Ausbildung AGBF und Deutscher Städtetag, 2021). 
+4 Ergebnisse 
+Die Pflichtfeuerwehren der letzten 20 Jahre wurden untersucht und die Erfahrungen der Experten zusam-
+mengetragen. Neben dem Grund der Personalknappheit zeigt die Untersuchung, dass Pflichtfeuerwehren 
+nicht nur die Folgen konfliktbedingter Schwierigkeiten ausgleichen sollten, sondern auch zur Lösung der 
+Konflikte selbst eingesetzt wurden. Dieses Kapitel fasst die Ergebnisse aus den Recherchen zur Ermittlung 
+der Pflichtfeuerwehren der letzten 20 Jahren zusammen, beleuchtet die rechtlichen Grundlagen und prä-
+sentiert die Erfahrungen von Experten. Kritische Anmerkungen einzelner Interviewpartner, die zum Über-
+denken des Systems von Pflichtfeuerwehren in Gänze führen sollen, fließen ebenfalls mit ein. Schlussend-
+lich werden auf Grundlage der Erfahrungen Kriterien zur Personalgewinnung abgeleitet. 
+4.1 Pflichtfeuerwehren der letzten 20 Jahren in Deutschland 
+Die Feuerwehrgesetze der Länder Berlin und Hamburg beinhalten innerhalb der letzten zwanzig Jahre 
+keine Möglichkeit, eine Pflichtfeuerwehr zu gründen. Die vierzehn anderen Landesgesetze hingegen 
+schon, weshalb nur diese in den Recherchen berücksichtigt wurden. Durch die Recherchen konnten einige 
+Gemeinden ermittelt werden, in denen eine Pflichtfeuerwehr bestanden haben soll. Auf die Anfrage bei den 
+Innenministerien meldeten die Länder Baden-Württemberg, Bayern, Brandenburg, Bremen, Niedersach-
+sen, Nordrhein-Westfalen, Saarland, Sachsen und Thüringen eine Fehlanzeige. In Mecklenburg-Vorpom-
+mern ist die Anfrage an die Landkreise delegiert worden und aus Hessen, Rheinland-Pfalz, Sachsen-Anhalt 
+und Schleswig-Holstein erfolgte die Rückmeldung, dass es Pflichtfeuerwehren gab oder eine Gründung 
+kurz bevorstand. Aus Tabelle 1 lässt sich entnehmen, dass insgesamt 25 Gemeinden innerhalb der letzten 
+20 Jahre mit dem Thema Pflichtfeuerwehr im Zusammenhang standen oder noch stehen. Neben dem Sta-
+tus, den die Pflichtfeuerwehren hatten, ist auch angegeben, in welchen Jahren die Pflichtfeuerwehr bestand 
+bzw. sie erwähnt wurde. Im Falle der Einberufung ist der Grund angegeben.  
+Die Validierung des jeweiligen Status erfolgte durch eine direkte Kontaktaufnahme mit den jeweiligen Ge-
+meinden, Landkreisen oder den LdF. In einigen Fällen konnten die Ansprechpartner lediglich das Bestehen 
+einer Pflichtfeuerwehr bestätigen oder ausschließen und keine detaillierten Aussagen treffen, da sie zu den 
+in Frage kommenden Zeitpunkten selbst noch nicht in entsprechenden Ämtern waren. Sie waren aber be-
+müht, an potenzielle Experten, die teilweise bereits im Ruhestand sind, zu vermitteln. 
+
+Ergebnisse 
+4 
+ 
+Aufgrund anhaltender Personal- und Zeitknappheit an den Dienststellen standen mehrere Experten nur für 
+sehr kurze telefonische Interviews zur Verfügung. 
+Tabelle 1: Liste möglicher Pflichtfeuerwehren seit 2003 (eigene Darstellung, 2024) 
+Land 
+Landkreis/ kreisfreie 
+Stadt 
+Gemeinde/Stadt 
+Ortsteil 
+Status 
+Jahr 
+Grund der Einberufung 
+Bayern 
+Rosenheim 
+Schonstett 
+ 
+im Gespräch 
+2023 
+ 
+Brandenburg 
+Elbe-Elster 
+Herzberg 
+ 
+im Gespräch 
+2009 
+ 
+Hessen 
+Kassel 
+Helsa 
+ 
+Einberufung 
+Mitte 2021 - 
+Mitte 2022 
+Konflikte 
+Mecklenburg- 
+Vorpommern 
+Mecklenburgische Seen-
+platte 
+Malchow 
+ 
+im Gespräch 
+2006 
+ 
+Nordwestmecklenburg 
+Dassow 
+Pötenitz 
+im Gespräch 
+2022 
+ 
+Vorpommern-Greifswald 
+Neuenkirchen 
+ 
+im Gespräch 
+2013 
+ 
+Vorpommern-Rügen 
+Binz 
+ 
+Einberufung 
+2009 - 2010 
+Konflikte 
+Niedersachsen 
+Aurich 
+Upgant-Schott 
+ 
+im Gespräch 
+2017 
+ 
+Friesland 
+Wangerooge 
+ 
+im Gespräch 
+2020 
+ 
+Göttingen 
+Diemarden 
+ 
+im Gespräch 
+2017 
+ 
+Hameln-Pyrmont 
+Bad Pyrmont 
+ 
+im Gespräch 
+2022 
+ 
+Rheinland-Pfalz 
+Bad Kreuznach 
+Altenbamberg 
+ 
+im Gespräch 
+2023 
+ 
+Kusel 
+Kusel 
+ 
+Einberufung 
+2009 (< 1 J) 
+Konflikte 
+Sachsen-Anhalt 
+Börde 
+Kroppenstedt 
+ 
+Aprilscherz 
+2016 
+ 
+Haldensleben 
+Süplingen 
+im Gespräch 
+2023 
+ 
+Jerichower Land 
+Möser 
+Pietzpuhl 
+Einberufung 
+2008 - 2010 
+Zu wenig Einsatzkräfte 
+Schleswig- 
+Holstein 
+Dithmarschen 
+Burg 
+ 
+Einberufung 
+2009 - heute 
+Zu wenig Einsatzkräfte 
+Dithmarschen 
+Friedrichskoog 
+ 
+im Gespräch 
+2021 
+ 
+Herzogtum Lauenburg 
+Dalldorf 
+ 
+im Gespräch 
+2017 
+ 
+Schmilau 
+ 
+im Gespräch 
+2010 
+ 
+Neumünster 
+ 
+ 
+Einberufung 
+2018 - 2019 
+<12 Monate 
+Konflikte, 
+fehlende Führung 
+Nordfriesland 
+Friedrichstadt 
+ 
+Einberufung 
+2016 - heute 
+Zu wenig Einsatzkräfte 
+Sylt 
+List 
+Einberufung 
+2005 - 2023 
+Zu wenig Einsatzkräfte 
+Ostholstein 
+Grömitz 
+ 
+Einberufung 
+2018 - heute 
+Unterschreitung der 
+Mindeststärke 
+Thüringen 
+Sonneberg 
+Lauscha 
+ 
+im Gespräch 
+2022 
+ 
+Zusammenfassend wurde dabei ermittelt, dass in 15 Fällen eine Pflichtfeuerwehr lediglich im Gespräch 
+war und diese nur kurz vor einer Gründung stand. Bei acht Feuerwehren waren bzw. sind immer noch - 
+aufgrund der Altersstruktur der Bevölkerung oder der teilweise auch gleichzeitigen Abwanderung der jun-
+gen Bevölkerung (insbesondere in touristisch geprägten Gebieten) - nur wenig Einsatzkräfte vorhanden. 
+Besonders erwähnenswert ist, dass in sieben der Feuerwehren die Gemeinde die Leistungsfähigkeit ge-
+fährdet sah bzw. sieht, weil Konflikte innerhalb der Feuerwehr vorlagen und teilweise immer noch vorliegen. 
+Bei diesen Konflikten drohten Kameraden mit Austritten oder vollzogen diese auch, was dann plötzliche 
+Personaldefizite zur Folge hatte. Die Konflikte in den Einheiten bestanden auf unterschiedlichen Ebenen: 
+Innerhalb der Mannschaft, der Führungskräfte oder auch zwischen der Leitung und der Verwaltung, auf-
+grund von Unstimmigkeiten bzgl. des Baus neuer Gerätehäuser, des Führungsstils einzelner Funktionsträ-
+ger oder des Zusammenwirkens mit der Verwaltung. In diesen Fällen konnte aber die Gründung einer 
+Pflichtfeuerwehr durch Moderation, Coaching oder den Austausch von Personal auf Schlüsselpositionen 
+bisher abgewendet werden. In einem Presseartikel wird in der Gemeinde Kroppenstedt (Sachsen-Anhalt) 
+eine Pflichtfeuerwehr angekündigt. Dieses beruhte zwar nur auf einem Aprilscherz der Feuerwehr, eine 
+Klarstellung durch die Presse im Nachhinein blieb jedoch aus. In den Gemeinden Helsa, Binz, Kusel, Mö-
+ser, Neumünster und Sylt gab es eine Pflichtfeuerwehr; in Burg, Friedrichstadt und Grömitz gibt es sie noch 
+heute. Sie sind in Tabelle 1 grün markiert und werden im Folgenden näher betrachtet. Während der Kon-
+taktaufnahmen war eine generelle Zurückhaltung zum Thema Pflichtfeuerwehr wahrzunehmen. In einigen 
+Telefonaten ist dabei ziemlich deutlich geworden, dass es den Beteiligten unangenehm war, über dieses 
+Thema Auskunft zu erteilen. Insbesondere in den Gemeinden, bei denen Konflikte zur Gründung einer 
+Pflichtfeuerwehr führten, waren die Aussagen daher als eher dürftig zu bewerten. Sechs Ansprechpartner 
+waren bereit, zusätzlich zu dem persönlichen Gespräch per Telefon, einen Fragebogen auszufüllen. 
+
+Ergebnisse 
+5 
+ 
+4.2 Rechtsgrundlage für die Aufstellung zur Pflichtfeuerwehr 
+Die Aufstellung der neun Pflichtfeuerwehren erfolgte auf Grundlage der jeweiligen länderspezifischen Ge-
+setze für das Feuerwehrwesen, welche inhaltlich vorgeben, dass eine Gemeinde eine „den örtlichen Ver-
+hältnissen entsprechende leistungsfähige Feuerwehr“ vorzuhalten hat. Alle betreffenden Gesetze räumen 
+den Gemeinden die Möglichkeit ein, Einwohner zu verpflichten, wenn es zu wenig ehrenamtliche Einsatz-
+kräfte gibt. Wie genau diese Vorhaltung auszusehen hat und wann es zu wenig Einsatzkräfte gibt, ist in 
+den Gesetzen jedoch nicht konkretisiert. Tabelle 2 zeigt eine Übersicht über die Rechtsgrundlagen in der 
+zur Gründung der PF gültigen Fassung sowie der entsprechenden Paragrafen. 
+Tabelle 2: gültige Rechtsgrundlage zum Zeitpunkt der Gründung der Pflichtfeuerwehren (eigene Darstellung, 2024) 
+Land 
+Rechts-
+grundlage 
+Gültige Fassung 
+von 
+Aktuelle Fas-
+sung von 
+§ für Pflichtfeuerwehr 
+PF oder FF? 
+Dauer der Ver-
+pflichtung 
+Hessen 
+HBKG 
+2013 
+2013 
+§ 7 (5) i.V.m § 10 (4) 
+HBKG 
+integriert 
+10 Jahre 
+Mecklenburg- 
+Vorpommern 
+BrSchG 
+2002 
+2015 
+§ 13 BrSchG 
+PF oder FF 
+/ 
+Rheinland-Pfalz 
+LBKG 
+2008 
+2020 
+§ 12(2) LBKG 
+integriert 
+10 Jahre 
+Sachsen-Anhalt 
+BrSchG 
+2001 
+2017 
+§ 11 BrSchG 
+PF oder FF 
+/ 
+Schleswig-Holstein 
+BrSchG 
+1996 
+2022 
+§ 16 BrSchG 
+PF oder FF 
+6-12 Jahre 
+2008 
+2022 
+§ 16 BrSchG 
+PF oder FF 
+6-12 Jahre 
+2015 
+2022 
+§ 16 BrSchG 
+PF oder FF 
+12 Jahre 
+2022 
+2022 
+§ 16 BrSchG 
+integriert 
+12 Jahre 
+Obwohl das Ziel, die Anzahl an Einsatzkräften durch Verpflichtung zu erhöhen, in allen Gesetzen gleich ist, 
+gibt es je nach Land unterschiedliche Rahmenbedingungen, die insbesondere in der Art der Pflichtfeuer-
+wehr selbst unterschieden werden können. Während in Hessen und in Rheinland-Pfalz von der Heranzie-
+hung zum ehrenamtlichen Dienst gesprochen wird, heißt es in Mecklenburg-Vorpommern, Sachsen-Anhalt 
+und in Schleswig-Holstein (bis 2022), dass eine Pflichtfeuerwehr aufzustellen ist, wenn nicht genügend 
+Einsatzkräfte zur Verfügung stehen. Der Unterschied beruht darin, dass bei der Heranziehung zum ehren-
+amtlichen Dienst die Verpflichteten in die bestehenden Strukturen der Freiwilligen Feuerwehr eingegliedert 
+werden, während bei einer Aufstellung der Pflichtfeuerwehr die Freiwillige Feuerwehr inklusive aller Be-
+standteile wie der Jugendfeuerwehr etc. durch eine Pflichtfeuerwehr ersetzt wird. Das Mindestalter für eine 
+Heranziehung beträgt in allen Ländern mindestens 18 Jahre und die Obergrenze, je nach Land, zwischen 
+50 und 60 Jahren. Dabei dürfen die Einwohner in den verschiedenen Ländern unterschiedlich lang zum 
+Feuerwehrdienst verpflichtet werden. In Schleswig-Holstein bestanden innerhalb der letzten 20 Jahren vier 
+Pflichtfeuerwehren, zwei davon bestehen noch immer. Aufgrund einiger Erfahrungen aus den Pflichtfeuer-
+wehren konnte in Schleswig-Holstein im Jahr 2022 eine Gesetzesänderung bewirkt werden. Eine der wich-
+tigsten Änderungen war die Integration der Verpflichteten in die Strukturen der Freiwilligen Feuerwehr, 
+damit Abteilungen wie die Jugendfeuerwehr bestehen bleiben konnten. Auch in der Altersstruktur wurden 
+Änderungen vorgenommen. So dürfen zwar seitens der Gemeinde nur Personen im Alter von 18 bis 50 
+Jahren verpflichtet werden, aber Bürger zwischen 18 und 60 Jahren können einen Antrag auf Verpflichtung 
+für die ehrenamtliche Tätigkeit stellen. Ein Anspruch auf die Verpflichtung besteht nicht, nach der Annahme 
+des Antrags könnten sie allerdings bis zum 67. Lebensjahr „freiwillig verpflichtet“ werden. Um die Tages-
+verfügbarkeit zu stärken, können seit 2022 auch Mitglieder anderer FF aufgenommen werden. 
+Tabelle 3: Verordnung zur Aufstellung von Feuerwehren (eigene Darstellung, 2024) 
+Land 
+Verordnung 
+Alte Version (zum Zeitpunkt der Gründung PF gültig) 
+Hessen 
+Verordnung über die Organisation, Mindeststärke und Ausrüs-
+tung der öffentlichen Feuerwehren (Feuerwehr-Organisationsver-
+ordnung – FwOV) 
+/ 
+Mecklenburg- 
+Vorpommern 
+Verordnung über die Bedarfsermittlung und die Organisation der 
+Feuerwehren in Mecklenburg-Vorpommern (Feuerwehrorganisa-
+tionsverordnung - FwOV M-V) 
+Verwaltungsvorschrift über die Mindeststärke, die Gliederung 
+und die Mindestausrüstung öffentlicher Feuerwehren und Werk-
+feuerwehren (Feuerwehr-Mindeststärken-Vorschrift) 
+Rheinland-Pfalz 
+Feuerwehrverordnung (FwVO) 
+/ 
+Sachsen-Anhalt 
+Verordnung über die Mindeststärke und -ausrüstung der Freiwilli-
+gen Feuerwehren (MindAusrVO-FF) 
+/ 
+Schleswig-Holstein 
+Organisation und Ausrüstung der freiwilligen Feuerwehren, 
+Pflichtfeuerwehren und Werkfeuerwehren sowie die Laufbahnen 
+und die Ausbildung ihrer Mitglieder (Organisationserlass Feuer-
+wehren - OrgFw) 
+Gliederung und Ausrüstung der freiwilligen Feuerwehren, der 
+Pflichtfeuerwehren und der Werkfeuerwehren sowie die Laufbah-
+nen und die Ausbildung ihrer Mitglieder (Gliederung und Ausbil-
+dung) 
+
+Ergebnisse 
+6 
+ 
+Wie oben beschrieben fehlt in den Gesetzen die genaue Erläuterung, wann es zu wenig Einsatzkräfte in 
+den Feuerwehren gibt; ebenfalls wird nicht deutlich beschrieben, wie die Leistungsfähigkeit einer Feuer-
+wehr zu messen ist. In den Ländern, in denen es eine Pflichtfeuerwehr gab, gelten zusätzlich zu den Ge-
+setzen die in Tabelle 3 dargestellten Verordnungen, aus denen die Anforderungen an die Feuerwehren 
+abzuleiten sind. Durch diese Verordnungen besitzen die Gemeinden keinen Ermessensspielraum: Wenn 
+die Anzahl der Einsatzkräfte unter die Vorgaben fällt, ist eine Pflichtfeuerwehr aufzustellen. 
+4.3 Erfahrungen aus den Pflichtfeuerwehren 
+Aufgrund laufender Verfahren und der Bitte einiger Experten, im Rahmen dieser Arbeit keine Rückschlüsse 
+auf die einzelnen Gemeinden zu ermöglichen, wird auf die Verwendung direkter Zitate verzichtet. 
+Zunächst wird ein Blick auf die Pflichtfeuerwehren geworfen, die als taktisches Mittel gegründet wurden, 
+um Konflikte einzelner Personen innerhalb der Feuerwehr bzw. zwischen Feuerwehr und Verwaltung zu 
+lösen. Mit Hilfe der Pflichtfeuerwehr sollten z. B. einzelne Mitglieder aus der Feuerwehr ausgeschlossen 
+werden. Obwohl es dort zwar zu keinem Mangel an Einsatzkräften gekommen ist, stellte die Gemeinde 
+jedoch eine Gefährdung der Leistungsfähigkeit aufgrund der Streitigkeiten fest. Zu den genauen Hinter-
+gründen der Konflikte wurden von keinem der Befragten konkrete Aussagen getroffen. In allen Fällen sind 
+die Konflikte durch die Einberufung einer Pflichtfeuerwehr schnell aufgelöst worden. Die Dauer des Beste-
+hens der PF war unterschiedlich. Da nur diejenigen verpflichtet wurden, die bereits vor der Pflichtfeuerwehr 
+Teil der Einheit waren und nichts mit den Konflikten zu tun hatten, gab es keine Besonderheiten in den 
+Abläufen oder Einsätzen zu verzeichnen. 
+Die Erfahrungen aus Pflichtfeuerwehren, die aufgrund anderer Ursachen zu wenige Einsatzkräfte hatten, 
+sind weitaus umfangreicher und unterschiedlicher. Neben den oben genannten Feuerwehren gab es auch 
+andere, bei denen Unstimmigkeiten zu internen „Verwerfungen“ geführt haben, die (tlw. große) Austritts-
+wellen zur Folge hatten. Trotz einiger Gespräche, teilweise mit Mediatoren begleitet, konnte eine Verpflich-
+tung nicht abgewendet werden. In weiteren Fällen führte ein kontinuierlicher Personalrückgang zur Einbe-
+rufung von Pflichtfeuerwehren. Aufgrund des Erreichens der Altersgrenzen schieden immer mehr Einsatz-
+kräfte aus, während es nach Aussage der Experten fast unmöglich war, neue Einsatzkräfte zu gewinnen: 
+Begründet durch das fallende Interesse an ehrenamtlicher Tätigkeit oder allgemein schlechtes Potenzial 
+an Einsatzkräften bei kleinen oder sehr touristisch geprägten Gemeinden. Insbesondere in den touristi-
+schen Regionen ist die Herausforderung groß, da das Gefährdungspotenzial während der Urlaubssaison 
+steigt: Es kommen viele Gäste, Einsatzkräften allerdings nicht. Den Ausfall von Einsatzkräften mit haupt-
+amtlichen Kräften zu kompensieren, lehnten alle betroffenen Gemeinden ab. Im Rahmen der Verhältnis-
+mäßigkeitsüberprüfung („zu teuer, Gemeinde zu klein, nicht gerechtfertigt“) sahen sie dieses nicht geboten. 
+Die Gemeinden stellten schlussendlich die „Nicht-Leistungsfähigkeit“ bzw. die faktische Nichterfüllung der 
+geforderten Mindeststärke fest und schafften damit die Grundlage einer Verpflichtung von Bürgern für den 
+Dienst in der Feuerwehr. 
+Bei fast allen Befragten sind zunächst ehemalige bzw. ausgetretene Mitglieder verpflichtet worden. Um die 
+benötigte Anzahl an Einsatzkräften zu erhalten, sind zusätzlich in allen Gemeinden auch weitere Einwohner 
+entsprechend der zulässigen Altersspanne verpflichtet worden. Dabei musste eine Vielzahl an Widersprü-
+chen gegen die Verpflichtungsbescheide bearbeitet werden. Die Anzahl von Verpflichtungsbescheiden va-
+riierte je nach Gemeinde. In manchen orientierte sich die Anzahl an den fehlenden Einsatzkräften, in an-
+deren wurden 170 bzw. 300 Bescheide versendet und in wieder anderen erhielten alle Einwohner einen 
+Verpflichtungsbescheid. 
+Die Erfahrungsberichte sind sehr unterschiedlich und lassen keine pauschalen Aussagen zu. Einzelne As-
+pekte aus den Rückmeldungen werden im Folgenden aufgegriffen und beleuchtet. Alle Feuerwehren be-
+mühten sich, zeitnah eine Ausbildung der neuen Einsatzkräfte zu ermöglichen, um die Einsatzbereitschaft 
+schnell wieder herzustellen. Dabei unterstützten teilweise die Nachbarwehren bzw. die Kreise. Doch trotz 
+Verpflichtung und Ausbildung ist die Einsatzbeteiligung nicht bei allen Feuerwehren gestiegen, da in vielen 
+Fällen die berufsbedingte Verfügbarkeit Einzelner ein großes Hindernis war. Im Einsatz selbst, aber auch 
+in der Ausbildung und in den anderen Aktivitäten der Feuerwehr, ist die Kameradschaft ein substanzieller 
+Faktor, der für das Abarbeiten von Einsatzstellen, aber auch für das Verarbeiten von Erlebtem aus den 
+Einsätzen, dringend erforderlich ist. Diese Kameradschaft wurde in den Pflichtfeuerwehren unterschiedlich 
+wahrgenommen. Nach Ansicht eines Befragten bestand in einer Feuerwehr die Kameradschaft nur für ei-
+
+Diskussion 
+7 
+ 
+nen kleinen Teil aller Einsatzkräfte und das Gefühl der Pflicht stand im Vordergrund. Dies war auch jeder-
+zeit spürbar. Andere Experten berichteten wiederum, dass trotz der Verpflichtung das Ehrenamt ausgelebt 
+wurde und man sich wie in einer typischen Freiwilligen Feuerwehr gefühlt habe. In letzteren Feuerwehren 
+identifizierten sich die Einsatzkräfte viel mehr mit der Gemeinde, der Feuerwehr und mit den anderen Ka-
+meraden, sodass dort auch mehr kameradschaftsfördernde Aktionen durchgeführt wurden. Insbesondere 
+in den Feuerwehren mit positivem Stimmungsbild konnte sich eine positive Entwicklung einstellen, so 
+wurde z. B. in einer Feuerwehr eine Rettungsschwimmergruppe als freiwillige Zusatzleistung ins Leben 
+gerufen und die Kameraden konnten sich trotz der Verpflichtung in ihrem Wirkbereich entwickeln. Auch die 
+Verantwortlichen konnten für sich neue Erkenntnisse sammeln. Unter anderem, dass familienunfreundliche 
+Zeiten und berufsbedingte Einschränkungen in die Gestaltung der Organisation der Feuerwehr selbst Ein-
+fluss haben sollten, um eine Feuerwehr zukunftssicher aufzustellen. Eine Pflichtfeuerwehr ist eine hohe 
+Belastung für alle Beteiligten und auch die Verwaltungen haben einen enormen Mehraufwand. Insbeson-
+dere bei dem Verwaltungsakt der Heranziehung selbst, der Bearbeitung von Widersprüchen, Ahndung und 
+Verstößen gegen einzelne Verpflichtungen, aber auch bei der Unterstützung der LdF, bei der Führung und 
+bei der Rückführung zur Freiwilligen Feuerwehr. Die „zusätzliche emotionale und zeitliche Belastung“ der 
+Führungskräfte z. B. durch Gespräche ist von den Befragten deutlich beschrieben worden und bedarf daher 
+einer professionellen Unterstützung seitens der Verwaltung selbst. Die Führungskräfte müssen sich mit 
+den neuen Mitgliedern auseinandersetzen, aber auch mit den unerfahrenen Einsatzkräften, die plötzlich 
+bei psychisch belastenden Einsätzen tätig werden mussten und dies teilweise nicht gut verarbeiten konn-
+ten. Zuletzt ist nicht zu verkennen, dass das Wort „Pflicht“ in der Bezeichnung der Feuerwehr eine abschre-
+ckende Wirkung bei der Personalgewinnung auslöst. Um Spannungen und Befindlichkeiten zu minimieren 
+oder auch um das mediale Interesse rund um die Feuerwehren herunterzufahren wurde versucht, in einigen 
+Feuerwehren die Bezeichnung „Pflicht“ nicht zu verwenden. Gesetzliche Rahmenbedingungen begrenzen 
+das Potenzial der Feuerwehren zusätzlich: Heranziehung von Einwohnern älter als 50 Jahre ist meist nicht 
+vorgesehen, gleichwohl diese aber den größten Anteil der betroffenen Gemeinden ausmachen. Ebenso 
+darf in manchen Ländern keine Jugendfeuerwehr neben der PF bestehen, wodurch ein Mittel der Perso-
+nalgewinnung schlichtweg untersagt wird. Einige Befragte haben daher über Umwege die Möglichkeit der 
+Jugendfeuerwehr geschaffen, die rechtlichen Rahmenbedingungen haben dies offiziell aber nicht zugelas-
+sen. 
+5 Diskussion 
+5.1 Pflichtfeuerwehr als Kompensationsmethode 
+Einwohner werden zum Dienst in der Feuerwehr verpflichtet, wenn es keine andere Möglichkeit mehr gibt, 
+den Brandschutz in einer Gemeinde sicherzustellen. Die Erfahrungen zeigen jedoch, dass eine Verpflich-
+tung zum Dienst nicht automatisch zu einer leistungsfähigen Feuerwehr führt. Mangelnde Motivation, feh-
+lende körperliche oder seelische Leistungsfähigkeit sind nur einzelne Eigenschaften, die neben der Grund-
+haltung verpflichteter Personen Einschränkungen in deren Dienstfähigkeit darstellen könnten. Daher ist zu 
+hinterfragen, ob die Erhöhung der Anzahl an Einsatzkräften auf dem Papier durch Verpflichtung ausrei-
+chend ist, den Brandschutz wieder sicherzustellen. Eine sehr ausführliche Rückmeldung aus der Kontakt-
+aufnahme enthielt eine Vielzahl an Impulsen, die genau diese Frage unterstreicht. Insbesondere wird dabei 
+herausgestellt, dass es nicht mit der Gründung einer Pflichtfeuerwehr getan ist, sondern daraus auch wei-
+tere Aufgaben erwachsen. Personen zu verpflichten und dabei (u. U. gegen ihren Willen) zwingen zu müs-
+sen, teils grausame Ereignisse mitzuerleben, obwohl sie dies nicht wollen oder können, sollte keinesfalls 
+das letzte Mittel sein, den Brandschutz in einer Gemeinde sicherzustellen. Ein solcher Eingriff in die Per-
+sönlichkeit durch Zwang ist weder zeitgemäß noch händelbar. 
+Da alle Befragten angaben, dass eine Kompensation durch hauptamtliche Kräfte nicht der Verhältnismä-
+ßigkeit entsprachen, stellt sich der Autor dieser Arbeit die Frage, ob hier eine Abwägung durchgeführt 
+wurde und die Kosten einer hauptamtlichen Einheit den Einschränkungen der Grundrechte der Verpflich-
+teten gegenübergestellt worden sind. Die Frage bleibt an dieser Stelle unbeantwortet und bedarf einer 
+tiefergehenden, vor allem juristischen Abwägung, die im Rahmen dieser Arbeit nicht geleistet werden kann. 
+Ob eine Pflichtfeuerwehr den Zweck erfüllt, den Brandschutz sicherzustellen, ist ebenso fraglich und hängt 
+von vielen Faktoren ab, die teilweise nicht beeinflussbar sind. 
+ 
+
+Fazit 
+8 
+ 
+5.2 Kriterien für die Personalgewinnung in der Feuerwehr 
+Personal für die Feuerwehr zu gewinnen ist unabhängig von einem Status als Pflichtfeuerwehr. Dies sollte 
+zu jederzeit angestrebt werden. Die Kriterien zur Personalgewinnung sind daher allgemeingültig zu verste-
+hen. Grundsätzlich ist bei der Personalgewinnung anzustreben, Personen aufgrund ihrer Fachkompeten-
+zen zielgerichtet einzusetzen. Handwerker können z. B. in der Geräteprüfung eingesetzt werden, Steuer-
+berater, Kaufleute oder Verwaltungsmitarbeiter im Innendienst. Personen, die Führungskompetenzen be-
+sitzen, entsprechend in der Führung der Einheiten. Je nach Einsatzmöglichkeit in der Feuerwehr bedeutet 
+das, dass eine feuerwehrtechnische Fachkompetenz oder die körperliche Leistungsfähigkeit nicht im Vor-
+dergrund stehen müssen. Zweifellos ist dies für die Tätigkeit im Einsatz notwendig, für eine Aufgabe in der 
+Verwaltung jedoch nicht. Dadurch werden die Einsatzkräfte entlastet, die ihren Dienst im Einsatz leisten. 
+John Erpenbeck beschreibt ein Kompetenzmodell, welches die vielfältigen Wechselwirkungen von Schlüs-
+selkompetenzen beleuchtet, die auch in der Feuerwehr relevant sind (Erpenbeck, 2012, S. 20). Diese Kom-
+petenzen sind für den Feuerwehrdienst förderlich: 
+Tabelle 4: empfohlene Kompetenzen für Angehörige der Feuerwehr (eigene Darstellung nach (Erpenbeck, 2012, S. 20), 2024) 
+Personale Kompetenz 
+Sozial-kommunikative Kompetenz 
+Aktivitäts- und Handlungskompetenz 
+Einsatzbereitschaft, Zuverlässigkeit, Disziplin, 
+Hilfsbereitschaft, Lernbereitschaft, Motivation, 
+Ehrgeiz, Neugier, … 
+Pflichtgefühl, Gewissenhaftigkeit, Kooperationsfä-
+higkeit, Kommunikationsfähigkeit, Teamfähigkeit, 
+… 
+Ausführungsbereitschaft, Tatkraft, Belastbarkeit, 
+Soziales Engagement, Ergebnisorientiertes Han-
+deln, … 
+Der Personalbedarf in den Feuerwehren erwächst aus dem Fachkräftemangel, der auch für den hauptamt-
+lichen Bereich des abwehrenden Brandschutzes in einem Positionspapier des Deutschen Städtetages be-
+schrieben wird. In diesem Papier werden zwar die oben beschriebenen Kompetenzen nicht explizit ge-
+nannt, gehen aber aus dem Standpunkt hervor, neue Möglichkeiten zu schaffen, um zusätzliches Personal 
+zu gewinnen (AK Ausbildung AGBF und Deutscher Städtetag, 2021). Neben den genannten Softskills sind 
+weitere Kriterien zu beleuchten. Die Verfügbarkeit von Einsatzkräften, insbesondere tagsüber unter der 
+Woche, ist begrenzt. Diejenigen, die im Homeoffice gut abkömmlich sind oder Mitarbeiter der Stadtverwal-
+tung oder des Bauhofes, stellen daher eine gute Ressource dar. Die Möglichkeit, Homeoffice an Arbeits-
+plätzen in der Wache durchzuführen, ist eine moderne Idee, um Knappheit vorzubeugen. Arbeitnehmer, 
+die in die Gemeinde einpendeln, sollten ebenso für die Feuerwehr geworben werden. Die Einschränkung 
+aufgrund des Alters bei der Heranziehung von Einwohnern ist aufgrund der spezifischen Einsetzbarkeit 
+aller Fähigkeiten ein Hindernis zur Aufrechterhaltung des Feuerwehrbetriebes. Für Personal, das eine feu-
+erwehrtechnische Ausbildung benötigt, muss natürlich Ausbildungsaufwand und Nutzen in der Praxis in 
+einem angemessenen Verhältnis stehen. Wird keine feuerwehrtechnische Ausbildung benötigt, kann auch 
+ein späterer Eintritt noch sinnvoll sein. 
+6 Fazit 
+Die Recherche hat offenbart, dass Pflichtfeuerwehren nicht nur bei Personalmangel eingesetzt wurden, 
+sondern auch, um Konflikte zu lösen. Die Möglichkeit, eine Pflichtfeuerwehr zu gründen, wird dabei weit 
+ausgelegt. Die Erfahrungen zeigen, dass Pflichtfeuerwehren nicht unbedingt zum gewünschten Ziel führen. 
+Es ist immer anzustreben, dass eine Feuerwehr ehrenamtlich bleibt - ohne Verpflichtung. Vielfältige Auf-
+gaben benötigen unterschiedliche Kompetenzen. Dafür wurden Kriterien zur Personalgewinnung ermittelt. 
+Dabei müssen neue Denkansetze verfolgt werden: Nicht jedes Mitglied der Feuerwehr muss Maschinist, 
+Atemschutzgeräteträger oder ähnliches werden. Fachleute müssen ihre Kompetenzen in die Feuerwehr 
+einbringen können. Dadurch kann die Arbeit in der Feuerwehr auf viele Schultern verteilt werden (siehe 
+dazu: Unterstützungsabteilung der Feuerwehr in NRW). Die Personalgewinnung ist, wie derzeit überall, 
+schwierig. Tenor einer jeden Feuerwehr muss sein, frühzeitig neue Einsatzkräfte zu gewinnen. Nach Grün-
+dung einer Pflichtfeuerwehr ist es aufgrund der Dringlichkeit meist schwieriger. Ziel muss es daher auch 
+sein, Personal zu halten. Konflikte innerhalb der Feuerwehr können, wie auch in der Berufswelt, durch 
+schlechte Führungskräfte ausgelöst werden oder ungelöst bleiben. Durch eine professionelle Begleitung 
+und Unterstützung der ehrenamtlichen Führungskräfte und insbesondere der LdF durch die Gemeinde, 
+könnte dem vorgebeugt werden. Dieses Coaching ist aus Sicht des Autors dieser Arbeit unerlässlich, um 
+die teilweise unerfahrenen Führungskräfte in ihrer neuen Rolle zu unterstützen. Nur so kann eine Ge-
+meinde unverzüglich reagieren, wenn eine entscheidende Funktion nicht adäquat besetzt ist. In Gemein-
+den, in denen die Einwohnerzahl fortwährend sinkt und damit weniger potenzielle Einsatzkräfte zur Verfü-
+gung stehen, ist es erforderlich die Einwohner ständig zu Informieren und entsprechend um Mitglieder zu 
+werben. 
+
+Literaturverzeichnis 
+14 
+ 
+Literaturverzeichnis 
+ 
+AK Ausbildung AGBF und Deutscher Städtetag. (28. September 2021). Nachhaltige Personalgewinnung 
+für die Feuerwehren. (Deutscher Städtetag, Hrsg.) Heidelberg. 
+Bohrer-Glas, D. (17. Dezember 2022). Feuerwehr von Schonstett tritt doch nicht zurück. Abgerufen am 21. 
+März 2024 von www.br.de: https://www.br.de/nachrichten/bayern/feuerwehr-von-schonstett-tritt-
+doch-nicht-zurueck,TQ61EgT# 
+Breuer, F. (2003). Subjekthaftigkeit der sozial-/wissenschaftlichen Erkenntnistätigkeit und ihre Reflexion: 
+Epistemologische Fenster, methodische Umsetzungen. Forum Qualitative Sozialforschung / 
+Forum Qualitative Research (Online-Journal), 4(2)(25). http://nbn-resolving.de/urn:nbn:de:0114-
+fqs0302258. 
+BrSchG. (1996). Gesetz über den Brandschutz und die Hilfeleistungen der Feuerwehren Schleswig-
+Holstein.  
+BrSchG. (2001). Brandschutz- und Hilfeleistungsgesetz des Landes Sachsen-Anhalt.  
+BrSchG. (2015). Gesetz über den Brandschutz un die Technischen Hilfeleistungen durch die Feuerwehren 
+für Mecklenburg-Vorpommern.  
+Buchenau, S. (16. Januar 2020). 7 Neue für die FF Wangerooge. Abgerufen am 15. Dezember 2023 von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/insel-
+brandschutz-nur-mit-pflichtfeuerwehr-95036 
+Buchenau, S. (19. August 2021). Feuerwehr Friedrichskoog droht Pflichtfeuerwehr. Abgerufen am 15. 
+Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/feuerwehr-friedrichskoog-droht-
+pflichtfeuerwehr-109377 
+Deutscher 
+Feuerwehrverband. 
+(2021). 
+Statistische 
+Entwicklung 
+der 
+Feuerwehr. 
+(Deutscher 
+Feuerwehrverband, Hrsg.) Abgerufen am 03. April 2024 von www.feuerwehrverband.de: 
+https://www.feuerwehrverband.de/app/uploads/2023/11/231128_Statistik-Webseite.pdf 
+dpa-Newskanal. (17. Dezember 2019). Freiwilligenmangel: Wangerooge beschließt Pflichtfeuerwehr. 
+Abgerufen 
+am 
+22. 
+März 
+2024 
+von 
+www.sueddeutsche.de: 
+https://www.sueddeutsche.de/politik/kommunen-freiwilligenmangel-wangerooge-beschliesst-
+pflichtfeuerwehr-dpa.urn-newsml-dpa-com-20090101-191216-99-166160 
+dpa-Newskanal. (18. Januar 2022). Bad Pyrmont diskutiert über Pflichtdienst bei der Feuerwehr. Abgerufen 
+am 21. März 2024 von www.sueddeutsche.de: https://www.sueddeutsche.de/politik/kommunen-
+bad-pyrmont-bad-pyrmont-diskutiert-ueber-pflichtdienst-bei-der-feuerwehr-dpa.urn-newsml-dpa-
+com-20090101-220118-99-750124 
+Draeke, M. (28. April 2008). Die unfreiwillige Feuerwehr Pietzpuhl. Abgerufen am 05. März 2024 von 
+www.saechsische.de: 
+https://www.saechsische.de/die-unfreiwillige-feuerwehr-pietzpuhl-
+2388207.html 
+Ehrlich, B. (05. Oktober 2022). Feuerwehr gehen die Kameraden aus - Zwangsverpflichtung der Bürger 
+denkbar. 
+Abgerufen 
+am 
+19. 
+März 
+2024 
+von 
+www.mdr.de: 
+https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/feuerwehr-nachwuchs-
+ruhestand-zwangsverpflichtung-lauscha-
+100.html#:~:text=Feuerwehr%20sucht%20seit%20zehn%20Jahren%20Mitglieder,-
+Noch%20zählt%20die&text=Es%20dürfe%20keiner%20der%20Kamer 
+Ehrlich, B. (05. März 2024). Das System Freiwillige Feuerwehr funktioniert in Lauscha nicht mehr. 
+Abgerufen am 21. März 2024 von www.mdr.de: https://www.mdr.de/nachrichten/thueringen/sued-
+thueringen/sonneberg/feuerwehr-ehrenamt-nachwuchs-100.html 
+Erpenbeck, J. (2012). Was sind Kompetenzen? In W. G. Faix, & W. G. Faix (Hrsg.), Kompetenz. Festschrift 
+Prof. Dr. John Erpenbeck zum 70. Geburtstag (1. Ausg., Bd. 4). Stuttgart: Steinbeins-Edition 
+Stuttgart. 
+
+Literaturverzeichnis 
+15 
+ 
+Fachgebiet Ordnung und Soziales. (26. Januar 2022). Mitteilungsvorlage 27/2022. Abgerufen am 21. März 
+2024 
+von 
+www.badpyrmont.ratsinfomanagement.net: 
+https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NX
+NFdFcExjZaJ1dGRF5U2u6dG77ETAY8Zdc0d7J09bINe5GVsh-_Re/Mitteilungsvorlage_27-
+2022.pdf 
+Feuerwehr Neumünster. (31. März 2018). Erstmals eine Pflichtfeuerwehr in Neumünster. Abgerufen am 
+21. März 2024 von www.feuerwehr-nms.de: https://www.feuerwehr-nms.de/2018/03/31/erstmals-
+eine-pflichtfeuerwehr-in-neumuenster/ 
+FwOV. (1992 + 2017). Verordnung über die Bedarfsermittlung und die Organisation der Feuerwehren in 
+Mecklenburg-Vorpommern (Feuerwehrorganisationsverordnung).  
+FwOV. (2021). Verordnung über die Organisation, Mindeststärke und Ausrüstung der öffentlichen 
+Feuerwehren in Hessen (Feuerwehr-Organisationsverordnung).  
+FwVO. (1991). Feuerwehrverordnung Rheinland-Pfalz.  
+Gemeinde Wangerooge. (04. Januar 2023). Satzung über die Einrichtung einer Pflichtfeuerwehr der 
+Gemeinde 
+Nordseeheilbad 
+Wangerooge. 
+Abgerufen 
+am 
+22. 
+März 
+2024 
+von 
+www.gemeinde.wangerooge.de: 
+https://gemeinde.wangerooge.de/portal/dokumenteplus-
+900000018-
+20920.html?ordner=1&containerSort=0&schwelle_zuklappen=10&naviID=900000132&brotID=90
+0000132 
+HBKG. (2013). Hessisches Gesetz über den Brandschutz, die Allgemeine Hilfe und den 
+Katastrophenschutz.  
+Hegemann, J.-E. (21. April 2020). 7 Besonderheiten der Pflichtfeuerwehr Burg. Abgerufen am 15. 
+Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/7-besonderheiten-der-pflichtfeuerwehr-burg-
+97811 
+Hensch, M. (11. März 2023). Braucht Süplingen eine Pflichtfeuerwehr. Abgerufen am 19. März 2024 von 
+www.mdr.de: 
+https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/boerde/sueplingen-
+feuerwehr-pflicht-100.html 
+Institut der Feuerwehr NRW. (13. Oktober 2021). Nutzung und Einbindung externer Quellen. 
+Jakobi, S. (23. August 2023). Feuerwehr Altenbamberg: Zwangsverpflichtung doch nicht vom Tisch. 
+Abgerufen am 06. März 2024 von www.swr.de: https://www.swr.de/swraktuell/rheinland-
+pfalz/mainz/altenbamberg-feuerwehr-zwangsverpflichten-von-buergern-nicht-vom-tisch-100.html 
+Jann, T. (21. März 2005). Die unfreiwillige Feuerwehr von Sylt. Abgerufen am 06. März 2024 von 
+www.webarchive.org: 
+https://web.archive.org/web/20060816031136/http://www.abendblatt.de:80/daten/2005/03/21/412
+459.html 
+Jann, T. (20. März 2023). Pflichtfeuerwehr List soll wieder freiwillig werden. Abgerufen am 15. Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/pflichtfeuerwehr-list-soll-wieder-freiwillig-
+werden-120597 
+Jann, T. (Oktober 2023). Zurück zur Freiwilligkeit. Feuerwehr Magazin (10/2023), 8 Seiten. 
+Köhlbrandt, M. (2020). Feuerwehr Burg/Dithmarschen. Feuerwehr Magazin (eDossier 2020), 13 Seiten. 
+Köpf, M. (25. Oktober 2022). Platz da für Florian 43/1. Abgerufen am 21. März 2024 von 
+www.sueddeutsche.de: https://www.sueddeutsche.de/bayern/schonstett-feuerwehr-geraetehaus-
+1.5681123 
+Klöpper, M. (19. April 2023). Zu wenig Mitglieder: Pflichtfeuerwehr droht. Abgerufen am 15. Dezember 2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/presseblog/zu-wenig-
+mitglieder-pflichtfeuerwehr-droht-121108 
+
+Literaturverzeichnis 
+16 
+ 
+Laier, H. (24. Oktober 2009). Feuerwehrstreit Kusel - geht Wehrleiter Milak? Abgerufen am 06. März 2024 
+von 
+www.web.archive.org: 
+https://web.archive.org/web/20091028124141/http://www.fwnetz.de/2009/10/24/feuerwehrstreit-
+kusel-geht-wehrleiter-milak/ 
+LBKG. (2020). Landesgesetz über den Brandschutz, die allgemeine Hilfe und den Katastrophenschutz.  
+Lettau, A., & Breuer, F. (o.J.). Kurze Einführung in den qualitativ- sozialwissenschaftlichen Forschungsstil. 
+Abgerufen 
+am 
+20. 
+April 
+2024 
+von 
+Uni 
+Münster: 
+https://www.uni-
+muenster.de/imperia/md/content/psyifp/aebreuer/alfb.pdf 
+Lindemann, T. (2021). Feuerwehrbedarfsplanung (1. Ausg.). Stuttgart: Kohlhammer. 
+MindAusrVO-FF. (kein Datum). Verordnung über die Mindeststärke und -ausrüstung der Freiwilligen 
+Feuerwehren Sachsen-Anhalt.  
+Mischke, S. (03. April 2023). Sylt: Feuerwehr List nach 18 Jahren wieder freiwillig. Abgerufen am 09. Mai 
+2024 von www.ndr.de: https://www.ndr.de/nachrichten/schleswig-holstein/Sylt-Feuerwehr-List-
+nach-18-Jahren-wieder-freiwillig-,feuerwehr4288.html 
+Nachrichten Radio Aktiv. (01. Februar 2022). Bad Pyrmont: Ortsfeuerwehren wieder einsatzbereit. 
+Abgerufen am 21. März 2024 von www.radio-aktiv.de: https://www.radio-aktiv.de/2022/02/01/bad-
+pyrmont-ortsfeuerwehren-wieder-einsatzbereit/ 
+Nachrichten Radio Aktiv. (21. Januar 2022). Bad Pyrmont: Pflichtfeuerwehr für die Kurstadt? Abgerufen 
+am 21. März 2024 von www.radio-aktiv.de: https://www.radio-aktiv.de/2022/01/21/bad-pyrmont-
+pflichtfeuerwehr-fuer-die-kurstadt/ 
+NDR. (19. Dezember 2018). Zu kleine Feuerwehr: In Grömitz wird Löschen Pflicht. Abgerufen am 06. März 
+2024 
+von 
+web.archive.org: 
+https://web.archive.org/web/20190601213245/https://www.ndr.de/nac...erwehr-In-Groemitz-wird-
+Loeschen-Pflicht,pflichtfeuerwehr106.html 
+NDR. (24. Februar 2019). Pflichtfeuerwehr Grömitz hofft auf Freiwillige. Abgerufen am 06. März 2024 von 
+www.web.archive.org: 
+https://web.archive.org/web/20190601213152/https://www.ndr.de/nac...htfeuerwehr-in-Groemitz-
+sucht-Kameraden,pflichtfeuerwehr108.html 
+Novak, T. (23. Januar 2021). Nach Eklat um Mitglied: Freiwillige Feuerwehr in Helsa aufgelöst - Jetzt kommt 
+die 
+Pflichtwehr. 
+Abgerufen 
+am 
+15. 
+Dezember 
+2023 
+von 
+www.hna.de: 
+https://www.hna.de/lokales/kreis-kassel/helsa-ort83440/kreis-kassel-eklat-mitglied-freiwillige-
+feuerwehr-helsa-pflichtwehr-90177776.html 
+Novak, T. (30. April 2022). Die Freiwliigen sind zurück: Pflichtfeuerwehr Helsa wird wieder aufgelöst. 
+Abgerufen am 06. März 2024 von www.hna.de: https://www.hna.de/lokales/kreis-kassel/helsa-
+ort83440/die-freiwilligen-sind-zurueck-91511349.html 
+OrgFw. (1998 + 2009). Organisation und Ausrüstung der freiwilligen Feuerwehren, Pflichtfeuerwehren und 
+Werkfeuerwehren sowie die Laufbahnen und die Aubsildung ihrer Mitglieder Schleswig-Holstein 
+(Organisationserlass Feuerwehren).  
+Piron, R. (04. Dezember 2019). Pflichtfeuerwehr - Ein unvermeidbares Übel? Abgerufen am 21. 03 2024 
+von www.kommunal.de: https://kommunal.de/pflichtfeuerwehr-groemitz 
+Rüffer, M. (20. Dezember 2018). Gemeinde verstärkt FF durch Pflichtfeuerwehr. Abgerufen am 15. 
+Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/gemeinde-verstaerkt-ff-durch-
+pflichtfeuerwehr-85468 
+Rüffer, M. (27. November 2019). List/Sylt: Pflichtfeuerwehr auf dem Weg zur FF. Abgerufen am 15. 
+Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/nachrichten/news/list-sylt-pflichtfeuerwehr-auf-dem-weg-zur-ff-
+94538 
+
+Literaturverzeichnis 
+17 
+ 
+Rademaker, M. (01. Juni 2019). Die unfreiwillige Feuerwehr von Grömitz. Abgerufen am 14. April 2024 von 
+www.spiegel.de: 
+https://www.spiegel.de/karriere/groemitz-buergermeister-verpflichtet-buerger-
+als-feuerwehrleute-a-1269913.html 
+Sander, N. (25. Januar 2023). FF wird Pflichtfeuerwehr. Abgerufen am 15. Dezember 2023 von 
+www.feuerwehrmagazin.de: https://www.feuerwehrmagazin.de/presseblog/weil-ein-kamerad-sich-
+einklagte-ff-wird-pflichtfeuerwehr-104884 
+Schönherr, H.-P. (30. Januar 2022). Das allerletzte Mittel. Abgerufen am 21. März 2024 von www.taz.de: 
+https://taz.de/Dienstpflicht-fuer-freiwillige-
+Feuerwehr/!5831462/#:~:text=Freiwillige%20Feuerwehrleute%20in%20Bad%20Pyrmont,Jetzt%2
+0droht%20die%20Zwangsverpflichtung.&text=OSNABRÜCK%20taz%20%7C%20Nie%20hat%2
+0in,Ortsname%20besser%20gepasst%20als%20heute. 
+Sozialliberale Fraktion Baden-Württemberg. (21. Juni 2021). www.publikum.net. Abgerufen am 19. März 
+2024 von Wenn der Feuerwehrdienst zum Zwang wird: https://publikum.net/wenn-der-
+feuerwehrdienst-zum-zwang-wird/ 
+Stadt Bad Pyrmont. (10. Februar 2022). Protokoll zur 4. öffentlichen Sitzung des Rates der Stadt Bad 
+Pyrmont. Abgerufen am 21. März 2024 von www.badpyrmont.ratsinfomanagement.net: 
+https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NX
+NFdFcExjZZct8PQr8ue5HMu2BzsiikD1MOJdd3EvPCWAwjFOyIfh/Oeffentliche_Niederschrift_Ra
+t_der_Stadt_Bad_Pyrmont_10.02.2022.pdf 
+Stadt Pyrmont. (26. Januar 2022). Mitteilungsvorlage: Einrichtung einer Pflichtfeuerwehr. Abgerufen am 
+11. 
+Februar 
+2024 
+von 
+Stadt 
+Pyrmont: 
+https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NX
+NFdFcExjZaJ1dGRF5U2u6dG77ETAY8Zdc0d7J09bINe5GVsh-_Re/Mitteilungsvorlage_27-
+2022.pdf 
+Stadtfeld, C. P. (24. Januar 2021). Feuerwehr-Streit eskaliert: 56 Kameraden treten wegen Dr. Björn Steisel 
+zurück. Abgerufen am 27. April 2024 von www.osthessen-news.de: https://osthessen-
+news.de/n11642212/feuerwehr-streit-eskaliert-56-kameraden-treten-wegen-dr-bjoern-steisel-
+zurueck.html 
+Stadtmagazin Neumünster. (27. September 2022). Tag der offenen Tür Gefahrenabwehrzentrum. 
+Abgerufen am 21. März 2024 von www.stadtmagazin-sh.de: https://www.stadtmagazin-
+sh.de/neumuenster/artikel/tag-der-offenen-tuer-im-gefahrenabwehrzentrum 
+SWR. (19. April 2023). Darf man in RLP für die Feuerwehr zwangsverpflichtet werden? Abgerufen am 06. 
+März 2024 von www.swr.de: https://www.swr.de/swraktuell/rheinland-pfalz/zwangsverpflichtung-
+bei-der-feuerwehr-100.html 
+Weege, T. (22. Oktober 2014). Bekommt Friedrichstadt eine Pflichtfeuerwehr? Abgerufen am 15. 
+Dezember 
+2023 
+von 
+www.feuerwehrmagazin.de: 
+https://www.feuerwehrmagazin.de/presseblog/bekommt-friedrichstadt-eine-pflichtfeuerwehr-
+45914 
+Weege, T. (24. April 2017). Austritte wegen geplanter Fusion. Abgerufen am 15. Dezember 2023 von 
+www.feuerwehrmagazin.de: https://www.feuerwehrmagazin.de/nachrichten/news/austritte-wegen-
+geplanter-fusion-muss-nun-eine-pflichtfeuerwehr-her-69341 
+Wikipedia. (27. März 2024). Pflichtfeuerwehr. Abgerufen am 28. 04 2024 von https://de.wikipedia.org: 
+https://de.wikipedia.org/wiki/Pflichtfeuerwehr 
+ 
+ 

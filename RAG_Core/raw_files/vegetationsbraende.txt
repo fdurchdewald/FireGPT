@@ -1,0 +1,2585 @@
+Vegetationsbrände
+5.006 	
+Merkblatt für die Feuerwehren Bayerns
+
+
+3
+Merkblatt für die Feuerwehren Bayerns
+Merkblatt für die Feuerwehren Bayerns
+Vegetationsbrände
+Vegetationsbrände
+Das Merkblatt informiert über Formen und Gefahren von Vegetati­
+onsbränden. Zu dieser Thematik werden die technische Ausrüstung 
+der bayerischen Feuerwehren und deren taktischen und praktischen 
+Einsatzmöglichkeiten erläutert. Umfassende Sicherheitshinweise 
+werden ebenso anschaulich aufgeführt wie verschiedene einsatz­
+taktische Maßnahmen und Vorgehensweisen. Auf spezielle taktische 
+Vorgehensweisen, wie die Brandbekämpfung aus der Luft, wird 
+hingewiesen.
+Zielsetzung des Merkblattes
+Aus Gründen der besseren Lesbarkeit wird in den Merkblättern der 
+Staatlichen Feuerwehrschulen auf eine geschlechtsspezifische Dif­
+ferenzierung verzichtet. Entsprechende Begriffe gelten im Sinne der 
+Gleichbehandlung grundsätzlich für alle Geschlechter. Die verkürzte 
+Sprachform hat redaktionelle Gründe und beinhaltet keine Wertung.
+Anmerkung:
+Bildquelle Titelseite: 
+skeeze; pixabay.com
+
+
+5
+Inhaltsverzeichnis
+Inhaltsverzeichnis
+1.	
+VORWORT........................................................................................ 7
+2.	
+VEGETATION.................................................................................... 8
+3.	
+URSACHEN UND ARTEN VON VEGETATIONSBRÄNDEN...... 8
+4.	
+EINFLÜSSE AUF VEGETATIONSBRÄNDE................................ 10
+5.	
+AUSRÜSTUNG ZUR VEGETATIONSBRANDBEKÄMPFUNG.16
+5.1	 	
+Persönliche Schutzausrüstung...........................................................16
+5.2		
+Feuerwehrfahrzeuge.............................................................................18
+5.3		
+Gerätschaften.........................................................................................19
+6.	
+BRANDERKENNUNG UND ALARMIERUNG............................24
+7.	
+EINSATZTAKTIK BEI VEGETATIONSBRÄNDEN....................25
+7.1  
+Begriffserläuterung und allgemeine Hinweise............................... 25
+7.1.1 
+Begriffserläuterungen:......................................................................... 25
+7.1.2	
+Grundlegende Einsatzziele der Vegetationsbrandbekämpfung.. 27
+7.1.3	
+Allgemeine Sicherheitsregeln bei Vegetationsbränden............... 28
+7.1.4	
+Weitere Sicherheitshinweise..............................................................31
+7.2	 	
+Einsatztaktik........................................................................................... 32
+7.2.1 
+Offensives Vorgehen............................................................................ 32
+7.2.1.1  Angriff auf die Flammenfront aus dem Grünbereich..................... 33
+7.2.1.2  Angriff auf die Flammenfront aus dem Schwarzbereich.............. 35
+7.2.2 
+Defensives Vorgehen........................................................................... 36
+7.2.2.1  Anlegen von Schneisen oder Wundstreifen.................................... 36
+7.2.2.2 	 Schutzstreifen........................................................................................ 38
+7.3	 	
+Techniken bei der Vegetationsbrandbekämpfung......................... 39
+7.3.1 
+Einsatz von Handwerkzeugen............................................................ 40
+7.3.2 
+Einsatz von wasserführenden Löschfahrzeugen........................... 44
+7.3.3	
+Brandbekämpfung bei Bränden im Boden....................................... 49
+
+6
+7.4	 	
+Luftarbeit bei der Brand-, Unfall- und Katastrophenhilfe............ 50
+7.4.1 
+Direkte (Aktive) Brandbekämpfung aus der Luft.............................51
+7.4.2 
+Indirekte (Passive) Brandbekämpfung aus der Luft...................... 52
+7.4.3	
+Anforderungen an Wasserentnahmestellen und Landeplätze... 53
+7.5  
+Löschwasserversorgung und Sonderlöschmittel.......................... 54
+7.5.1 
+Löschwasserversorgung....................................................... 54
+7.5.2	
+Wasser mit Zusätzen............................................................................ 60
+7.6	 	
+Kommunikation...................................................................................... 62
+7.7	 	
+Hinweise für Führungskräfte.............................................................. 64
+8.	
+WEITERFÜHRENDE UND VERTIEFENDE HINWEISE............68
+9.	
+QUELLENHINWEISE.....................................................................70
+
+7
+Durch Vegetationsbrände werden jährlich erhebliche Werte vernichtet 
+und insbesondere die Lebensgemeinschaft Wald empfindlich gestört. 
+Außerdem stellen Vegetationsbrände die immateriellen Leistungen 
+der Natur für die Gesellschaft, wie die Schutz- und Erholungsfunktion, 
+örtlich in Frage. Über diese Schäden hinaus sind Brände in der Natur 
+eine große latente Bedrohung besonders für die Wald- und Kulturland­
+schaft in Bayern, da sich unter ungünstigen Umständen selbst kleinste 
+Brandherde zu Großbränden ausweiten können.
+Dank der ständig verbesserten Ausbildung und Ausrüstung der Feu­
+erwehren Bayerns ist es gelungen, Waldbrände von katastrophalem 
+Ausmaß zu vermeiden. Der Erhalt und die weitere Verbesserung des 
+hohen Standes des abwehrenden Brandschutzes bleibt jedoch nach wie 
+vor eine der zentralen Aufgaben im Bereich der Waldbrandbekämpfung. 
+Bei den Ursachen von Vegetationsbränden fällt auf, dass diese über­
+wiegend durch den Menschen ausgelöst werden. Natürliche Brand­
+ursachen, Blitzschlag oder Selbstentzündung bei Moorbränden, sind 
+äußerst selten. Als Ursachenschwerpunkte kommen „Fahrlässigkeit” 
+und „Brandstiftung” gleichermaßen vor. Der Aufklärung der Bevölke­
+rung sollte deshalb bei den vorbeugenden Maßnahmen eine verstärkte 
+Rolle beigemessen werden.  
+Waldbrandursachen 2018:
+1.	 VORWORT
+Abb. 1
+Waldbrandursachen 2018
+Quelle: 
+eigene Darstellung 
+nach Bundesanstalt 
+für Landwirtschaft und 
+Ernährung 2019 (Hrsg.), 
+Waldbrandstatistik 
+der Bundesrepublik 
+Deutschland 2018, Bonn
+Anzahl der Waldbrände: 
+1.708
+Natürliche 
+Ursachen 
+4,7 %
+Unbekannte
+Ursachen 
+48,9 %
+Fahrlässigkeit
+ 25,5 %
+Sonstige 
+Einwirkungen
+7,9 %
+Vorsatz 
+(Brandstiftung)
+12,9 %
+
+8
+Die Vegetation umfasst die Gesamtheit der Pflanzenformationen und 
+Pflanzengesellschaften in einer Region oder in einem Gebiet. In der 
+Vergangenheit wurde oft der Begriff „Waldbrand“ mit „Vegetations­
+brand“ gleichgesetzt. Eine Vegetation besteht aber nicht nur aus einem 
+Wald, sondern immer aus einer Symbiose aus verschiedenen Arten 
+von Pflanzen.  
+2.	 VEGETATION
+3	 URSACHEN UND ARTEN VON VEGETATIONSBRÄNDEN
+„Vegetationsbrände“ ist der Sammelbegriff für verschiedene Arten von 
+Bränden in der freien Natur. Die Gefahr für Brände in diesen Bereichen 
+kann durch extreme Trockenperioden, wie sie in den letzten Jahren 
+häufig vorgekommen sind, enorm steigen. Oftmals werden die Feuer 
+durch die Unachtsamkeit des Menschen verursacht, der trotz Verbote 
+und Hinweise brandauslösendes Verhalten ausübt. Hierzu gehört das 
+unachtsame Wegwerfen von Zigarettenbestandteilen genauso dazu, 
+wie unerlaubte Feuer oder einfach nur das Parken von Kraftfahrzeugen 
+mit bereits heiß gefahrenen Abgasanlagen auf trockenen Vegetati­
+onsflächen. Die Brandintensität wird durch unterschiedliche Faktoren 
+beeinflusst, wobei wie bei allen Bränden üblich, vor allem die Menge 
+eines vorherrschenden Brandgutes und der vorhandene Sauerstoff 
+entscheidend für den Brandverlauf sind.
+Abb. 2
+Verbrennungsdreieck
+
+9
+Ausgehend von der in den einzelnen Regionen Bayerns vorherrschen­
+den Vegetation und der wirtschaftlichen Nutzung von Flächen kann man 
+Vegetationsbrände in verschiedene Arten bzw. Unterarten aufteilen:
+	
+z
+Feld-, Wiesen- und Heidebrände
+	› abgeerntet
+	› nicht abgeerntet
+	
+z
+Waldbrände
+	› Erdfeuer
+	› Bodenfeuer
+	› Kronenfeuer/Wipfelfeuer
+	› Vollfeuer
+	› Stammfeuer
+	› Flugfeuer
+	
+z
+Moor- und  Torfbrände
+	› Erdfeuer
+	› Bodenfeuer
+	
+z
+Brände an Hanglagen 
+	
+z
+Brände in besonderen Gebieten 	
+(Beispiel: munitionsbelastete Gebiete)
+Abb. 3 und 4
+Beginnendes 
+Kronenfeuer 
+Munitionsbelastetes 
+Gebiet
+
+10
+„Eine Verbrennung (Feuer) ist die chemische Reaktion eines brennba­
+ren Stoffes mit Sauerstoff, bei der Energie in Form von Wärme und 
+Licht freigesetzt wird.“1 Ein Vegetationsbrand verhält sich somit in den 
+Grundzügen genauso wie jede andere Art von Brand. Allerdings wir­
+ken auf einen Vegetationsbrand Faktoren, bedingt durch den direkten 
+Einfluss der Natur, die grundsätzlich in drei große Felder eingeordnet 
+werden können:
+	
+z
+Vorherrschende Vegetation
+	
+z
+Wetter
+	
+z
+Topographie (Geländeform)
+1 Staatliche Feuer­
+wehrschulen; 
+Brennen und 
+Löschen, 
+Version 4.0
+4	 EINFLÜSSE AUF VEGETATIONSBRÄNDE
+Vegetation
+Die in einer Region vorherrschenden Vegetationsarten beeinflussen in 
+extremer Weise den Brandverlauf. 
+Ganz allgemein kann davon ausgegangen werden, dass Nadelbäume 
+wesentlich brandgefährdeter als Laubbäume sind. 
+Nadelbäume sind nicht nur schlechtere Feuchtigkeitsspeicher, sie ent­
+halten zudem brandfördernde Bestandteile wie Harz und ätherische 
+Öle. Gerade bei jungen Baumbeständen bereiten den Brandschützern 
+die dünnen mit Nadeln versehenen Äste besonders große Probleme, 
+da diese häufig bis auf den Waldboden reichen und auf diese Weise 
+Bodenfeuer sehr schnell zu Voll- und Wipfelfeuer heranwachsen las­
+sen. Zudem können Harzausflüsse entlang des kompletten Stammes 
+ebenfalls Wipfel- oder Kronenfeuer auslösen. Am meisten gefährdet 
+sind hierbei reine Kiefernwälder.
+Eigenschaften
+Feuchtigkeitsgehalte
+Gelände
+Windverhältnisse
+Luftfeuchtigkeit
+Lufttemperatur
+Abb. 5
+eigene Darstellung 
+nach Südmersen J.
+
+11
+Fürth
+München
+Würzburg
+Nürnberg
+Erlangen
+Augsburg
+Regensburg
+Ingolstadt
+Text
+Legende
+Gewässernetz vereinfacht
+Autor: Dr. Lothar Zimmermann, Abt. Boden und Klima
+Quelle Geodaten: Landesamt für Digitalisierung, Breitband und Vermessung; Deutscher Wetterdienst, LWF
+0
+30
+60
+15
+Kilometers ±
+Legende
+Gewässernetz vereinfacht
+LVG_Regierungsbezirke
+Städte > 100.00 Ew.
+Summe Risikofaktoren
+1
+2
+3
+4
+5
+6
+Laubbäume gelten in der heutigen Forstwirtschaft als brandunemp­
+findlich und bieten gleichzeitig auch in trockenen Perioden genügend 
+Feuchtigkeit, so dass ein Vollfeuer nur schwer entstehen kann. Eine 
+Ausnahme stellt die Birke dar, bei welcher die Rinde und selbst das 
+grüne Laub bei extremer Trockenheit brennen kann. Im Allgemeinen 
+kann sich bei lichten Baumbeständen eine leicht brennbare Grasvege­
+tation zwischen den Hölzern bilden. Hier beschreibt die Literatur, dass 
+besonders die Gräserarten Drahtschmiele und Sandrohr oder auch 
+Land-Reitgras aufgrund ihrer leichten Entzündbarkeit als besonders 
+brandfördernd gelten2. 
+2 Vgl. Zimmermann 
+L., Dr.; Potenziell 
+waldbrandgefährdete 
+Bestände in Bayern – 
+gutachterliche Ab­
+leitung, S. 9; Bericht 
+01/2018
+Abb. 6 
+Gutachterliche   
+Karte der beson­
+ders Waldbrand-
+gefärdeten Wald­
+gebiete
+Quelle: 
+Bay. Landesanstalt 
+für Wald und Forst­
+wirtschaft; Bericht 
+potenziell wald­
+brandgefährdeter 
+Gebiete im Bayern; 
+Stand Juni 2018
+
+12
+Die Vegetation auf landwirtschaftlich genutzten Flächen kann ebenfalls als 
+brandfördernd beschrieben werden. Dies kommt besonders bei Raps- und 
+Getreidesorten zum Tragen, die Öle bzw. stärkehaltige Stoffe enthalten. 
+Brände auf landwirtschaftlichen Nutzflächen unterscheiden sich somit in 
+Abhängigkeit davon, ob es sich um bereits abgeerntete oder erntereife 
+Flächen handelt und welche Art von Bewuchs dort besteht (Brandgut).
+Grundsätzlich ist festzuhalten, dass sich die Vegetationsbrandgefähr­
+dung mit zunehmendem Feuchtigkeitsgehalt und durch Fehlen von tro­
+ckenem brennbarem Material verringert. Umgekehrt ist bei anhaltender 
+Trockenheit und höherem Anteil an trockenem oder abgestorbenem 
+Pflanzenmaterial die Brandwahrscheinlichkeit höher.
+Wetter
+Somit kann eindeutig das Wetter, als weiterer Einflussfaktor, zusätzlich 
+zur Art und Umfang der Vegetation, identifiziert werden. Wetter kann 
+als Zustand der Atmosphäre zu einem bestimmten Zeitpunkt, an einem 
+bestimmten Ort beschrieben werden, der von Sonneneinstrahlung 
+und der damit verbundenen Wärme oder Kälte, von Regen, Wind und 
+Bewölkung beeinflusst wird. Diese Einflussfaktoren, bezogen auf einen 
+längeren Zeitraum, werden als Witterung bezeichnet und im typischen 
+Jahresablauf Klima genannt. 
+Die tages- und jahreszeitlichen Bedingungen schaffen die Vorausset­
+zungen für die Entstehung und Ausbreitung von Vegetationsbränden.
+Aufgrund von Erfahrungswerten kristallisieren sich aber einige klima­
+tische Haupteinflussfaktoren, die Vegetationsbrände auslösen, heraus.
+Lange anhaltende Trockenphasen führen zum Absinken der Boden­
+feuchtigkeit. Erheblicher Wassermangel bei den Pflanzen stellt sich ein. 
+Ab unter 15 % Wassergehalt im Boden steigt das Brandrisiko erheblich. 
+Ebenfalls bei abnehmender Luftfeuchtigkeit von weniger als 50 % 
+erhöht sich die Gefahr für Vegetationsbrände. Diese Trockenphasen 
+treten vor allem von Mitte März bis Anfang Mai auf. Hinzu kommt, 
+dass in diesen Monaten die Bodenvegetation von trockenen, teils ab­
+gestorbenen Pflanzenresten geprägt ist und noch nicht durch frisches 
+Material ersetzt wurde. Die zweite Periode ist die Hochsommerphase, 
+die in weiten Teilen Bayerns mittlerweile durch extreme Trockenheit 
+kombiniert mit langen Hitzephasen geprägt ist. Auch außerhalb der 
+genannten Phasen kann es bedingt durch lange Trockenperioden in 
+Kombination mit stetigem Wind zu erhöhter Brandgefahr kommen. 
+Allerdings kann man mit ziemlicher Sicherheit behaupten, dass 
+kurzfristige hohe Temperaturen meist keinen Einfluss auf eine hohe 
+Brandgefahr haben. 
+Im Detail bedeutet es, dass im Sommer eine Kombination aus mehreren 
+Faktoren herrscht. Die Tage sind sehr lange und die zunehmende Son­
+
+13
+Wind wird immer nach der Himmelsrichtung bezeichnet, aus der dieser 
+weht. Die Richtung und Geschwindigkeit des Windes hat zudem großen 
+Einfluss auf die Ausbreitung bzw. den Erfolg bei der Vegetationsbrand­
+bekämpfung. Bedingt durch den Wind haben die Vegetationsbrände 
+meist die Form einer Ellipse. Der Feuersaum, die Feuerfront und die 
+Flanken sind hierbei deutlich erkennbar. Auch Boden- und Kronenfeuer 
+breiten sich bei stetigem Wind aus gleicher Richtung nicht etwa als 
+„Feuerwalze”, sondern in Ellipsenform aus. Verschiedenartiges Brand­
+gut und Hindernisse können die Form dieser „Ausdehnungsellipse” 
+beeinflussen. Schwerpunkte der Brandbekämpfung sollten nach einer 
+Erkundung zunächst dort liegen, wo sich der Vegetationsbrand am 
+schnellsten ausbreitet bzw. der Gefahrenschwerpunkt ist. Kronenfeu­
+er kann, angefacht durch Winde, dem Bodenfeuer vorauseilen und 
+wieder „herunterfallen”. Es gilt jedoch die Regel, dass auf Dauer kein 
+Kronenfeuer ohne Bodenfeuer vorkommen kann.
+Januar 
+Februar
+sehr 
+gering
+gering
+mäßig
+hoch
+sehr 
+hoch
+Gefahr
+Jahreszeit
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+nenscheindauer von über 8 Stunden pro Tag fördert das Austrocknen 
+der Vegetation. Hinzu kommt der sich verändernde Einstrahlungswinkel 
+der Sonne, der eine wesentlich höhere Wärmeenergie der Vegetation 
+zuführt und somit den Austrocknungsvorgang fördert. Die Tageszeit ist 
+ein weiterer Einflussfaktor, der Brände begünstigt. Die Gefahr steigt 
+ab ca. 10.00 Uhr und erreicht ihren Höhepunkt zwischen 12.00 Uhr 
+und 16.00 Uhr. Am Abend ab 18.00 Uhr sinkt das Brandrisiko wieder. 
+Abb. 7
+Vegetations-
+brandgefahr in 
+Abhängigkeit 
+der Jahreszeit
+
+14
+Topographie
+Nicht nur der Mensch, das Wetter und die Jahreszeit erhöhen die 
+Gefahr von Bränden. Ein wichtiger Faktor ist auch der Einfluss der 
+Geländeform – die Topographie.
+Großflächige Vegetationsbrände kommen in Deutschland schwer­
+punktmäßig in tieferen Ebenen vor, wie der Lüneburger Heide oder 
+in Brandenburg. Aber auch im Mittel- und Hochgebirgsraum kann 
+es zu Bränden mit enormer Ausbreitungsgeschwindigkeit kommen. 
+Verschiedene Einflüsse wirken hierbei aufeinander ein bzw. ergänzen 
+sich, wobei die Hanglage und -neigung eine besondere Rolle spielen. 
+Grundsätzlich herrschen tagsüber an Berghängen regionale Aufwinde, 
+ausgelöst durch die sich schneller erwärmende Luft an den Hängen im 
+Vergleich zu der sich im Tal befindlichen noch kühlen Luft, auf die noch 
+keine Sonneneinstrahlung gewirkt hat. In der Folge steigt die erwärmte 
+Luft weiter auf und führt zu einer Verringerung der Luftdichte am Hang. 
+Abb. 10
+Talwind
+Abb. 8 und 9
+Ausbreitung in              
+Abhänigkeit von Wind
+Vorauseilende             
+Kronenfeuer
+
+15
+Dadurch setzt ein sogenannter thermischer Auftrieb ein und ein Hang­
+aufwind entsteht. Die Luft kühlt sich beim Aufsteigen ab und sinkt über 
+Ursprungs- oder Nachbartal bzw. im Gebirgsvorland wieder in tiefere 
+Lagen ab. Das immer wiederkehrende Zusammenspiel von absinken­
+der und aufsteigender Luft führt dazu, dass sich eine im Tagesgang 
+immer stärker werdende Ausgleichsströmung einstellt – der Talwind. 
+Brände am Hang können sich somit durch die vorherrschenden Auf­
+winde, verstärkt durch die thermischen Effekte der Wärmestrahlung 
+besonders schnell ausbreiten. Eine Regel besagt, je steiler der Hang, 
+desto schneller kann sich ein Feuer hangaufwärts ausbreiten. Um­
+gekehrt besteht aber auch die Möglichkeit, dass an Berghängen auf 
+Grund der Bodengegebenheiten, der Vegetation, der vorherrschenden 
+Wetterlage und dem Brandgut eine Ausbreitung in Richtung talwärts 
+erfolgen kann. Ab Steinschlagwinkel kann die Brandausbreitung bergab 
+durch abrollendes, brennendes Material begünstigt werden.
+Abb. 11
+Brandausbreitung    
+am Hang
+
+16
+5.1	 Persönliche Schutzausrüstung
+Die Persönliche Schutzausrüstung der bayerischen Feuerwehrdienst­
+leistenden orientiert sich an den Gefahren, die auf den Träger der 
+Schutzkleidung einwirken können. Der Aufbau der Schutzkleidung 
+unterliegt somit Normen und Vorgaben, die von den gesetzlichen 
+Unfallversicherungskassen anhand einer Gefährdungsbeurteilung 
+festgelegt werden. Hierzu kann Feuerwehrschutzkleidung grundsätzlich 
+nach verschiedenen Einsatzszenarien eingeteilt werden, anhand denen 
+sich für die Schutzkleidung zu erfüllende Leistungsstufen ableiten 
+las-sen. Vegetationsbrände sind Brände im Außenbereich, die nach 
+der Gefährdungsbeurteilung der Kommunalen Unfallversicherung 
+Bayern für den Feuerwehrdienstleistenden eine Grundausrüstung 
+gemäß Unfallverhütungsvorschriften fordert. 
+Die Grundausrüstung gliedert sich in folgende Ausrüstungsteile:
+	
+z
+Feuerwehrschutzanzug
+	
+z
+Feuerwehrhelm mit Nackenschutz
+	
+z
+Feuerwehrschutzhandschuhe
+	
+z
+Feuerwehrschutzschuhe
+Gemäß DGUV-Regel 105-049 § 14 (2) muss bei besonde­
+ren Gefahren zusätzlich spezielle persönliche Schutzaus­
+rüstung getragen werden. Des Weiteren besagt §16 der 
+DGUV-Regel 105-049, dass die persönliche Schutzausrüstung 
+nach den zu erwarteten Gefährdungen zu bestimmen und zu 
+benutzen ist. Es wird zusätzlich festgelegt, dass die jeweils 
+verantwortliche Führungskraft die zu benutzende Schutz­
+ausrüstung anordnet und deren Einsatz überwacht. Hierzu 
+kann darauf hingewiesen werden, dass gerade bei heißen 
+Temperaturen der zuständige Einheitsführer je nach Tätigkeit 
+und vorherrschendes Risiko eine sogenannte „Marscherleich­
+terung“ gewähren bzw. sinnvollerweise sogar anordnen kann. 
+Bezüglich des Einsatzauftrages und des damit verbundenen Ri­
+sikos ist dabei auf verschiedene Gefahren zu achten, die speziell 
+bei Vegetationsbränden auf die Einsatzkraft wirken kann. Hierzu 
+gehören beispielsweise die Flammenhöhe, Funkenbildung, 
+Hitzeeinwirkung, Art des Bewuchses, mechanische Kräfte, etc..
+5	 AUSRÜSTUNG ZUR VEGETATIONSBRANDBEKÄMPFUNG
+Abb. 12
+Grund-	
+ausrüstung 
+
+17
+Für die Vegetationsbrandbekämpfung erscheint die Grundausrüstung 
+der bayerischen Feuerwehren, speziell mit einem einlagigen Feuer­
+wehrschutzanzug, beispielsweise in der Ausführung Bayern-2000, wie 
+im Bild dargestellt, als durchaus angemessen. Trotz allem hat es sich 
+als sinnvoll erwiesen, die Grundausrüstung um verschiedene Aus­
+rüstungsgegenstände zu ergänzen bzw. bei der Auswahl auf spezielle 
+Eigenschaften zu achten. 
+Die nachfolgend genannten Punkte sind als Hinweise zu verstehen 
+und begründen sich auf die oftmals sehr lange Dauer von Vegetati­
+onsbrandeinsätzen, bei meist belastender Witterung in unwegsamen 
+Gelände. Die aufgeführten speziellen Ausrüstungsgegenstände und 
+Anwendungshinweise erhöhen den Schutz der Einsatzkräfte:
+	
+z
+Einlagiger Feuerwehrschutzanzug nach Norm mit verstellbaren 
+Arm- und Beinabschlüssen (möglichst enganliegend) sowie hoch 
+schließendem Kragen. Auf eine enganliegende, den Körperschweiß 
+weiterleitende Unterschicht, sollte auch bei hohen Außentempera­
+turen nicht verzichtet werden
+	
+z
+Feuerwehrsicherheitsschuhe in Form von Schnürstiefeln für Wald­
+gebiete und Felder
+	
+z
+Nach Gefährdungsbeurteilung, abweichendes Schuhwerk für die 
+Brandbekämpfung im Gebirge
+	
+z
+Feuerschutzhaube oder Hollandtuch als Schutz offener Hautparti­
+en
+	
+z
+Spezielle Helme zur Wald- und Flächenbrandbekämpfung nach 
+europäischer Norm können bei Einheiten mit häufigen Vegetations­
+bränden zweckmäßig sein. Grundsätzlich bietet der Feuerwehrhelm 
+(nach DIN EN 443) mit Nackenschutz ausreichend Schutz.
+	
+z
+Möglichst dicht schließende, hitzebeständige Schutzbrille 
+um die Augen, um vor Funkenflug, Rauch und Wärme­
+strahlung zu schützen
+	
+z
+Staubschutzmasken (FFP2 oder FFP3, jeweils mit Außenventil) 
+zum Schutz vor Partikeln. Je nach taktischer Vorgehensweise kann 
+auch die Verwendung von A2B2E2K2-P3 Filtern notwendig 
+sein. Hierzu ist aber der Nachweis der Atemschutztaug­
+lichkeit nach G 26.2 und eine Geräteeinweisung notwendig
+	
+z
+Kohlenmonoxidwarngerät für Einsatzkräfte, deren Einsatz 
+kurzzeitig im Brandrauch notwendig ist
+	
+z
+Signalpfeife zur Warnung von Gefahren
+	
+z
+Wärmebildkamera
+Abb. 13  und 14
+Quelle: UVEX AR­
+BEITSSCHUTZ 
+GmbH
+
+18
+Die Nutzung von schwerer Feuerwehrschutzkleidung (HuPF 1, HuPF 4, 
+DIN EN 469) ist bei der Vegetationsbrandbekämpfung, gerade bei 
+warmen Temperaturen, meist weder sinnvoll noch notwendig. Den 
+Einsatzkräften wird durch das Gewicht und den mit dem Aufbau des 
+Materials ausgelösten Hitzestau sowie das vermehrte Schwitzen, die 
+Arbeit erschwert. Folglich gelangen die Einsatzkräfte schneller an ihre 
+körperlichen Belastungsgrenzen. 
+5.2	 Feuerwehrfahrzeuge
+Die Vegetationsbrandbekämpfung führt sehr häufig dazu, dass Feuer­
+wehrfahrzeuge im Gelände zum Einsatz kommen, für das diese nicht 
+unbedingt konzipiert wurden. Um Feuerwehrfahrzeuge trotzdem sicher 
+und schnell zum Einsatzort zu bewegen, sollten diese bei lokalen Er­
+fordernissen bestimmte technische Eigenschaften aufweisen.
+Die Fahrgestelle sollten neben einem tiefen Schwerpunkt, bei gleichzeitig 
+hoher Bodenfreiheit, mit Allradantrieb und Differentialsperren ausgerüs­
+tet sein. Spurgleiche, singlebereifte Fahrzeuge mit großen Rampen- und 
+Überhangwinkeln sowie einer niedrigen Gesamtmasse und ausgewo­
+gener Massenverteilung sind in der Lage auch in unwegsamen Gelände 
+schnell und sicher zum Einsatzort zu gelangen. Die Watfähigkeit ist ein 
+weiteres Kriterium, welches, bei entsprechenden lokalen Gegebenheiten, 
+bei der Beschaffung berücksichtigt werden sollte.
+Grundsätzlich sollte sowohl der Einheitsführer als auch der eingesetzte 
+Maschinist berücksichtigen, dass die Beschädigung von wichtigen 
+Leitungen (Elektrik, Druckluft, Betriebsstoffe, Abgasanlage) zum To­
+talausfall der Bewegungsfähigkeit des Fahrzeugs führen kann. Dies 
+kann durch Hitzeeinwirkung beim Überfahren von Flammen oder 
+Glutnestern, aber auch durch aufgewirbelte, glühende Teile, die sich im 
+Rahmen einlagern, entstehen. Bestimmte Fahrgestellhersteller bieten 
+hierfür geschützte Leitungsführungen als sogenannte passive Elemente 
+des Fahrzeugschutzes an. Aktive Elemente wären beispielsweise der 
+Verbau von fest eingebauten Lösch- und/oder Kühldüsen sowie die 
+Möglichkeit, Löschtätigkeiten vom Fahrerhaus aus durchführen zu 
+können. Für beide aktiven Elemente gilt als Voraussetzung die Fähig­
+keit, während des Fahrens gleichzeitig die Fahrzeugpumpe in Betrieb 
+nehmen zu können (Pump & Roll-Betrieb).
+Je nach Bodenverhältnissen (Sand-, Torfböden, Hänge, …) vor Ort, 
+kann es notwendig sein, eine größere Reifenauflagefläche mit Hilfe der 
+Verringerung des Reifendrucks zu schaffen, die von einigen Fahrgestell­
+herstellern in Form von eigens dafür vorgesehenen Reifendruckanlagen 
+angeboten wird.
+
+19
+5.3	 Gerätschaften
+Die Fahrzeuge der bayerischen Feuerwehren transportieren zahlreiche 
+Werkzeuge, die für technische Hilfeleistung und auch zur Brandbe­
+kämpfung geeignet sind.
+Bei Bränden, allen voran Wald- und Flächenbrände, steht aber meist das 
+Löschmittel Waser im Vordergrund. Bei der Vegetationsbrandbekämp­
+fung ist jedoch der Einsatz von Kleinlöschgeräten und Handwerkzeugen 
+meist vollkommen ausreichend. Auf diese Art und Weise kann mit gerin­
+gem Löschwassereinsatz meist eine sehr effektive Brand-bekämpfung 
+durchgeführt werden.
+
+20
+Nachfolgende Tabelle gibt eine Übersicht über verschiedene Gerät­
+schaften zur Vegetationsbrandbekämpfung, die gemäß den geltenden 
+Normen auf verschiedenen Feuerwehrfahrzeugen verlastet sind:
+Tabelle 1
+Übersicht über ver­
+schiedene 
+Gerätschaften zur 
+Vegetationsbrand­
+bekämpfung
+Beladung
+TSF
+TSF-W
+MLF
+LF 10
+HLF 10
+LF 20
+HLF 20
+LF 20 Kats
+TLF 2000
+TLF 3000
+TLF 4000
+D-Strahl­
+rohr
+x
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+D-Schlauch
+x
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+x1
+Kübel-
+spritze
+1
+1
+1
+1
+1
+1
+1
+1
+x
+x
+x
+Löschruck­
+sack
+x2
+x2
+x2
+x2
+x2
+x2
+x2
+x2
+x2
+x2
+x2
+Feuer-
+patsche
+x
+x
+x
+x
+x
+x
+x
+2
+2
+2
+2
+Feuer­
+wehraxt
+x
+x
+1
+1
+1
+1
+1
+1
+x
+x
+x
+Axt
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Stech­
+schaufel
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Einreiß-
+haken
+x
+x
+x
+1
+1
+1
+1
+1
+x3
+x3
+x3
+Dung-
+hacke
+x
+x
+x
+x
+1
+2
+2
+1
+1
+1
+1
+Spaten
+x
+x
+x
+1
+1
+1
+1
+1
+1
+1
+1
+Ketten-
+säge
+x3
+x3
+x3
+1
+1
+1
+1
+1
+1
+1
+1
+x1 Zur schnellen Wasserabgabe kann der Schnellangriff bei 
+Feuerwehrfahrzeugen mit zwei Druckschläuchen DIN 14811-D 
+25-15-KL1-K in Kombination mit einem D-Hohlstrahlrohr realisiert 
+werden.
+x2 Nur in der DIN 14800-18 Beiblatt 10 "Zusatzbeladungssatz Wald­
+brand" enthalten.
+x3 Kann optional als Zusatzbeladung beschafft werden.
+
+21
+Weitere Gerätschaften für die Vegetationsbrandbekämpfung lassen 
+sich optional einzeln oder auch im Verbund beschaffen. Hierzu kann 
+die Standardbeladung von Feuerwehrfahrzeugen durch Zusatzbela­
+dungssätze erweitert werden. Diese Zusatzbeladungen sind in der 
+DIN 14800-18 genormt. Speziell im Beiblatt 10 wird die „Zusatzbeladung 
+Waldbrand“ aufgeführt, die aus zahlreichen weiteren Gerätschaften zur 
+Vegetationsbrandbekämpfung besteht.
+Bela­
+dungs-
+satz/
+lfd. Nr.
+Bezeichnung / Gegenstand
+nach
+Stück­
+masse 
+kga
+≈
+Stück­
+zahl
+Gesamt­
+masse 
+kg 
+≈
+J
+Waldbrand
+J.1
+Druckschlauch D 25-15-KL 1-K (abweichende 
+Schlauchklasse sowie die Schlauchfarbe 
+sind bei Bestellung zu vereinbaren)
+DIN 
+14811
+3,8
+5
+19
+J.2
+C-D Übergangsstück
+DIN 
+14341
+0,4
+2
+0,8
+J.3
+Hohlstrahlrohr mit Festkupplung D; 
+Durchflussmenge Q von etwa 100 l/min 
+DIN EN 
+15182-2
+2,5
+2
+5
+J.4
+Verteiler C-DCD mit Niederschraubventil 
+(CV) oder Kugelhahn (CK)
+DIN EN 
+14345
+3
+1
+3
+J.5
+Wiedehopfhacke mit Schneidenschutz
+--
+2,5
+1
+2,5
+J.6
+Feuerpatsche mit Stiel, 2,4 m lang
+--
+1,9
+2
+3,8
+J.7
+Löschrucksack mit Befülleinrichtung 
+(Inhalt etwa 20 l Wasser)
+--
+3
+2
+6
+J.8
+Partikelfiltrierende Halbmaske EN 149 
+FFP 2 R D (wieder verwendbar; mehr als 
+eine Schicht)
+DIN EN 
+149
+0,05
+10
+0,5
+J.9
+Schutzbrille, dicht am Auge schließend, 
+tragbar in Kombination mit dem Feuer­
+wehrhelm, auch für Brillenträger geeignet 
+DIN EN 
+166
+0,2
+3
+0,6
+J.10
+Anfahrhilfe "Sandblech", Maße etwa 
+1500 mm x 400 mm
+--
+(5)
+(2)
+(10)
+Summe Beladungssatz J (gerundet)
+41
+Anmerkung: 
+Bei Beladungsteilen, welche nur auf Wunsch des Bestellers vorhanden sein müssen, 
+sind Stückmasse, Anzahl und Gesamtmasse in Klammern angegeben. Diese Beladungs­
+teile auf Wunsch sind in der Gesamtmasse des Zusatzbeladungssatzes nicht enthalten. 
+a In einigen der zitierten Normen ist anstelle der ungefähren Masse die max. Masse ange­
+geben. Der Zahlenwert ist jedoch unverändert. 
+Tabelle 2
+Zusatzbeladung 
+Waldbrand
+
+22
+Die in den Beladungslisten, einschließlich Zusatzbeladung Waldbrand, 
+aufgeführten Gerätschaften lassen sich in verschiedene Löschtechnik­
+bereiche einteilen.
+a)	 Löschgeräte für Löschwassereinsatz:
+Zu dieser Gruppe gehören alle Gerätschaften, mit denen die 
+Brandbekämpfung in Verbindung mit dem Löschmittel Wasser 
+durchgeführt wird. Zu nennen sind die Kübelspritze, der Löschruck­
+sack sowie Schläuche, Armaturen und Strahlrohre. Da, wie bereits 
+erwähnt, in den meisten Fällen das Löschwasser nur in begrenzten 
+Mengen zur Verfügung steht, sollten diese Gerätschaften möglichst 
+in Ausführungsgröße D beschafft werden, um einen Löschangriff 
+möglichst effizient durchführen zu können. Beim Einsatz von 
+Hohlstrahlrohren mit Festkupplung D ist anzumerken, dass diese 
+zwar ein feineres Sprühbild liefern, jedoch bei Verwendung von 
+mit Sedimenten versetztem Wasser, beispielsweise aus landwirt­
+schaftlichen Güllefässern, schneller als Mehrzweckstrahlrohre 
+Verstopfungserscheinungen aufweisen.
+Bezeichnung
+D
+D
+C
+C
+B
+B
+Mundstück-/Düsendurch-
+messer in mm
+4
+6
+9
+12
+16
+22
+Wasserlieferung in l/min ca.
+25
+50
+100
+200
+400
+800
+Tabelle 3
+Wasserdurchfluss   
+von Strahlrohrmund­
+stücken bei einem 
+Druck von 6 bar,  
+gem. DIN 14 200   
+(Norm zurückgezogen)
+Abb. 15
+Löschgeräte zum
+Ersticken von 
+Kleinbränden
+b)	 Löschgeräte zum Ersticken von Kleinbränden
+Feuerpatschen, verschiedene Schaufeln und Spaten
+
+23
+Feuer­
+wehr­
+schlauch
+Innen­
+durch­
+messer 
+in mm
+Länge in 
+m
+Klasse 1: 
+Gesamt-
+masse 
+mit Inhalt 
+in kg
+Klasse 2: 
+Gesamt­
+masse 
+mit Inhalt 
+in kg
+Liter im 
+Schlauch
+D
+25
+5
+3,6
+3,7
+2,5
+D
+25
+15
+10,3
+10,6
+7,4
+D
+25
+30
+20,3
+20,9
+14,7
+C
+42
+15
+25,2
+26,4
+20,8
+C
+52
+15
+37,8
+38,8
+31,9
+B
+75
+20
+100,4
+102,6
+88,4
+Tabelle 4
+Gewicht verschiede­
+ner Schlauchgrößen
+c)	 Hack- und Räumwerkzeuge
+	
+Hack- und Räumwerkzeuge sind bei der Vegetationsbrandbekämp­
+fung notwendig, um das Brandgut vom Feuer zu trennen, bzw. um 
+dem herannahenden Feuersaum bereits im Vorfeld brennbares 
+Material zu entziehen.
+Zu den genannten Werkzeugen gehören klassische Schaufeln, 
+aber auch verschiedene für die Brandbekämpfung, speziell für 
+die Vegetationsbrandbekämpfung, entwickelte Gerätschaften: 
+Feuerwehraxt, verschiedene Ausführungen der Holzfäller- und 
+Spaltaxt, Pulaski-Axt, Einreißhacken, Dunghacke, Wiedehopfhacke, 
+Spaten, Gorgui-Tool, McLeod-Tool.
+Eine möglichst frühzeitige Vegetationsbranderkennung und schnellst­
+mögliche Brandmeldung sind die Voraussetzungen für eine erfolgreiche 
+Brandbekämpfung und die Minimierung der Folgeschäden.
+Vegetationsbrände werden in der Regel entdeckt durch:
+	
+z
+Luftbeobachtung 
+	
+z
+Streifengänge der Forstämter
+	
+z
+Spaziergänger, Jäger, sonstige Personen
+Die entdeckten Vegetationsbrände sind sofort der örtlich zuständigen 
+Integrierten Leitstelle (ILS) zu melden.
+
+24
+6	 BRANDERKENNUNG UND ALARMIERUNG
+Die alarmauslösende Stelle (ILS) alarmiert die für den Brandort vorgese­
+hen Einsatzkräfte und sonstige Stellen nach der Alarmierungsbekannt­
+machung. Bei großen Waldbränden wird der im Voraus benannte Örtliche 
+Einsatzleiter (ÖEL) sowie der Ansprechpartner der Führungsgruppe 
+Katastrophenschutz (FüGK) mitalarmiert. Der Ansprechpartner der Füh­
+rungsgruppe Katastrophenschutz kann, ggf. nach Rücksprache mit dem 
+vorbenannten Örtlichen Einsatzleiter, den Katastrophenfall feststellen.
+Abb. 16
+Frühzeitige 
+Vegetationsbrand- 
+erkennung durch 
+Beobachtungsflüge
+
+25
+7	 EINSATZTAKTIK BEI VEGETATIONSBRÄNDEN
+Wie bei allen Bränden, orientiert sich die taktische Vorgehensweise nach 
+den vorliegenden Gefahrenschwerpunkten (siehe Gefahrenmatrix). 
+Falls keine Menschenleben vorrangig gerettet werden müssen, liegt die 
+Priorität bei der Bekämpfung von Vegetationsbränden in der schnellst­
+möglichen Eingrenzung des Brandes. In den seltensten Fällen besteht 
+die Möglichkeit eines sofortigen kompletten Ablöschens der gesamten 
+Fläche, was zunächst auch nicht nötig ist, da durch die Eingrenzung 
+des Feuers die Menge des Brandgutes meist ohnehin begrenzt ist.
+Bevor nun auf spezielle taktische Vorgehensweisen eingegangen wird, 
+müssen im nächsten Schritt zunächst verschiedene Begrifflichkeiten 
+erläutert werden.
+7.1 
+Begriffserläuterung und allgemeine Hinweise
+7.1.1 Begriffserläuterungen:
+Die Flammenhöhe entspricht der direkten Länge der Flammen, vom 
+Boden aus betrachtet, senkrecht in die Höhe.
+Die Flammenlänge bezeichnet die Entfernung der Flammenspitze vom 
+Boden, im direkten Verlauf betrachtet. Durch die im Feuer herrschen­
+de Thermik verbunden mit bereits bestehendem Wind, kann sich die 
+Flammenlänge deutlich von der Flammenhöhe unterscheiden.
+Der Flammen-/Feuersaum ist die Breite bzw. Tiefe an der Basis des 
+Bereiches, der in Flammen steht. 
+Abb. 17
+Fachbegriffe 
+Flammen
+
+26
+Ein Ankerpunkt ist die taktisch sinnvolle Position von der aus eine 
+Brandbekämpfung unter Beachtung des Eigenschutzes eingeleitet 
+werden kann. Hierbei sind bevorzugt Flächen zu wählen, die der Ein­
+satzkraft sichere Rückzugsmöglichkeiten (Straßen, bereits verbrannte 
+Bereiche, etc.) bieten, aber trotzdem eine möglichst effektive Brand­
+bekämpfung zulassen.  
+Der Schwarzbereich ist ein Bereich innerhalb eines Brandgebietes, in 
+dem durch Feuer die brennbaren Stoffe verbraucht wurden.
+Die Feuerfront bildet den Bereich der Hauptzugrichtung des Feuers. 
+Durch Wind, in Verbindung mit brennbarem Material wird diese voran­
+getrieben. Die Flammenlänge und Ausbreitungsgeschwindigkeit hängt 
+von der Windstärke und dem zur Verfügung stehenden brennbaren 
+Material ab.
+Eine Feuerflanke breitet sich, angetrieben durch Wind, nach links bzw. 
+rechts entlang der Hauptzugrichtung des Feuers aus. Die Flammenlän­
+ge und Ausbreitungsgeschwindigkeit ist ebenfalls abhängig von der 
+Windstärke und dem zur Verfügung stehenden brennbaren Material.
+Bei einem Direkten Angriff / offensiver Vorgehensweise wird das Feuer 
+unmittelbar am Flammenbereich gekühlt oder vom Brandgut getrennt. 
+Abb. 18
+Brandausbreitung
+
+27
+Bei einem Indirekten Angriff / defensiver Vorgehensweise wird das 
+Feuer an der Ausbreitung gehindert, indem das brennbare Material 
+entfernt wird. Zusätzlich kann der vom brennbarem Material bereinigte 
+Bereich, durch das Aufbringen von Löschschäumen, einen doppelten 
+Schutz erhalten. 
+7.1.2 Grundlegende Einsatzziele der Vegetationsbrandbekämpfung
+	
+z
+Die Wahrung der Sicherheit und Gesundheit der eingesetzten Kräfte 
+ist immer oberstes Gebot!
+	
+z
+Die Verhinderung der Ausbreitung der Flammen sollte die erste 
+Maßnahme am Brandort sein, soweit keine Menschenrettung durch­
+zuführen ist, die grundsätzlich vorrangig zu behandeln wäre. Das 
+Eingrenzen und Ablöschen des Feuers kann durch offensive, aber 
+auch defensive taktische Vorgehensweise durchgeführt werden. Der 
+Schutz von Gebäuden oder Sachwerten sollte vor der Ausbreitung 
+auf die Vegetation vorrangig durchgeführt werden
+	
+z
+Die Wahrung der Wiederverwendbarkeit (Beschädigung durch Hit­
+zeeinwirkung) von Fahrzeugen und Material ist die Bedingung für 
+die Sicherheit der Einsatzkräfte und den Löscherfolg.
+Abb. 19
+Gefahrenmatrix
+
+28
+7.1.3 Allgemeine Sicherheitsregeln bei Vegetationsbränden
+Die Sicherheit und Gesundheit der Einsatzkräfte sollte bei jedem Einsatz 
+an oberster Stelle stehen. Aus diesem Grund gibt es für die Vegetati­
+onsbrandbekämpfung allgemeine Sicherheitsregeln, die sich mithilfe 
+einer kurzen Merkregel anschaulich darstellen lassen.
+F = Funk
+R = Rückweichen
+A = Ausschau
+U = Ueberwachung
+Funk
+Die Kommunikation innerhalb aller Ebenen muss immer 
+sichergestellt sein:
+ILS < -- > Einsatzleitung
+Einsatzleitung < -- > Abschnitts- / Einheitsführer
+Einheitsführer < -- > Mannschaft
+Im Falle eines Funkausfalles müssen im Vorfeld Vereinba­
+rungen über redundante Kommunikationswege getroffen 
+werden. Alternativ können Hilfsmittel wie Fahrzeuglaut­
+sprecher oder Megaphone genutzt werden. Ebenso ist es 
+möglich Notsignale mittels Trillerpfeifen durchzugeben, 
+aber auch die mündliche Kommunikation mit Hilfe von 
+Meldern kann eine sinnvolle Maßnahme sein.
+Für Gebiete ohne Netzabdeckung können Fahrzeugfunk­
+geräte (MRT) im Gateway-Betrieb geschaltet werden. 
+Zur Reichweitenvergrößerung im DMO-Betrieb lassen 
+sich Handfunkgeräte (HRT) als Repeater nutzen. Beide 
+Nutzungsarten erfolgen nur nach Weisung des Einsatz­
+leiters und sind mit der begleitenden ILS abzusprechen.
+F
+
+29
+Rückwei­
+chen
+Bei der Brandbekämpfung muss grundsätzlich immer die 
+Flucht in einen sicheren Bereich möglich sein! Als sichere 
+Bereiche vor dem Feuer gelten ein Schwarzbereich oder 
+brandlastarme Gebiete. Löschfahrzeuge sollten aus die­
+sem Grund immer in Fluchtrichtung an der Einsatzstelle 
+aufgestellt werden. Bei fehlenden Wendemöglichkeiten 
+sollten diese rückwärts an die Einsatzstelle fahren. Der 
+Einsatz von Schnellangriffsleitungen mit formstabilen 
+Schläuchen ist zu vermeiden. Ein schnelles Abkuppeln 
+von Schlauchleitungen muss immer gewährleistet sein, 
+um einen sofortigen Rückzug durchführen zu können.
+Zum Eigenschutz sollte immer eine Löschwasserreserve 
+von ca. 300 - 400 Liter im Tank zurückgehalten werden. 
+Der Einsatz von Netzmitteln bei der Brandbekämpfung 
+erhöht die Löschwirkung des Löschwassers und spart 
+somit wichtige Ressourcen.
+Aus­
+schau
+Die natürlichen Einflüsse der Umwelt lassen das Verhalten 
+eines Vegetationsbrandes lokal nur sehr schwer vorhersa­
+gen. Aus diesem Grund sollte bei größeren Einsatzlagen 
+der Einsatzleiter einen Sicherheitsposten bestimmen. 
+Dessen Aufgabe darin besteht, das Brandgeschehen 
+zu beobachten und Veränderungen an den Einsatzlei­
+ter zu melden, um eine Gefährdung der Einsatzkräfte 
+(z. B. Umschlagen des Windes) rechtzeitig zu unterbinden. 
+Bei großen, unübersichtlichen Einsatzstellen ist es ratsam 
+ebenfalls Sicherheitsposten für einzelne Einsatzabschnitte 
+oder sogar -unterabschnitte einzuteilen. Die Kommunika­
+tion zwischen dem Einheitsführer und dem Sicherheits­
+posten muss ebenfalls durchgängig möglich sein. Für den 
+Gefahrenfall sollte ein eindeutiges Rückzugssignal ver­
+einbart sein, welches bei Ertönen unverzüglich an andere 
+Einsatzkräfte weiterzuleiten ist. Geeignete Warnhinweise 
+können beispielsweise mit Hilfe einer Signalpfeife oder 
+mittels im Fahrzeug verbauter Signalanlagen erfolgen.
+Zusätzlich ist es ratsam einen stetigen Kontakt zur be­
+treuenden Integrierten Leitstelle zu haben, die mit Hilfe 
+des Deutschen Wetterdienstes (HEARTS) relativ genaue 
+Vorhersagen über die Ausbreitungsrichtung von Feuern, 
+abgeleitet durch Luftströmungen (Wind), abgeben kann. 
+Eine weitere Möglichkeit, neben der Warn-App des Deut­
+schen Wetterdienstes, direkt an der Einsatzstelle wichtige 
+Informationen über Windrichtung und Wetterverhalten zu 
+bekommen ist u. a. die Internetseite „windy.com“.
+R
+A
+
+30
+Ueber­
+wachung
+Vor allem bei großflächigen Einsatzstellen, die zudem 
+durch topographische Gegebenheiten besonders un­
+übersichtlich erscheinen, bedarf es einer speziellen 
+Überwachung. Die stetige Überwachung ist notwendig, 
+um auf großräumige Veränderungen frühzeitig reagieren 
+zu können, um Einsatzkräfte am Boden rechtzeitig auf 
+bevorstehende Gefahren hinweisen zu können. Geeig­
+nete Möglichkeiten hierfür wären beispielsweise Einhei­
+ten, die eine Beobachtung aus der Luft (Flugzeuge der 
+Luftrettungsstaffel Bayern, Hubschrauber oder Drohnen) 
+durchführen. Denkbar wäre es auch, einen an geeigneter 
+Stelle mit einem Hubrettungsfahrzeug ausgestatteten 
+Überwachungsposten zu positionieren. Der Funkkontakt 
+zu den Überwachungseinheiten, sinnvoller Weise zu den 
+Ausschauposten der einzelnen Abschnitte oder Einheiten, 
+muss durchweg gewährleistet sein. 
+Überwachung bedeutet nicht nur die Überwachung 
+der Schadenslage, sondern auch die der eingesetzten 
+Mannschaft. „Sommertypische Szenarien wie Wald- und 
+Flächenbrände fordern alles von den Feuerwehrangehö­
+rigen ab. Eine Brandbekämpfung durchzuführen kann 
+dann schnell zu einer schweißtreibenden Angelegenheit 
+und zu einem Risiko für Herz und Kreislauf werden . … 
+Hier steigt die Körpertemperatur rasant an und erreicht 
+in Einzelfällen durchaus Werte, die mit hohem Fieber 
+vergleichbar sind.“3 Entsprechende Maßnahmen zum 
+Schutz der Einsatzkräfte (Einsatzzeiten, Pausen, Getränke, 
+Verpflegung, …) sind zu beachten und bei der Einsatzpla­
+nung zu berücksichtigen. 
+Grundsätzlich ist anzumerken, dass der Punkt „Überwa­
+chung“ einen wichtigen Baustein des Führungsvorgangs 
+und der Lagebeurteilung gem. FwDV 100 darstellt. Eine 
+stetige Erkundung der Lage hilft zum einen die Wirksam­
+keit bereits getroffener Entscheidungen zu kontrollieren 
+und bietet gleichzeitig die Möglichkeit, angemessen und 
+rechtzeitig auf Lageänderungen reagieren zu können!
+3 https://www.
+hfuknord.de/hfuk/
+aktuelles/das-
+aktuelle-thema/
+Die-Feuerwehr-im-
+Sommer
+U
+
+31
+7.1.4	 Weitere Sicherheitshinweise
+Um dem Gefahrenschwerpunkt der Ausbreitung zu begegnen, muss 
+gleichzeitig der Schutz und die Gesundheit der Einsatzkräfte berücksichtigt 
+werden. Hierbei hat der Einheitsführer bei der Brandbekämpfung auch 
+den Brandrauch zu berücksichtigen. Um mögliche Gesundheitsgefahren, 
+die vom Brandrauch ausgehen, weitestgehend ausschließen zu können, 
+ist bei der Brandbekämpfung auf die Windrichtung zu achten und mög­
+lichst mit dem Wind im Rücken das Feuer zu bekämpfen. Hilfreich ist es, 
+den Angriffstrupp mit Kohlenmonoxid-Warngeräten auszustatten, um 
+rechtzeitig einen Warnhinweis zu erhalten, bevor die Konzentration an 
+giftigem Kohlenmonoxid einen bestimmten Grenzwert übersteigt. Dies 
+ist insbesondere bei Nahlöscharbeiten und Vorgehen im Bereich von Glut­
+nestern von Bedeutung. Vorbeugende Maßnahmen sind ebenfalls durch 
+den Fahrzeugmaschinisten zu treffen, der vorsorglich die Fahrzeugfenster 
+geschlossen, sowie die Lüftungsanlage ausgeschaltet haben sollte. 
+Weitere Sicherheitshinweise beziehen sich auf die Topographie bzw. 
+auf die unterschiedlichen Formen der Vegetationsbrände.
+Bodenfeuer lassen sich nach der Flammenlänge kategorisieren. Hierbei 
+ist grundsätzlich anzumerken, dass die Gefahr für die Einsatzkräfte 
+mit der Flammenlänge steigt. Weitere Informationen hierzu werden 
+im Kapitel Techniken bei der Vegetationsbrandbekämpfung erläutert.
+Bei Erd- oder Untergrundfeuern, wie sie vor allem in Moor- oder Torf­
+landschaften vorkommen, kann es zu Bränden des Wurzelwerkes von 
+Bäumen kommen. Hierbei besteht die Gefahr, dass Bäume, die äußer­
+lich keinerlei Brandspuren aufweisen plötzlich in unterschiedlichste 
+Richtungen umfallen, da die Statik des Stammes vom Feuer von innen 
+zerstört wurde oder die Wurzel durch Erdfeuer völlig verbrannt ist. 
+Abb. 20
+Wurzelbrand
+
+32
+Besonders in Hanglagen besteht die Gefahr der schnellen Brandausbrei­
+tung durch regelmäßig vorherrschende Talwinde, die hangaufwärts wehen 
+und somit zusätzlich die Brandausbreitung auf höher gelegenes Brandgut 
+fördern. Umgekehrt ist ebenfalls Vorsicht geboten, wenn brennende Vege­
+tationsreste hangabwärts rollen und eventuell im Rücken der Einsatzkräfte 
+Brände auslösen. Hinzu kommen verschiedene weitere Entwicklungen, 
+die die Brandbekämpfung an steilen Hängen für Einsatzkräfte besonders 
+gefährlich machen. Durch Hitzeeinwirkung kann Gestein porös und locker 
+werden. Die Gefahr durch plötzlichen Steinschlag nimmt bei Bränden 
+enorm zu. Lockeres Gestein und verbrannte Vegetation erschweren den 
+sicheren Halt und erhöhen die Gefahr des Abrutschens sowohl von Ein­
+satzkräften als auch von bereits verlegten Schlauchleitungen, die dann 
+wiederum eine Gefahr für die Einsatzkräfte darstellen können.
+7.2	
+Einsatztaktik
+Bei der Bekämpfung von Vegetationsbränden handelt es sich in der Regel 
+um den Schutz von Sachwerten und die Verhinderung der Ausbreitung. 
+Dabei hat die Sicherheit und Gesundheit der Einsatzkräfte oberste Prio­
+rität. Dies beeinflusst die Vorgehensweise bei der Vegetationsbrandbe­
+kämpfung, die sich somit in zwei grundsätzliche Arten unterteilen lässt.
+7.2.1 Offensives Vorgehen
+Das offensive Vorgehen bezeichnet das direkte Bekämpfen eines Brandes 
+bzw. des Feuersaumes sowie alle dazu notwendigen Unterstützungs­
+maßnahmen. Dies kann durch Bodenlöschkräfte mit Löschfahrzeugen, 
+durch Abwürfe von Löschwasser aus der Luft oder in Kombination 
+genannter Einsatzmittel erfolgen. Die taktische Vorgehensweise sollte 
+im Vorfeld, nach umfassender Erkundung, genau geplant werden. Die 
+zur Verfügung stehenden Einsatzmittel, die Feuerintensität mit Flam­
+menhöhe sowie die Ausbreitungsgeschwindigkeit und -richtung sollten 
+unbedingt als wichtige Kriterien in der Planung berücksichtigt werden. 
+Hieraus ergeben sich verschiedene taktische Möglichkeiten.
+Abb. 21
+Gefahr des Flam­
+menüberschlags 
+beim Frontalangriff
+Eigene Darstellung 
+nach Südmersen J.
+
+33
+7.2.1.1 Angriff auf die Flammenfront aus dem Grünbereich
+Zweck dieser Variante ist es, die Ausbreitung des Feuers schnellst­
+möglich zu verhindern. Eine Anwendung dieser taktischen Variante 
+sollte nur unter Beachtung der Windintensität und der Flammenhöhe 
+erfolgen. Der Einsatz verschiedener Handwerkzeuge, in Kombina­
+tion zueinander, sollte nur bei Flammenbildung bis zu Hüfthöhe 
+(max. 1,2 m) erfolgen. Ab dieser Größe müssen zusätzlich Strahlrohre, 
+angebunden an einen Verteiler, eingesetzt werden, um eine erfolgreiche 
+Brandbekämpfung durchführen zu können. Um auf die unkontrollierte 
+Ausbreitung der Flammenfront rechtzeitig reagieren zu können, sind 
+Fahrzeuge in Fluchtrichtung aufzustellen sowie die Verwendung von 
+formfesten Schnellangriffseinrichtungen zu unterlassen. 
+Lebensgefahr für die eingesetzten Einsatzkräfte besteht bei frontalen 
+Angriffen auf die Flammenfront aus dem Grünbereich, wenn die 
+Feuerintensität eine Flammenhöhe von über zwei Metern erreicht, 
+der Feuersaum sich mit großer Geschwindigkeit ausbreitet oder die 
+Flammenfront rechts und links an der Einheit vorbeiläuft und diese 
+einzuschließen droht.
+Nach dem erfolgreichen Angriff auf die Flammenfront erfolgt die Be­
+kämpfung der  Feuerflanken. Zum Schutz der Einsatzkräfte kann dies mit 
+der Windrichtung erfolgen. Der Schwerpunt beim Ablöschen der Flan­
+ken liegt in der Verhinderung einer weiteren Ausbreitung des Feuers. 
+Je nach Entwicklung der Einsatzlage, mit Brandausbreitung, Zugäng­
+lichkeit für Einsatzkräfte und weiteren für den Einsatz wichtigen Krite­
+rien, ist auch ein zunächst aus dem Grünbereich begonnener Angriff  
+auch auf eine Flanke möglich.
+Bei einem Angriff auf die Feuerfront aus dem Grünbereich ist grund­
+sätzlich die Wärmestrahlung und die Rauchintensität zu beachten. Die 
+Ausstattung des Angriffstrupps mit Kohlenmonoxid-Warngeräten ist 
+hierbei zu empfehlen.
+
+34
+Abb. 22
+1. Schritt; Angriff 
+aus Grünbereich 
+auf Front
+Abb. 23
+2. Schritt; Angriff 
+aus Grünbereich 
+auf Flanken
+Frontalangriff nur anwenden, wenn:
+	
+z
+Flammenlänge <= 2m
+	
+z
+Ausbreitungsgeschwindigkeit gering
+Gefahren:
+	
+z
+Ausbreitungs- und Einschlussgefahr
+	
+z
+Brandrauchinhalation der Einsatzkräfte
+Brandrauch kann Fahrtüchtigkeit des 
+Löschfahrzeugs beeinflussen!
+Sicherheitsmaßnahmen:
+	
+z
+Fahrzeug immer in Fluchtrichtung 
+positionieren
+	
+z
+Strahlrohr nur über Verteiler einsetzen
+	
+z
+Keine formstabilen Schnellangriffs­
+einrichtungen verwenden
+
+35
+7.2.1.2 Angriff auf die Flammenfront aus dem Schwarzbereich
+Die Flammenfront kann auch aus dem Schwarzbereich angegriffen wer­
+den. Abhängig von Ausbreitungsgeschwindigkeit und Flammenhöhe 
+kann dies die sicherste und effektivste Vorgehensweise sein. 
+Verschiedene Techniken, die grundsätzlich bei den Löschangriffen zur 
+Anwendung kommen können, werden im Kapitel „Einsatztechnik“ 
+dargestellt. 
+Abb. 24
+Angriff aus dem 
+Schwarzbereich
+
+36
+7.2.2 Defensives Vorgehen
+Wenn die Flammenlängen zu groß sind oder die topografischen Ge­
+gebenheiten eine direkte Brandbekämpfung nicht zulassen, besteht 
+die Möglichkeit, eine defensive Vorgehensweise zu wählen. Taktisches 
+Einsatzziel ist es, den Verbrennungsvorgang zu unterbrechen, indem 
+dem Feuer das Brandgut entzogen wird. Ein Vorteil dieser Variante ist 
+die relative Sicherheit der Einsatzkräfte, die nicht direkt in der Nähe 
+der Flammenfront arbeiten. Gefahr besteht trotzdem, da durch Wind 
+angefacht, Flugfeuer entstehen können, die in der Lage sind, defensive 
+Brandbekämpfungsmaßnahmen zu überspringen und die Kontrolle 
+über das Feuer zu erschweren.
+Entgegen der bei der Brandbekämpfung üblichen Annahme, dass 
+Riegelstellungen eine Variante des defensiven Vorgehens sind und 
+mit Hilfe von Wasser aus Strahlrohren gebildet werden, trifft diese 
+Vorgehensweise bei der Vegetationsbrandbekämpfung nur bedingt 
+zu. Im Gegensatz zu Gebäudebränden kann die Dimension von Vege­
+tationsbränden diese um ein Vielfaches übertreffen, was wiederum 
+dazu führt, dass ein erheblicher Mehrbedarf an Einsatzkräften, Material 
+und Löschwasser benötigt wird. Sollten die genannten Komponenten 
+zur Verfügung stehen, kann eine offensive Vorgehensweise gewählt 
+werden. Ausgehend von der Annahme, dass Knappheit bei den ge­
+nannten Einsatzmitteln herrscht und die genaue Ausbreitungsrichtung 
+langfristig nur schwer vorherzusagen ist, können verschiedene Vorge­
+hensweisen zu den defensiven Maßnahmen gezählt werden. 
+Neben dem anlegen von Wund- oder Schutzstreifen gehören zur de­
+fensiven Brandbekämpfung ebenfalls alle notwendigen Maßnahmen 
+(Wasserförderung, Wegebau, Versorgung, …), die diese taktische Vor­
+gehensweise unterstützen.
+Bei allen im weiteren Verlauf genannten defensiven Vorgehensweise 
+ist es wichtig, dass deren Wirksamkeit fortlaufend kontrolliert wird, 
+um bei Bedarf die Brandausbreitung durch zusätzliche Maßnahmen 
+eindämmen zu können. 
+7.2.2.1 Anlegen von Schneisen oder Wundstreifen
+Schneisen sind natürliche oder künstlich geschaffene Flächen (Wund­
+streifen, Brandriegel, Schutzstreifen), die frei von brennbarer Vegetation 
+und der dazugehörigen oberen Bodenschicht sind. Für die Umsetzung 
+von defensiven Einsatztaktiken ist es sinnvoll, natürliche bzw. topogra­
+phische Gegebenheiten (Straßen, Wege, Flüsse, Geländeformen, …) 
+auszunutzen. Die Erweiterung von bereits bestehenden Schneisen, 
+beispielsweise in Form von bereits vorhandenen Waldwegen, kann 
+
+37
+schon mit relativ geringem Aufwand erfolgen. Bei der Anlage oder 
+Erweiterung von Schneisen ist es wichtig, dass die Arbeiten beim 
+Auftreffen der Feuerfront soweit abgeschlossen sind, dass die weitere 
+Ausbreitung verteidigt werden kann. Ebenso wichtig ist die ausreichend 
+große Dimensionierung der Schneisen, vor allem bei windgetriebenen 
+Bränden, um ein überspringen des Feuers zu verhindern. Beim Anlegen 
+von Schneisen gilt die Faustformel, dass diese mindestens die doppelte 
+Breite der zu erwartenden Flammenhöhe haben müssen. 
+Das Anlegen von Wundstreifen kann auf unterschiedliche Art und 
+Weise erfolgen und richtet sich nach den örtlichen Gegebenheiten 
+(Vegetation, Zufahrt, verfügbares Gerät, …). Beim Einsatz von schwe­
+ren Gerätschaften ist darauf zu achten, dass auch der für den Feu­
+erwehreinsatz gewünschte Erfolg eintritt. Um den angesprochenen 
+Effekt sicherzustellen, muss im Vorfeld berücksichtigt werden, dass 
+die für den Zweck geeignete Maschinen eingesetzt werden und beim 
+Einsatz mit der notwendigen Sorgfalt die zu befreiende Fläche gerei­
+nigt wird. Um den gewünschten Erfolg sicherstellen zu können, wird 
+der Einsatz eines Beobachters bzw. Koordinators empfohlen, der die 
+Arbeiten anleitet und überwacht. Bei Bedarf ist die Nachbearbeitung mit 
+Handwerkzeugen notwendig. Grundsätzlich muss die Kombination des 
+Einsatzes verschiedener Gerätschaften – maschinell betriebene Geräte 
+und Handwerkzeuge, aber auch verschiedene Handwerkzeuge – bei der 
+Planung berücksichtigt werden.
+Abb. 25
+Wundstreifen
+
+38
+Vorgehensweise zum Anlegen von großen Schneisen4:
+1.	 Anlegen einer Linie (Leit-Wundstreifen), die nach und nach verbrei­
+tert wird
+2.	 Schaffung eines Walls, wobei das aufgeschobene, brennbare Ma­
+terial auf der vom Feuer abgewandten Seite liegt
+3.	 Errichtung einer Behelfsstraße hinter dem aufgeschobenen Wall 
+zur Absicherung der Feuerschneise 
+4.	 Auswahl geeigneter Fahrzeuge (geländegängig) zum Befahren 
+der Behelfsstraße mit Ausrüstung zur Selbsthilfe (Abschleppseil, 
+Motorkettensäge, …)
+Mögliche Gerätschaften zum Anlegen von Schneisen:
+	
+z
+Maschinell betriebene Gerätschaften: Panzer, Baumaschinen 
+(Bagger, Raupen, …), Forstmaschinen (Holzvollernter, …), Land­
+wirtschaftliche Maschinen (Pflug, Scheibenegge, Grubber, …), 
+Bodenfräsen, Motorkettensägen, …
+	
+z
+Spaten, Schaufel, Wiedehopfhacke, Feuerpatsche, Pulaski-Axt, 
+Gorgui, Löschrucksack, …
+Feuer kann bei entsprechenden Gegebenheiten, durch die Errichtung 
+von Wundstreifen auch gezielt in eine Richtung gelenkt werden. Läuft 
+das Feuer am Ende auf ein festes Hindernis auf, so dass ihm keine 
+Möglichkeit der weiteren Ausbreitung geboten wird, erlischt dieses 
+ohne weitere Bekämpfung. Solche Hindernisse können Flüsse oder 
+Seen sein. Auch gezielt abgebrannte Flächen, die zusätzlich bewässert 
+werden, können hierzu herangezogen werden.
+7.2.2.2 Schutzstreifen
+Im Gegensatz zu den bisher angesprochenen Schneisen bleibt bei 
+Schutzstreifen die Vegetation unangetastet. Durch ständiges Benässen 
+oder auch Einschäumen wird die Vegetation so stark durchfeuchtet, 
+dass diese nur schwer entflammbar ist. 
+4 Vgl. Cimolino Dr. 
+Ulrich, et al; Vegeta­
+tionsbrandbekämp­
+fung. Grundlagen, 
+Taktik, Ausrüstung, 
+Düsseldorf 2015.
+
+39
+Flammenlänge
+Einsatzhinweise
+Hüfthöhe: 
+ca. 1,2 m
+Einsatz von Handwerkzeugen (Kleinlöschgeräte, 
+Feuerpatschen, Schaufeln, …) möglich
+Mannshöhe: 
+bis ca. 2 m
+Einsatz von Strahlrohren (D- oder C- Strahlrohr) 
+sinnvoll
+Ab ca. 2 m
+Bekämpfung der Feuerfront, wenn überhaupt, 
+nur mit mehreren Strahlrohren und ausreichend 
+Löschwasser möglich. Auf die Sicherheit der 
+Einsatzkräfte ist hier besonders zu achten
+Über 3 m
+Extreme und schnelle, oftmals unkontrollierte 
+Brandausbreitung möglich. Unbedingt eine 
+defensive Einsatztaktik erwägen
+Abb. 26
+Flammenhöhe 
+(Mannshöhe)
+Tabelle 5
+Einsatzhinweise 
+nach Flammenlänge
+7.3 
+Techniken bei der Vegetationsbrandbekämpfung
+Verschiedene Einflussfaktoren wie beispielsweise der Bewuchs, die 
+Geländeform und die Windverhältnisse sind entscheidend für die 
+Wahl der Einsatzmittel zur Bekämfpung von Vegetationsbränden. Vor 
+allem der Bewuchs in Kombination mit den vorherrschenden Wind­
+verhältnissen beeinflussen die Flammenlängen, die letztendlich ein 
+entscheidender Faktor für die Wahl der taktischen Vorgehensweise und 
+der Einsatzmittel sind. 
+Im Allgemeinen kann von folgender Faustformel ausgegangen werden:
+
+40
+7.3.1 Einsatz von Handwerkzeugen
+Zur Standardbeladung von Feuerwehrfahrzeugen, die einer Norm 
+entsprechen, gehört eine Vielzahl an Handwerkzeugen, die sich bei 
+der Vegetationsbrandbekämpfung einsetzen lassen. Hierzu gehören 
+Geräte zum Graben, Schaufeln und Werfen von Sand und Boden, 
+aber auch zum Hacken, Trennen und Zerkleinern sowie zum Löschen. 
+Ergänzt werden können diese Gerätschaften um verschiedene weitere 
+Ausrüstungsteile, die sich bei weltweiten Einsätzen bewährt haben 
+oder aus dem Beladungssatz „Waldbrand“ nach DIN 14800,18 Beiblatt 
+10.  stammen (Siehe hierzu Kapitel 5.3 Gerätschaften des Bewuchses).
+Grundsätzlich lassen sich zur Entfernung oder zum Sand- oder Boden­
+wurf viele Gerätschaften mehr oder weniger optimal verwenden, die 
+zur Normbeladung von Feuerwehrfahrzeugen gehören. 
+Die Anlage von Wundstreifen mit Hilfe von Handwerkzeugen ist ein 
+mühsamer Prozess, der den effizienten Einsatz von Werkzeug und 
+Personal erfordert. Schaufeln und vor allem Spaten mit möglichst 
+spitzem und scharfem Blatt eignen sich besonders gut zur Lockerung 
+von Böden, vor allem wenn diese mit fein verzweigtem Wurzelwerk 
+durchzogen sind. 
+Abb. 27
+Schaufeln und 
+Spaten
+
+41
+Weitere, speziell für die Anlage von Wundstreifen geeignete Hack- oder 
+Räumwerkzeuge sollten in sinnvoller Kombination eingesetzt werden, 
+um möglichst schnell und energieschonend zum Einsatzziel zu kom­
+men. Hierbei ist vor allem die Reihenfolge des Einsatzes von Hack- und 
+anschließenden Räumwerkzeugen zu beachten.
+Abb. 28
+Pulaski-Axt, Gorgui-
+Tool, Wiedehopf­
+haue, McLeod-Tool, 
+Dunghacke
+Abb. 29
+Einsatz von Feu­
+erwehrdienst­
+leistenden mit 
+verschiedenen 
+Handwerkzeugen 
+beim Anlegen eines 
+Wundstreifens.
+Trupp 1 beginnt mit der Bodenbearbeitung für einen Wundstreifen. 
+Trupp 2 beginnt an der gleichen Stelle wie Trupp 1 und setzt die 
+Anlage des Wundstreifens fort. Trupp 3 ...
+
+42
+Brände bis zu einer Flammenhöhe von ca. 1,2 m müssen – vor allem 
+im Gelände, welches durch Fahrzeuge nur schwer bis überhaupt nicht 
+erreichbar ist – mit einer Kombination verschiedener Handwerkzeuge 
+und Kleinlöschgeräte effizient bekämpft werden.Vor allem bei Bränden 
+auf harten Böden, Mooren, Gras- und Heideflächen können zusätzlich 
+zum Sand- und Erdwurf mittels Schaufeln, Feuerpatschen eingesetzt 
+werden. Mithilfe von Feuerpatschen können Flammen ausgewischt 
+bzw. ausgefegt oder ausgedrückt werden, wobei bei letzterem der 
+Vorteil darin besteht, dass auf diese Weise das Feuer erstickt wird und 
+der Funkenschlag weitestgehend vermieden wird. Die genannten 
+Löschmethoden können durch Abkühlen des Feuers mit Hilfe von 
+Wasser, mitgeführt in Kleinlöschgeräten, ergänzt werden. Zu den ge­
+nannten Kleinlöschgeräten gehören die Kübelspritze, Löschrucksäcke, 
+Löschwesten oder ähnliche Löschgeräte. Um die gezielte Aufbringung 
+von Wasser zu ermöglichen, ist oftmals der zusätzliche Einsatz von 
+Hack- und Räumwerkzeugen sinnvoll. Als geeignete Mittel können 
+hierbei neben Schaufeln und Spaten, vor allem die aus der Forstwirt­
+schaft stammende Wiedehopfhacke, die Dunghacke, aber auch die aus 
+den USA stammende Pulaski-Waldbrandaxt verwendet werden. Für 
+eine effiziente Brandbekämpfung ist immer ein gleichzeitiger Einsatz 
+mehrerer Handwerkzeuge sinnvoll.
+Handwerkzeuge sind sowohl zur direkten Bekämpfung von Vegetati­
+onsbränden als auch für Nachlöscharbeiten geeignet. Die Kombination 
+von Kleinlöschgeräten, beispielsweise Löschrucksäcke, mit Hack- und 
+Räumwerkzeugen wie Wiedehopfhacke, Dunghacke, Schaufeln und 
+Spaten, usw. ist je nach Beschaffenheit von Vegetation und Boden für 
+den gewünschten Löscherfolg sowohl sinnvoll als auch notwendig.
+Hinzu kommt, dass je nach Vegetation und Bodenbeschaffenheit Glut­
+nester versteckt vorkommen können. Die Verwendung von Wärme­
+bildkameras erleichtert das Auffinden von verborgenen Brandherden 
+und ermöglicht deren gezielte Bekämpfung. An Einsatzstellen größerer 
+Dimension helfen Wärmebildkameras, um bei Bedarf eine Übersicht 
+über das Schadensgebiet zu bekommen oder um die Entwicklung von 
+Bränden zu beobachten. Hierzu eignen sich Luftfahrzeuge, ausgestattet 
+mit Wärmebildkameras, beispielsweise Drohnen oder Einsatzmittel der 
+Bayerische Polizeihubschrauberstaffel. Auch der Einsatz eines Beobach­
+tungspostens im Verbund mit einer Drehleiter oder Hubrettungsbühne 
+kann hierbei hilfreich sein.
+
+43
+Abb. 30 und 31
+Anlegen eines 
+Wundstreifens
+
+44
+7.3.2 Einsatz von wasserführenden Löschfahrzeugen
+Bei Vegetationsbränden mit ausreichenden  Zu- und Abfahrtmöglichkeiten 
+ist der Einsatz von Löschfahrzeugen verschiedener Bauart möglich. In der 
+Eintreffphase muss der Einheitsführer zunächst ausführlich erkunden, um 
+einen geeigneten Ankerpunkt zu finden. Hierbei ist die Tragfähigkeit des 
+Bodens zu prüfen und der Aufstellbereich des Fahrzeugs im Bedarfsfall 
+von Glutnestern zu befreien. Ausgehend von den an der Einsatzstelle 
+vorherrschenden Gefahren kann dann mit Hilfe unterschiedlichster Lösch­
+techniken, die Brandbekämpfung beginnen. Vor allem im Bereich der 
+offensiven Einsatztaktik gibt es hierzu verschiedene Vorgehensweisen, die 
+in dynamische und statische Vorgehensweisen unterteilt werden können.
+Die dynamische Löschtechnik in der Vegetationsbrandbekämpfung zeichnet 
+sich dadurch aus, dass sich das Fahrzeug bei der Brandbekämpfung nahezu 
+gleich mit der Löschmannschaft mitbewegt. Beim dynamischen Vorgehen 
+werden D-Schläuche verschiedener Längen direkt am Fahrzeug bzw. an 
+der sich im Fahrzeug befindlichen Tragkraftspritze angeschlossen. Zum 
+Einsatz dieser Schlauchgrößen sind geeignete Reduzierstücke oder auch 
+direkt ein Verteiler zwischen Schlauch und Fahrzeug zu schließen. Hierzu 
+gibt es verschiedene Varianten, die nachfolgend kurz erläutert werden: 
+Pump & Roll-Betrieb bzw. fahren mit gleichzeitig arbeitender Trag­
+kraftspritze:
+Bei der genannten Varianten fördern sowohl die Einbaupumpe als 
+auch die Tragkraftspritze Löschwasser, während sich das dazugehö­
+rige Löschfahrzeug gleichzeitig vorwärts bewegt. Die Besatzung des 
+jeweiligen Fahrzeugs übernimmt Aufgaben zur Brandbekämpfung in 
+Kombination mit Löschwasser und Handwerkzeugen. Die jeweilige 
+Einheit wird vom Einheitsführer angeleitet, der auch, im Kontakt mit 
+dem Fahrer stehend, die Fortbewegungsgeschwindigkeit vorgibt.
+Abb. 32
+Pump & Roll-Betrieb 
+einer Staffel
+
+45
+Bei der Raupentechnik arbeitet der Angriffstrupp mit einem 30 m D-
+Schlauch. Auf Zeichen des Einheitsführers bewegt sich das Löschfahr­
+zeug in die gewünschte Richtung. Während des Fahrbetriebes befindet 
+sich die Einbaupumpe im abgeschalteten Zustand. Erst wenn das 
+Löschfahrzeug zum Stehen kommt, schaltet der Maschinist die Pumpe 
+zu und der Angriffstrupp kann mit dem Löschvorgang beginnen.
+Der Vorgang wiederholt sich immer wieder bis der Löscherfolg eingetre­
+ten oder das Löschmittel verbraucht ist. Dieser ist bei allen offensiven 
+Varianten zu beachten.
+Ebenso sind Kombinationen von wasserführenden Fahrzeugen, mit 
+verschiedensten Löschtechnikvarianten möglich. 
+Abb. 33
+Raupentechnik
+einer Löschgruppe
+
+46
+Abb. 35
+Zangenangriff  
+auf die Flanken 	
+aus dem 
+Schwarzbereich
+Das Aufrollen der 
+Flanken erfolgt zu­
+nächst vom sicheren 
+Ankerpunkt aus. Durch 
+den Einsatz weiterer 
+Schläuche kann auch 
+die gegenüberliegende 
+Flanke erreicht wer­
+den. Hierdurch wird 
+die Brandbekämpfung 
+des kompletten Flam­
+mensaumes möglich.
+Abb. 34
+Zangenangriff aus 
+dem Grünen über
+die Flanken
+Variante ist anzu­
+wenden bei ähnlicher 
+Zugänglichkeit an 
+beiden Flanken und 
+gleicher Schlagkraft 
+der Fahrzeuge. 
+Vorsicht: erhöhter 
+Koordinationsbedarf!
+
+47
+Bei der statischen Vorgehensweise handelt es sich um eine Technik, bei 
+der die Löschmannschaften vorwiegend eine Brandbekämpfung mit 
+Wasser durchführen, welches vom Ankerpunkt aus über Druckschläu­
+che verschiedener Größe und Anzahl verteilt wird. Der Ankerpunkt 
+ist die taktisch sinnvolle Position von der aus eine Brandbekämpfung 
+unter Beachtung des Eigenschutzes eingeleitet werden kann. An die­
+sem Ort lässt sich entweder ein Löschwassersammelbehälter, der im 
+Pendelverkehr befüllt wird oder ein Verteiler mit mehreren Einspeise­
+möglichkeiten positionieren. Falls zur Entnahme des Löschwassers 
+ein Löschfahrzeug stationiert wird, sollte der Eigenschutz entweder 
+mit Hilfe von Wasser aus dem Fahrzeugtank oder mit einer Rest­
+menge von 300 – 400 l aus dem Sammelbecken bei Bedarf über die 
+Schnellangriffseinrichtung oder einem anderen dafür bereitgestellten 
+Schlauch möglich sein. 
+Abb. 36
+Tandemangriff  
+aus dem Grünen 	
+auf die Flanke
+1. Fahrzeugbesat­
+zung schlägt Flam­
+men nieder (gerin­
+gerer Tankinhalt).
+2. Fahrzeugbesat­
+zung übernimmt 
+Nachlöscharbeiten.
+Variante ist anzu­
+wenden bei hef-
+tiger Feuerintensität 
+einer Flanke bei 
+erhöhter Ausbrei­
+tungsgefahr oder 
+unterschiedlicher 
+Schlagkraft der 
+beiden Fahrzeuge.
+
+48
+Abb. 37
+Kaskadenaufbau mit 
+Angriff auf die Flam­
+menfront aus dem 
+Schwarzbereich
+Abb. 38
+Kaskadenaufbau mit 
+Angriff auf die Flam­
+menfront aus dem 
+Grünbereich 
+(Achtung Rauchaus­
+breitung beachten)
+
+49
+Abb. 39
+Riegelstellung mit 
+Tanklöschfahrzeugen 
+nach franz. Vorbild
+(Achtung Rauchaus­
+breitung beachten)
+7.3.3 Brandbekämpfung bei Bränden im Boden
+Je nach Bodenbeschaffenheit und -zusammensetzung, kann es zu 
+Bränden direkt im Boden kommen oder sich über das Wurzelwerk der 
+dort vorherrschenden Vegetation ausbreiten und wieder nach oben 
+durchdringen. 
+Brände unter der Erdoberfläche bilden oftmals überhaupt keine Flam­
+men und lassen sich aus diesem Grund nur schwer lokalisieren. Solche 
+Brände können oftmals Tage- oder Wochen brennen, bevor diese ent­
+deckt werden und sich somit relativ unkontrolliert ausbreiten.
+Häufig entstehen solche Brände an Orten mit sandigen Böden, auf 
+Grund geringer Wasserspeicherfähigkeit oder in Moorgebieten, wo es 
+zum Brand trockener Torfflächen kommen kann. 
+Hilfreich ist hierbei eine genaue Erkundung mit der Wärmebildkamera, 
+um mögliche Brandbereiche lokalisieren zu können. Im Anschluss kann 
+dann der Boden mit Hilfe von Löschnägeln abschnittsweise geflutet wer­
+den, wobei auch hier zunächst die Ausbreitung verhindert werden sollte. 
+Alternativ oder auch ergänzend kann Wasser versetzt mit Netzmitteln ver­
+wendet werden, welches tiefer in die Bodenschichten eindringen kann.
+Im Bedarfsfall ist der Einsatz von Baumaschinen zu prüfen, mit denen 
+die Brandstellen aufgegraben werden können.
+
+50
+7.4 
+Luftarbeit bei der Brand-, Unfall- und Katastrophenhilfe
+Ausschlaggebend für den vorbeugenden Einsatz von Fluggeräten ist 
+der Waldbrandgefahrenindex WBI. Dieser beschreibt das meteoro­
+logische Potential für die Gefährdung durch Waldbrand. Er zeigt die 
+Gefahr in 5 Gefahrenstufen an. In Bayern werden ab einer bestimmten 
+Gefahrenstufe Beobachtungsflüge seitens der Regierungen ange­
+ordnet. Partner hierbei ist die Flugbereitschaft der Luftrettungsstaffel 
+Bayern e. V., die Piloten und Flugzeuge stellt. Auf diese Art und Weise 
+können Brände bereits in der Entstehungsphase entdeckt werden. 
+Nach der Entdeckung können die Einsatzkräfte am Boden durch ge­
+schulte Einsatzkräfte im Flugzeug (Luftbeobachter) gelenkt werden. 
+Auch bei bereits bestehenden Einsätzen kann die Einsatzleitung am 
+Boden wichtige Informationen zur Lagebeurteilung durch Beobach­
+tungsflüge erhalten.
+Löschflugzeuge werden in Deutschland nicht eingesetzt und stehen auch 
+nicht zur Verfügung. Die direkte Brandbekämpfung aus der Luft findet in ganz 
+Deutschland mittels Hubschrauber statt. Hinzu kommen noch Tätigkeiten, 
+die man der indirekten Brandbekämpfung aus der Luft zuordnen kann. 
+Für das komplexe Zusammenspiel zwischen Feuerwehr und Hubschrau­
+berbesatzung gibt es speziell in Bayern sogenannte Flughelfergruppen. 
+An strategisch verteilten Standorten kann auf staatlich beschaffte Lösch­
+wasser-Außenlastbehälter mit unterschiedlichem Fassungsvermögen 
+sowie Material und  Tätigkeiten mit Hubschrauber zugegriffen werden.
+Abb. 40
+Flughelfer SFS-W
+
+51
+7.4.1 Direkte (Aktive) Brandbekämpfung aus der Luft
+Hier erfolgt die Bekämpfung des Brandes durch den direkten Abwurf 
+von Löschwasser aus Hubschraubern mit Löschwasser-Außenlast­
+behältern (LAB) auf die Brandstelle selbst oder auf bzw. vor die 
+Randzonen der Brandstelle. Löschwasserabwürfe erfolgen durch 
+Einsprechen mittels Funk vom Boden durch geeignete Flughelfer 
+oder in Ausnahmefällen von Bord eines einweisenden Luftfahrzeugs 
+(z. B. Polizeihubschrauber mit Wärmebildkamera). Unmittelbare Rück­
+meldungen an die fliegenden Besatzungen über Treffer oder Fehlab­
+würfe haben jeweils zu erfolgen.
+Bester Erfolg ist als Regenabwurf aus 40 bis 90 m Höhe bei Geschwin­
+digkeiten von 30 bis 50 km/h. (Ausbringung 0,5 bis 2 l Wasser je m²) 
+zu erwarten.
+Die Hubschrauber versuchen in der Regel offene Gewässer für das 
+Befüllen der Außenlastbehälter zu nutzen. Befinden sich keine ge­
+eigneten Entnahmestellen im Einzugsbereich der Brandstelle, kann 
+eine vorgelagerte Wasserumschlagstelle für Hubschrauber aufgebaut 
+werden. Hierfür werden große Auffangbehälter für Löschwasser vor­
+gehalten. Diese Behälter werden durch eine lange Schlauchstrecke, 
+Pendelverkehr mit TLF oder auch durch direktes Einspeisen aus dem 
+öffentlichen Netz mit Wasser gespeist. Die Hubschrauber entnehmen 
+aus diesem Auffangbehälter ihr Löschwasser für die Außenlastbehäl­
+ter. Der Auffangbehälter muss so dimensioniert sein, dass auch eine 
+kurze Unterbrechung der Wasserversorgung überbrückt werden kann. 
+Bei der Brandbekämpfung sollte immer der Grundsatz berücksichtigt 
+werden, dass jeder Löscheinsatz aus der Luft letztlich immer zur Un­
+terstützung der von Kräften am Boden erfolgt und von diesen begleitet 
+werden muss. Die Koordination der Kräfte aus der Luft und am Boden 
+sollte aus diesem Grund immer durch Flughelfereinheiten erfolgen. 
+Die Bodenkräfte sind notwendig, um den Löscherfolg aus der Luft zu 
+kontrollieren und durch Nachlöscharbeiten erfolgreich beenden zu können. 
+
+52
+7.4.2 Indirekte (Passive) Brandbekämpfung aus der Luft
+Hier stellen die Luftfahrzeugbetreiber und die Flughelfer alle fliegeri­
+schen Maßnahmen darauf ab, um den Feuerwehreinsatzkräften am 
+Boden die erforderliche Ausrüstung und das erforderliche Löschwasser 
+zur Verfügung zu stellen. Damit können diese eine effektive bodenge­
+bundene Brandbekämpfung durchführen. Zur indirekten Brandbekämp­
+fung zählt auch der Lufttransport von Feuerwehreinsatzkräften sowie 
+das Absetzen oder Aufnehmen derselben mittels Rettungswinde oder 
+Bergetau in unwegsamen Gebieten. Weiterhin gehört die Überwachung 
+der Löschmaßnahmen bzw. der Brandausbreitung durch luftgestützte 
+Wärmebildsysteme bzw. Videokameras (EOS) dazu. 
+Abb. 41
+Materialtransport
+
+53
+7.4.3 Anforderungen an Wasserentnahmestellen und Landeplätze
+	
+z
+Wassertiefe der Entnahmestelle mindestens 1,5 m bis 3,0 m (je nach 
+Behältergröße), frei von Schlamm, Fremdkörpern, Hindernissen, 
+Bewuchs und Strömung
+	
+z
+Landeplatzgröße mindestens 35 x 35 m für Außenlastbehälter bis 
+900 l, darüber hinaus mindestens 50 x 50 m ebenes Gelände
+	
+z
+keine Senken
+	
+z
+Bewuchs nicht höher als ca. 30 cm
+	
+z
+Landeplatz und nächste Umgebung frei von losem Material
+	
+z
+mit Fahrzeugen gut erreichbar!
+	
+z
+keine Freileitung in der Nähe!
+	
+z
+Annäherung an den Hubschrauber (nach Stillstand der Rotoren) 
+nur von vorn bzw. seitwärts vorn!
+Weitere Informationen zur Zusammenarbeit von Feuerwehr und Luft­
+fahrzeugbetreibern in Bayern sind im nachfolgend genannten Leitfaden 
+auf der „Feuerwehr-Lernbar.bayern“ zu finden: 
+Merkblatt 6.010„Leitfaden für die Zusammenarbeit von Feuerwehr und 
+Luftfahrzeugbetreibern in Bayern“ 
+Abb. 42
+Wasseraufnahme
+
+54
+7.5 
+Löschwasserversorgung und Sonderlöschmittel
+Wie bei allen Bränden der Brandklasse A eignet sich auch bei Vegeta­
+tionsbränden Wasser als Löschmittel.
+Da bei diesen Einsatzlagen meist eine große Menge Wasser zur Verfü­
+gung stehen muss, sollten bereits bei der Einsatzplanung bestimmte 
+Vorbereitungen getroffen werden:
+	
+z
+Löschwasserentnahmestellen erkunden, die auch bei großer 
+Trockenheit nutzbar sind
+	
+z
+Leichte Zugänglichkeit und Entnahmemöglichkeiten prüfen
+	
+z
+Wasserförderung über lange Schlauchstrecken planen 
+(Schlauchlänge, Höhenunterschiede, Standorte der Pumpen)
+	
+z
+Umschlagstellen festlegen 
+	
+z
+Weiterführende Infos auf der Feuerwehr-Lernbar.bayern:
+	›
+MB 5.008„Wasserförderung über lange Schlauchstrecken", 
+Staatliche Feuerwehrschulen Bayern
+	›
+MB 5.002„Löschmittel – Löschverfahren“, Staatliche Feuerwehr­
+schulen Bayern
+	›
+„Umweltschonender Einsatz von Feuerlöschschäumen“, StMi, 
+StMG, LfU, Staatliche Feuerwehrschulen Bayern
+7.5.1 Löschwasserversorgung
+Je nach Einsatzlage ist es häufig der Fall, dass zunächst die Ausbreitung 
+der Flammenfront bevorzugt mit Tanklöschfahrzeugen gebremst wird. 
+Für effektive Nachlöscharbeiten ist eine ausreichende Versorgung der 
+Einsatzstelle mit Löschwasser notwendig. Darüber sollte der Einsatzlei­
+ter sich bereits in einer frühen Phase eines Einsatzes Gedanken machen. 
+Die örtlichen Gegebenheiten sind ausschlaggebend für die Wahl der 
+verwendbaren Einsatzmittel und die Art und Weise der Löschwasser­
+versorgung. Vor allem bei Vegetationsbrandlagen mit zum Teil schwer 
+zugänglichen Bereichen haben sich kleine, wendige Tanklöschfahrzeuge 
+in der Brandbekämpfung bewährt. Unnötig lange Anfahrtswege zur Auf­
+nahme von Löschwasser wären in solchen Situationen kontraproduktiv. 
+Ähnliches gilt für solche Einsatzlagen, die nur fußläufig erreichbar sind 
+und somit eine Brandbekämpfung lediglich von Einsatzkräften zu Fuß 
+vorgenommen werden muss. Die Einrichtung einer langen Löschwas­
+serförderstrecke ist sehr zeit- und personalintensiv. Deren Aufbau sollte 
+in Abhängigkeit von der Länge der Schlauchleitung im Vorfeld genau 
+geprüft werden. Als Übergabestelle von Löschwasser an Einheiten, die 
+an der direkten Brandbekämpfung beteiligt sind, eignen sich mobile 
+
+55
+Löschwasserbehälter, die ebenso mittels Großtanklöschfahrzeugen, 
+Pump- und Güllefässern, sonstigen wasserführenden Fahrzeugen 
+beispielsweise aus dem Baugewerbe oder auch mittels Hubschraubern 
+befüllt werden können. 
+In Abhängigkeit von der Entfernung der nächsten Wasserentnahmestel­
+le, den Zufahrtsmöglichkeiten zur Einsatzstelle und den zur Verfügung 
+stehenden Mitteln, gibt es verschiedene Varianten zum Aufbau einer 
+funktionierenden Löschwasserversorgung. Da nahezu jede Varian­
+te größeren Umfangs einen hohen Aufwand an Koordination und 
+Kommunikation darstellt, hat sich die Einrichtung eines eigens dafür 
+verantwortlichen Abschnittsleiters bewährt.
+Abb. 43
+Einfacher Pendelver­
+kehr mit Tanklöschfahr­
+zeugen und direkter 
+Einspeisung
+Quelle:
+eigene Darstellung 
+nach D. Püttner
+
+56
+Abb. 44
+Einfacher Pendel-
+verkehr mit Tank-
+löschfahrzeugen und 
+Löschwasserbehälter
+
+57
+Abb. 45
+Doppelter Pendel-
+verkehr mit Tank-
+löschfahrzeugen
+
+58
+Abb. 46
+Löschwasser-
+versorgung durch 
+Hubschrauber
+
+59
+Abb. 47
+Löschwasser-
+versorgung für
+Hubschrauber
+
+60
+Checkliste zur Einrichtung der Wasserversorgung:
+	
+z
+Ausreichend Personal für Einrichtung und Betrieb einer 
+Wasserentnahmestelle
+	
+z
+Ausreichend Personal für Einrichtung und Betrieb von Übergabe­
+stellen
+	
+z
+Einrichtung von Zu- und Abfahrtswegen bzw. Wartezonen
+	
+z
+Einweisungsposten an Zufahrtswegen bzw. Wartezonen
+	
+z
+Möglichst getrennte Zu- und Abfahrtswege festlegen
+	
+z
+Großfahrzeuge für den Pendelverkehr nutzen
+	
+z
+Kleine, wendige Löschfahrzeuge für die Brandbekämpfung 
+verwenden
+7.5.2 Wasser mit Zusätzen
+Für bestimmte Einsatzbereiche kann die Löschwirkung von Wasser 
+durch Löschmittelzusätze verbessert werden. Dies können z. B. Salze 
+mit flammenhemmender Wirkung sein, die dem Löschwasser für die 
+Bekämpfung von Vegetationsbränden aus der Luft beigemischt werden. 
+Verdickungsmittel (Gelbildner) werden gelegentlich eingesetzt, um ein 
+besseres Anhaften des Löschwassers am Brandgut und damit einen län­
+ger anhaltenden Kühleffekt zu erzielen, können aber zu Problemen beim 
+Wasserfluss in der Strahlrohrstrecke führen. Löschmittelzusätze dieser 
+Art sind bei öffentlichen Feuerwehren in Deutschland kaum gebräuchlich.
+Deutlich häufiger kommen Netzmittelzusätze (Tenside) zum Einsatz, die 
+dem Wasser in geringer Menge zugesetzt werden, um die Oberflächen­
+spannung des Wassers zu reduzieren und ein besseres Eindringen des 
+Wassers in die Poren des Brandgutes, besonders bei gepressten, z. B. 
+Ballen aus Baumwolle oder Stroh, oder schlecht benetzbaren Mate­
+rialien der Brandklasse A (z. B. Braunkohle, tief im Boden befindliche 
+Glutnester) zu ermöglichen. Dadurch wird der Anteil des Wassers, der 
+löschwirksam verdampft, erhöht und Wasserschäden bzw. Kontamina­
+tionsschäden können durch effizienteren Löschwassereinsatz minimiert 
+werden. Der benetzende Effekt wird durch die Zumischung geringer 
+Mengen von Schaummittel erreicht, die die Oberflächenspannung des 
+Wassers verringern. Es wird Class-A-Schaummittel oder Mehrbereichs­
+schaummittel mit einer Zumischrate < 1 %, typischerweise im Bereich 
+von 0,1 – 0,5 %, abhängig von Schaummitteltyp und -hersteller, ein­
+gesetzt. Das Schaummittel wird meist mit einer Druckzumischanlage 
+im Löschfahrzeug zugemischt. Bei Verwendung eines Z-Zumischers 
+ist ein zusätzliches Dosierventil erforderlich, das die Einstellung von 
+
+61
+⁵ Die Angaben beru­
+hen auf dem Stufen­
+konzept – Entschei­
+dungshilfe zum 
+Schaumeinsatz- aus 
+„Umweltschonen-
+der Einsatz von 
+Feuerlöschschäu­
+men“, herausge­
+geben von: Bayer. 
+Staatsministerium 
+des Innern, Bayer. 
+Staatsministerium 
+für Umwelt und Ver­
+braucherschutz.
+Zumischraten < 1 % ermöglicht. Netzwasser wird wie Löschwasser 
+mit den üblichen Mehrzweck- oder Hohlstrahlrohren ausgebracht, 
+eine Verschäumung mit Luft findet nicht statt. Die Löschwirkung von 
+Netzwasser beruht somit auf dem Kühleffekt des Wassers.5
+Druckluftschaum wird häufig mit der Abkürzung CAFS (engl. Com­
+pressed air foam system) bezeichnet. Die Besonderheit bei Druck­
+luftschaum besteht darin, dass der Schaum bereits im Löschfahrzeug 
+mit einer CAFS-Anlage, bestehend aus Feuerlöschkreiselpumpe, 
+Druckzumischanlage für das Schaummittel und einem Druckluftkom­
+pressor, hergestellt wird und als Luftschaum durch die Schlauchlei­
+tung zum Strahlrohr gefördert wird. Als Strahlrohr wird ein spezielles 
+CAFS-Strahlrohr (Rundstrahlrohr) oder ein Hohlstrahlrohr mit hohem 
+Wasserdurchfluss im Vollstrahl eingesetzt. Es entsteht ein fester, fein­
+poriger Schaum, der gut an senkrechten Oberflächen haftet. Je nach 
+Wasseranteil wird der Schaum als „trocken“ oder „nass“ bezeichnet. 
+Druckluftschaum wird vorwiegend mit Class-A-Schaummittel erzeugt 
+und aufgrund seiner Haftfähigkeit sowie seiner kühlenden und benet­
+zenden Wirkung für Brände der Brandklasse A mit dem Ziel eingesetzt, 
+Löschwasserschäden zu minimieren.
+Der Druckluftschaum bietet verschiedene Vor- und Nachteile:
+Vorteile:
+	
+z
+Verzögerungsfreier Einsatz (kein Aufbau einer Schaumrohrstrecke)
+	
+z
+Gewichtsreduzierung der Schläuche durch Luftanteil des Schaums
+	
+z
+Effizientere Nutzung des Löschwassers
+	
+z
+Durch schnelleren Löscherfolg fallen geringere Mengen an Verbren­
+nungsprodukten und kontaminiertem Löschwasser an 
+Nachteile:
+	
+z
+Aufwendige und mit hohen Kosten verbundene Technik
+	
+z
+Zusätzlicher Ausbildungs- und Wartungsaufwand
+	
+z
+Beachtung des getrennten Einsatzes von Schaum und Wasser
+	
+z
+Knicke in der Schlauchleitung können die Wurfweite beeinträchtigen
+
+62
+7.6 
+Kommunikation
+Es muss ständig der Kontakt zwischen den Einsatzkräften und der 
+Einsatzleitung vorhanden sein! 
+Besteht keine ständige Verbindung, ist die Gefahr groß, von Lageän­
+derungen überrascht zu werden, da sich Vegetationsbrände dynamisch 
+verhalten. Falls die Netzabdeckung nicht gewährleistet ist kann durch 
+Netzerweiterungsmaßnahmen Abhilfe geschaffen werden. Eine Mög­
+lichkeit, um ein Gespräch, aus einer Zone ohne Netzanbindung, ins BOS 
+Digitalfunknetz überzuleiten wäre die Schaltung eines Gateways. Dazu 
+muss ein Gatewayfähiges Endgerät entsprechend geschaltet werden. 
+Für die Gateway-Funktion kommen ausschließlich Fahrzeugfunkgeräte 
+(MRT) zum Einsatz. Das sich im Gateway-Modus befindliche MRT kann 
+dann für andere Kommunikationszwecke nicht verwendet werden, 
+solange die Gateway-Schaltung aktiv ist.
+Sollte der komplette Funkverkehr an der Einsatzstelle ohne Netzanbin­
+dung im Einsatzstellenbereich im DMO-Betrieb abgewickelt werden, 
+kann zur Reichweitenerweiterung ein Repeater zum Einsatz kommen. 
+Man muss beachten, dass pro genutzter DMO-Gruppe nur ein Repeater 
+geschaltet werden kann.
+Sowohl der Einsatz eines Repeaters als auch eines Gateways muss der 
+Integrierten Leitstelle immer mitgeteilt werden. 
+Führen diese Möglichkeiten nicht zu einer Verbesserung der Kommu­
+nikation, ist die zuständige Taktisch Technische Betriebsstelle (TTB) zu 
+informieren. Die TTB kann mit der Autorisierten Stelle Bayern für den 
+Digitalfunk (AS BY) Kontakt aufnehmen. 
+Die AS BY wird anschließend geeignete Maßnahmen vorschlagen und 
+in die Wege leiten.
+Ein gutes Hilfsmittel für die Planung der Kommunikation an der Ein­
+satzstelle ist das Führen eines Kommunikationsplans. Eine Vorlage ist 
+hierfür in der Feuerwehr-Dienstvorschrift 800 zu finden. 
+Weitere Informationen zur Kommunikation im BOS-Bereich sind in den 
+nachfolgend aufgeführten Broschüren, erhältlich auf der Feuerwehr-
+Lernbar.bayern zu finden: 
+	
+z
+Merkblatt 9.001 "Sprechfunk "
+	
+z
+Feuerwehr-Dienstvorschrift 800 – 
+Informations- und Kommunikationstechnik im Einsatz (FwDV 800)
+	
+z
+Vorlagen für Kommunikationspläne 
+
+63
+Dienststelle:
+Sachbearbeiter:
+Stand (Datum/Uhrzeit):
+Einsatzleiter/
+EA-Leiter:
+Name:
+Rufname:
+Führungsstab/Führungsgruppe:
+Rufname:
+Fax:
+Telefon:
+Mobiltel.:
+E-Mail:
+Benachbarte Kräfte:
+Sonstige Stellen:
+Kennwort:
+EA/UA:
+Leiter:
+Rufname:
+Telefon:
+Mobiltel.:
+...
+Führungsgruppe:
+Rufname:
+Telefon:
+Fax:
+Mobiltel.:
+E-Mail:
+...
+EA/UA:
+Leiter:
+Rufname:
+Telefon:
+Mobiltel.:
+...
+Führungsgruppe:
+Rufname:
+Telefon:
+Fax:
+Mobiltel.:
+E-Mail:
+...
+EA/UA:
+Leiter:
+Rufname:
+Telefon:
+Mobiltel.:
+...
+Führungsgruppe:
+Rufname:
+Telefon:
+Fax:
+Mobiltel.:
+E-Mail:
+...
+EA/UA:
+Leiter:
+Rufname:
+Telefon:
+Mobiltel.:
+...
+Führungsgruppe:
+Rufname:
+Telefon:
+Fax:
+Mobiltel.:
+E-Mail:
+...
+EA/UA:
+Leiter:
+Rufname:
+Telefon:
+Mobiltel.:
+...
+Führungsgruppe:
+Rufname:
+Telefon:
+Fax:
+Mobiltel.:
+E-Mail:
+...
+Rufgruppen
+Rufgruppen
+Rufgruppen
+Rufgruppen
+Rufgruppen
+Rufgruppe
+Kommunikationsplan (Muster)
+
+64
+7.7 
+Hinweise für Führungskräfte
+Aufgaben der Einsatzleitung:
+	
+z
+Einrichtung eines ungefährdeten und verkehrsgünstig 
+gelegenen Standortes
+	
+z
+Bereitstellung von Kartenmaterial
+	
+z
+Aufbau und Betrieb von Funk- und Fernmeldeverbindungen
+	
+z
+Lagefeststellung und Beurteilung der Lage
+	
+z
+Erstellen einer Lagekarte
+	
+z
+Einsatz von Erkundern, z. B. auch mit Drehleitern
+	
+z
+Einsatz von Meldern (Fahrrad, Motorrad)
+	
+z
+Benachrichtigung und Einbeziehung anderer Fachbehörden
+(z. B. ortskundiges Forstpersonal) sowie Meteorologen
+	
+z
+Eigene Versorgung
+	
+z
+Dokumentation
+	
+z
+Bereitstellen der für den Einsatz benötigten Kräfte und Mittel
+	
+z
+Erstellung und Aktualisierung einer Kräfteübersicht
+	
+z
+evtl. Schichtpläne erstellen
+Führen der Einsatzkräfte durch
+	
+z
+Laufende Erkundung der Lage
+	
+z
+Beurteilung der Lage
+	
+z
+Fassen von Entschlüssen
+	
+z
+Erteilen von Befehlen und Weisungen
+	
+z
+Kontrolle / Überprüfung der Wirksamkeit der veranlassten 
+Einsatzmaßnahmen
+Planung und Fortschreibung der zukünftigen Einsatzentwicklung:
+	
+z
+Einholen von Wetterberichten
+	
+z
+Abschätzen der Schadensentwicklung
+	
+z
+Abschätzen der benötigten Ablösekräfte
+	
+z
+Abschätzen der benötigten Versorgung 
+(z. B. Verpflegung, Betriebsstoffe, Unterkünfte)
+	
+z
+Abschätzen der benötigten Ersatzfahrzeuge usw.
+
+65
+Für die Leitung von Einsätzen der Feuerwehren bei Vegetationsbränden 
+gelten die Vorschriften des Bayerischen Feuerwehrgesetzes (BayFwG), 
+der Verordnung zur Ausführung des Bayerischen Feuerwehrgesetzes 
+(AVBayFwG) und des Bayerischen Katastrophenschutzgesetzes (BayKSG).
+Nach Art. 18 Abs. 2 Satz 1 BayFwG obliegt die Einsatzleitung in erster 
+Linie dem Kommandanten der Freiwilligen oder der Pflichtfeuerwehr 
+des Schadensortes. Gemäß § 16 Abs. 6 AVBayFwG legt der Einsatzlei­
+ter die Schwerpunkte der Abwehrmaßnahmen im Benehmen mit der 
+Forstbehörde (zuständiges Forstamt, auch im Privatwald) fest.
+Nach Art. 15 BayKSG kann auch bei Schadensereignissen unterhalb der 
+Katastrophenschwelle ein durch die Kreisverwaltungsbehörde vorab 
+benannter Örtlicher Einsatzleiter die Einsatzleitung übernehmen, nur, 
+wenn dadurch das geordnete Zusammenwirken der Einsatzkräfte am 
+Einsatzort wesentlich erleichtert wird. Diese Personen dürfen, wenn 
+ihnen die Befugnis dazu übertragen wurde, die Örtliche Einsatzleitung 
+bereits vor einer Bestellung durch die Kreisverwaltungsbehörde wahr­
+nehmen. Die benannten Personen sind verpflichtet, die Entscheidung 
+der Kreisverwaltungsbehörde unverzüglich herbeizuführen.
+Die Gesamtleitungsbefugnis des Katastropheneinsatzes obliegt dem 
+Leiter der zuständigen Katastrophenschutzbehörde. Er bedient sich 
+hierzu der Führungsgruppe Katastrophenschutz (FüGK). Die technisch-
+taktische Führung am Schadensort (an der Schadensstelle) wird 
+grundsätzlich einem im Voraus bestimmten Örtlichen Einsatzleiter 
+(ÖEL) übertragen (Art. 6 oder Art. 15 BayKSG). Er handelt im Auftrag 
+der Katastrophenschutzbehörde und ist für den Bereich der Scha­
+densstelle mit den erforderlichen Befugnissen ausgestattet. Tritt ein 
+Vegetationsbrand ein, der die Notwendigkeit der Koordinierung der 
+Einsatzmaßnahmen und der Einsatzkräfte unter einheitlicher Leitung 
+durch die Katastrophenschutzbehörde erwarten lässt, so alarmiert 
+die Integrierte Leitstelle den von der Katastrophenschutzbehörde im 
+Voraus benannten Örtlichen Einsatzleiter und den Ansprechpartner der 
+Führungsgruppe Katastrophenschutz. Der im Voraus benannte Örtliche 
+Einsatzleiter begibt sich unverzüglich in das Schadensgebiet. Kommt er 
+nach Beurteilung der Lage zu dem Ergebnis, dass eine Koordinierung 
+der Einsatzmaßnahmen und der Einsatzkräfte vor Ort nur unter einheit­
+licher Leitung durch die Katastrophenschutzbehörde sichergestellt wer­
+den kann, so unterrichtet er den Ansprechpartner FüGK und empfiehlt, 
+die Einsatzleitung zu übernehmen bzw. ihn als Örtlichen Einsatzleiter 
+(ÖEL) zu bestätigen. Wenn der Ansprechpartner FüGK – im Rahmen der 
+ihm in seiner Dienstanweisung eingeräumten Befugnisse – dieser Emp­
+fehlung, die Katastropheneinsatzleitung zu übernehmen, nachkommt, 
+beauftragt er den im Voraus benannten Örtlichen Einsatzleiter mit der 
+Einsatzleitung vor Ort (Örtliche Einsatzleitung). Erfolgt diese Beauftra­
+gung nach Art. 6 BayKSG, so hat der Ansprechpartner FüGK in diesem 
+
+66
+Moment gleichzeitig den Katastrophenfall festgestellt. Der ÖEL hat ab 
+diesem Zeitpunkt für den unmittelbaren Bereich des Schadensgebietes 
+die gleichen Befugnisse wie die Katastropheneinsatzleitung. Damit ist 
+er gegenüber allen eingesetzten Kräften weisungsbefugt. Der ÖEL zieht 
+zu seiner Unterstützung/fachlichen Beratung ein Mitglied der zustän­
+digen Forstverwaltung als Verbindungsperson heran. Außerdem kann 
+der ÖEL zu seiner Unterstützung die Unterstützungsgruppe Örtliche 
+Einsatzleitung (UG-ÖEL) sowie verschiedene Fachberater (Flughelfer, 
+Meteorologen, Forstämter, usw.) einsetzen.
+
+67
+NOTIZEN
+
+68
+8	 WEITERFÜHRENDE UND VERTIEFENDE HINWEISE
+Bayerisches Feuerwehrgesetz (BayFwG)
+https://t1p.de/1d29
+Verordnung zur Ausführung des Bay. Feuerwehrgesetzes (AVBayFwG) 
+https://t1p.de/ugjd
+§ 16 Einsatzleitung in besonderen Fällen
+Bayerisches Katastrophenschutzgesetz (BayKSG)
+https://t1p.de/yuvk
+Bayerisches Waldgesetz (BayWaldG) 
+in der Fassung der Bekanntmachung vom 22. Juli 2005
+https://t1p.de/v02l
+Strafgesetzbuch (StGB) 
+https://t1p.de/v87d
+§ 306 Brandstiftung
+§ 306a Schwere Brandstiftung
+§ 306b Besonders schwere Brandstiftung
+§ 306c Brandstiftung mit Todesfolge
+§ 306d Fahrlässige Brandstiftung
+§ 306e Tätige Reue
+§ 306f Herbeiführen einer Brandgefah
+
+69
+Richtlinie zur Waldbrandabwehr (BayVwV)
+https://t1p.de/tl0o
+Verordnung über die Verhütung von Bränden (BayVVB)
+https://t1p.de/trnj
+Verordnung über die Beseitigung von pflanzlichen Abfällen außer­
+halb zugelassener Beseitigungsanlagen (BayPflAbfV)
+https://t1p.de/kfst
+Durchsagen über den Rundfunk (BayVwV)
+https://t1p.de/jctv
+
+70
+9	 QUELLENHINWEISE
+	
+z
+DGUV Regel 105-49 Feuerwehren 
+	
+z
+DGUV Information 205-014 – Auswahl von persönlicher Schutz­
+ausrüstung für Einsätze bei der Feuerwehr
+	
+z
+DGUV Information 205-020 – Feuerwehrschutzkleidung – Tipps 
+für Beschaffer und Benutzer
+	
+z
+DGUV Information 205-031 – Zusatzausrüstung an persönlicher 
+Schutzausrüstung der Feuerwehr
+	
+z
+Vegetationsbrandbekämpfung für kommunale Feuerwehren – 
+Präsentation, @fire, internationaler Katastrophenschutz Deutsch­
+land e. V., 2011
+	
+z
+Vegetationsbrandbekämpfung für kommunale Feuerwehren – 
+Handout, @fire, internationaler Katastrophenschutz Deutschland 
+e. V., 2011
+	
+z
+Cimolino, Dr., Ulrich; Vegetationsbrandbekämpfung, ecomed­
+storck GmbH, 2015
+	
+z
+Richtiges Vorgehen bei Wald- und Flächenbränden, Sonderheft 
+Feuerwehr-Magazin, 01/2016
+	
+z
+DFV-Fachempfehlung „Sicherheit und Taktik im Waldbrandeinsatz“
+	
+z
+Merkblatt: 5.002, Löschmittel & Löschverfahren, 
+Staatliche Feuerwehrschulen Bayern, 2004
+	
+z
+Merkblatt: 5.008, Wasserförderung über lange Schlauchstrecke, 
+Staatliche Feuerwehrschulen Bayern
+	
+z
+Merkblatt: 6.010, Leitfaden für die Zusammenarbeit von Feuer­
+wehr und Luftfahrzeugbetreibern in Bayern,
+Staatliche Feuerwehrschulen Bayern
+	
+z
+Merkblatt: 9.001, Sprechfunk, 
+Staatliche Feuerwehrschulen Bayern
+	
+z
+Feuerwehr-Dienstvorschrift 800 – 
+Informations- und Kommunikationstechnik im Einsatz (FwDV 800) 
+	
+z
+Umweltschonender Einsatz von Feuerlöschschäumen, 
+Bayer. Staatsministerium des Innern, 
+Bayer. Staatsministerium für Umwelt und Verbraucherschutz, 2018
+
+
+Wollen Sie mehr über die Arbeit der Bayerischen Staatsregierung erfahren?
+BAYERN | DIREKT ist Ihr direkter Draht zur Bayerischen Staatsregierung. Unter Telefon 089 12 22 20 
+oder per E-Mail an direkt@bayern.de erhalten Sie Informationsmaterial und Broschüren, Auskunft zu 
+aktuellen Themen und Internetquellen sowie Hinweise zu Behörden, zuständigen Stellen und Ansprech­
+partnern bei der Bayerischen Staatsregierung.
+Hinweis: Diese Druckschrift wird im Rahmen der Öffentlichkeitsarbeit der Bayerischen Staats­
+regierung herausgegeben. Sie darf weder von Parteien noch von Wahlwerbern oder Wahlhelfern 
+im Zeitraum von fünf Monaten vor einer Wahl zum Zwecke der Wahlwerbung verwendet werden. 
+Dies gilt für Landtags-, Bundestags-, Kommunal- und Europawahlen. Missbräuchlich ist während 
+dieser Zeit insbesondere die Verteilung auf Wahlveranstaltungen, an Informationsständen der 
+Parteien sowie das Einlegen, Aufdrucken und Aufkleben parteipolitischer Informationen oder 
+Werbemittel. Untersagt ist gleichfalls die Weitergabe an Dritte zum Zwecke der Wahlwerbung. 
+Auch ohne zeitlichen Bezug zu einer bevorstehenden Wahl darf die Druckschrift nicht in einer 
+Weise verwendet werden, die als Parteinahme der Staatsregierung zugunsten einzelner poli­
+tischer Gruppen verstanden werden könnte. Den Parteien ist es gestattet, die Druckschrift zur 
+Unterrichtung ihrer eigenen Mitglieder zu verwenden.
+IMPRESSUM
+Herausgeber:	
+Staatliche Feuerwehrschule Würzburg,
+Weißenburgstr. 60, 97082 Würzburg
+Mitwirkung:	
+Bayerisches Staatsministerium des Innern, für 
+Sport und Integration, 
+Staatliche Feuerwehrschule Geretsried, 
+Staatliche Feuerwehrschule Regensburg,
+Staatliche Feuerwehrschule Würzburg, 
+Landesfeuerwehrverband Bayern e. V.
+Gestaltung:	
+Staatliche Feuerwehrschule Würzburg,
+Fachbereich Lehr- und Lernmittel
+Internet:	
+Version 4.1
+feuerwehr-lernbar.bayern
+Kosten abhängig
+ vom Netzbetreiber

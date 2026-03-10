@@ -1,0 +1,4 @@
+# 4.2.1 Führungsunterstützungsgruppe
+
+- The management support group (FüUstgGr) in total strength 4/1/2/7 consists of - leadership group (FüTr) with emergency control car 1 (ELW 1) and - management support team (FüUstgTr) with emergency control car 2 (ELW 2): Tasks: - provision of various mobile command stations with a guidance room suitable for the reception of a command unit, - provision of guidance equipment for information and communication (radio and telecommunications connections with terminal devices and other necessary means), also in case of failure of communication structures, - participation in the establishment and maintenance of the management unit of the (sub-) operation section or (technical) operation line, - reception and operation of telecommunications connections for the (sub-) operation line, - work in the management stages C and D. Fig. 1 tactical structure of the FüUstgGr 7
+

@@ -1,0 +1,860 @@
+ 
+I 
+ 
+ 
+ 
+ 
+Hans-Peter Kremer 
+Aufstiegsbeamter 
+Dienststelle Hilden 
+Fachartikel 
+Einsatzunterstützung aus der Luft
+Facharbeit gemäß § 20 Abs. 1 VAP2.2-Feu NRW 
+Hilden, den 29.11.2023 
+
+ 
+II 
+ 
+Aufgabenstellung 
+Einsatzunterstützung aus der Luft 
+Fertigen Sie einen Fachartikel, der Einsatzkräften als Merkhilfe für die Anforderung von Luftunterstützung 
+bei Einsatzlagen dienen kann. Was kann bei den unterschiedlichen Organisationen angefordert werden? 
+Welche Rahmenbedingungen gelten bei der Anforderung? Wer ist der jeweilige Kostenträger? 
+ 
+ 
+ 
+
+ 
+III 
+ 
+Abkürzungsverzeichnis 
+ 
+ALB 
+Außenlastbehälter 
+ASB 
+Arbeiter-Samariter-Bund 
+BBK 
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe 
+BB 
+Brandenburg 
+BE 
+Berlin 
+BPol 
+Bundespolizei 
+BRK 
+Bayrisches Rotes Kreuz 
+BW 
+Baden-Württemberg 
+BY 
+Bayern (Freistaat) 
+DLFR 
+Deutsche Löschflugzeug Rettungsstaffel 
+DLRG 
+Deutsche Lebens-Rettungs-Gesellschaft 
+DRK 
+Deutsches Rotes Kreuz 
+ERCC 
+Emergency Response Coordination Centre 
+GMLZ 
+Gemeinsames Melde- und Lagezentrum von Bund und Ländern 
+HB 
+Bremen (Hansestadt) 
+HE 
+Hessen 
+HH 
+Hamburg (Hansestadt) 
+HMdIS 
+Hessisches Ministerium des Innern und für Sport 
+ILS 
+Integrierte Leitstelle 
+ITH 
+Intensivtransporthubschrauber 
+IM-NRW 
+Ministerium des Innern des Landes Nordrhein-Westfahlen 
+JUH 
+Johanniter-Unfall-Hilfe 
+LPol 
+Landespolizei 
+MV 
+Mecklenburg-Vorpommern 
+NI 
+Niedersachsen 
+
+ 
+IV 
+ 
+NLBK 
+Niedersächsisches Landesamt für Brand- und Katastrophenschutz 
+NW 
+Nordrhein-Westfahlen 
+RTH 
+Rettungstransporthubschrauber 
+RP 
+Rheinland-Pfalz 
+SH 
+Schleswig-Holstein 
+SL 
+Saarland 
+SN 
+Sachsen (Freistaat) 
+ST 
+Sachsen-Anhalt 
+TH 
+Thüringen (Freistaat) 
+THW 
+Bundesanstalt Technisches Hilfswerk 
+TrUL 
+Trupp Unbemannte Luftfahrzeuge des THW 
+UAS 
+Unmanned Aerial Systems, umgangssprachlich Drohne 
+ 
+Abbildungsverzeichnis 
+Abbildung 1: Merkhilfe Seite 1 (eigene Darstellung, 2023) ........................................................................ 13 
+Abbildung 2: Merkhilfe Seite 2 (eigene Darstellung, 2023) ........................................................................ 14 
+Abbildung 3: Fragebogen für die persönlichen Kontakte (eigene Darstellung, 2023) ............................... 15 
+Abbildung 4: Beispiel Fragebogen LBD BB - Michael Koch (2023) ........................................................... 16 
+Abbildung 5: Erlass zur Anforderung eines Hubschraubers mit ALB am Beispiel NW (IM-NRW)
+ .............................................................................................................................................. 17 
+Abbildung 6: Anforderungsschema Hubschrauber der Feuerwehr Erfurt, (FW-Erfurt, 2023) .................... 18 
+Abbildung 7: Auszug aus Merkblatt Anforderung Hubschrauber … Waldbrand in HE (HMdIS, 
+2023) ..................................................................................................................................... 19 
+ 
+ 
+ 
+
+ 
+V 
+ 
+Inhalt 
+Teil I: Fachartikel ........................................................................................................................................ 1 
+Kurzzusammenfassung ............................................................................................................................. 1 
+1 Einleitung ................................................................................................................................................. 2 
+2 Darstellung der Problemstellung ........................................................................................................... 2 
+3 Herangehensweise .................................................................................................................................. 2 
+3.1 UAS im Feuerwehreinsatz .................................................................................................................. 3 
+3.2 Hubschrauber im Feuerwehreinsatz ................................................................................................... 3 
+3.3 Löschflugzeuge im Feuerwehreinsatz ................................................................................................ 3 
+4 Ergebnisse ............................................................................................................................................... 3 
+4.1 UAS im Feuerwehreinsatz .................................................................................................................. 3 
+4.1.1 Möglichkeiten von UAS im Feuerwehreinsatz ............................................................................. 3 
+4.1.2 Organisationseinheiten mit UAS .................................................................................................. 4 
+4.1.3 Anforderungswege von UAS ........................................................................................................ 4 
+4.1.4 Kosten und Kostenträger von UAS-Einsätzen ............................................................................. 4 
+4.2 Hubschrauber im Feuerwehreinsatz ................................................................................................... 5 
+4.2.1 Möglichkeiten von Hubschraubern im Feuerwehreinsatz ............................................................ 5 
+4.2.2 Organisationseinheiten mit Hubschraubern ................................................................................. 5 
+4.2.3 Anforderungswege von Hubschraubern ...................................................................................... 5 
+4.2.4 Kosten und Kostenträger von Hubschraubereinsätzen ............................................................... 6 
+4.3 Löschflugzeuge im Feuerwehreinsatz ................................................................................................ 6 
+4.3.1 Möglichkeiten von Löschflugzeugen im Feuerwehreinsatz ......................................................... 6 
+4.3.2 Organisationseinheiten mit Löschflugzeugen .............................................................................. 7 
+4.3.3 Anforderungswege von Löschflugzeugen .................................................................................... 7 
+4.3.4 Kosten und Kostenträger von Löschflugzeugen .......................................................................... 7 
+5 Diskussion ............................................................................................................................................... 7 
+6 Fazit ........................................................................................................................................................... 8 
+Teil II: Methoden-, Literatur- und Quellendokumentation ...................................................................... 9 
+7 Beschreibung der Methodik ................................................................................................................... 9 
+8 Begründung ............................................................................................................................................. 9 
+9 Literatur- und Quellendokumentation ................................................................................................... 9 
+9.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken .............................................. 9 
+9.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation .......................................... 9 
+9.3 Kriterien der Literatur- und Quellenauswahl ..................................................................................... 10 
+9.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen .................................. 10 
+10 Literatur- und Quellenverzeichnis ..................................................................................................... 11 
+A. Anhänge ................................................................................................................................................ 13 
+B. Eigenständigkeitserklärung ................................................................................................................ 20 
+
+Kurzzusammenfassung 
+1 
+ 
+Teil I: Fachartikel 
+Kurzzusammenfassung 
+Dieser Fachartikel beschäftigt sich einerseits mit den verschiedenen Möglichkeiten der Einsatzunterstüt-
+zung aus der Luft, andererseits wird die Heterogenität dieser Einheiten, vor allem im Bereich der Anforde-
+rungswege sowie der Kostenregelungen der unterschiedlichen Bundesländer der Bundesrepublik Deutsch-
+land aufgezeigt. 
+Im Kapitel 1 wird eine Einführung in dieses Thema beschrieben, welche die aktuellen Bedeutungen und 
+erste Begrifflichkeiten definiert. 
+Kapitel 2 beschreibt anschließend die Herausforderung von Einsatzführenden, einen Überblick über die 
+rasante Entwicklung der technischen und taktischen Möglichkeiten sowie der dazugehörigen Rahmenbe-
+dingungen wie z. B. die der Kostenproblematik zu behalten. 
+Innerhalb des anschließenden Kapitels 3 wird die Herangehensweise zur Erhebung der notwendigen Daten 
+erläutert. Hierbei hat der Verfasser dieses Fachartikels zur Informationsgewinnung Telefonate, persönliche 
+Gespräche und E-Mailverkehr mit verschiedenen Experten durchgeführt. Diese wurden aufgrund ihrer lang-
+jährigen Erfahrung oder ihrer tatsächlichen derzeitigen Verwendung in den entsprechenden Bereichen aus-
+gewählt.  
+Um eine einheitliche und dadurch vergleichbare Datenlage zu erhalten, wurden diese Konsultationen in 
+einem standardisierten Fragenkatalog (Abbildung 3) aufgenommen, welcher sich im Anhang befindet. 
+Eine weitere Informationsquelle stellte die Online-Datenrecherche auf Organisations-, Behörden- bzw. Her-
+steller-Seiten dar. 
+Kapitel 4 zeigt die Ergebnisse hinsichtlich der Möglichkeiten, Anforderungswege sowie Kostenregelungen 
+einzelner Organisationen und Bundesländer auf. Eine Visualisierung der Daten befindet sich in der Ergeb-
+nistabelle der angehängten Merkhilfe (Abbildung 2).  
+Die Herausforderungen und Chancen einer Homogenisierung der Rahmenbedingungen beleuchtet das 
+Kapitel 5, welches anschließend in Kapitel 6 im Rahmen eines Fazits bewertet wird. 
+Weiterhin wird die räumliche Verteilung der unterschiedlichen Einsatzmittel in einer Übersichtskarte der 
+Bundesrepublik Deutschland verdeutlicht (Abbildung 2 der Anlage). Beispielhaft wurden auch einzelne Ver-
+fahrensanweisungen in Form von Erlassen, Sonderschutzplänen o. ä. in der Anlage beigefügt.  
+
+Einleitung 
+2 
+ 
+1 Einleitung 
+Die vergangenen Jahre zeigen deutlich auf, dass sich die nichtpolizeiliche Gefahrenabwehr mit immer um-
+fangreicheren Einsätzen beschäftigen muss. Der Klimawandel begünstigt vermehrt Extremwetterlagen, 
+welche oft großflächige Starkregenereignisse oder Vegetationsbrände nach sich ziehen. Aber auch die 
+zunehmend dichter werdende Bebauung in Ballungsgebieten stellt die Gefahrenabwehr vor neue Heraus-
+forderungen. Als Reaktion auf die derzeitigen Einsatzlagen entwickeln sich sowohl Technik als auch Taktik 
+weiter.  
+In diesem Fachartikel wird das Thema „Einsatzunterstützung aus der Luft“ behandelt. Die Möglichkeiten 
+der Luftunterstützung wachsen derzeit durch die Innovation neuer Techniken rasant. Die Arbeit beleuchtet 
+zunächst neue Optionen im Bereich der Luftunterstützung, ehe im weiteren Verlauf dargestellt wird, in wel-
+chem Umfang die unterschiedlichen Organisationen Leistungen im Bereich der Luftunterstützung anbieten, 
+welche Kosten dabei entstehen und ob diese gegebenenfalls von Dritten übernommen werden können.  
+Aufgrund der Breite des Themas werden für die (umgangssprachlich als Drohnen bezeichneten) zivilen 
+Unmanned Aerial Systems (UAS), ausschließlich deren einsatztaktische Möglichkeiten dargestellt. Im Be-
+reich der weiteren Luftunterstützung wie Hubschrauber oder Flugzeuge wird über die einsatztaktischen 
+Möglichkeiten hinaus auch ein Überblick über Standorte sowie Kosten gegeben.  
+Das System der Rettungshubschrauber ist von diesem Fachartikel ausgenommen, da es sich hierbei um 
+ein gut organisiertes und flächendeckend etabliertes System handelt, welches keiner weiteren Erläuterung 
+bedarf. Weiterhin geht der Autor auf die in verschiedenen Bundesländern vorhandenen Kleinflugzeuge, 
+welche typischerweise zur Verkehrsüberwachung dienen, nicht näher ein. Sie werden zwar häufig auch bei 
+sehr hoher Waldbrandgefahr für Kontrollflüge genutzt, allerdings sind sie aufgrund der stetigen Bewegung 
+als Unterstützung bei laufenden Einsätzen eher suboptimal (eigene Erfahrung während des Seminars Luft-
+beobachter 2/2012). 
+2 Darstellung der Problemstellung 
+Die Nutzung von Einsatzunterstützung aus der Luft hat sich in Deutschland im Rahmen unterschiedlichster 
+Feuerwehreinsätze in der Vergangenheit bereits bewährt. Beispielhaft kann hier die Erkundung extrem 
+dynamischer Einsatzlagen wie großflächige Starkregenereignisse oder die Vegetationsbrandbekämpfung 
+in extrem schwer erreichbaren Bereichen genannt werden. Auf diese wertvolle Einsatzunterstützung sollte 
+allerdings nicht nur bei großen Einsätzen mit entsprechendem Vorlaufzeiten zurückgegriffen werden, son-
+dern je nach Lage auch kurzfristig.  
+Als Einsatzleiter oder Einsatzleiterin über einen detaillierten Kenntnisstand hinsichtlich Verfügbarkeiten, 
+einsatztaktischen Möglichkeiten und eventuell auftretenden Kosten zu verfügen, erscheint aufgrund des 
+ohnehin notwendigen Wissensspektrums kaum realistisch.  
+Im Bereich der UAS ergeben sich durch die kontinuierliche Weiterentwicklung der Zusatzausstattung stän-
+dig neue taktische Möglichkeiten, ebenso verschieben sich durch neue Techniken stetig die Einsatzgren-
+zen der UAS. 
+Hubschrauber und Flugzeuge erhalten kontinuierlich neue (technische und taktische) Möglichkeiten. Lan-
+desbehörden ändern ihrerseits die Vorgaben für die Anforderung sowie die Kostenübernahme. Gerade 
+dieser Aspekt ist bei großen Einsatzlagen für die Entscheidungsfindung von großer Bedeutung. In Bundes-
+ländern, in denen diese Kosten durch die Kommune getragen werden müssen (z. B. Hessen, Sachsen-
+Anhalt), können hier bei kleinen Gemeinden schon einmal entscheidende Kostendeckungsprobleme ent-
+stehen. 
+3 Herangehensweise 
+Um einen möglichst guten und breit gefächerten Überblick bezüglich der möglichen Luftunterstützung zu 
+erhalten, holte der Autor zuerst Informationen aus den Bereichen UAS, Hubschrauber sowie Löschflug-
+zeuge ein. Neben der klassischen Datenerhebung stand hier die Ausprägung des für die Facharbeit not-
+wendigen Fachwissens durch Gespräche mit entsprechenden Experten im Fokus des Autors. Diese er-
+kenntnisreichen Gespräche wurden mit Personen aus dem Feuerwehrsektor, mit Kräften des Technischen 
+Hilfswerks (THW), Piloten von Löschflugzeugen, Einheitsführern von Hubschrauberstaffeln, Mitarbeitenden 
+der entsprechenden Ministerien sowie dem Leiter der SAR-Leitstelle geführt. 
+
+Ergebnisse 
+3 
+ 
+3.1 UAS im Feuerwehreinsatz 
+Möglichkeiten zum Einsatz von UAS in Feuerwehreinsetzen trug der Autor u. a. mittels Recherchen aus 
+bisherigen Facharbeiten, aktuelle Publikationen in Fachzeitschriften sowie neuen Studien zusammen. Ein-
+heitsführende einer Drohnenstaffel des THW standen für ein Gespräch über die derzeitige Struktur der 
+Drohnenstaffeln sowie Einsatzmöglichkeiten innerhalb dieser Einheiten zur Verfügung. Weiterhin wurde 
+Kontakt zu namhaften UAS-Herstellern aufgenommen, um den aktuellen Entwicklungsstand und in naher 
+Zukunft erwartbare Neuerungen zu ermitteln.  
+3.2 Hubschrauber im Feuerwehreinsatz 
+Für den Bereich der Luftunterstützung mittels Hubschrauber kontaktierte der Autor entsprechende Mitwir-
+kende, wie z. B. den Leiter der Lage- und Einsatzzentrale der Bundespolizei-Fliegerstaffel St. Augustin 
+sowie den diensthabenden Piloten des Landespolizeihubschraubers München. Ein eigens erstellter Frage-
+bogen (s. Anhang – Abbildung 3) stellte hier die Vergleichbarkeit der erhobenen Daten und somit eine 
+entsprechend valide Auswertung sicher.  
+3.3 Löschflugzeuge im Feuerwehreinsatz 
+Zum heutigen Zeitpunkt sind in der Bundesrepublik nur an den Standorten Braunschweig und Landkreis 
+Harz Löschflugzeuge vorhanden. Hier werden die entsprechenden Informationen ebenfalls mit zur Hilfen-
+ahme des Fragenbogens eingeholt. 
+4 Ergebnisse 
+4.1 UAS im Feuerwehreinsatz 
+4.1.1 Möglichkeiten von UAS im Feuerwehreinsatz 
+UAS bieten im Feuerwehreinsatz erstaunliche Möglichkeiten, um die taktischen Maßnahmen sowie die 
+Effizienz im Einsatz wesentlich zu steigern. Neben der bekannten Verwendung von Digitalkameras unter-
+schiedlichster Qualität stellen Infrarotkameras eine weitere Option dar, um bei Dunkelheit zeitnah eine 
+Übersicht über eine unübersichtliche Einsatzstelle zu erlangen. Gleiches gilt für Brandeinsätze, bei denen 
+Wärmebildkameras zügig relevante Bilder der betroffenen Gebäude(-teile) liefern und der Brandherd somit 
+schnell lokalisiert und bekämpft werden kann (Emrich, 2014). Drohneneinheiten liefern derzeit bereits Bilder 
+live an entsprechende Endgeräte am Boden. Hierdurch können die Bilder in Echtzeit als Grundlage takti-
+scher Entscheidungen dienen. 
+Weitere Ausstattungsoptionen stellen Lautsprecher oder Lasthaken dar. Mithilfe der Laufsprecher können 
+Bewohner oder Einsatzkräfte informiert bzw. gewarnt werden, die Lasthaken ermöglichen wiederum, Ein-
+satzmittel oder Verpflegung an schwer erreichbare Bereiche zu verbringen, maximal können hier derzeit 
+2,7 kg transportiert werden (DJI-Enterprise, 2023). UAS können darüber hinaus mit akkubetriebenen Be-
+leuchtungseinrichtungen ausgestattet sein, die eine Fläche für einen begrenzten Zeitraum ausleuchten 
+oder Einsatzkräften den Weg zur Einsatzstelle gewiesen werden kann. 
+Neben diesen Funktionen verfügen moderne UAS auch über die Möglichkeit des sogenannten Mappings. 
+Hierbei handelt es sich um die Erstellung von Kartenmaterialien inkl. Höhenprofilen. Da das Mapping der-
+zeit noch recht zeitaufwendig ist, lohnt dieses nur für Bereiche, für die kein aktuelles Kartenmaterial vorliegt, 
+beispielsweise ein Tagebau oder (teil-)zerstörte Gebiete. 
+UAS sind in unterschiedlichen Bauarten (Helikopter, Multikopter und Starrflügler) erhältlich. Diese weisen 
+jeweils bauartbedingte Vor- und Nachteile auf: Heli- und Multikopter sind sehr wendig und können gut in 
+einer Position verharren, während Starrflügler typischerweise in der Lage sind, länger in der Luft zu bleiben 
+und dadurch größere Strecken zu überwinden (Direct Industry, 2023).  
+Bei der Recherche wurde deutlich, dass in Deutschland keine Einheitlichkeit hinsichtlich der Leistungsfä-
+higkeit sowie der Verfügbarkeit von UAS-Einheiten existiert, ergo sind auch keine Mindestanforderungen 
+definiert. Aus diesem Grund sollten sich die entsprechenden Verantwortlichen einer Gefahrenabwehrbe-
+hörde bei den umliegenden UAS-Einheiten über die tatsächlichen Möglichkeiten, Einsatzgrenzen und Ver-
+fügbarkeiten informieren.  
+Für diesen Fachartikel soll der „Trupp Unbemannte Luftfahrzeuge“ (TrUL) des THW als Beispiel dienen.  
+Bundesweit existieren 49 dieser (wie für das THW üblich) einheitlich ausgestatteten und ausgebildeten 
+Einheiten. Der TrUL ist mit zwei Einsatz-UAS sowie einer Trainings-UAS unterschiedlicher Größe und Leis-
+tungsfähigkeit ausgestattet. Alle UAS verfügen über die Möglichkeit, Video-, Nacht- und Wärmebilder in 
+
+Ergebnisse 
+4 
+ 
+Echtzeit auf externe Bildschirme zu übertragen sowie über zusätzliche Funktionen mittels Anbauteilen wie 
+Lautsprecher und Scheinwerfer (Lobe, 2023).  
+Das Trainings-UAS (Typ DJI Mavic 2 Enterprise Dual) stellt mit ca. 0,9 kg Masse und einer max. Flugzeit 
+von 25 Minuten das kleinste und leistungsärmste UAS dieser Einheit dar.  
+Das mittlere UAS (Typ DJI Matrice M30T) verfügt bei eine Masse von ca. 3,8 kg über eine maximale Flug-
+dauer von 40 Minuten. Durch die verfügbare Flugdauer und die bessere Kameratechnik ist dieses UAS für 
+den Einsatz deutlich besser aufgestellt. Zusätzlich zu den oben genannten Spezifikationen verfügt dieses 
+UAS über einen Laser, mit dem Entfernungen bis zu einer Länge von 1200 m bestimmt werden können.  
+Als größtes UAS verfügt die TrUL-Einheiten des THW über das Model DLI Matrice M300 RTK mit einer 
+max. Flugzeit von ca. 55 Minuten und einer Masse von 6,3 kg. Die Ausstattung und Zubehörteile entspre-
+chen dem mittleren UAS. Ein entscheidender Vorteil ist hierbei, dass die zwei Akkus nacheinander im Be-
+trieb getauscht werden können. Hierdurch müssen weder UAS noch die Steuereinheit herunter- und an-
+schließend erneut heraufgefahren werden. Dieser Umstand spart wertvolle Zeit bei der anstehenden Über-
+prüfung der Verbindung zwischen UAS und Steuerung.  
+Die Darstellung aller Videodaten kann auf einem mitgeführten Feldmonitor übertragen werden. Dieser funk-
+tioniert auch ohne externe Stromversorgung. Mittels Videokonferenzsystemen kann dieses Signal auch an 
+anderen Stellen, wie z. B. operativ-taktische oder administrativ-organisatorische Stäbe, übertragen werden.  
+Künftig plant das THW die Beschaffung von weiteren Anbauteilen, beispielsweise von Lasthaken, um die 
+bereits oben angesprochen Einsatzmöglichkeiten zu erweitern (Lobe, 2023). 
+4.1.2 Organisationseinheiten mit UAS 
+UAS-Einheiten bestehen mittlerweile bei den unterschiedlichsten BOS-Organisationen. Neben vielen Feu-
+erwehren betreiben auch Hilfsorganisationen wie ASB, DLRG, DRK/BRK, JUH, Malteser, Bergrettung und 
+das THW UAS-Einheiten. Einen aktuellen Überblick über die bestehenden UAS-Einheiten im Bundesgebiet 
+ermöglicht beispielsweise die Website www.drohneneinheit.de. Hier sind derzeit 511 UAS-Einheiten inner-
+halb der Bundesrepublik registriert (BOS-Drohneneinheiten e.V., 2023). Da es sich hierbei um eine freiwil-
+lige Registrierung handelt, ist davon auszugehen, dass diese Auflistung nicht abschließend ist. 
+4.1.3 Anforderungswege von UAS 
+Einheiten mit unbemannten Luftfahrzeugen können grundsätzlich direkt durch den Einsatzleiter angefordert 
+werden. Dieses geschieht über die Integrierten Leitstellen (ILS), welche Drohneneinheiten im Einsatzleit-
+system hinterlegt haben. Bei den stichpunktartigen Recherchen konnte festgestellt werden, dass diese 
+Einheiten über alle Landkreise und Großstädte verteilt bzw. in unmittelbarer Nähe vorhanden sind. Hier-
+durch ergeben sich in der Regel auch kurze Anmarschwege. 
+Die Anforderung einer TrUL-Einheit des THW geschieht, wie bei allen anderen THW Einheiten üblich, über 
+den entsprechenden Orts- oder Regionalverband bzw. über die Fachberatung des THW. 
+4.1.4 Kosten und Kostenträger von UAS-Einsätzen 
+Ein großer Vorteil von unbemannten Luftfahrzeugen ist, dass in der Regel keine Kosten in Zusammenhang 
+mit der Flugzeit entstehen. Denn im Gegensatz zu bemannten Flugsystemen wie Hubschraubern oder 
+Löschflugzeugen, fliegen die UAS nicht mit kostenintensiven Treibstoffen und es fallen nur geringe flug-
+stundenbedingte Wartungs- und Verschleißkosten an. Daher fallen für UAS-Einheiten von Feuerwehren, 
+wenn überhaupt, ausschließlich Personalkosten an. Diese Kosten werden allerdings in der Regel, ver-
+gleichbar mit der nachbarschaftlichen bzw. überörtlichen Hilfe, in den meisten Fällen nicht in Rechnung 
+gestellt. Ausnahmen sind hier abrechnungsfähige Einsätze (z. B. für NW nach § 52 BHKG NRW) oder 
+Lohnausfallkosten.  
+Beispielhaft für die Nicht-Feuerwehreinheiten wird hier die Kostenregelung des THW bezüglich der Anfor-
+derung einer TrUL-Einheit aufgeführt, da dieses eine bundeseinheitliche Verfahrensweise ist: 
+Gemäß THW Abrechnungsverordnung und Abrechnungsverwaltungsvorschrift (Schubert, 2023) treten bei 
+Einsätzen für Behörden der öffentlichen Gefahrenabwehr in der Regel keine Kosten auf. Die Kosten werden 
+den THW Ortsverbänden durch den sogenannten Einsatztitel erstattet. Hingegen bei Einsätzen die mit 
+einer Straftat oder einem Strafverfahren verbunden sind, werden die Kosten dem Anfordernden in Rech-
+nung gestellt (Schubert, 2023). 
+ 
+
+Ergebnisse 
+5 
+ 
+4.2 Hubschrauber im Feuerwehreinsatz 
+4.2.1 Möglichkeiten von Hubschraubern im Feuerwehreinsatz 
+Hubschrauber können zur Erkundung von unübersichtlichen, sehr dynamischen Einsatzstellen, zur Suche 
+von Personen, Tieren oder Gefahren, wie Bränden, eingesetzt werden und bieten daher ein breites Spekt-
+rum an Einsatzmöglichkeit aus der Luft heraus. Auch das Ausleuchten, Dokumentieren oder Warnen von 
+Personen, ist aus der Luft gut möglich. Durch Anbauten, wie Spezialkameras (z. B. Wärmebild), Seilwinden 
+oder Außenlasthaken, ergeben sich weitere Einsatzmöglichkeiten. Für die Außenlasthaken gibt es neben 
+den bekannten Löschwasserabwurfbehältern u. a. auch Materialtransportbehälter oder Netze, welche teil-
+weise aus der Luft geöffnet werden können. Hierdurch können Materialien wie Sandsäcke o. ä. abgeworfen 
+werden. Auch banal erscheinende Dinge wie Lasten- oder Personentransporte können in gewissen Ein-
+satzszenarien elementar wichtig sein.  
+4.2.2 Organisationseinheiten mit Hubschraubern 
+In der polizeilichen Gefahrenabwehr sind Hubschrauber seit vielen Jahrzehnten ein weit verbreitetes Ein-
+satzmittel. Mit Ausnahme der Bundesländer Berlin, Bremen, Saarland und Schleswig-Holstein verfügen 
+alle Landespolizeibehörden über Polizeihubschrauberstaffeln. Zusätzlich dazu verfügt die Bundespolizei 
+ebenfalls über fünf Polizeihubschrauberstaffeln in unterschiedlichen Bundesländern. Von einheitlichen 
+Ausstattungen oder Einsatzmöglichkeiten ist im Bereich der Polizeihubschrauber allerdings nicht auszuge-
+hen. Zwar sind alle Hubschrauber der Polizei gut zur Erkundung und Suche von Personen oder Tieren 
+geeignet, da sie mit guter Video-, Nachtsicht- und Wärmebildtechnik ausgerüstet sind. Zur Unterstützung 
+der Brandbekämpfung verfügen diese Einheiten allerdings über unterschiedliche technische Einsatzwerte:  
+In den Ländern Baden-Württemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-
+Pfalz, Sachsen-Anhalt und Thüringen verfügen die Hubschrauber der Landespolizei über die Möglichkeit, 
+Außenlastbehälter zur Brandbekämpfung (z. B. Bambi-Buckets) aufzunehmen. Die Polizeihubschrauber 
+der Länder Brandenburg und Hamburg haben diese Möglichkeit wiederum nicht. Das Land Mecklenburg-
+Vorpommern ist derzeit in der Beschaffung von zwei Hubschrauber (Behm, 2023), das Land Sachsen von 
+drei Hubschrauber (Schneider, Die Strategische Waldbrandschutzkonzeption des Freistaates Sachsen, 
+2023), welche über diese Möglichkeit verfügen werden. 
+Bei der Bundespolizei ist ein Großteil der Hubschrauber mit dieser Möglichkeit ausgestattet. Ebenfalls ver-
+fügt die Bundeswehr über Hubschrauber, welche Außenlastbehälter zur Brandbekämpfung aufnehmen 
+können. Hierbei ist zu beachten, dass diese Systeme untereinander nicht kompatibel sind.  
+Teilweise verfügen auch Rettungs- oder Intensivtransporthubschrauber (ITH) über Zusatzausstattungen 
+wie z. B. eine Winde. Beispielhaft sei hier der ITH Christoph Dortmund genannt (DRF Luftrettung, 2023). 
+Neben den öffentlichen Aufgabenträgern von Hubschraubern gibt es auch zahlreiche privatwirtschaftliche 
+Unternehmen, welche über Hubschrauber verfügen. Diese sind zwar für ihre Zwecke konfiguriert, teilweise 
+aber auch für die Unterstützung im Feuerwehreinsatz geeignet. Da die Vorhaltung dieser Hubschrauber 
+nicht der Gefahrenabwehr dient, ist hier mit langen Vorlaufzeiten sowie unklarer Verfügbarkeit zu rechnen. 
+In Fällen extrem hohen Bedarfs an Hubschraubern oder Verfügbarkeitsproblemen kann hier eine Anfrage 
+hilfreich sein. Entsprechende Luftfahrtunternehmen können z. B. im Branchenverzeichnis des Deutschen 
+Hubschrauberverbandes e.V. ermittelt werden (Deutscher Hubschrauber Verband e.V., 2023).  
+4.2.3 Anforderungswege von Hubschraubern 
+So unterschiedlich die Verfügbarkeit von Hubschraubern je Bundesland ist, so unterschiedlich ist auch die 
+Anforderung. Der Merkhilfe (s. Anlage) kann der Anforderungsweg im einzelnen Bundesland entnommen 
+werden. Allerdings kann man festhalten, dass in vielen Bundesländern der Anforderungsweg ähnlich ist. 
+Hierbei ist die voraussichtliche Länge des Hubschraubereinsatzes von großer Relevanz – benötigt die Ein-
+satzleitung den Hubschrauber, um ein „kurzes“ Lagebild aus der Luft zu bekommen oder ist ein längerfris-
+tiger Einsatz von Nöten? 
+Im Fall des kurzen Lagebildes bietet sich oft die Absprache mit der Einsatzleitung der Polizei vor Ort an. 
+Denn auch diese haben häufig das Bestreben, einen Überblick aus der Luft zu bekommen. Dieses hat den 
+Vorteil, dass die Polizeikräfte vor Ort deutlich einfacher und schneller einen Hubschrauber zur Unterstüt-
+zung bestellen können (Polizeihubschrauberstaffel München, diensthabender Pilot, 2023). Hinzu kommt, 
+dass durch diese Synergie meist keine Kosten entstehen. In diesem Kontext sollte die Einsatzleitung auch 
+immer die Zuständigkeiten im Blick behalten. Beispielsweise liegen Erkundungen von Brände im Bereich 
+von Bahnanlagen im Interesse der Bundespolizei (Kümer, 2023). 
+
+Ergebnisse 
+6 
+ 
+Bei allen Anforderungen von Hubschraubern, welche den oben genannten Rahmen übersteigen, bietet sich 
+die vorhandene Linienorganisation an. Die formelle Anforderung muss also auf dem Dienstweg an die Mel-
+deköpfe der Landesoberbehörde gerichtet werden. Oftmals geschieht dies über ein Formblatt, welches den 
+ILS vorliegt. Die Landesoberbehörde hat oft noch eine Dispositionsbefugnis, ob diese Luftunterstützung für 
+gerechtfertigt gehalten wird oder ob übergeordnete Gründe gegen einen Einsatz sprechen. Von dort wird 
+die Anforderung anschließend an die Landespolizei, Bundespolizei, Bundeswehr oder an das Gemeinsame 
+Lagezentrum von Bund und Ländern (GMLZ) weitergeleitet. In einzelnen Bundesländern können die ILS 
+die Hubschrauber auch direkt bei der Landes- und Bundespolizei anfordern. Im Falle von Luftunterstützung 
+durch die Bundeswehr sind je nach Bundesland die Anfragen über das Kreis- bzw. Landeskommando an 
+das Kommando Territoriale Aufgaben der Bundeswehr zu richten (Klimke, 2023). Eine Ausnahme bildet 
+hier die Anforderung von SAR-Hubschraubern (Holzdorf, Nörvenich, Niederstetten). Diese können direkt 
+bei der SAR-Leitstelle Münster angefragt werden (Louis, 2023). 
+Anforderungen privater Unternehmen können typischerweise direkt durch die Einsatzleitung vorgenommen 
+werden. Hier ist allerdings zu beachten, dass oftmals keine Kostenübernahmen durch die Länder möglich 
+ist (Schneider, Telefonat, 2023). 
+4.2.4 Kosten und Kostenträger von Hubschraubereinsätzen 
+Luftunterstützung durch Hubschrauber verursacht im Gegensatz zu UAS einen deutlich höheren monetä-
+ren Aufwand. Beim Einsatz von Hubschraubern der Landes- und Bundespolizei werden im Normalfall nur 
+die einsatzbedingten Mehrkosten in Rechnung gestellt. Diese Kosten sind abhängig vom Flugmuster (Hub-
+schraubermodell) und der Trägerschaft. Als grober Richtwert kann eine Flugstunde mit ca. 1.600 €- 2.500 
+€ veranschlagt werden (Kümer, 2023). Bei privatwirtschaftlichen Unternehmen, bei denen die Vorhaltung 
+nicht querfinanziert ist, können je Flugstunde allerdings auch Kosten von 10.000 € und mehr anfallen.  
+Ein Hubschrauber des Flugmusters NH90 verursacht bei der Bundeswehr, inkl. aller Nebenkosten wie Vor-
+haltung, Personal und Wartung, Kosten in Höhe von ca. 110.000 € je Flugstunde (Goedelt, 2023). Unab-
+hängig davon können noch zusätzliche Kosten wie Landegebühren, Unterbringung, Verpflegung usw. an-
+fallen. Hingegen werden die Hubschrauber der SAR Einheiten nur mit 2.400 € je Flugstunde berechnet. 
+Für Einsatzleiter sind vor allem Überlegungen zur Kostenübernahme von entscheidender Bedeutung. Eine 
+kleine Gemeinde kann durch einen mehrtägigen Einsatz von Luftunterstützung schnell in finanzielle 
+Schwierigkeiten geraten. Aus diesem Grund haben viele Bundesländer die Kostenübernahme durch das 
+Land unter bestimmten Voraussetzungen sichergestellt. Dieses ist auch der Grund, warum sich viele Lan-
+desoberbehörden das Recht vorbehalten, über die Notwendigkeit der Luftunterstützung nach der Anforde-
+rung noch entscheiden zu können. Eine Auflistung der Kostenübernahme, sowie der groben Möglichkeiten 
+sind ebenfalls der Merkhilfe in der Anlage zu entnehmen. Diese Angaben sind aufgrund der vielen Sonder-
+regelungen und stetigen Anpassungen allerdings weder abschließend noch mit Gewähr. 
+Im Fall des Einsatzes von Luftunterstützung durch die Bundeswehr sind die Preisspannen der möglichen 
+Kosten auf Grund der unterschiedlichsten Flugmuster und Abrechnungsmodalitäten noch viel ausgepräg-
+ter. Hier sollte bei der Rückmeldung zur Anforderung das Kostenthema unbedingt geklärt werden. Unter 
+Umständen erfolgt eine Berechnung der Kosten auch erst zu einem viel späteren Zeitpunkt. 
+Bei der Anforderung von privaten Unternehmen ist davon auszugehen, dass neben den einsatzbedingten 
+Mehrkosten auch die Vorhaltung und das Personal mit in Rechnung gestellt werden. Weiterhin übernehmen 
+typischerweise die Bundesländer die Kosten nicht (Schneider, Telefonat, 2023). 
+4.3 Löschflugzeuge im Feuerwehreinsatz 
+4.3.1 Möglichkeiten von Löschflugzeugen im Feuerwehreinsatz 
+Löschflugzeuge bieten im Gegensatz zum Hubschrauber nur wenige Einsatzmöglichkeiten. Erkundungen 
+oder Personensuchen sind aus einem Flugzeug kaum möglich, daher dienen sie tatsächlich nur dem Trans-
+port und dem Abwurf größerer Löschwassermengen. Weltweit gibt es unterschiedlichste Löschflugzeuge. 
+Die einen können im Tiefflug über große Wasserflächen selbst Löschwasser tanken, andere müssen dafür 
+auf einer Landebahn durch Einsatzkräfte mit Löschwasser befüllt werden. Die Aufnahmekapazitäten rei-
+chen von1.000 Litern bis hin zu 45.000 Litern. Bis zum Jahr 2021 existierten sogar zwei umgebaute Boing 
+747 mit bis zu 77.000 Liter Löschwasser an Bord. Aufgrund der immer häufiger auftretenden Vegetations-
+brände sind seit kurzem auch in der Bundesrepublik Deutschland Löschflugzeuge stationiert.  
+
+Diskussion 
+7 
+ 
+Einzelne Fliegerstaffeln der Polizei verfügen ebenfalls über Flugzeuge, welche neben ihrer eigentlichen 
+Funktion wie z.B. die Verkehrsbeobachtung auch zur Waldbrandfrüherkennung eingesetzt werden können. 
+Auf diese Flugzeuge wird im Rahmen dieses Fachartikels nicht weiter eingegangen, da einsatzbezogene 
+Anforderungen und Nutzung nur schwer vorstellbar sind. Auf Grund der stetigen schnellen Fortbewegung 
+des Flugzeuges in der Luft ist z. B. das Leiten bodengebundener Einheiten im Gegensatz zu einem Hub-
+schrauber deutlich aufwendiger. 
+4.3.2 Organisationseinheiten mit Löschflugzeugen 
+Der Landkreis Harz hat sich aufgrund seines großen Waldgebietes und der verehrenden Einsätze der ver-
+gangenen Jahre dazu entschlossen, einen Vertrag mit einem Löschflugzeugbetreiber auszuschreiben. Die 
+Deutsche Löschflugzeug Rettungsstaffel (DLFR) betreibt im Landkreis Harz ein ständig einsatzbereites 
+Löschflugzeug mit 2.200 Liter Löschwasser Fassungsvermögen. Ausfallreserven sowie weitere baugleiche 
+Löschflugzeuge können über ein Partnerunternehmen in Polen gestellt werden (Goldhahn, 2023). 
+Eine weitere Löschflugzeugstation befindet sich unter der Federführung des Niedersächsischen Landes-
+amt für Brand- und Katastrophenschutz am Flughafen Braunschweig. Hier sind zwei Löschflugzeuge mit 
+jeweils 3.100 Liter Löschmittel stationiert. Da diese Flugzeuge mit erheblichen Mitteln der EU gefördert 
+werden, ist hier eine Einsatzfreigabe immer erst nach Rücksprache mit dem Emergency Response Coor-
+dination Centre (ERCC) möglich (NLBK, 2023). 
+Die in Deutschland stationierten Löschflugzeuge sind in der Waldbrandsaison von ca. April bis Oktober 
+einsatzbereit und können ausschließlich an einem Landeplatz mit Löschwasser befüllt werden. Hierzu sind 
+Einheiten erforderlich, die bei laufenden Maschinen den Füllvorgang durchführen (Voß, 2023). 
+4.3.3 Anforderungswege von Löschflugzeugen 
+Löschflugzeuge der DLFR können direkt bei der Gesellschaft angefragt werden. Diese wiederum benötigt 
+aufgrund ihrer Vertragslage mit dem Landkreis Harz dann noch eine Freigabe durch ebendiesen. Abspra-
+chen sowie Anfragen über die Umsetzbarkeit sowie Notwendigkeit eines Löschflugzeuges können auf dem 
+direkten Weg mit der DLFR abgeklärt werden.  
+Die niedersächsischen Löschflugzeuge sind Bestandteil der rescEU-Löschflug Flotte der Europäischen 
+Union und können daher auch nur mit Zustimmung der EU eingesetzt werden. Die Anforderung erfolgt 
+daher über die Landesoberbehörden an das Niedersächsische Landesamt für Brand- und Katastrophen-
+schutz. Diese klären anschließend die Freigabe durch das ERCC. Auch hier sind Absprachen über die 
+Umsetzbarkeit im Vorfeld wichtig. Weiterhin entsendet das Landesamt eine besonders geschulte Einheit, 
+welche die Boden-Luft-Koordination sicherstellt. 
+4.3.4 Kosten und Kostenträger von Löschflugzeugen 
+Löschflugzeuge sind von den Betriebskosten teurer als die meisten Hubschrauber. Die Dromadar Lösch-
+flugzeuge der DLFR werden mit 4.000 € je Flugstunde in Rechnung gestellt. Die Airtractor- Löschflugzeuge 
+aus Niedersachsen mit 3.450 € je Flugstunde. Bei beiden kommen weitere Kosten wie Flughafengebühren 
+o. ä. hinzu. Die Kosten werden von den jeweiligen Bundesländern nur in seltenen Fällen übernommen, 
+daher ist hier jeder Einzelfall mit den Landesoberbehörden abzustimmen. 
+5 Diskussion 
+Einsatzunterstützung aus der Luft kann der Feuerwehr zur Abarbeitung des Einsatzes in vieler Hinsicht 
+dienlich sein. Vorlaufzeiten wie auch Kosten können hier sehr unterschiedlich ausfallen. Daher ist wie in 
+allen Bereichen eine Abwägung zwischen Aufwand und Nutzen im Vorfeld notwendig.  
+Ein UAS für ein kurzes Lagebild aus der Vogelperspektive kann unverzüglich und vergleichsweise kosten-
+günstig  angefordert werden. Aber was kann die UAS-Einheit tatsächlich alles leisten? Allein diese Überle-
+gung wirft schon die Notwendigkeit einheitlicher Standards auf. Ist es zielführend, dass Einheiten, die 
+deutschlandweit denselben Zweck erfüllen sollen, derart divers aufgestellt sind?. Ist die Anzahl von derzeit 
+511 registrierten UAS-Einheiten ein gutes, flächendeckendes System oder doch eher ein unkoordinierter 
+Zustand?  
+Aus Sicht des Verfassers ist es wünschenswert, ein bundeseinheitliches, bindendes Konzept für UAS-Ein-
+heiten einzuführen. Hier ist die Empfehlung für gemeinsame Regelungen zum Einsatz von UAS im Bevöl-
+kerungsschutz des BBK schon ein erster, wegweisender Schritt. Leider ist hier die Mindestausstattung 
+einer UAS-Einheit nicht definiert. Hier würde sich ein Stufenkonzept, abhängig von der Leistung, anbieten. 
+
+Fazit 
+8 
+ 
+Als Beispiel wäre die Stufe I ausschließlich zur Bildübertragung geeignet, die Stufen II und III hätten darüber 
+hinaus eine definierte Zusatzausstattung. So könnte die Einsatzleitung eine entsprechende UAS-Einheit 
+anfordern. 
+Beim Thema Hubschrauber stellen sich entsprechend weitere und komplexere Herausforderungen. Benö-
+tigen einige Bundesländer wirklich keine Hubschrauber, z. B. für den Löscheinsatz? Und reicht die Anzahl 
+der Hubschrauber und Löschflugzeuge überhaupt aus? Hier wird es immer wichtiger werden, den Fokus 
+nicht mehr auf das einzelne Bundesland zu richten. Die Europäische Union zeigt mit rescEU, dass der Blick 
+in der heutigen Zeit viel globaler sein muss. Der Weg über europäische Vorhaltungen ist deutlich zielfüh-
+render, als eine rein nationale oder sogar föderale Denkweise. Hier entwickelt sich das System zunehmend. 
+Eine Koordination der Einsatzmittel über das ERCC ist hierbei ebenfalls der richtige Weg. 
+Bei dem Themenkomplex des Anforderungswegs und der Kostenregelung sollte aus Sicht des Autors der 
+Weg verfolgt werden, den viele Bundesländer bereits umgesetzt haben: Ein einheitlicher Anforderungsweg 
+auf dem Dienstweg an die zuständige Landesoberbehörden mit einer Kostenübernahme durch das jewei-
+lige Land. Dies würde für Sicherheit bei den Einsatzleitungen sorgen. Die Prüfung der Notwendigkeit durch 
+die Landesoberbehörde wird als wichtig und sinnvoll erachtet, da hierdurch eine überproportionale Nutzung 
+der durchaus kostbaren Einsatzmittel vorgebeugt wird. 
+6 Fazit 
+In der Bundesrepublik Deutschland bestehen umfangreiche Möglichkeiten der Einsatzunterstützung aus 
+der Luft. Die unterschiedlichen Organisationen bieten hier flächendeckend ein breites Spektrum an. Leider 
+ist es als Einsatzleitung nicht einfach herauszufinden, welche Organisation, welche Leistung anbieten kann 
+und wie es sich mit den Kosten verhält. Dieser Artikel zeigt auch, dass die Feuerwehren mit ihren divers 
+leistungsfähigen UAS-Einheiten in der Organisation des THW ein funktionierendes Beispiel finden könnten. 
+Eine solche Einheitlichkeit wäre bei den Feuerwehren wünschenswert. Aufgrund der Zuständigkeiten sowie 
+der unterschiedlichen Haushaltslagen wird man dieses Unterfangen in naher Zukunft allerdings kaum rea-
+lisieren können.  
+Weiterhin geht aus der Merkhilfe (s. Anlage) hervor, auf welchem Weg Luftunterstützung angefordert wer-
+den kann und wie es sich mit den Kosten verhält, dies ist sinnvoll für die jeweilige Einsatzleitung. Gerade 
+über das Thema Kosten gibt es vielen Mythen, von denen sich in der Recherche glücklicherweise nicht alle 
+bewahrheitet haben. Trotzdem ist hier vor einer Beauftragung, besonders von privaten Unternehmen, die 
+Kostenfrage zu klären. Auch bleibt trotz mehrmonatiger Recherche die Frage offen, was die Unterstützung 
+durch die Bundeswehr explizit kostet. Hier wird jeder Einzelfall betrachtet und Entscheidungen fallen unter 
+Umständen erst Monate oder gar Jahre später. Damit dieser Umstand nicht dem Einsatzerfolg entgegen-
+steht, sollte jede Feuerwehr im Rahmen der Einsatzvorplanung die individuellen geltenden Wege und recht-
+lichen Herausforderungen zur Anforderung und der evtl. anfallenden Kosten von Einsatzunterstützung aus 
+der Luft im Rahmen der Einsatzvorbereitung klären.  
+Aus Sicht des Verfassers dieses Artikels sollte es dringend Bestrebungen dahingehend geben, die Ein-
+satzmöglichkeiten und Verfügbarkeiten an einer zentralen Stelle, welche mindestens für das Bundesgebiet 
+zuständig ist, zu kanalisieren. Hierfür würde sich z. B. das GMLZ anbieten. Von dort könnte eine zentrale 
+Lenkung der Einheiten erfolgen. Das Starkregenereignis 2021 hat beeindruckend gezeigt, dass angefor-
+derte Luftunterstützung teilweise gar nicht, zu spät oder mit falscher Ausrüstung (z. B. ohne Winde) eintraf 
+(Cimolino, 2023). Dieses zukünftig zu verhindern, sollte eine der wichtigsten Aufgaben der gemeinsamen 
+Gefahrenabwehr sein. 
+Abschließend soll hier noch ein kleiner Ausblick in die Zukunft gegeben werden. Beispielhaft wird hier das 
+vielversprechende Forschungsprojekt VISION erwähnt: Dieses Projekt hat sich mit einem autonomen UAS 
+befasst, welches bei der Eröffnung festgelegter Einsatzszenarien im Einsatzleitrechner-System, automati-
+siert das UAS an die Einsatzstelle entsendet. So könnten zukünftig bereits Lagebilder vor Eintreffen der 
+ersten Einsatzkräfte übermittelt werden. Aus Sicht einer Einsatzleitung könnte die Ordnung des Raumes 
+bereits auf der Anfahrt gesteuert werden, bevor die ersten Einheiten vor Ort sind. Die Entscheidung über 
+notwendige Nachforderungen könnte viel früher getroffen werden. Allein durch dieses Projekt sieht man, 
+welches Potenzial noch in der Luftunterstützung steckt (Forschungsgruppe, Vision, 2022). 
+
+Beschreibung der Methodik 
+9 
+ 
+Teil II: Methoden-, Literatur- und Quellendokumentation 
+7 Beschreibung der Methodik 
+Für einen ersten Überblick führte der Ersteller dieser Facharbeit themenbezogene Gespräche mit ca. 30 
+Experten durch. Hierbei handelte es sich um Personen aus dem Bereich der Feuerwehr, Piloten von Lösch-
+flugzeugen, Einheitsführende von TrUL-Einheiten des THW, Polizeihubschrauberstaffeln und Mitarbei-
+tende aus den beteiligten Ministerien. Im Rahmen dieser Gespräche konnte durch entsprechende Hinweise 
+bereits ein großer Teil an Fachliteratur, internen Verfahrensanweisungen, sowie Erlasse zusammengetra-
+gen werden. Hierdurch konnte vorzugsweise die Methode der quantitativen Literaturarbeit durchgeführt 
+werden. Sofern zu gewissen Inhalten keine Literatur vorhanden oder evtl. veraltet war, wurde durch einen 
+standardisierten Fragebogen eine quantitative Umfrage durchgeführt. 
+8 Begründung 
+Bei der Aufgabenstellung handelt es sich um ein Thema, welches einerseits in einem stetigen Wandel 
+begriffen ist, andererseits schon eine lange Tradition in der Einsatzwelt der Feuerwehr aufweist. Bedingt 
+durch diesen Umstand liegt bereits umfangreiche Literatur zum Thema Luftunterstützung vor. Insbesondere 
+der Teil der Aufgabenstellung, welcher die Fragen der Anforderung und der Kosten betrachtet, ist in einigen 
+Bundesländern klar geregelt. Es galt, diese Informationen zusammenzutragen und in einem übersichtlichen 
+Format darzustellen. Hierzu bot sich die quantitative Literaturrecherche an. Allerdings sind diese Unterla-
+gen nicht in jedem Bundesland vorhanden oder standen dem Verfasser nicht zur Verfügung. Der Verfasser 
+dieses Artikels erstellte einen einheitlicher Fragebogen, mit dem die Methodik der quantitativen Umfrage 
+durchgeführt wurde. Diese Methode barg den Vorteil, dass alle Daten valide, reproduzierbar und objektiv 
+sind. Die Umfragen wurden meist telefonisch mit den Fachleuten durchgeführt. Nach einer kleinen Vorstel-
+lung und Erläuterung wurden die im Fragebogen vorhandenen Sachverhalte abgearbeitet. In wenigen Aus-
+nahmen wurden die Fragen via Mail beantwortet und anschließend durch den Verfasser dieser Arbeit in 
+den Fragebogen übernommen. 
+9 Literatur- und Quellendokumentation  
+9.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken 
+Für die Auflistung von Standorten und den möglichen Einsatzszenarien konnte eine systematisierte On-
+linerecherche für die meisten Bundesländer durchgeführt werden. Stichworte für die Suche war „Polizei-
+hubschrauberstaffel Bundesland“ und „Löschflugzeug Deutschland“. Im Bereich UAS wurde aufgrund der 
+Einheitlichkeit die TrUL-Einheit des THW betrachtet. Hier waren umfangreiche Informationen zu allen 
+Standorten online recherchiert worden. 
+Den Themenbereich Anforderungswege sowie Kosten konnte zumeist in persönlichen Gesprächen bzw. 
+Telefonaten unter Zuhilfenahme des Fragebogens oder anschließender Überlassung von Verfahrensan-
+weisungen erarbeitet werden. Die hierfür notwendigen persönlichen Korrespondenzen kamen über private 
+Kontakte oder eine Standard-E-Mail an die Zentralpostfächer der jeweilig zuständigen Stellen zustande. 
+Die E-Mails wurde dann innerhalb der Häuser an die fachlich zuständigen Ansprechpartner für den Bereich 
+der Luftunterstützung weitergeleitet.  
+9.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation 
+Für die Literaturrecherche im Katalog der Universität Bonn wurden folgende Schlagworte verwendet: 
+„Einsatzunterstützung Luft Feuerwehr“ sowie „Luftunterstützung Feuerwehr“ 
+Hier wurden keine bzw. keine nennenswerten Titel gefunden. Aus diesem Grunde konnte nur eine Recher-
+che durch Fachliteratur in Form von Verordnungen, Erlassen sowie internen Verfahrensanweisungen etc. 
+als Quelle genutzt werden. 
+Darüber hinaus wurden drei Websites (www.drohneneinheit.de; www.thw.de; www.dlfr.de) als Übersichts-
+quellen genutzt. 
+Insgesamt wurden darüber hinaus ca. 50 persönliche Korrespondenzen geführt. 
+ 
+ 
+
+Literatur- und Quellendokumentation 
+10 
+ 
+9.3 Kriterien der Literatur- und Quellenauswahl 
+Die verwendete Literatur wurde hinsichtlich Aktualität, Themenbezug, Zitierwürdigkeit, Qualität sowie kurz-
+fristiger Verfügbarkeit ausgewählt. Da es sich häufig um Ausführungen offizieller Stellen handelte, ist hier 
+von der Validität auszugehen. 
+Die Auswahl der Experten als Gesprächspartner für die persönliche Kommunikation erfolgte auf Recher-
+chen von Zuständigkeiten oder der entsprechenden Benennung als verantwortliche Person für die zu be-
+arbeitende Fragestellung im entsprechenden Hause nach Zusendung der Kontakt-E-Mail mit der Anfrage 
+an das jeweilige zentrale E-Mail-Postfach. 
+9.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen 
+Die letztlich im Fachartikel verwendeten Quellen bzw. der Literatur stellen eine vermeintlich ausgewogene 
+Bandbreite zur Beantwortung der Aufgabenstellung dar.  
+Insgesamt wurden ca. 35 Quellen unterschiedlichster Art für die Erstellung des Artikels herangezogen.  
+Einige Quellen sind strenggenommen nach der gültigen Zitationsrichtlinie APA nicht im Literaturverzeichnis 
+zu benennen. Um hier eine größtmögliche Transparenz zu schaffen, wurden sie gleichwohl in das Ver-
+zeichnis mit aufgenommen.  
+Um eine Übersichtlichkeit zu gewähren, wurden einzelne Erlasse, Auszüge aus Sonderschutzplänen sowie 
+internen Verfahrensanweisungen oder persönlichen Korrespondenzen im Anhang nur beispielhaft aufge-
+führt. Eine Aufnahme aller gesammelten Informationen würde den Anhang um eine Seitenanzahl im kleinen 
+dreistelligen Bereich erweitern. 
+ 
+
+Literatur- und Quellenverzeichnis 
+11 
+ 
+10 Literatur- und Quellenverzeichnis 
+ 
+BBK. (10. Oktober 2023). Bundesamt für Bevölkerungsschutz und Katastrophenhilfe - Empfehlungen zum 
+gemeinsamen 
+Einsatz 
+von 
+Drohnen 
+im 
+Bevölkerungsschutz. 
+Von 
+https://www.bbk.bund.de/DE/Themen/Krisenmanagement/Lagebild/Drohnen/drohnen_node.html: 
+https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Krisenmanageme
+nt/drohnen-empfehlungen.pdf?__blob=publicationFile&v=10 abgerufen 
+Behm, O. (17. Oktober 2023). persönliches Gespräch. Feuerwehr Neubrandenburg. 
+Behrens, T. (13. Oktober 2023). E-Mail. Feuerwehr Bremen, Referatsleiter 32 - Feuerwehr- und 
+Rettungsleitstelle. 
+Block, K. (18. September 2023). Telefonat. Ministerium des Innern des Landes Nordrhein-Westfahlen. 
+BOS-Drohneneinheiten e.V. (05. Oktober 2023). BOS Drohneneinheiten. Von https://drohneneinheit.de: 
+https://drohneneinheit.de/einheiten/ abgerufen 
+Buchmann, R. (12. Oktober 2023). E-Mail. Zweckverband für Rettungsdienst und Feuerwehralarmierung 
+Saar. 
+Cimolino, U. (14. September 2023). Luftfahrzeugeinsatz - Erfahrung aus dem Starkregen 2021 sowie den 
+letzten Jahren der Vegetationsbrandbekämpfung in Deutschland. FIREmobil Welzow. 
+Deutscher 
+Hubschrauber 
+Verband 
+e.V. 
+(23. 
+September 
+2023). 
+Branchenverzeichnis. 
+Von 
+https://www.hubschrauberverband.de/dynasite.cfm?dsmid=500071 abgerufen 
+Direct Industry. (30. Oktober 2023). Starrflügler-Drohnen. Von https://www.directindustry.de/industrie-
+hersteller/starrfluegler-drohne-86134.html abgerufen 
+DJI-Enterprise. 
+(30. 
+Oktober 
+2023). 
+Technische 
+Daten 
+- 
+Matrice 
+300 
+RTK. 
+Von 
+https://enterprise.dji.com/de/matrice-300/specs abgerufen 
+DRF Luftrettung. (15. August 2023). Musterwechsel bei Christoph Dortmund. Von https://www.drf-
+luftrettung.de/8/de/news/musterwechsel-bei-christoph-dortmund abgerufen 
+Ehrenbeck, M. (11. Oktober 2023). persönliches Gespräch. Feuerwehr Ulm. 
+Emrich, 
+C. 
+(Dezember 
+2014). 
+Facharbeit 
+im 
+Rahmen 
+der 
+Ausbildung 
+für 
+den 
+höheren 
+feuerwehrtechnischen Dienst. Unbemannte Luftfahrzeuge im Feuerwehreinsatz. 
+Flemming, T. (13. Oktober 2023). E-Mail. Feuerwehr Erfurt, 1. Lagedienstführer. 
+Forschungsgruppe, Vision. (2022). Schlussbericht Vision - Vernetzte integrierte UAS-gestützte 
+Datenerfassung und –aufbereitung für die Unterstützung von BOS im Bevölkerungsschutz.  
+Goedelt, C. (19. Oktober 2023). Telefonat. Bundeswehr, Fliegerhorst Faßberg, Leiter des Gefechtsstandes. 
+Goldhahn, M. (30. August 2023). Telefonat. DLFR - Deutsche Löschflugzeug Rettungsstaffel. 
+Hartmann, D. (18. September 2023). persönliches Gespräch. Landesbranddirektion Sachsen, 
+Bezirksbrandmeister. 
+HMdIS. (11. Oktober 2023). Hessisches Ministerium des Innern und für Sport - Abteilung V - 
+Sonderschutzplan Waldbrand - Anlage 1 "Merkblatt - Anforderung Hubschrauber und 
+Sondereinsatzmittel 
+Waldbrand". 
+(H. 
+M. 
+Sport, 
+Hrsg.) 
+Von 
+www.innen.hessen.de: 
+https://innen.hessen.de/sites/innen.hessen.de/files/2023-
+09/2022.08.09_Anlage%201%20Merkblatt%20Anforderung_%C3%9Cberarbeitet%2018.09.2023
+.pdf abgerufen 
+IM-NRW. (14. Mai 2020). Ministerium des Innern des Landes Nordrhein-Westfahlen. Erlass - Brand- und 
+Katastrophenschutz - Anforderung von Hubschraubern zur Unterstützung bei Vegetationsbränden 
+inkl. Anforderungsschema. 
+Klimke, A. (07. Juni 2023). Telefonat. Bundeswehr, Territoriales Führungskommando der Bundeswehr. 
+Berlin. 
+
+Literatur- und Quellenverzeichnis 
+12 
+ 
+Koch, M. (11. Oktober 2023). Telefonat. Ministerium für Inneres und Kommunales Brandenburg, 
+Landesbranddirektor. 
+Kümer, A. (29. September 2023). Telefonat. Bundespolizei-Flugbereitschaft St. Augustin, Lage- und 
+Einsatzzentrale. 
+Lehn, H. (11. Oktober 2023). E-Mail. Feuerwehr Kiel, Abteilungsleitung Regionalleitstelle Mitte. 
+Lobe, B. (11. Oktober 2023). persönliches Gespräch. Bundesanstalt Technisches Hilfswerk, Ortsverband 
+Hilden, Einheitsführerin der TrUL Einheit. THW Ortsverband Hilden. 
+Louis, A. (27. November 2023). persönlihes Gespräch. SAR-Leitstelle Münster - RCC-Deutschland. 
+Neumeier, H. (11. Oktober 2023). persönliches Gespräch. Hessische Landesfeuerwehrschule. 
+NLBK. (11. Juli 2023). Niedersächsisches Landesamt für Brand- und Katastrophenschutz. Einsatzkonzept 
+Aerial Forest Firefighting (AFFF) - Einsatz der Niedersächsischen Löschflugzeugstaffel in 
+Deutschland und der EU. 
+Polizeihubschrauberstaffel München, diensthabender Pilot. (18. September 2023). Telefonat. 
+Schneider, D. (September 2023). Die Strategische Waldbrandschutzkonzeption des Freistaates Sachsen. 
+Brandschutz, S. 642-649. 
+Schneider, 
+D. 
+(17. 
+Oktober 
+2023). 
+Telefonat. 
+Sächsisches 
+Staatsministerium 
+des 
+Innern, 
+Landesbranddirektor. 
+Schubert, K. (26. September 2023). E-Mail. Bundesanstalt Technisches Hilfswerk, Landesverband NRW. 
+THW. (26. September 2023). Bundesanstalt Technisches Hilfswerk - Einheiten und Technik - 
+Einheitensuche. 
+Von 
+https://www.thw.de/DE/Einheiten-Technik/einheiten-technik_node.html 
+abgerufen 
+Voß, M. (11. September 2023). Telefonat. Niedersächsisches Landesamt für Brand- und 
+Katastrophenschutz, Referatsleiter . 
+Zonker, F. (11. September 2023). persönliches Gespräch. Feuerwehr Trier. 
+ 
+
+Anhänge 
+13 
+ 
+A. Anhänge 
+ 
+Abbildung 1: Merkhilfe Seite 1 (eigene Darstellung, 2023) 
+ 
+
+Anhänge 
+14 
+ 
+ 
+Abbildung 2: Merkhilfe Seite 2 (eigene Darstellung, 2023) 
+ 
+
+Anhänge 
+15 
+ 
+ 
+ 
+Abbildung 3: Fragebogen für die persönlichen Kontakte (eigene Darstellung, 2023) 
+ 
+ 
+
+Anhänge 
+16 
+ 
+ 
+ 
+Abbildung 4: Beispiel Fragebogen LBD BB - Michael Koch (2023) 
+ 
+ 
+
+Anhänge 
+17 
+ 
+ 
+ 
+Abbildung 5: Erlass zur Anforderung eines Hubschraubers mit ALB am Beispiel NW (IM-NRW) 
+ 
+ 
+
+Anhänge 
+18 
+ 
+ 
+Abbildung 6: Anforderungsschema Hubschrauber der Feuerwehr Erfurt, (FW-Erfurt, 2023) 
+ 
+ 
+
+Anhänge 
+19 
+ 
+ 
+ 
+Abbildung 7: Auszug aus Merkblatt Anforderung Hubschrauber … Waldbrand in HE (HMdIS, 2023)
+
+Eigenständigkeitserklärung 
+20 
+ 
+ 
+B. Eigenständigkeitserklärung  
+04.12.2023 
+Einsatzunterstützung aus der Luft 
+Fertigen Sie einen Fachartikel, der Einsatzkräften als Merkhilfe für die Anforderung von Luftunter-
+stützung bei Einsatzlagen dienen kann. Was kann bei den unterschiedlichen Organisationen ange-
+fordert werden? Welche Rahmenbedingungen gelten bei der Anforderung? Wer ist der jeweilige 
+Kostenträger? 
+Hans-Peter Kremer 

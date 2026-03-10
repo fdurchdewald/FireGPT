@@ -1,0 +1,232 @@
+# Waldbrand - Niedersächsische Landesforsten
+
+- Spezialseite Waldbrand Bedrohung der Wälder Unsere Wälder sind vielen Gefahren ausgesetzt. Pilze und Insekten können sich unter Umständen bei einer massenhaften Vermehrung zu einer Bedrohungslage für den Wald entwickeln.
+
+- Pilze und Insekten können sich unter Umständen bei einer massenhaften Vermehrung zu einer Bedrohungslage für den Wald entwickeln. Die größten Gefahren drohen unseren Wäldern durch Klimaextreme wie Stürme, Nassschnee, Spät- oder Frühfröste, Trockenheit und Dürre.
+
+- Die größten Gefahren drohen unseren Wäldern durch Klimaextreme wie Stürme, Nassschnee, Spät- oder Frühfröste, Trockenheit und Dürre. Trockenheit und Dürre haben oft sehr weitreichende Folgen, die Bäume dursten, sind wenig vital und in der Folge anfällig für viele andere Schaderreger.
+
+- Trockenheit und Dürre haben oft sehr weitreichende Folgen, die Bäume dursten, sind wenig vital und in der Folge anfällig für viele andere Schaderreger. Der Klimawandel ist bereits heute beobachtbar und wird sich gemäß aller Vorhersagemodelle noch verschärfen.
+
+- Der Klimawandel ist bereits heute beobachtbar und wird sich gemäß aller Vorhersagemodelle noch verschärfen. Alle meteorologischen Parameter unterliegen diesem Wandel.
+
+- Alle meteorologischen Parameter unterliegen diesem Wandel. Klimaextreme werden zunehmen.
+
+- Klimaextreme werden zunehmen. Besonders wird sich das Niederschlags- und Temperaturregime ändern, dass Trockenstress und Trockenperioden verstärkt auftreten werden und damit auch die Waldbrandgefahr steigen wird.
+
+- Besonders wird sich das Niederschlags- und Temperaturregime ändern, dass Trockenstress und Trockenperioden verstärkt auftreten werden und damit auch die Waldbrandgefahr steigen wird. Grundsätzlich gehören auch Waldbrände zum natürlichen Kreislauf des Waldes.
+
+- Grundsätzlich gehören auch Waldbrände zum natürlichen Kreislauf des Waldes. Aber im dicht besiedelten Raum sind Waldbrände eine Gefahr für Mensch und Tier, außerdem verursachen sie unabsehbare wirtschaftliche und ökologische Schäden.
+
+- Aber im dicht besiedelten Raum sind Waldbrände eine Gefahr für Mensch und Tier, außerdem verursachen sie unabsehbare wirtschaftliche und ökologische Schäden. Die erhöhte Waldbrandgefahr muss nicht unbedingt bedeuten, dass es mehr Brände geben wird.
+
+- Die erhöhte Waldbrandgefahr muss nicht unbedingt bedeuten, dass es mehr Brände geben wird. Der Mensch spielt in dieser Verkettung eine wichtige Rolle.
+
+- Der Mensch spielt in dieser Verkettung eine wichtige Rolle. Es gilt, Verhaltensweisen zu ändern und technische Potenziale auszunutzen, um die Gefahr zu minimieren.
+
+- Es gilt, Verhaltensweisen zu ändern und technische Potenziale auszunutzen, um die Gefahr zu minimieren. Entstehung von Waldbränden Damit ein Feuer entstehen kann, braucht es drei Dinge; Sauerstoff, gut brennbares Material und einen Funken, eine offene Flamme oder ein Glutstück, die es entzündet.
+
+- Entstehung von Waldbränden Damit ein Feuer entstehen kann, braucht es drei Dinge; Sauerstoff, gut brennbares Material und einen Funken, eine offene Flamme oder ein Glutstück, die es entzündet. Sauerstoff ist in unseren Wäldern reichlich vorhanden.
+
+- Sauerstoff ist in unseren Wäldern reichlich vorhanden. Er wird bei der Photosynthese stets frisch produziert.
+
+- Er wird bei der Photosynthese stets frisch produziert. Brennbares Material ist in unseren Wäldern grundsätzlich überall zu finden.
+
+- Brennbares Material ist in unseren Wäldern grundsätzlich überall zu finden. Ganze Bäume, Äste und Reisig am Boden, Bodenvegetation, Laub und Nadeln.
+
+- Ganze Bäume, Äste und Reisig am Boden, Bodenvegetation, Laub und Nadeln. Aber nicht alle Wälder sind gleichermaßen durch Waldbrände gefährdet.
+
+- Aber nicht alle Wälder sind gleichermaßen durch Waldbrände gefährdet. Eine große Rolle spielt die Zusammensetzung der Wälder.
+
+- Eine große Rolle spielt die Zusammensetzung der Wälder. Nadelwälder sind grundsätzlich brandgefährdeter als Laubwälder.
+
+- Nadelwälder sind grundsätzlich brandgefährdeter als Laubwälder. Bei den Nadelbäumen sind vor allem die harzhaltigen Kiefern aber auch Fichten die beiden am stärksten gefährdeten Baumarten.
+
+- Bei den Nadelbäumen sind vor allem die harzhaltigen Kiefern aber auch Fichten die beiden am stärksten gefährdeten Baumarten. Damit sich ein Waldbrand entwickeln kann, muss am Boden genügend brennbares, trockenes Material vorhanden sein.
+
+- Damit sich ein Waldbrand entwickeln kann, muss am Boden genügend brennbares, trockenes Material vorhanden sein. Kommt jetzt der zündende Funke mit dem brennbaren Material zusammen, kann sich ein Waldbrand entwickeln.
+
+- Kommt jetzt der zündende Funke mit dem brennbaren Material zusammen, kann sich ein Waldbrand entwickeln. Die Liste der Beispiele für den zündenden Funken ist vielfältig und sicherlich nicht abschließend: Der weggeworfenen Zigarettenstummel Die achtlos entsorgte Grillkohle Das nicht gelöschte oder schlecht gesicherte Lagerfeuer Das mit heißem Katalysator über ausgetrocknetem Gras geparkte Auto Der heiß gelaufene Radreifen oder die festgefressene Bremse bei der Eisenbahn Das Verbrennen von Laub und Pflanzenresten im Garten oder auf Feldern Die in Brand geratene Erntemaschine Die Selbstentzündung phosphorhaltiger Munitionsreste bei heißer Witterung Absichtlich gelegte Feuer Je nach den herrschenden Rahmenbedingungen entwickelt sich ein Feuer schnell oder glimmt über Stunden, Tage sogar Wochen vor sich hin.
+
+- Die Liste der Beispiele für den zündenden Funken ist vielfältig und sicherlich nicht abschließend: Der weggeworfenen Zigarettenstummel Die achtlos entsorgte Grillkohle Das nicht gelöschte oder schlecht gesicherte Lagerfeuer Das mit heißem Katalysator über ausgetrocknetem Gras geparkte Auto Der heiß gelaufene Radreifen oder die festgefressene Bremse bei der Eisenbahn Das Verbrennen von Laub und Pflanzenresten im Garten oder auf Feldern Die in Brand geratene Erntemaschine Die Selbstentzündung phosphorhaltiger Munitionsreste bei heißer Witterung Absichtlich gelegte Feuer Je nach den herrschenden Rahmenbedingungen entwickelt sich ein Feuer schnell oder glimmt über Stunden, Tage sogar Wochen vor sich hin. Sobald jedoch trockener Wind, eine niedrige relative Luftfeuchte und viel brennbares Material zusammenkommen, kann sich ein Waldbrand rasend schnell entwickeln.
+
+- Sobald jedoch trockener Wind, eine niedrige relative Luftfeuchte und viel brennbares Material zusammenkommen, kann sich ein Waldbrand rasend schnell entwickeln. Bei langanhaltender Trockenheit können sich Waldbrände auch auf großer Fläche schnell ausbreiten.
+
+- Bei langanhaltender Trockenheit können sich Waldbrände auch auf großer Fläche schnell ausbreiten. Dynamik eines Waldbrandes In der Regel durchläuft ein Waldbrand mehrere Phasen.
+
+- Dynamik eines Waldbrandes In der Regel durchläuft ein Waldbrand mehrere Phasen. Es beginnt als Bodenfeuer, gespeist aus Reisig, Ästen und trockenen Pflanzenresten am Waldboden.
+
+- Es beginnt als Bodenfeuer, gespeist aus Reisig, Ästen und trockenen Pflanzenresten am Waldboden. Das Bodenfeuer beginnt seiner Nahrung „hinterher“ zu laufen.
+
+- Das Bodenfeuer beginnt seiner Nahrung „hinterher“ zu laufen. Dieses Bodenfeuer heizt, besonders bei Nadelgehölzen, die tief hängenden Äste und trockenen Zweige über sich an und beginnt bis in die Baumkronen zu klettern.
+
+- Dieses Bodenfeuer heizt, besonders bei Nadelgehölzen, die tief hängenden Äste und trockenen Zweige über sich an und beginnt bis in die Baumkronen zu klettern. Ein Wipfelfeuer entsteht.
+
+- Ein Wipfelfeuer entsteht. Springen die Flammen nun von Krone zu Krone spricht man vom Vollfeuer oder Totalbrand.
+
+- Springen die Flammen nun von Krone zu Krone spricht man vom Vollfeuer oder Totalbrand. Ein Vollfeuer wird in der Regel immer durch ein Bodenfeuer gestützt, verliert das Bodenfeuer seine Kraft fällt das Vollfeuer zu Boden und sucht sich dort seine Nahrung.
+
+- Ein Vollfeuer wird in der Regel immer durch ein Bodenfeuer gestützt, verliert das Bodenfeuer seine Kraft fällt das Vollfeuer zu Boden und sucht sich dort seine Nahrung. Waldbrandverhütung Waldbrände entstehen ohne menschlichen Einfluss eher selten.
+
+- Waldbrandverhütung Waldbrände entstehen ohne menschlichen Einfluss eher selten. Der zündende Funke kann zwar der Gewitterblitz nach längerer Trockenheit sein.
+
+- Der zündende Funke kann zwar der Gewitterblitz nach längerer Trockenheit sein. Aber der erste Funke, der das Feuer entfacht, ist unter natürlichen Bedingungen relativ selten.
+
+- Aber der erste Funke, der das Feuer entfacht, ist unter natürlichen Bedingungen relativ selten. Heutzutage entstehen Waldbrände meist durch menschliche Ursachen, ob absichtlich oder aus Versehen.
+
+- Heutzutage entstehen Waldbrände meist durch menschliche Ursachen, ob absichtlich oder aus Versehen. Daher sind unbedingt folgende Punkte zu beachten: Kein offenes Feuer im Wald oder in Wald-Nähe Grillen nur auf freigebenden Grillplätzen, dazu bitte das örtliche Forstamt fragen Im Wald gilt in der Zeit vom 01. März bis zum 31. Oktober jeden Jahres ein allgemeines Rauchverbot Autos mit Katalysatoren nicht über trockenem Gras abstellen Einfahrten von Waldwegen nicht zuparken, sie dienen als Rettungswege Brennende oder glimmende Gegenstände wie z. B. Zigarettenkippen dürfen nicht weggeworfen werden Seien Sie wachsam; bitte jeden Waldbrand unverzüglich unter der Notrufnummer 112 melden!
+
+- Daher sind unbedingt folgende Punkte zu beachten: Kein offenes Feuer im Wald oder in Wald-Nähe Grillen nur auf freigebenden Grillplätzen, dazu bitte das örtliche Forstamt fragen Im Wald gilt in der Zeit vom 01. März bis zum 31. Oktober jeden Jahres ein allgemeines Rauchverbot Autos mit Katalysatoren nicht über trockenem Gras abstellen Einfahrten von Waldwegen nicht zuparken, sie dienen als Rettungswege Brennende oder glimmende Gegenstände wie z. B. Zigarettenkippen dürfen nicht weggeworfen werden Seien Sie wachsam; bitte jeden Waldbrand unverzüglich unter der Notrufnummer 112 melden! Einschätzung der Waldbrandgefahr Zur Vorhersage der Waldbrandgefährdungssituation dient in Deutschland der Waldbrandgefahrenindex (WBI).
+
+- Einschätzung der Waldbrandgefahr Zur Vorhersage der Waldbrandgefährdungssituation dient in Deutschland der Waldbrandgefahrenindex (WBI). Dies ist ein Vorhersageverfahren zur aktuellen Waldbrandgefährdung.
+
+- Dies ist ein Vorhersageverfahren zur aktuellen Waldbrandgefährdung. Das Verfahren wird in der Waldbrandsaison von Februar/März bis Oktober durchgeführt und basiert auf amtlichen Klimadaten ausgewählter Wetterstationen des Deutschen Wetterdienstes (DWD).
+
+- Das Verfahren wird in der Waldbrandsaison von Februar/März bis Oktober durchgeführt und basiert auf amtlichen Klimadaten ausgewählter Wetterstationen des Deutschen Wetterdienstes (DWD). Seit 2014 gilt der Waldbrandgefahrenindex einheitlich für alle Bundesländer.
+
+- Seit 2014 gilt der Waldbrandgefahrenindex einheitlich für alle Bundesländer. Die Gefährdungssituation wird durch den DWD nach internationalem Standard in fünf Waldbrandgefährdungsstufen von 1 (sehr gering) bis 5 (sehr hoch) dargestellt.
+
+- Die Gefährdungssituation wird durch den DWD nach internationalem Standard in fünf Waldbrandgefährdungsstufen von 1 (sehr gering) bis 5 (sehr hoch) dargestellt. Zur konkreten Einschätzung der Waldbrandgefahr vor Ort braucht man sowohl die meteorologischen Parameter als auch den Zustand der Vegetation.
+
+- Zur konkreten Einschätzung der Waldbrandgefahr vor Ort braucht man sowohl die meteorologischen Parameter als auch den Zustand der Vegetation. Als Erstes spielen Lufttemperatur, relative Luftfeuchte, Windgeschwindigkeit, Strahlung und Niederschläge eine Rolle.
+
+- Als Erstes spielen Lufttemperatur, relative Luftfeuchte, Windgeschwindigkeit, Strahlung und Niederschläge eine Rolle. Die meteorologischen Daten sind ausschlaggebend für die Ausgangslage in Bezug auf die Waldbrandgefahr, der Zustand des Waldes und der dortigen Vegetation gibt Hinweise auf die konkrete Situation vor Ort.
+
+- Die meteorologischen Daten sind ausschlaggebend für die Ausgangslage in Bezug auf die Waldbrandgefahr, der Zustand des Waldes und der dortigen Vegetation gibt Hinweise auf die konkrete Situation vor Ort. Solange im Frühjahr noch die trockene Vegetation des Vorjahres vorhanden ist, muss die reale Waldbrandgefahr stets höher eingeschätzt werden, als wenn das frische Grün der Bodenvegetation und die Belaubung der Kronen abgeschlossen ist.
+
+- Solange im Frühjahr noch die trockene Vegetation des Vorjahres vorhanden ist, muss die reale Waldbrandgefahr stets höher eingeschätzt werden, als wenn das frische Grün der Bodenvegetation und die Belaubung der Kronen abgeschlossen ist. Im Herbst steigt die Waldbrandgefahr mit dem Trockenwerden der Bodenvegetation wieder an.
+
+- Im Herbst steigt die Waldbrandgefahr mit dem Trockenwerden der Bodenvegetation wieder an. Nicht alle Baumarten und Waldbestände sind gleichermaßen waldbrandgefährdet.
+
+- Nicht alle Baumarten und Waldbestände sind gleichermaßen waldbrandgefährdet. Laub- und Mischwälder sind weniger brandgefährdet als große zusammenhängende Nadelholzwaldgebiete.
+
+- Laub- und Mischwälder sind weniger brandgefährdet als große zusammenhängende Nadelholzwaldgebiete. Nachgewiesen ist, dass die großen Kiefernwaldgebiete in Nord-Ost-Niedersachsen auf den relativ armen und trockenen Sandstandorten am stärksten durch Waldbrände gefährdet sind.
+
+- Nachgewiesen ist, dass die großen Kiefernwaldgebiete in Nord-Ost-Niedersachsen auf den relativ armen und trockenen Sandstandorten am stärksten durch Waldbrände gefährdet sind. Daher wird dieses Gebiet auch durch das Automatisierte Waldbrandfrüherkennungssystem (AWFS) besonders überwacht.
+
+- Daher wird dieses Gebiet auch durch das Automatisierte Waldbrandfrüherkennungssystem (AWFS) besonders überwacht. Waldbrandprävention Um Waldbränden effektiv vorzubeugen, gibt es auch waldbauliche Möglichkeiten.
+
+- Waldbrandprävention Um Waldbränden effektiv vorzubeugen, gibt es auch waldbauliche Möglichkeiten. In Bezug auf die Waldbrandgefahr gilt der Grundsatz, dass Nadelhölzer gefährdeter sind als Laubbäume.
+
+- In Bezug auf die Waldbrandgefahr gilt der Grundsatz, dass Nadelhölzer gefährdeter sind als Laubbäume. Dieses Prinzip kommt den Förstern beim Waldumbau hinsichtlich der Gefährdungslage in vielerlei Hinsicht entgegen.
+
+- Dieses Prinzip kommt den Förstern beim Waldumbau hinsichtlich der Gefährdungslage in vielerlei Hinsicht entgegen. Die Niedersächsischen Landesforsten bauen ihre Wälder gemäß der langfristigen ökologischen Waldentwicklung (LÖWE) bereits seit Anfang der 90er – Jahre in standortgemäße und klimaangepasste Mischwälder um.
+
+- Die Niedersächsischen Landesforsten bauen ihre Wälder gemäß der langfristigen ökologischen Waldentwicklung (LÖWE) bereits seit Anfang der 90er – Jahre in standortgemäße und klimaangepasste Mischwälder um. So wird auch in großen Nadelwaldgebieten der Laubholzanteil sukzessive erhöht.
+
+- So wird auch in großen Nadelwaldgebieten der Laubholzanteil sukzessive erhöht. Mit Zunahme des Laubholzanteils sinkt die Brandgefahr deutlich.
+
+- Mit Zunahme des Laubholzanteils sinkt die Brandgefahr deutlich. Zusätzlich wurden in großen Nadelholzgebieten als Sofortmaßnahmen sogenannte Brandschutzstreifen aus schwer brennbaren Baumarten, meistens Laubhölzer, angelegt.
+
+- Zusätzlich wurden in großen Nadelholzgebieten als Sofortmaßnahmen sogenannte Brandschutzstreifen aus schwer brennbaren Baumarten, meistens Laubhölzer, angelegt. Besonders entlang von Straßen, Wanderwegen und Bahnlinien, aber auch um große Nadelholzkomplexe zu unterbrechen, wurden solche Laubholzpflanzungen gegründet.
+
+- Besonders entlang von Straßen, Wanderwegen und Bahnlinien, aber auch um große Nadelholzkomplexe zu unterbrechen, wurden solche Laubholzpflanzungen gegründet. Dadurch konnte die Waldbrandgefahr minimiert werden.
+
+- Dadurch konnte die Waldbrandgefahr minimiert werden. Die Wirkung entsteht dadurch, dass sich in diesen Streifen Bodenfeuer nur schwer entwickeln können, um dann in die dahinterliegenden Nadelwaldkomplexe zu laufen.
+
+- Die Wirkung entsteht dadurch, dass sich in diesen Streifen Bodenfeuer nur schwer entwickeln können, um dann in die dahinterliegenden Nadelwaldkomplexe zu laufen. Ergänzt werden solche gezielten Pflanzungen mancherorts durch Wundstreifen, die durch eine Fräse frei von jeglicher Bodenvegetation gehalten werden.
+
+- Ergänzt werden solche gezielten Pflanzungen mancherorts durch Wundstreifen, die durch eine Fräse frei von jeglicher Bodenvegetation gehalten werden. Außerdem ist auch die Erschließung der Wälder durch ein Netz von befahrbaren Waldwegen im Brandfall extrem wichtig.
+
+- Außerdem ist auch die Erschließung der Wälder durch ein Netz von befahrbaren Waldwegen im Brandfall extrem wichtig. Dadurch können die eingesetzten Löschkräfte den Brandort schnell erreichen.
+
+- Dadurch können die eingesetzten Löschkräfte den Brandort schnell erreichen. Eine enge Zusammenarbeit zwischen Forstleuten, Waldbesitzern und Feuerwehren hilft der Waldbrandprävention.
+
+- Eine enge Zusammenarbeit zwischen Forstleuten, Waldbesitzern und Feuerwehren hilft der Waldbrandprävention. Gemeinsame Übungen schaffen Ortskenntnis und sorgen für Vertrauen.
+
+- Gemeinsame Übungen schaffen Ortskenntnis und sorgen für Vertrauen. Waldbrandeinsatzkarten werden gemeinsam erarbeitet und dienen den Feuerwehren um einen schnellen Überblick über Wege, Löschwasserstellen und den Zustand des Waldes zu bekommen.
+
+- Waldbrandeinsatzkarten werden gemeinsam erarbeitet und dienen den Feuerwehren um einen schnellen Überblick über Wege, Löschwasserstellen und den Zustand des Waldes zu bekommen. Forstleute stehen als Waldbrandbeauftragte zur Verfügung.
+
+- Forstleute stehen als Waldbrandbeauftragte zur Verfügung. Im Rahmen der Waldbrandvorsorge und im Brandfall sind sie als Fachberater in die Kommandostrukturen der Feuerwehren eingebunden.
+
+- Im Rahmen der Waldbrandvorsorge und im Brandfall sind sie als Fachberater in die Kommandostrukturen der Feuerwehren eingebunden. Automatisiertes Waldbrandfrüherkennungssystem (AWFS) Die Niedersächsischen Landesforsten (NLF) betreiben im Auftrag des Landes das Automatisierte Waldbrand-Früherkennungs-System (AWFS) in Lüneburg.
+
+- Automatisiertes Waldbrandfrüherkennungssystem (AWFS) Die Niedersächsischen Landesforsten (NLF) betreiben im Auftrag des Landes das Automatisierte Waldbrand-Früherkennungs-System (AWFS) in Lüneburg. Der Sitz der sogenannten Waldbrandzentrale ist im Behördenzentrum „Auf der Hude“ in Lüneburg.
+
+- Der Sitz der sogenannten Waldbrandzentrale ist im Behördenzentrum „Auf der Hude“ in Lüneburg. Die Technik des AWFS wurde vom Deutschen Zentrum für Luft und Raumfahrt (DLR) entwickelt.
+
+- Die Technik des AWFS wurde vom Deutschen Zentrum für Luft und Raumfahrt (DLR) entwickelt. Das System hat sich seit der Inbetriebnahme 2011 vielfach bewährt.
+
+- Das System hat sich seit der Inbetriebnahme 2011 vielfach bewährt. Die optischen Sensoren des Systems stellen eine flächendeckende Überwachung sicher und können selbst in 20 km Entfernung Rauchentwicklungen durch Entstehungsbrände erkennen und exakt verorten.
+
+- Die optischen Sensoren des Systems stellen eine flächendeckende Überwachung sicher und können selbst in 20 km Entfernung Rauchentwicklungen durch Entstehungsbrände erkennen und exakt verorten. Ziel ist es, Waldbrände so früh wie möglich zu lokalisieren und erfolgreich zu bekämpfen, um die Entwicklung größerer Brandereignisse zu verhindern und Schäden für Mensch und Natur so gering wie möglich zu halten.
+
+- Ziel ist es, Waldbrände so früh wie möglich zu lokalisieren und erfolgreich zu bekämpfen, um die Entwicklung größerer Brandereignisse zu verhindern und Schäden für Mensch und Natur so gering wie möglich zu halten. Das AWFS wurde 2021 modernisiert.
+
+- Das AWFS wurde 2021 modernisiert. Die 20 Überwachungs-Kameras sind durch leistungsfähigere Modelle ersetzt worden.
+
+- Die 20 Überwachungs-Kameras sind durch leistungsfähigere Modelle ersetzt worden. Ein neuer Server und neue Rechner an den fünf Arbeitsplätzen sorgen für schnellere Auswertungsmöglichkeiten der übertragenen Bilder.
+
+- Ein neuer Server und neue Rechner an den fünf Arbeitsplätzen sorgen für schnellere Auswertungsmöglichkeiten der übertragenen Bilder. Eine neue Großbildwand gibt den Brandwächtern die Möglichkeit unklare Warnmeldungen schneller und besser gemeinsam zu beurteilen.
+
+- Eine neue Großbildwand gibt den Brandwächtern die Möglichkeit unklare Warnmeldungen schneller und besser gemeinsam zu beurteilen. Ein Mitarbeiterteam der Waldbrandüberwachungszentrale in Lüneburg überwacht an den fünf Bildschirm–Arbeitsplätzen des AWFS die Wälder in Nord-Ost-Niedersachsen.
+
+- Ein Mitarbeiterteam der Waldbrandüberwachungszentrale in Lüneburg überwacht an den fünf Bildschirm–Arbeitsplätzen des AWFS die Wälder in Nord-Ost-Niedersachsen. Ab Waldbrandwarnstufe 3 ist die Lüneburger Zentrale mit speziell geschulten Forstwirten besetzt und überwacht eine etwa 440.000 Hektar große Waldfläche in nordöstlichen Niedersachsen.
+
+- Ab Waldbrandwarnstufe 3 ist die Lüneburger Zentrale mit speziell geschulten Forstwirten besetzt und überwacht eine etwa 440.000 Hektar große Waldfläche in nordöstlichen Niedersachsen. Die überwachte Gesamtfläche liegt sogar bei fast einer Million Hektar.
+
+- Die überwachte Gesamtfläche liegt sogar bei fast einer Million Hektar. Die Sensoren des Systems sind in der Lage, eine flächendeckende Überwachung sicherzustellen und dabei besser als das menschliche Auge selbst in 20 Kilometer Entfernung Entstehungsbrände zu erkennen -zu detektieren.
+
+- Die Sensoren des Systems sind in der Lage, eine flächendeckende Überwachung sicherzustellen und dabei besser als das menschliche Auge selbst in 20 Kilometer Entfernung Entstehungsbrände zu erkennen -zu detektieren. Sobald eine der 20 hochempfindlichen Sensoreinheiten des Systems eine Rauchentwicklung aufgespürt hat, erfolgt eine automatische Meldung an die Zentrale.
+
+- Sobald eine der 20 hochempfindlichen Sensoreinheiten des Systems eine Rauchentwicklung aufgespürt hat, erfolgt eine automatische Meldung an die Zentrale. Hier wird die Meldung der Livebilder ausgewertet, analysiert und eine exakte Verortung über Kreuzpeilungen der verschiedenen Kamerastandorte vorgenommen.
+
+- Hier wird die Meldung der Livebilder ausgewertet, analysiert und eine exakte Verortung über Kreuzpeilungen der verschiedenen Kamerastandorte vorgenommen. Bei einem bestätigten Brandereignis wird sofort die zuständige Feuerwehrleitzentrale benachrichtigt und mit den notwendigen Informationen versorgt.
+
+- Bei einem bestätigten Brandereignis wird sofort die zuständige Feuerwehrleitzentrale benachrichtigt und mit den notwendigen Informationen versorgt. Die Kamerastandorte erstrecken sich auf sechs Landkreise: Lüneburg, Heidekreis, Uelzen, Gifhorn, Lüchow-Dannenberg und Celle Waldbrandbeauftragte Das Niedersächsische Gesetz über den Wald und die Landschaftsordnung (NWaldLG) vom 21. März 2002 befasst sich unter den Paragraphen § 18 bis 22 mit Maßnahmen gegen Waldbrände.
+
+- Die Kamerastandorte erstrecken sich auf sechs Landkreise: Lüneburg, Heidekreis, Uelzen, Gifhorn, Lüchow-Dannenberg und Celle Waldbrandbeauftragte Das Niedersächsische Gesetz über den Wald und die Landschaftsordnung (NWaldLG) vom 21. März 2002 befasst sich unter den Paragraphen § 18 bis 22 mit Maßnahmen gegen Waldbrände. Hier wird die Bestellung der Waldbrandbeauftragten, deren Aufgaben und Befugnisse und der Schutz vor Brand- und Schädlingsgefahren geregelt.
+
+- Hier wird die Bestellung der Waldbrandbeauftragten, deren Aufgaben und Befugnisse und der Schutz vor Brand- und Schädlingsgefahren geregelt. Zu Waldbrandbeauftragten können ausschließlich Forstbedienstete des Landes, der Niedersächsische Landesforsten, des Bundes, der Landkreise, der Gemeinden und der Landwirtschaftskammer Niedersachsen, sowie Leiterinnen und Leiter privater Forstbetriebe und Bedienstete von forstwirtschaftlichen Zusammenschlüssen bestellt werden.
+
+- Zu Waldbrandbeauftragten können ausschließlich Forstbedienstete des Landes, der Niedersächsische Landesforsten, des Bundes, der Landkreise, der Gemeinden und der Landwirtschaftskammer Niedersachsen, sowie Leiterinnen und Leiter privater Forstbetriebe und Bedienstete von forstwirtschaftlichen Zusammenschlüssen bestellt werden. Waldbrandbeauftragte können anordnen, dass Waldbesitzende in ihrem jeweiligen Wald auf eigene Kosten erforderliche Zufahrten, Wendeplätze und Wasserstellen für die Feuerwehren anlegen und im Rahmen der wirtschaftlichen Zumutbarkeit weitere Sicherheitsvorkehrungen treffen.
+
+- Waldbrandbeauftragte können anordnen, dass Waldbesitzende in ihrem jeweiligen Wald auf eigene Kosten erforderliche Zufahrten, Wendeplätze und Wasserstellen für die Feuerwehren anlegen und im Rahmen der wirtschaftlichen Zumutbarkeit weitere Sicherheitsvorkehrungen treffen. Sämtliche Maßnahmen sollen zuvor mit dem Landkreis und den betreffenden Gemeinden des jeweiligen Gefahrenbezirks abgestimmt werden.
+
+- Sämtliche Maßnahmen sollen zuvor mit dem Landkreis und den betreffenden Gemeinden des jeweiligen Gefahrenbezirks abgestimmt werden. Bei der Bekämpfung eines Waldbrandes unterstützen die Waldbrandbeauftragten darüber hinaus die Einsatzleitung der Löschkräfte.
+
+- Bei der Bekämpfung eines Waldbrandes unterstützen die Waldbrandbeauftragten darüber hinaus die Einsatzleitung der Löschkräfte. Kooperationen in Sachen Waldbrand Die Niedersächsischen Landesforsten arbeiten mit unterschieden Institutionen beim Thema Waldbrand eng zusammen.
+
+- Kooperationen in Sachen Waldbrand Die Niedersächsischen Landesforsten arbeiten mit unterschieden Institutionen beim Thema Waldbrand eng zusammen. Als Beispiel ist das Projekt „Waldbrand-Klima-Resilienz“ vom European Forest Institut (EFI) zu nennen.
+
+- Als Beispiel ist das Projekt „Waldbrand-Klima-Resilienz“ vom European Forest Institut (EFI) zu nennen. Dieses setzt sich intensiv mit der Entstehung und Bekämpfung von Wald- und Vegetationsbränden auseinander.
+
+- Dieses setzt sich intensiv mit der Entstehung und Bekämpfung von Wald- und Vegetationsbränden auseinander. Im Zuge der Zusammenarbeit wurde dem Forstamt Oerrel ein sogenanntes „Löschmodul Forst-Feld – Farm“ zur Verfügung gestellt.
+
+- Im Zuge der Zusammenarbeit wurde dem Forstamt Oerrel ein sogenanntes „Löschmodul Forst-Feld – Farm“ zur Verfügung gestellt. Das Modul wurde im Rahmen des Projektes „Waldbrand-Klima-Resilienz“ durch Steffen Hartig von der Firma Pyreco entwickelt.
+
+- Das Modul wurde im Rahmen des Projektes „Waldbrand-Klima-Resilienz“ durch Steffen Hartig von der Firma Pyreco entwickelt. Das Modul dient primär dafür, bei Patrouillenfahrten in gefährdeten Gebieten 600 Liter Wasser, als Löschmittel im Brandfall parat zu haben, sowie zur Durchführung von Nachlöscharbeiten nach Vegetationsbränden.
+
+- Das Modul dient primär dafür, bei Patrouillenfahrten in gefährdeten Gebieten 600 Liter Wasser, als Löschmittel im Brandfall parat zu haben, sowie zur Durchführung von Nachlöscharbeiten nach Vegetationsbränden. Weitere Informationen zum Löschmodul und zum WKR Projekt hier: Weitere Kooperationen: Mitglied Waldbrandexpertenkommission Niedersachsen Mitglied Waldbrandforum Harz Kooperation im Projektverbund „THOR“  Link: THOR — Professur für Waldschutz — TU Dresden (tu-dresden.
+
+- Weitere Informationen zum Löschmodul und zum WKR Projekt hier: Weitere Kooperationen: Mitglied Waldbrandexpertenkommission Niedersachsen Mitglied Waldbrandforum Harz Kooperation im Projektverbund „THOR“  Link: THOR — Professur für Waldschutz — TU Dresden (tu-dresden. de) Waldbrandkatastrophe in Niedersachsen Im August 1975 vernichteten Flächenbrände in der Lüneburger Heide sowie im Wendland 8000 Hektar Waldflächen und 5000 Hektar landwirtschaftliche Flächen, Moor- und Heideland.
+
+- de) Waldbrandkatastrophe in Niedersachsen Im August 1975 vernichteten Flächenbrände in der Lüneburger Heide sowie im Wendland 8000 Hektar Waldflächen und 5000 Hektar landwirtschaftliche Flächen, Moor- und Heideland. Das heiße Sommerwetter mit Temperaturen über deutlich 30 Grad Celsius bei nur 30 % relative Luftfeuchte begünstigte die Entstehung und Ausbreitung der über 300 Brandherde.
+
+- Das heiße Sommerwetter mit Temperaturen über deutlich 30 Grad Celsius bei nur 30 % relative Luftfeuchte begünstigte die Entstehung und Ausbreitung der über 300 Brandherde. Neben der anhaltenden Trockenperiode kam hinzu, dass in vielen Waldbeständen das Sturmholz vom Orkan „Quimburga“ (vom 13. November 1972) noch nicht beseitigt war.
+
+- Neben der anhaltenden Trockenperiode kam hinzu, dass in vielen Waldbeständen das Sturmholz vom Orkan „Quimburga“ (vom 13. November 1972) noch nicht beseitigt war. Die Löscharbeiten wurden durch die Witterungsbedingungen mit ständig wechselnden Winden und die schlechten Wegeverhältnisse und erschwert.
+
+- Die Löscharbeiten wurden durch die Witterungsbedingungen mit ständig wechselnden Winden und die schlechten Wegeverhältnisse und erschwert. Das größte Problem aber war der akute Löschwassermangel.
+
+- Das größte Problem aber war der akute Löschwassermangel. Natürliche Wasserentnahmestellen wie Teiche, Kiesgruben oder Flüsse lagen meist weit von den Brandstellen entfernt.
+
+- Natürliche Wasserentnahmestellen wie Teiche, Kiesgruben oder Flüsse lagen meist weit von den Brandstellen entfernt. Tanklöschfahrzeuge mussten lange Strecken fahren, um ihre Wasservorräte auffüllen zu können.
+
+- Tanklöschfahrzeuge mussten lange Strecken fahren, um ihre Wasservorräte auffüllen zu können. Insgesamt waren 15.000 Helfer unterschiedlicher Institutionen (Feuerwehr, Bundeswehr, Technisches Hilfswerk, Bundesgrenzschutz usw.)  mit 3.800 Fahrzeugen in der Brandbekämpfung tätig.
+
+- Insgesamt waren 15.000 Helfer unterschiedlicher Institutionen (Feuerwehr, Bundeswehr, Technisches Hilfswerk, Bundesgrenzschutz usw.)  mit 3.800 Fahrzeugen in der Brandbekämpfung tätig. Der Einsatz der vielen Helfer offenbarte auch Probleme in der Kommunikation und in den Kommandostrukturen.
+
+- Der Einsatz der vielen Helfer offenbarte auch Probleme in der Kommunikation und in den Kommandostrukturen. Bei der bis dahin größten Brandkatastrophe in der Bundesrepublik Deutschland kamen sieben Menschen ums Leben.
+
+- Bei der bis dahin größten Brandkatastrophe in der Bundesrepublik Deutschland kamen sieben Menschen ums Leben. Als Folge der Katastrophe ist der Brandschutz nicht nur in der Lüneburger Heide, sondern auch deutschlandweit wesentlich verbessert worden.
+
+- Als Folge der Katastrophe ist der Brandschutz nicht nur in der Lüneburger Heide, sondern auch deutschlandweit wesentlich verbessert worden. Ihr Ansprechpartner in Fragen der Waldbrandprävention bei den Niedersächsischen Landesforsten Knut Sierk Mobil: +49 (0) 171 – 9780 – 455 Mail: knut.
+
+- Ihr Ansprechpartner in Fragen der Waldbrandprävention bei den Niedersächsischen Landesforsten Knut Sierk Mobil: +49 (0) 171 – 9780 – 455 Mail: knut. sierk@nlf.
+
+- sierk@nlf. niedersachsen.
+
+- niedersachsen. de Videotitel, wenn gewünscht Aktuelle Berichte zur Waldbrandsituation in Niedersachsen Waldbrandgefahrenindex des Deuschen Wetter Dienst (DWD) MEHR Brandschutz in Niedersachsen MEHR
+

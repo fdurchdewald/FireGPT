@@ -1,0 +1,14 @@
+# 3.1 Vergleich zu anderen Organisationsstrukturen
+
+- Die neue, deutlich breiter aufgestellte Struktur der Feuerwehr Essen ist mit denen vieler anderer großer  deutscher Berufsfeuerwehren vergleichbar (siehe Anhang Organigramme). Insbesondere finden sich jedoch aufgrund des engen Austausches im Rahmen der Neuorganisation Ele- mente und Zuschnitte der Feuerwehren aus Düsseldorf, Duisburg und Dortmund wieder.
+
+- Insbesondere finden sich jedoch aufgrund des engen Austausches im Rahmen der Neuorganisation Ele- mente und Zuschnitte der Feuerwehren aus Düsseldorf, Duisburg und Dortmund wieder. Abbildung 11 - Vereinfachte Organigramme der Feuerwehren Düsseldorf, Duisburg und Dortmund (eigene Darstellung)  Die drei Behördenstrukturen weisen zwischen fünf und sieben Abteilungen auf.
+
+- Abbildung 11 - Vereinfachte Organigramme der Feuerwehren Düsseldorf, Duisburg und Dortmund (eigene Darstellung)  Die drei Behördenstrukturen weisen zwischen fünf und sieben Abteilungen auf. Übergeordnete Aufgaben  sind entweder in Stabstellen der Amtsleitungen oder an Abteilungsleitungen angegliedert.
+
+- Übergeordnete Aufgaben  sind entweder in Stabstellen der Amtsleitungen oder an Abteilungsleitungen angegliedert. Folgende Analo- gien im Hinblick auf die vorher in den Experteninterviews ermittelten Herausforderungen (rot umrandet) sind  festzustellen.
+
+- Folgende Analo- gien im Hinblick auf die vorher in den Experteninterviews ermittelten Herausforderungen (rot umrandet) sind  festzustellen. Unterschiede bestehen in der Aufgabenverortung als Abteilung oder Sachgebiet, nicht jedoch  in der eigentlichen Aufgabe:  -  Stab der Amtsleitung, Grundsatzstab (Düsseldorf, Duisburg, Essen)  -  Stabstelle Standortentwicklung und Bauunterhaltung, Neubau (Düsseldorf, Essen)  -  Abteilung Ausbildung, Akademie (Düsseldorf, Duisburg, Dortmund, Essen)  -  Abteilung Einsatz, Gefahrenabwehr (Düsseldorf, Duisburg, Dortmund, Essen)  -  Abteilung Bevölkerungsschutz und Krisenmanagement (Duisburg, Dortmund, Essen)  Selbstverständlich bestehen bei allen Feuerwehren Abteilungen unter anderem zu den funktionalen Themen  Technik, Vorbeugender Brandschutz, Gefahrenabwehr und Organisation.
+
+- Unterschiede bestehen in der Aufgabenverortung als Abteilung oder Sachgebiet, nicht jedoch  in der eigentlichen Aufgabe:  -  Stab der Amtsleitung, Grundsatzstab (Düsseldorf, Duisburg, Essen)  -  Stabstelle Standortentwicklung und Bauunterhaltung, Neubau (Düsseldorf, Essen)  -  Abteilung Ausbildung, Akademie (Düsseldorf, Duisburg, Dortmund, Essen)  -  Abteilung Einsatz, Gefahrenabwehr (Düsseldorf, Duisburg, Dortmund, Essen)  -  Abteilung Bevölkerungsschutz und Krisenmanagement (Duisburg, Dortmund, Essen)  Selbstverständlich bestehen bei allen Feuerwehren Abteilungen unter anderem zu den funktionalen Themen  Technik, Vorbeugender Brandschutz, Gefahrenabwehr und Organisation. Diese werden aber nicht weiter  betrachtet.
+

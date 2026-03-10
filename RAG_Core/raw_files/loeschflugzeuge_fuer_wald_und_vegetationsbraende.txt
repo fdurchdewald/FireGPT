@@ -1,0 +1,229 @@
+Deutscher Bundestag 
+ 
+ 
+ 
+ 
+WD 3 - 3000 - 130/22 
+Wissenschaftliche Dienste 
+© 2022 Deutscher Bundestag 
+Dokumententyp: Dokumentation 
+Löschflugzeuge für Wald- und Vegetationsbrände 
+Technische Daten und Bedingungen für einen Einsatz 
+ 
+Dokumentation 
+Wissenschaftliche Dienste 
+
+ 
+ 
+ 
+ 
+Die Wissenschaftlichen Dienste des Deutschen Bundestages unterstützen die Mitglieder des Deutschen Bundestages 
+bei ihrer mandatsbezogenen Tätigkeit. Ihre Arbeiten geben nicht die Auffassung des Deutschen Bundestages, eines sei­
+ner Organe oder der Bundestagsverwaltung wieder. Vielmehr liegen sie in der fachlichen Verantwortung der Verfasse­
+rinnen und Verfasser sowie der Fachbereichsleitung. Arbeiten der Wissenschaftlichen Dienste geben nur den zum Zeit­
+punkt der Erstellung des Textes aktuellen Stand wieder und stellen eine individuelle Auftragsarbeit für einen Abge­
+ordneten des Bundestages dar. Die Arbeiten können der Geheimschutzordnung des Bundestages unterliegende, ge­
+schützte oder andere nicht zur Veröffentlichung geeignete Informationen enthalten. Eine beabsichtigte Weitergabe oder 
+Veröffentlichung ist vorab dem jeweiligen Fachbereich anzuzeigen und nur mit Angabe der Quelle zulässig. Der Fach­
+bereich berät über die dabei zu berücksichtigenden Fragen. 
+Wissenschaftliche Dienste 
+Dokumentation 
+WD 3 - 3000 - 130/22 
+Seite 2 
+ 
+Löschflugzeuge für Wald- und Vegetationsbrände 
+Technische Daten und Bedingungen für einen Einsatz 
+Aktenzeichen: 
+WD 3 - 3000 - 130/22 
+Abschluss der Arbeit: 
+09.09.2022 (zugleich letzter Abruf der Internetquellen) 
+Fachbereich: 
+WD 3: Verfassung und Verwaltung 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Dokumentation 
+WD 3 - 3000 - 130/22 
+Seite 3 
+1. 
+Einleitung 
+Das Bevölkerungsschutzsystem in Deutschland ist grundsätzlich zweigeteilt in den Zivilschutz 
+und den Katastrophenschutz. Der Zivilschutz meint den Schutz der Bevölkerung vor den Aus­
+wirkungen militärischer Maßnahmen und gehört gemäß Art. 73 Abs. 1 Nr. 1 Grundgesetz (GG)1 
+und Art. 87b Abs. 2 Satz 1 GG zur ausschließlichen Gesetzgebungskompetenz des Bundes. Zu­
+ständige Behörde im Bereich des Bundes ist das Bundesamt für Bevölkerungsschutz und Kata­
+strophenhilfe (BBK). Der Katastrophenschutz fällt hingegen gemäß Art. 70 Abs. 1 GG i.V.m. 
+Art. 30 GG in die Zuständigkeit der Länder. Im Katastrophenfall (z.B. Hochwasser und Wald­
+brände) sind die Innenministerien der Länder als oberste Katastrophenschutzbehörden und die 
+Landkreise und kreisfreien Städte mit ihren Fachämtern als untere Katastrophenschutzbehörden 
+zuständig.2 
+Die Durchführung der Gefahrenabwehr zum Katastrophenschutz erfolgt auf kommunaler Ebene, 
+der Bund kann nach Art. 35 Abs. 2 und Abs. 3 GG Amtshilfe leisten. Der Bund ergänzt die Aus­
+stattung des Katastrophenschutzes in den Aufgabenbereichen Brandschutz, ABC-Schutz, Sani­
+tätswesen und Betreuung, § 13 Abs. 1 Zivilschutz- und Katastrophenhilfegesetz (ZSKG)3. 
+In Deutschland werden derzeit zur Bekämpfung von Wald- und Vegetationsbränden aus der Luft 
+im Wege der Amtshilfe auch Löschhubschrauber der Bundeswehr und Bundespolizei eingesetzt.4 
+Deutschland besitzt keine eigenen Löschflugzeuge,5 kann aber für die Waldbrandbekämpfung 
+Löschflugzeuge aus dem Bereitschaftsdienst der „rescEU“-Löschflotte der EU anfordern.6 So un­
+terstützte Italien Deutschland bei einer Waldbrandbekämpfung Anfang September 2022 mit der 
+Bereitstellung von zwei Löschflugzeugen des Typs Canadair CL 415.7 
+                                    
+ 
+1 
+Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949 (BGBl. S. 1), zuletzt geändert durch Art. 1 
+ÄndG (Art. 87a) vom 28.6.2022 (BGBl. I S. 968). 
+2 
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, abrufbar unter: https://www.bbk.bund.de/DE/Das-
+BBK/Das-BBK-stellt-sich-vor/Das-deutsche-Bevoelkerungsschutzsystem/das-deutsche-bevoelkerungsschutzsys­
+tem_node.html. 
+3 
+Zivilschutz- und Katastrophenhilfegesetz vom 25. März 1997 (BGBl. I S. 726), zuletzt geändert durch Artikel 
+144 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328). 
+4 
+BT-Drs. 19/25665, S. 2; BT-Drs. 19/11515, S. 16. 
+5 
+Zawadke, Technik zur Vegetationsbrandbekämpfung, 2021, S. 175; BT-Drs. 19/11757, S. 9. 
+6 
+Europäischer Katastrophenschutz und humanitäre Hilfe, rescEU, abrufbar unter: https://civil-protection-huma­
+nitarian-aid.ec.europa.eu/what/civil-protection/resceu_de. 
+7 
+Spiegel online, Waldbrand im Harz, Italien schickt Löschflugzeuge an den Brocken, vom 4. September 2022, 
+abrufbar unter: https://www.spiegel.de/panorama/waldbrand-im-harz-italien-schickt-loeschflugzeuge-an-den-
+brocken-a-5c2a1508-e40c-4547-9edd-d89cc7171ef4; mdr-Reportage, Wie die italienische Flugstaffel die Löschar­
+beiten am Brocken unterstützt, vom 8. September 2022 https://www.mdr.de/nachrichten/sachsen-anhalt/mag­
+deburg/harz/brocken-brand-hilfe-italien-loeschflugzeuge-100.html. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Dokumentation 
+WD 3 - 3000 - 130/22 
+Seite 4 
+Die Dokumentation gibt einen Überblick zu technischen Daten von Löschflugzeugen sowie den 
+Voraussetzungen für einen Einsatz von Löschflugzeugen bei Wald- und Vegetationsbränden, ins­
+besondere zu den Anforderungen für Start und Landung von Löschflugzeugen, die Aufnahme 
+von Löschwasser, den Reichweiten der Löschflugzeuge, Typen bzw. Herstellern von Löschflug­
+zeugen sowie Anschaffungskosten und laufende Kosten bei Löschflugzeugen. 
+2. 
+Technische Daten und Bedingungen für einen Einsatz 
+Über den Bereitschaftsdienst der EU „rescEU“ können die EU-Mitgliedstaaten und Teilnehmer­
+staaten insgesamt 19 Löschflugzeuge der Modelle Canadair CL 215, Canadair CL 415, Air Tractor 
+AT-802 und Bombardier Dash 8 abrufen.8 Die nachfolgende Dokumentation konzentriert sich auf 
+diese Flugzeugtypen, gibt aber auch Informationen zu anderen Flugzeugtypen. 
+Auf der Webseite Flugzeuginfo.net werden technische Daten zu fast allen jemals in Serie produ­
+zierten Motorflugzeugen geben. So auch zu den Löschflugzeugen Canadair CL 215 und Canadair 
+CL 415 (z.B. zu Anzahl der Besatzungsmitglieder, Aufnahmemenge Löschwasser und Reich­
+weite). Beide Löschflugzeuge wurden als amphibische Mehrzweckflugzeuge entwickelt.  
+  
+flugzeuginfo.net, Flugzeugtypen, Canadair CL 215: abrufbar unter: http://www.flugzeu­
+ginfo.net/acdata_php/acdata_cl215_dt.php  
+  
+flugzeuginfo.net, Flugzeugtypen, Canadair CL 415: abrufbar unter: http://www.flugzeu­
+ginfo.net/acdata_php/acdata_cl415_dt.php. 
+Das Privatunternehmen SeaHelp gibt Informationen zu den Wasseraufnahmekapazitäten und  
+-möglichkeiten der speziell als Löschflugzeuge konstruierten Canadair CL-215 und Canadair  
+CL-415. Es wird insbesondere auf den Vorgang der Wasseraufnahme und die Flugphase nach der 
+Aufnahme des Löschwassers durch die Löschflugzeuge eingegangen. 
+  
+SeaHelp News, Achtung: Löschflugzeug!, vom 24.08.2022, abrufbar unter: https://www.sea-
+help.eu/news-allgemein/loeschflugzeuge-kroatien-feuer/. 
+AEROREPORT gibt einen Überblick über verschiedene weltweit im Einsatz befindliche Lösch­
+flugzeuge. Vorgestellt werden das derzeit größte Löschflugzeug der Welt, der Global Supertan­
+ker, aber auch die kleineren Löschflugzeuge Canadair CL-215 und Canadair CL-415 sowie der 
+Air Tractor AT-802F. Dargestellt werden u.a. die Bedingungen für den Start der Maschinen, die 
+Aufnahme von Löschwasser sowie die Löschwassermenge.  
+  
+AEROREPORT, Luftfahrtmagazin der MTU Aero Engines AG, Löschflugzeuge und Helikop­
+ter: Die fliegende Feuerwehr, 08/2020, abrufbar unter: https://aeroreport.de/de/aviation/lo­
+eschflugzeuge-und-helikopter-die-fliegende-feuerwehr. 
+                                    
+ 
+8 
+Stand: 21. Dezember 2020, BT-Drs. 19/25665, S. 5. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Dokumentation 
+WD 3 - 3000 - 130/22 
+Seite 5 
+Die in Deutschland privat betriebene Deutsche Löschflugzeug Rettungsstaffel (DLFR) gibt um­
+fangreiche Informationen (z.B. zur Löschwasseraufnahme, Zeit für die Befüllung mit Löschwas­
+ser, Startbedingungen, Abwurfmöglichkeiten des Löschwassers) zu den Löschflugzeugen Droma­
+der und Airtractor.  
+  
+Deutsche Löschflugzeug Rettungsstaffel, FAQ, abrufbar unter: https://www.dlfr.de/faq. 
+Zudem nennt die DLFR die Flugstundenpreise (Personal, Wartung, Betrieb, inklusive den An­
+schaffungskosten) für die Löschflugzeuge Dromader PZL M 18, Airtractor und Canadair CL 415: 
+  
+Deutsche Löschflugzeug Rettungsstaffel, Kosten, abrufbar unter: https://www.dlfr.de/kosten. 
+Zu den häufig in Europa eingesetzten Amphibienflugzeugen Canadair CL 215 und Canadair 
+CL 415 gibt Jendsch ausführliche technische Informationen.  
+  
+Jendsch, Wolfgang, Brandbekämpfung aus der Luft, 2007, Die „Wasserbomber“ – Canadair-
+Amphibienflugzeuge, S. 280 - 281. 
+Anlage 1 
+Auflistungen der bekanntesten Luftfahrzeuge zur Wald- und Flächenbrandbekämpfung (nach un­
+terschiedlichen Kriterien: Tabelle 1, 2 und 5, Stand: 2007) finden sich in: 
+  
+Jendsch, Wolfgang, Brandbekämpfung aus der Luft, 2007, Informationen und Hinweise,  
+S. 322 - 345. 
+Tabelle 1:  Luftfahrzeuge zur Wald- und Flächenbrandbekämpfung international,  
+S. 325 - 337. 
+Tabelle 2:  Luftfahrzeuge zur Waldbrandbekämpfung (USA) – technisch-taktische Daten,  
+S. 338 - 340. 
+Tabelle 5:  Hersteller und Constructors von Flugzeugen zur Waldbrandbekämpfung (Aus­
+wahl), S. 342 - 343. 
+Anlage 2 
+Zawadke führt kurz in die Thematik der Brandbekämpfung durch Luftfahrzeuge (Flugzeuge, He­
+likopter und Drohnen) bei Wald- und Vegetationsbränden und deren Koordination mit weiteren 
+Flugzeugen ein. Es werden unterschiedliche Flugzeugtypen für eine Brandbekämpfung (im euro­
+päischen und internationalen Raum) dargestellt und teilweise die Effektivität mit Löschhub­
+schraubern verglichen. Zudem werden topographische Bedingungen für einen Einsatz, der Ab­
+lauf der Wasseraufnahme und die Löschwassermenge thematisiert. 
+  
+Zawadke, Thomas, Technik zur Vegetationsbrandbekämpfung, 2021, S. 175 - 187. 
+Anlage 3 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Dokumentation 
+WD 3 - 3000 - 130/22 
+Seite 6 
+Der Deutsche Feuerwehr Verband nimmt mit der Fachempfehlung  
+  
+Deutscher Feuerwehr Verband, Luftfahrzeugeinsatz/Aerial Firefighting Air Operations für 
+und durch die Feuerwehr, Fachempfehlung Nr. DFV-70-2022 vom 24. März 2022, abrufbar 
+unter: https://www.feuerwehrverband.de/app/uploads/2022/03/DFV-FE_Luftfahr­
+zeuge_2022.pdf 
+eine erste Beschreibung der taktischen Rahmenbedingungen und groben technischen Möglich­
+keiten für einen Luftfahrzeugeinsatz (Drohnen, Hubschrauber und Flächenflugzeugen) bei Wald­
+bränden in Deutschland vor. Zudem wird neben einer Darstellung der Einsatzstufen im Zusam­
+menhang mit Luftfahrzeugen eine Kategorisierung von Luftfahrzeugen, so auch für Löschflug­
+zeuge (Flächenflugzeugtypen), vorgenommen. Es werden Beispiele für international im Einsatz 
+befindliche Flugzeugtypen und deren Löschwasserkapazitäten genannt (S. 48). 
+Hinsichtlich der Anschaffungskosten für ein Löschflugzeug vom Typ Canadair CL 415 und Typ 
+Bombardier Dash 8: 
+  
+Welt.de, Immer mehr extreme Wetterlagen – EU plant eigene Löschflugzeugflotte, vom 
+28. Juli 2018, abrufbar unter: https://www.welt.de/wirtschaft/article180113498/Hitzewelle-
+EU-plant-eigene-Loeschflugzeugflotte-doch-das-wird-dauern.html. 
+Zu den Kosten für den Unterhalt von Löschflugzeugen konnten keine Angaben ermittelt werden. 
+*** 

@@ -1,0 +1,4 @@
+# Amtliche Abkürzung:
+
+- ThürKatSVO Ausfertigungsdatum:
+

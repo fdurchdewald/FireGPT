@@ -1,0 +1,6 @@
+# 7.	 das Grillen auf Grundstücken am Wald mit zu­
+
+- gelassener Wohnbebauung.“ Nach der Gefahrenabwehrverordnung-Himmels­ laternen vom 31. August 2009 in der jeweils gülti­ gen Fassung ist es nach § 1 in Rheinland-Pfalz „[…]  verboten, unbemannte ballonartige Flugkörper, bei  denen der Auftrieb durch Erwärmung der im Bal­ lonkörper enthaltenen Luft mittels einer eigenen  Feuerquelle mit festen, flüssigen oder gasförmigen  Brennstoffen erzeugt wird (Himmelslaternen), in den  Luftraum aufsteigen zu lassen. Himmelslaternen sind  insbesondere die im Handel unter dieser oder einer  ähnlichen Bezeichnung, wie ‚Fluglaterne‘, ‚Kong- Ming-Laterne‘, ‚Skylaterne‘, ‚Partyballon‘ oder ‚Minia­ tur-Heißluftballon‘, bekannten Flugkörper.“ Informationen zu naturschutzrechtlichen Bestim­ mungen finden sich bei den Unteren Naturschutzbe­ hörden oder Forstämtern.
+
+- Himmelslaternen sind  insbesondere die im Handel unter dieser oder einer  ähnlichen Bezeichnung, wie ‚Fluglaterne‘, ‚Kong- Ming-Laterne‘, ‚Skylaterne‘, ‚Partyballon‘ oder ‚Minia­ tur-Heißluftballon‘, bekannten Flugkörper.“ Informationen zu naturschutzrechtlichen Bestim­ mungen finden sich bei den Unteren Naturschutzbe­ hörden oder Forstämtern. Auf einschlägige Regelun­  10
+

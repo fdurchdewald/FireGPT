@@ -1,0 +1,6 @@
+# 3.4 Struktur und Verfügbarkeit der Freiwilligen Feuerwehr
+
+- Voluntary firefighters Fire protection needs plan of the city of Mannheim, as of: 04.04.2013 80 Overview and qualifications of the volunteers The table shows the proportion of breathing protection equipment carriers (AGT), machinists (Ma), group leaders (GF) and train leaders (ZF), as well as the average age of the volunteers of the volunteer firefighters Mannheim: Unit Number of active units AGT absolute percentage AGT absolute percentage MA absolute percentage MA absolute percentage GF absolute percentage GF absolute percentage GF absolute Feudenheim 32 17 53% 17 53% 12 38% 4 Friedrichfeld 29 20 69% 16 55% 10 34% 4 Stadtstadt 32 26 81% 14 44% 9 28% 5 Neckarau 35 27 77% 18 51% 13 37% 5 Nord 55 45 82% 32 58% 16 29% 7 Rheinau 19 17 89% 12 63% 6 32% 3 Seckenheim 25 17 68% 14 56% 7 28% 2 Wallstadt 39 33 85% 13 33% 26% 2 Total 266 202 76% 136 51% 83 31% 32 The volunteers of the volunteer firefighters are well distributed among the units.
+
+- A large part of the active people are breathers and there are sufficient machinists. Managers are also largely available in sufficient numbers, but it should be trained early before the departure of older function carriers of appropriate offspring.
+

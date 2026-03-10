@@ -1,0 +1,10 @@
+# 5.3   Funktionsbesetzungsplan
+
+- Aus organisatorischen Gründen werden auf den Wachen Nord und Süd Nachrichtennebenstellen besetzt. Die Besetzung ist jedoch keine Funktionsbesetzung im klassischen, operativen Sinne und somit nicht im  Funktionsbesetzungsplan gemäß Brandschutzbedarfsplan enthalten.
+
+- Die Besetzung ist jedoch keine Funktionsbesetzung im klassischen, operativen Sinne und somit nicht im  Funktionsbesetzungsplan gemäß Brandschutzbedarfsplan enthalten. Die Nachrichtennebenstellen werden aus organisatorischen Gründen besetzt.
+
+- Die Nachrichtennebenstellen werden aus organisatorischen Gründen besetzt. Die Besetzung wird im Rahmen der Personalbemessung berücksichtigt und bietet eine Möglichkeit,  „Einsatzdienst-Untaugliche Mitarbeiter“ einzusetzen.
+
+- Die Besetzung wird im Rahmen der Personalbemessung berücksichtigt und bietet eine Möglichkeit,  „Einsatzdienst-Untaugliche Mitarbeiter“ einzusetzen. Die Nachrichtennebenstellen übernehmen die folgenden Aufgaben:  Erster Ansprechpartner auf den jeweiligen Wachen  Feste telefonische Besetzung/ Erreichbarkeit der Wache gewährleisten   Redundanz bei Ausfall der zentralen Rundrufanlage     Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  143  Exemplarische Betrachtung für Synergie in einer Integrierten Leitstelle bei der BF Mannheim   Annahme: 4 ELP rund-um-die-Uhr zu besetzen   Modell „ohne Bereitschaftszeit-Anteile“: Personalbedarf 22,5 VZÄ   (Annahme: Wochenarbeitszeit 41h & 38 Anwesenheitswochen)   Modell „Verkaufen Bereitschaftszeit-Anteile“:   8 Antretefunktionen, die abwechselnd 4 ELP besetzen, Personalbedarf 38,4 VZÄ   (Annahme: Wochenarbeitszeit 48h & 38 Anwesenheitswochen)   Aber: „Verkaufen“ von bis zu 4 Funktionen möglich, d. h. effektiver Personalbedarf 19,2 VZÄ   Verschiedene (Misch-)Modelle wären zu betrachten und diskutierbar, nicht nur „quantitative  Betrachtung“ sondern vielmehr auch „qualitative Betrachtung“: schnelles Hochfahren der Leitstelle  (bei Modell „ohne Bereitschaftszeit-Anteile“ nicht möglich oder teuer), Lagedienstführer, ...  Ausblick „Integrierte Leitstelle Mannheim“
+

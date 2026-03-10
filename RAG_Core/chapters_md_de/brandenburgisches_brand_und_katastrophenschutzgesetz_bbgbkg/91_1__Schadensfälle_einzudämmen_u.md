@@ -1,0 +1,4 @@
+# 1. Schadensfälle einzudämmen und unter Kontrolle zu bringen, sodass die Auswirkungen
+
+- möglichst gering gehalten und Schädigungen der menschlichen Gesundheit, der Umwelt und von Sachwerten begrenzt werden können,
+

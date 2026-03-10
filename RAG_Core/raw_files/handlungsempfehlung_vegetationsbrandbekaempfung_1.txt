@@ -1,0 +1,2252 @@
+  
+ 
+Seite 1 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+LANDESFEUERWEHRVERBAND SCHLESWIG-HOLSTEIN 
+VEGETATIONSBRANDBEKÄMPFUNG 
+HANDLUNGSEMPFEHLUNG FÜR DIE FEUERWEHREN IN SCHLESWIG-HOLSTEIN 
+ 
+ 
+ 
+ 
+
+  
+ 
+Seite 2 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Herausgeber: 
+Landesfeuerwehrverband Schleswig-Holstein 
+Hopfenstraße 2d 
+24114 Kiel 
+Tel.: 04 31 / 200082-0 
+www.lfv-sh.de 
+ 
+Titelbild: Royber99, pixabay.com 
+
+  
+ 
+Seite A 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Änderungshistorie 
+Version 
+Datum 
+Bezeichnung 
+Autoren 
+Inhalt 
+1.0 
+31.03.2023 
+Ursprungsfassung 
+AG Waldbrand LFV 
+ 
+ 
+ 
+1. Änderung 
+ 
+ 
+ 
+ 
+2. Änderung 
+ 
+ 
+ 
+ 
+3. Änderung 
+ 
+ 
+ 
+ 
+4. Änderung 
+ 
+ 
+ 
+ 
+5. Änderung 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+Seite B 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+
+  
+ 
+Seite I 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Inhalt 
+Änderungshistorie .................................................................................................................................. A 
+1 
+Vorwort ........................................................................................................................................... 1 
+2 
+Allgemeine Hinweise und Begriffsbestimmungen ........................................................................ 5 
+2.1 
+Allgemeine Hinweise .............................................................................................................. 5 
+2.2 
+Vegetationsbrand ................................................................................................................... 5 
+2.3 
+Vegetationsbrandarten .......................................................................................................... 6 
+2.3.1 
+Flurbrände als Bodenbrände (Feld-, Wiesen- und Heidebrand) ................................... 6 
+2.3.2 
+Waldbrand als Bodenbrand ............................................................................................ 6 
+2.3.3 
+Vollfeuer (oder Kronenfeuer) ......................................................................................... 8 
+2.3.4 
+Stammfeuer .................................................................................................................. 10 
+2.3.5 
+Flugfeuer mit Spotfeuer / Brandinsel .......................................................................... 10 
+2.3.6 
+Brände im Boden (Moor- und Torfbrand) .................................................................... 11 
+2.4 
+Flammenhöhe, Flammenlänge, Flammensaum .................................................................. 11 
+2.5 
+Seiten und Bereiche eines Vegetationsbrandes .................................................................. 12 
+3 
+Ausbildung .................................................................................................................................... 14 
+3.1 
+Ausbildung auf Standort- bzw. auf Verbandsebene ............................................................ 14 
+3.2 
+Landesfeuerwehrschule ....................................................................................................... 14 
+4 
+Ausrüstung .................................................................................................................................... 15 
+4.1 
+Persönliche Schutzausrüstung .............................................................................................. 15 
+4.2 
+Gerätschaften ....................................................................................................................... 17 
+4.3 
+Fahrzeuge .............................................................................................................................. 20 
+5 
+Einsatz ........................................................................................................................................... 22 
+5.1 
+Sicherheit .............................................................................................................................. 22 
+5.2 
+Vegetationsbranddreieck ..................................................................................................... 22 
+5.2.1 
+Vegetation ..................................................................................................................... 23 
+5.2.2 
+Topografie und Boden .................................................................................................. 24 
+
+  
+ 
+Seite II 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.2.3 
+Meteorologie/Wetter ................................................................................................... 24 
+5.3 
+LACES – Sicherheitsregel ....................................................................................................... 25 
+5.4 
+Gefahren bei Wald- und Vegetationsbränden in Bezug auf die Gefahrenmatrix .............. 28 
+5.4.1 
+A – Atemgifte ................................................................................................................ 28 
+5.4.2 
+A – Angstreaktion ......................................................................................................... 28 
+5.4.3 
+A – Ausbreitung ............................................................................................................ 29 
+5.4.4 
+A – Atomare Gefahren .................................................................................................. 30 
+5.4.5 
+C – Chemische Stoffe .................................................................................................... 30 
+5.4.6 
+E – Erkrankung / Verletzung ......................................................................................... 30 
+5.4.7 
+E – Explosion ................................................................................................................. 31 
+5.4.8 
+E – Einsturz/Absturz ...................................................................................................... 31 
+5.4.9 
+E – Elektrizität ............................................................................................................... 31 
+5.5 
+Einsatztaktik .......................................................................................................................... 32 
+5.5.1 
+Offensive Vorgehensweise ........................................................................................... 32 
+5.5.1.1 
+Zangenangriff (Angriff über die Flanken zur Feuerfront) ............................................ 32 
+5.5.1.2 
+Angriff auf die Flammenfront aus dem Schwarzbereich ............................................. 36 
+5.5.1.3 
+Brände im Boden bekämpfen ....................................................................................... 36 
+5.5.2 
+Defensive Vorgehensweise / indirekter Löschangriff ................................................. 37 
+5.5.2.1 
+Anlegen von Schneisen oder Wundstreifen................................................................. 38 
+5.6 
+Techniken bei der Vegetationsbrandbekämpfung .............................................................. 41 
+5.6.1 
+Allgemeines ................................................................................................................... 41 
+5.6.2 
+Einsatztechniken ........................................................................................................... 42 
+5.6.2.1 
+offensive Einsatztechniken ........................................................................................... 42 
+5.6.2.2 
+Brandbekämpfung aus der Luft .................................................................................... 47 
+5.6.2.3 
+Nachlöscharbeiten ........................................................................................................ 47 
+5.6.2.4 
+defensive Einsatztechniken .......................................................................................... 47 
+6 
+Führungsorganisation und Kommunikation ................................................................................ 50 
+6.1 
+Führungsorganisation ........................................................................................................... 50 
+
+  
+ 
+Seite III 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+6.2 
+Kommunikation .................................................................................................................... 50 
+7 
+Versorgung .................................................................................................................................... 52 
+8 
+Abbildungsverzeichnis .................................................................................................................. 53 
+9 
+Quellenangaben ............................................................................................................................ 55 
+10 Haftungsausschluss ....................................................................................................................... 57 
+ 
+ 
+
+  
+ 
+Seite IV 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+
+  
+ 
+Seite 1 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+1 
+Vorwort 
+In den Jahren 2018 und 2019 war eine deutliche Zunahme der Anzahl sowie der Intensität von Vege-
+tationsbränden deutschlandweit zu verzeichnen.1 
+ 
+ 
+Abbildung 1 Waldbrandstatistik 
+Bundesministeriums für Ernährung und Landwirtschaft 
+ 
+ 
+In den Jahren 2020 und 2021 ging die Zahl der Waldbrände wieder stark zurück. Eine offizielle Statis-
+tik für das Jahr 2022 liegt noch nicht vor. 
+Jedoch wurde in einem Bericht des Deutschen Städte- und Gemeindebundes zu einer gemeinsamen 
+Pressekonferenz des Deutschen Feuerwehrverbandes und der Arbeitsgemeinschaft Deutscher Wald-
+besitzerverbände vom 26. August 2022 darauf hingewiesen, dass bereits fast 4.300 Hektar Wald bei 
+Großbränden von mehr als 30 Hektar verbrannt sind.2 
+ 
+Auch in Schleswig-Holstein mehren sich Vegetationsbrandlagen, insbesondere im Zusammenhang 
+mit trockenen Sommern und in dieser Zeit stattfindenden Erntearbeiten. Neben rund 300.000 ha 
+ 
+1 Waldbrandstatistik 2021 des Bundesministeriums für Ernährung und Landwirtschaft 
+2 Rekord-Waldbrandjahr 2022, Pressemitteilung des DSTGB 
+
+  
+ 
+Seite 2 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+landwirtschaftlich genutzter Fläche zur Getreidegewinnung verfügt Schleswig-Holstein über rund 
+173.000 ha Waldfläche, welche zu 65 % aus Laub- und zu 35 % aus Nadelwäldern besteht. 
+Mit ca. 51 % befindet sich ein hoher Anteil des Waldes in privatem Besitz. 34 % sind bundeseigener 
+Wald und Wald der Anstalt Schleswig-Holsteinische Landesforsten (SHLF), 15 % sind Körperschafts-
+wald. 45 % der gesamten Waldfläche in Schleswig-Holstein gehören privaten Forstbetrieben mit ei-
+ner Größe bis 20 Hektar. 3 
+ 
+Bereits vor über 50 Jahren hat der Oberforstmeister Ehrenfried Liebeneiner in einer Waldbrandfibel 
+entsprechende Hinweise zur Waldbrandbekämpfung gegeben, die heute noch ihre Gültigkeit haben.  
+ 
+Diese Handlungsempfehlung soll über Bedingungen, Formen und Gefahren von Vegetationsbränden 
+informieren. Sie soll den Feuerwehren in Schleswig-Holstein Hilfestellung für die Ausbildung, Ausrüs-
+tung und Einsatztaktik besonders in dynamischen Vegetationsbrandlagen geben. 
+ 
+Umfassende Sicherheitshinweise werden ebenso anschaulich aufgeführt wie verschiedene einsatz-
+taktische Maßnahmen und Vorgehensweisen. Hierbei wird die bestehende Normbeladung der vor-
+handenen Fahrzeuge aus einsatztaktischen Gesichtspunkten betrachtet und verschiedene einsatzer-
+folgsfördernde Zusatzausstattungen aufgezeigt. 
+ 
+Ziel der Handlungsempfehlung soll es sein, den Feuerwehren in Schleswig-Holstein Handlungsoptio-
+nen zur Bewältigung von verschiedenen Vegetationsbrandlagen, sowie die sich daraus ergebenen 
+Chancen und Risken aufzuzeigen. Ferner stellt die Handlungsempfehlung eine Übersicht für andere 
+im Vegetationsbrandeinsatz beteiligte Akteure dar, um eine optimale Zusammenarbeit im Einsatzfall 
+zu ermöglichen. 
+ 
+Erfolgsentscheidend für die Vegetationsbrandbekämpfung ist ein gemeinsames und zielgerichtetes 
+Vorgehen sowie das Wissen um wetter- und geländeanhängige Entstehungs- und Ausbreitungsgefah-
+ren, um den Brand schnellstmöglich unter Kontrolle zu bringen. Hierfür sind eine einheitliche Be-
+griffsverwendung sowie ein einheitliches und gemeinsames taktisches Verständnis für den Einsatzer-
+folg unabdingbar. 
+ 
+ 
+ 
+ 
+3 Wald und Forstwirtschaft in Schleswig-Holstein 
+
+  
+ 
+Seite 3 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Erstellt durch die Arbeitsgruppe Vegetationsbrandbekämpfung des Landesfeuerwehrverbandes 
+Schleswig-Holstein unter Federführung von 
+❖ Frank Homrich (Vorsitzender Landesfeuerwehrverband Schleswig-Holstein), 
+❖ Michael Bendt (Fachleiter Ausbildung Landesfeuerwehrverband Schleswig-Holstein), 
+❖ Dennis Fischer (Landesfeuerwehrschule Schleswig-Holstein), 
+❖ Michael Hasselmann (Kreiswehrführer Kreisfeuerwehrband Ostholstein und Fachleiter Kata-
+strophenschutz Landesfeuerwehrverband Schleswig-Holstein), 
+❖ Bernd Link (Amtswehrführer Nordstormarn), 
+❖ Jan Meyer-Hemme, Landesforsten Schleswig-Holstein 
+❖ Jörg Nero (Kreiswehrführer Kreisfeuerwehrverband Bad Segeberg), 
+❖ Alexander Otte (TEL Stormarn/FF Meilsdorf) 
+ 
+Besonderer Dank geht an die SFS Würzburg sowie die Fachvereine @fire und Waldbrandteam für die 
+Bereitstellung der Grafiken und Lehrvideos. 
+ 
+Kontakt: 
+Landesfeuerwehrverband Schleswig-Holstein 
+Hopfenstraße 2d 
+24114 Kiel 
+Tel.: 04 31 / 200082-0 
+Mail: info@lfv-sh.de 
+www.lfv-sh.de 
+ 
+ 
+Kiel, im Jahr 2023 
+ 
+Frank Homrich 
+Landesbrandmeister 
+ 
+ 
+
+  
+ 
+Seite 4 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+ 
+
+  
+ 
+Seite 5 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+2 
+Allgemeine Hinweise und Begriffsbestimmungen 
+2.1 
+Allgemeine Hinweise4 
+Die Vegetationsbrandprävention sowie -bekämpfung stellt eine ressortübergreifende Aufgabe dar. 
+Während bei der Waldbrandprävention, also dem vorbeugenden Brandschutz, überwiegend die Flä-
+cheneigentümer sowie das Ministerium für Landwirtschaft, ländliche Räume, Europa und Verbrau-
+cherschutz zuständig sind, fällt die Vegetationsbrandbekämpfung, also der abwehrende Brandschutz, 
+in die Zuständigkeit des Ministeriums für Inneres, Kommunales, Wohnen und Sport und damit an die 
+Träger des Brandschutzes (Gemeinden). 
+Dies sei daher hervorgehoben, da die erfolgreiche Vegetationsbrandbekämpfung bereits sehr viel 
+früher ansetzt, nämlich bestenfalls keine Feuer entstehen zu lassen oder im Eintrittsfall die Ausbrei-
+tung möglichst landschaftsbaulich zu hemmen. Dies kann unter anderem durch die Vegetationszu-
+sammensetzung und -pflege erfolgen, sowie durch das Anlegen und Unterhalten von Schutzstreifen, 
+Brandriegeln, Löschwasserentnahmestellen, befahrbarer Zuwegungen, Vegetationsbrandfrüherken-
+nung sowie Informationskampagnen für die Bevölkerung erfolgen. 
+Während in der Vergangenheit oft der Erhalt und Wert der Natur als Argument für die frühzeitige 
+Vegetationsbrandbekämpfung herangezogen wurde5, so haben insbesondere die Vegetationsbrand-
+jahre 2021 und 2022 in Deutschland gezeigt, dass sich durch langanhaltende Trockenheit (Dürre) in 
+Verbindung mit Wetterlagen, die sonst für Südeuropa einschlägig sind, binnen kürzester Zeit Vegeta-
+tionsbrände zu Katastrophenlagen entwickeln können, die einen bundesweiten Kräfteeinsatz über 
+mehrere Wochen erforderlich machen. Insbesondere vor dem Hintergrund der dichten Besiedelung 
+in Deutschland können somit schnell Ortslagen und Infrastruktur durch vermeintlich kleine Vegetati-
+onsbrände gefährdet werden. Neben der Vegetationsbrandprävention kommt somit auch dem ent-
+schlossenen und schlagkräftigen Brandbekämpfungseinsatz in der Entstehungsphase von Vegetati-
+onsbränden eine tragende und einsatzentscheidende Rolle zu. 
+ 
+2.2 
+Vegetationsbrand6 
+Der Begriff „Vegetationsbrand“ ist in Deutschland nicht einheitlich definiert. Generell können unter 
+Vegetationsbränden (Schad-)feuer in der Natur verstanden werden, welche als Flurbrände, Wald-
+brände oder Moorbrände vorkommen können.  
+Die Einteilung von Vegetationsbränden in verschiedene Größenordnungen, sowie darüber hinaus ihr 
+Entwicklungspotential, sollte bereits bei der Alarmierung berücksichtigt werden. 
+ 
+ 
+4 DFV: Sicherheit und Taktik im Vegetationsbrandeinsatz 2020 
+5 DFV: Sicherheit und Taktik im Vegetationsbrandeinsatz 2018 
+6 Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+
+  
+ 
+Seite 6 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Zu beachten ist hierbei jedoch, dass ein Vegetationsbrand hochdynamisch und neben dem Brandgut 
+(Vegetationsart und -zustand) durch das Wetter getrieben ist. Somit kann sich insbesondere bei an-
+haltender Trockenheit und bei bestimmten Wetterbedingungen ein „Vegetationsbrand klein“ inner-
+halb kürzester Zeit (auch bis zum Eintreffen der Feuerwehr) zu einem „Vegetationsbrand groß“ ent-
+wickeln. Die Ausbreitungsbedingungen sind daher bei der Alarmierung besonders zu berücksichtigen 
+(besser zu viele Kräfte in der Initialphase, als zu wenig und nachalarmieren). 
+ 
+2.3 
+Vegetationsbrandarten7 
+2.3.1 
+Flurbrände als Bodenbrände (Feld-, Wiesen- und Heidebrand) 
+Flurbrände sind ein Brandereignis auf meist landwirtschaftlich genutzten Flächen, insbesondere Ge-
+treideflächen und vertrockneten Grasflächen (Wiesen) oder offenem Heideland. 
+Diese Brände sind grundsätzlich als Lauffeuer zu beachten und zeichnen sich durch eine geringe 
+Brandlast mit großer Oberfläche aus. Ein Angriff der Front gegen den Wind ist aufgrund des hohen 
+Risikos zu unterlassen (siehe Kap. 5.5.1.).Problematisch bei diesen Bränden ist jedoch die rasche Aus-
+breitungsgeschwindigkeit (500 m/h – 1.200 m/h) und die hohen Flammenlängen (2-10 m).8 
+ 
+ 
+Abbildung 2 Feldbrand 
+Bild: Alexander Otte, Mitglied der Arbeitsgruppe des LFV 
+ 
+2.3.2 
+Waldbrand als Bodenbrand9 
+Der Bodenbrand (Bodenfeuer) im Wald betrifft bodennahe Vegetation und abgestorbenes Material. 
+Das Feuer breitet sich im Anfangsstadium meist langsam (<10 m/h) nach allen Seiten aus. Mit zu-
+nehmender Ausbreitung gewinnen Wind und Gelände zunehmend an Bedeutung. Der Rauch ist auf-
+ 
+7 Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+8 Cimolino, Dr., Ulrich et al.; Vegetationsbrandbekämpfung, ecomedstorck GmbH, 2015 
+9 Waldbrandarten: Von Kronenfeuern und Stammbränden (waldwissen.net) 
+• 
+Vegetationsbrand bis 200 qm  
+ 
+Empfehlung: mindestens 1 Löschzug 
+• 
+Vegetationsbrand 200 bis 10.000 qm 
+ 
+Empfehlung: mindestens 2 Löschzüge 
+• 
+Vegetationsbrand über 10.000 qm 
+ 
+Empfehlung: mindestens 3 Löschzüge 
+
+  
+ 
+Seite 7 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+grund der Beschaffenheit des brennbaren Materials hellgrau gefärbt. Dies ist für Beobachtende ein 
+Zeichen, dass es sich (noch) um einen Bodenbrand handelt. 
+ 
+Abbildung 3 Bodenfeuer 
+Bild: Kaulfuß, Forstliche Versuchs und Forschungsanstalt Baden-Württemberg 
+ 
+Bei Waldbränden ist besonders zu beachten, dass sich Glutnester aus Wurzelwerk oder der Hu-
+musauflage unter der Oberfläche befinden und ähnlich wie bei Feuern im Boden noch sehr lange 
+halten können. Sie müssen gesondert lokalisiert, ausgehoben und abgelöscht werden, da sonst eine 
+enorme Gefahr des Wiederaufflammens besteht. Glutnester können mit hochsensiblen Wärmebild-
+kameras aus der Luft oder durch manuelles Erkunden am Boden lokalisiert werden. 
+ 
+ 
+ 
+
+  
+ 
+Seite 8 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Wahrnehmung mit TV-Kamera 
+ 
+Abbildung 4 Glutnest unter der Oberfläche mit TV-Kamera 
+Bild: Bundespolizei 
+Wahrnehmung mit Wärmebildkamera 
+ 
+Abbildung 5 Glutnest unter der Oberfläche mit Wärmebildkamera 
+Bild: Bundespolizei 
+ 
+2.3.3 
+Vollfeuer (oder Kronenfeuer)10 
+Vollfeuer entstehen nahezu immer aus Bodenfeuern, wenn das Feuer über Totholz, trockene Borke 
+oder tiefhängende Äste den oberen Bereich der Bäume erreicht. Im Kronenbereich ist durch geringe 
+Verqualmung noch viel Sauerstoff vorhanden. So wird das Feuer genährt und die Ausbreitung zum 
+ 
+10 Waldbrandarten: Von Kronenfeuern und Stammbränden (waldwissen.net) 
+
+  
+ 
+Seite 9 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Vollfeuer geschieht extrem schnell. Besonders Wind und Trockenheit begünstigen das Entstehen von 
+Vollfeuern zusätzlich. Der Rauch eines Vollbrandes ist aufgrund von dicht benadelten oder belaubten 
+und somit grünem Brennmaterial dunkelgrau bis schwarz. Ein Vollfeuer verbraucht viel Sauerstoff, 
+dieser Verbrauch führt zu einem starken Luftzug im bodennahen Bereich. Dieser „selbstgemachte“ 
+Wind sorgt dafür, dass sich das Feuer rasch zu allen Seiten ausbreitet. Wegen der starken Verqual-
+mung ist die eigentliche Feuerfront nur schwer zu lokalisieren.11 
+ 
+Abbildung 6 Vollfeuer oder Kronenfeuer 
+Bild: Bundesforstbetrieb Oder-Havel-Spree 
+ 
+ 
+Abbildung 7 schwarzer Rauch bei Vollfeuer 
+Bild: Alexander Otte, Mitglied der Arbeitsgruppe des LFV 
+ 
+11 11 Cimolino, Dr., Ulrich; Vegetationsbrandbekämpfung, ecomedstorck GmbH, 2015 
+
+  
+ 
+Seite 10 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+2.3.4 
+Stammfeuer12 
+Stammbrände entstehen in der Regel durch Blitzschlag oder Knallkörper, vor allem an Silvester. Da-
+her sind diese Brände äußerst selten und machen im Schnitt nur 2% des gesamtdeutschen Brandge-
+schehens aus. Meist brennen die Borke oder hohle Bäume. Aus einem Stammbrand kann ein Boden-
+feuer entstehen, wenn sich bei Trockenheit der am Stammfuß befindliche Bodenbelag entzündet. 
+ 
+Abbildung 8 Stammfeuer 
+Bild: Freiwillige Feuerwehr Hochburg, Österreich 
+ 
+2.3.5 
+Flugfeuer mit Spotfeuer / Brandinsel13 
+Flugfeuer entsteht im Zusammenhang mit durch Wind und Thermik aufgewirbelten Brennstoff wie 
+z.B. bei einem Kronen- bzw. Vollfeuer oder einem Getreidebrand und stellt einen neuen Brandherd 
+vor der Feuerfront dar. Dieser neue Brandherd wird auch als Brandinsel oder Spotfeuer bezeichnet. 
+Es tritt besonders häufig bei stärkerem Wind und bei großer Hitzeentwicklung auf.  
+Besonders kritisch ist diese Ausbreitungsart, da künstliche und natürliche Brandschneisen sowie an-
+dere taktische Auffanglinien überlaufen werden können. Bei dem Waldbrand 2018 bei Treuenbriet-
+zen (Brandenburg), wurde ein Bahndamm sowie eine breite Straße und 1975 beim Brand in der Lü-
+neburger Heide der 200 m breite Mittellandkanal durch Flugfeuer übersprungen. Besteht die Gefahr 
+von Flugfeuern, so sind entstehende Spotfeuer gesondert zu erkunden. 
+ 
+ 
+12 Waldbrandarten: Von Kronenfeuern und Stammbränden (waldwissen.net) 
+13 Feuerwehr Lernbar: Flugfeuer (feuerwehr-lernbar.bayern) 
+
+  
+ 
+Seite 11 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Abbildung 9 Flugfeuer 
+2.3.6 
+Brände im Boden (Moor- und Torfbrand) 
+Moorbrände kommen meist im Zusammenhang mit langanhaltenden Dürren vor. Den Saum eines 
+Moorbrandes zu orten ist schwierig, da der Brand sich meist im Unterboden des Moores abspielt und 
+der Rauch selten in einer senkrechten Linie aus dem Boden aufsteigt. Bei Nichtlöschen eines Moor-
+brandes kann es sein, dass dieser über Monate hinweg schwelt, ohne dass eine nennenswerte Rau-
+chentwicklung auf einen Brand hindeutet. 
+Auch können diese unterirdischen Brände unerkannt eine Winterpause überstehen und erst in der 
+Vegetationsperiode auf sich aufmerksam machen. Die Laufgeschwindigkeit ist sehr langsam und be-
+trägt maximal 1000 m/24 h. Dennoch bedürfen Moorbrände einer langanhaltenden und permanen-
+ten Kontrolle und Beobachtung. Hierbei sollte die Gefahr eines Einbruchs durch entstandene unterir-
+dische Hohlräume nicht verkannt werden. 
+ 
+Abbildung 10 Moorbrand 
+ 
+2.4 
+Flammenhöhe, Flammenlänge, Flammensaum 
+Die Flammenhöhe entspricht der direkten Länge der Flammen, vom Boden aus betrachtet, senkrecht 
+in die Höhe. 
+ 
+
+  
+ 
+Seite 12 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Die Flammenlänge bezeichnet die Entfernung der Flammenspitze vom Boden, im direkten Verlauf 
+betrachtet. Durch die im Feuer herrschende Thermik, verbunden mit bereits bestehendem Wind, 
+kann sich die Flammenlänge deutlich von der Flammenhöhe unterscheiden.  
+ 
+Der Flammen-/Feuersaum ist die Breite bzw. Tiefe an der Basis des Bereiches, der in Flammen steht. 
+ 
+Abbildung 11 Flammenhöhe, Flammenlänge, Flammensaum 
+Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+2.5 
+Seiten und Bereiche eines Vegetationsbrandes 
+ 
+Abbildung 12 Form Vegetationsbrand 
+Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+• 
+Der Grüne Bereich ist der Bereich, der noch nicht vom Brandereignis betroffen ist. 
+• 
+Der Brandentstehungspunkt (1) ist der Ursprung des Feuers. 
+• 
+Der Schwarzbereich ist ein Bereich innerhalb eines Brandgebietes, in dem durch Feuer die 
+brennbaren Stoffe verbraucht wurden. 
+ 
+ 
+Video 
+Die 4 Seiten 
+eines Feuers 
+(LFS Schleswig- 
+Holstein) 
+
+  
+ 
+Seite 13 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+• 
+Die Feuerfront bildet den Bereich der Hauptzugrichtung des Feuers. Durch Wind, in Verbindung 
+mit brennbarem Material, wird die Feuerfront vorangetrieben. 
+Die Flammenlänge und die Ausbreitungsgeschwindigkeit hängen von der Windstärke und dem 
+zur Verfügung stehenden brennbaren Material ab. 
+• 
+Die Feuerflanke breitet sich nach links bzw. rechts entlang der Hauptzugrichtung des Feuers aus, 
+angetrieben durch Wind. 
+• 
+Eine Brandinsel/ein Spotfeuer ist ein Brandherd außerhalb des eigentlichen Brandereignisses. 
+• 
+Der Ankerpunkt ist die taktisch sinnvolle Position, von der eine Brandbekämpfung unter Beach-
+tung des Eigenschutzes eingeleitet werden kann. Hierbei sind bevorzugt Flächen zu wählen, die 
+der Einsatzkraft sichere Rückzugsmöglichkeiten (Straßen, bereits verbrannte Bereiche, etc.) bie-
+ten, aber trotzdem eine möglichst effektive Brandbekämpfung zulassen. Ankerpunkte müssen 
+gesichert werden, sofern ein Wiederentzünden nicht ausgeschlossen werden kann. 
+ 
+ 
+
+  
+ 
+Seite 14 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+3 
+Ausbildung 
+Die z.Zt. geltenden Feuerwehrdienstvorschriften 
+ 
+ 
+2 
+Ausbildung der Freiwilligen Feuerwehren 
+ 
+3 
+Einheiten im Lösch- und Hilfeleistungseinsatz 
+ 
+enthalten keine speziellen Regelungen zur Ausbildung im Rahmen der Vegetationsbrandbekämpfung. 
+ 
+Diese Handlungsempfehlung soll von daher zusammen mit den Festlegungen in den FwDV 2 und 3 als 
+Grundlage für die Ausbildung in den Kreis- und Stadtfeuerwehrverbänden sowie an der Landesfeu-
+erwehrschule dienen. Weitergehende Fortbildungen stehen in der Verantwortung der Verbände. 
+ 
+3.1 
+Ausbildung auf Standort- bzw. auf Verbandsebene 
+Nach erfolgreicher absolvierter Ausbildung „Truppmann Teil 1“ wird eine zusätzliche Ausbildung zur 
+Vegetationsbrandbekämpfung mit den Schwerpunkten 
+• 
+Sicherheitshinweise 
+• 
+Gefahren der Einsatzstelle 
+• 
+Einsatztaktik 
+• 
+Einsatz von Handwerkzeugen 
+• 
+Einsatz von Löschfahrzeugen 
+empfohlen. Hierfür werden durch den Landesfeuerwehrverband entsprechende Unterlagen für eine 
+Schulung in den Kreis- und Stadtfeuerwehrverbänden zur Verfügung gestellt. 
+ 
+3.2 
+Landesfeuerwehrschule 
+Die Landesfeuerwehrschule wird das Thema durch Informationstage entsprechend vermitteln. 
+ 
+ 
+ 
+
+  
+ 
+Seite 15 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+4 
+Ausrüstung 
+4.1 Persönliche Schutzausrüstung 
+Grundsätzliches14 
+Grundsätzlich hat die Stadt bzw. Gemeinde als Träger des Brandschutzes vor der Beschaffung der PSA 
+eine Gefährdungsbeurteilung durchzuführen, die die örtlichen Gegebenheiten und das Einsatzspekt-
+rum der Feuerwehr berücksichtigt. Die Vegetationsbrandbekämpfung in ihrer Vielfalt erfordert dabei 
+ein besonderes Augenmerk. In der Regel müssen die Schutzmaßnahmen situativ an den vor Ort vor-
+gefundenen Vegetationsbrand angepasst werden. Für einen Flurbrand (Feldbrand) mit niedrigem 
+Flammengang kommen ggf. andere Schutzmaßnahmen in Frage als bei einem Waldbrand, bei wel-
+chem die Einsatzkräfte beispielsweise mit Glut von oben durch brennende Wipfel zu rechnen haben. 
+ 
+Die Feuerwehrschutzkleidung ist so zu wählen, dass auch Gefährdungen durch Unterkühlung, Über-
+hitzung oder durch sonstige klimatische Verhältnisse vermieden werden. Dies kann dazu führen, dass 
+die Feuerwehrschutzkleidung jahreszeitabhängig zu variieren ist oder mehr Pausenphasen und kürze-
+re Einsatzzeiten zu organisieren sind. In den heißen Sommern, wie sie sich in den vergangenen Jahren 
+gezeigt haben, ist es nicht ausreichend, den Feuerwehrangehörigen lediglich die drei- oder vierlagige 
+PSA für die Innenbrandbekämpfung zur Verfügung zu stellen. Dies stellt i. d. R. eine unnötige Belas-
+tung der Einsatzkräfte dar. Es kann bei langanhaltenden Einsätzen zu einem Hitzestau im Körper 
+kommen. Zudem ziehen die Feuerwehrangehörigen diese Schutzbekleidung erfahrungsgemäß am 
+Einsatzort aus, um einer Überhitzung entgegenzuwirken. Damit ist die Schutzwirkung der PSA ausge-
+schaltet. Es ist zu empfehlen, Feuerwehrschutzbekleidung zu wählen, die eine gute Atmungsaktivität 
+aufweist und eine geringe Belastung der Einsatzkräfte darstellt. Das könnte z.B. eine Schutzkleidung 
+nach HuPF Teil 2 und 3 oder eine Schutzkleidung mit geringen Leistungsstufen nach DIN EN 469 sein. 
+ 
+Bei der Auswahl der Kleidung leistet die DGUV Information FBFHB-035 „Sicherheit und Gesundheit 
+bei der Vegetationsbrandbekämpfung“ i.V.m. DGUV Information 205-014 „Auswahl von persönlicher 
+Schutzausrüstung für Einsätze der Feuerwehr“ gute Unterstützung. Die Auswahl der PSA basiert auf 
+einer Gefährdungsbeurteilung. Für Flächen- und Waldbrände gibt es hier derzeit keine eigene Rubrik 
+in der DGUV Information, aber eine gute Basis für die dafür erforderliche PSA ist z.B. die Kleidung mit 
+der Kurzbezeichnung PSA 11 für die Brandbekämpfung BBK 1 (Brandbekämpfung im Freien). 
+Zu beachten ist, dass das Tragen spezieller Schutzkleidung, die für die Brandbekämpfung im Innen-
+angriff konzipiert ist (wie z. B. nach DIN EN 469 Stufe 2 bzw. nach HuPF Teil 1+4), bei sehr warmer 
+Witterung aufgrund ihrer Isolationswirkung zu massivem Flüssigkeitsverlust durch Schwitzen bis hin 
+ 
+14 Bekämpfung von Vegetationsbränden: Welcher Atemschutz und welche Schutzkleidung sind geeignet? Artikel der Hanseatischen Feuer-
+wehrunfallkasse Nord vom 07.07.2020 
+
+  
+ 
+Seite 16 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+zu einer erheblichen gesundheitlichen Gefährdung (z. B. Hitzekrampf, Hitzeerschöpfung, Hitzschlag) 
+führen kann (DGUV FBFHB-035, 2022). 
+ 
+ 
+Abbildung 13 Tabelle 6: PSA-Gruppe 1 Brandbekämpfung aus DGUV 205-014 
+Bild: Deutsche Gesetzliche Unfallversicherung 
+ 
+ 
+Abbildung 14 Foto PSA 11 für Brandbekämpfung aus DGUV 205-014 
+Bild: Deutsche Gesetzliche Unfallversicherung 
+ 
+
+  
+ 
+Seite 17 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Folgende persönliche Schutzausrüstung wird empfohlen: 
+ 
+• 
+Einlagiger Feuerwehrschutzanzug nach Norm mit verstellbaren Arm- und Beinabschlüssen, 
+• 
+Feuerwehrsicherheitsstiefel, 
+• 
+Feuerwehrschutzhandschuhe nach DIN EN 659, 
+• 
+Feuerschutzhaube (einlagig) oder Hollandtuch als Schutz offener Hautpartien, 
+• 
+Spezielle Helme zur Wald- und Flächenbrandbekämpfung nach europäischer Norm können 
+bei Einheiten mit häufigen Vegetationsbränden zweckmäßig sein. Grundsätzlich bietet der 
+Feuerwehrhelm (nach DIN EN 443) mit Nackenschutz ausreichend Schutz. 
+• 
+Möglichst dicht schließende, hitzebeständige Schutzbrille um die Augen, um vor Funkenflug, 
+Rauch und Wärmestrahlung zu schützen, 
+• 
+Staubschutzmasken (FFP2 oder FFP3, jeweils mit Außenventil) zum Schutz vor Partikeln. 
+ 
+4.2 
+Gerätschaften 
+Bei Bränden, allen voran Wald- und Flächenbrände, steht meist das Löschmittel Wasser im Vorder-
+grund. Bei der Vegetationsbrandbekämpfung ist auch der Einsatz von Kleinlöschgeräten und Hand-
+werkzeugen oftmals bereits zielführend. Auf diese Art und Weise kann mit geringem Löschwasserein-
+satz meist eine sehr effektive Brandbekämpfung durchgeführt werden. 
+ 
+Auf den vorhandenen Feuerwehrfahrzeugen sind bereits viele Gerätschaften nach Norm vorhanden. 
+Die Zusatzbeladungssätze „J1“ und „J2“ Vegetationsbrand nach E DIN 14800-18 Beiblatt 10 liefern 
+eine gute Basisausrüstung dafür. Diese kann und soll entsprechend regional vorhandener Besonder-
+heiten ergänzt werden, zum Beispiel um spezielle Handwerkzeuge beziehungsweise mehr Schlauch-
+material mit weiteren tragbaren kleinen Motorpumpen. 
+ 
+Weitere Hinweise und Informationen hierzu sind in 
+• 
+der Fachempfehlung Sicherheit und Taktik im Vegetationsbrandeinsatz des Arbeitskreises 
+Waldbrand in Abstimmung mit dem Fachausschuss Einsatz, Löschmittel und Umweltschutz 
+der deutschen Feuerwehren und der 
+• 
+Fachempfehlung Geräte zur Vegetationsbrandbekämpfung von @fire – Internationaler Kata-
+strophenschutz Deutschland e.V. 
+zu finden (DGUV FBFHB-035, 2022). 
+ 
+ 
+
+  
+ 
+Seite 18 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Nachfolgende Tabelle gibt eine Übersicht über verschiedene Gerätschaften zur Vegetationsbrandbe-
+kämpfung, die auf Fahrzeugen mit der Normbeladung schon teilweise vorhanden sind 
+ 
+Abbildung 15  Tabelle Gerätschaften für Vegetationsbrandbekämpfung auf Normfahrzeugen 
+Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+Weitere Gerätschaften für die Vegetationsbrandbekämpfung lassen sich optional einzeln oder auch 
+im Verbund beschaffen. Hierzu kann die Standardbeladung von Feuerwehrfahrzeugen durch Zusatz-
+beladungssätze erweitert werden. 
+ 
+
+  
+ 
+Seite 19 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Diese Zusatzbeladungen sind wie zuvor angeführt in der DIN 14800-18 genormt. Speziell im Bei-
+blatt 10 wird die „Zusatzbeladung Waldbrand“ aufgeführt, die aus zahlreichen weiteren Gerätschaf-
+ten zur Vegetationsbrandbekämpfung besteht. 
+ 
+Abbildung 16  Tabelle Zusatzbeladung Waldbrand 
+Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+ 
+
+  
+ 
+Seite 20 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+4.3 
+Fahrzeuge 
+Damit die Feuerwehren bei ihren Einsätzen bei Unglücksfällen und Hilfeleistungen schnelle und wirk-
+same Hilfe leisten können, stehen ihnen als unentbehrliche Hilfsmittel Fahrzeuge zur Verfügung, mit 
+denen sie zu den jeweiligen Einsatzorten ausrücken können. 
+Gemäß der Definition in den entsprechenden Normen sind Feuerwehrfahrzeuge: „ ... für den Einsatz 
+der Feuerwehr besonders gestaltete Kraftfahrzeuge und Anhängefahrzeuge, die entsprechend ihrem 
+Verwendungszweck zur Aufnahme der Besatzung, der feuerwehrtechnischen Beladung sowie der 
+Lösch- und sonstigen Einsatzmittel eingerichtet sind.“16 
+ 
+Die bei den Freiwilligen Feuerwehren im Land Schleswig-Holstein vorhandenen Feuerwehrfahrzeuge 
+sind grundsätzlich nicht explizit für die Vegetationsbrandbekämpfung konzipiert. Um trotzdem mit 
+diesen Fahrzeugen sicher und schnell zum Einsatzort zu gelangen, sollten bestimmte technische Ei-
+genschaften vorhanden sein: 
+ 
+• 
+tiefer Schwerpunkt, 
+• 
+hohe Bodenfreiheit, 
+• 
+Allradantrieb, 
+• 
+Differentialsperren. 
+ 
+Bei allen Einsätzen muss jedem Einheitsführer und Maschinisten klar sein, dass insbesondere thermi-
+sche Beschädigungen von wichtigen Leitungen (Elektrik, Druckluft, Kraftstoff usw.) zu einer totalen 
+Bewegungsunfähigkeit des Fahrzeuges führen können. Entsprechendes umsichtiges Bewegen des 
+Fahrzeuges ist von daher nötig. Ferner kann auch eine ungünstige angebrachte Luftansaugung (z.B. 
+unter dem Fahrzeug) verstopfen und so zum Ausfall des Fahrzeugmotors führen. Darüber hinaus 
+können heiße Unterbauteile (z.B. Katalysator oder Rußpartikelfilter) neue Brände entfachen. 
+ 
+Mit den Katastrophenschutzfahrzeugen (LF KatS) des Bundes und des Landes Schleswig-Holstein sind 
+Fahrzeuge vorhanden, die auf Grund ihrer Konzeption für die Brandbekämpfung und Wasserförde-
+rung über lange Wegstrecken geeignet sind. Da diese Fahrzeuge auch mit einem Faltbehälter von 
+5.000 Liter ausgestattet sind, können sie zusammen mit einem SW 2000 auch zur Wasserförderung 
+eingesetzt werden. 
+ 
+ 
+16 Heft 3 Feuerwehrfahrzeuge der Landesfeuerwehrschule Schleswig-Holstein, Stand 2009 
+
+  
+ 
+Seite 21 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Ein bestimmtes Fahrzeug wird nicht vorgeschrieben, sondern ist von jeder Gemeinde nach den örtli-
+chen Verhältnissen vorzuhalten. Dazu zählen auch die vorhandenen Löschfahrzeuge. 
+ 
+Ist es darüber hinaus notwendig, geeignete Fahrzeuge zur Vegetationsbrandbekämpfung zu beschaf-
+fen, bieten sich entsprechend ausgestattete Fahrzeuge nach DIN 14530-291 an. Für spezielle Einhei-
+ten, die personell und organisatorisch einen auch in der Regel mehrtägigen, ggf. überörtlichen Ein-
+satz mit entsprechender Ausbildung und besonderer Ausrüstung sicherstellen können, kann auch die 
+Fachempfehlung Pflichtenheft Waldbrand-Tanklöschfahrzeug des Fachausschuss Technik der  
+deutschen Feuerwehren die Basis bilden. 
+ 
+ 
+
+  
+ 
+Seite 22 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5 
+Einsatz 
+5.1 Sicherheit 
+In den vergangenen Jahren stieg bundesweit die Einsatzhäufigkeit im Bereich der Vegetationsbrände 
+bei vielen Feuerwehren und Hilfeleistungsorganisationen. Zunehmend werden die Einsatzkräfte mit 
+Großfeuern auf Feldern, in Wäldern und sonstigem Freigelände konfrontiert, die mit großen Heraus-
+forderungen und zum Teil mit erheblichen Gefährdungen verbunden sein können. Immer wieder 
+werden bei der Vegetationsbrandbekämpfung Einsatzkräfte zum Teil schwer verletzt.17 
+ 
+Die Wahrung der Sicherheit und Gesundheit der eingesetzten Kräfte ist immer oberstes Gebot. Die 
+Verhinderung der Ausbreitung der Flammen sollte die erste Maßnahme am Brandort sein, soweit 
+keine Menschenrettung durchzuführen ist, die grundsätzlich vorrangig zu behandeln ist. Das Eingren-
+zen und Ablöschen des Feuers kann durch offensive, aber auch defensive taktische Vorgehensweise 
+durchgeführt werden. Der Schutz von Gebäuden oder Sachwerten sollte vor der Ausbreitung auf die 
+Vegetation vorrangig durchgeführt werden. Die Wahrung der Wiederverwendbarkeit (Beschädigung 
+durch Hitzeeinwirkung) von Fahrzeugen und Material ist die Bedingung für die Sicherheit der Einsatz-
+kräfte und den Löscherfolg. 
+ 
+5.2 Vegetationsbranddreieck18 
+Besonders bei der Vegetationsbrandbekämpfung stellen die Vegetation, Wetter und Topographie 
+Einflussfaktoren auf die Dynamik des Brandgeschehens dar. 
+ 
+Abbildung 17 Vegetationsbranddreieck 
+Bild: @fire 
+ 
+17 DGUV: Sicherheit und Gesundheit bei der Vegetationsbrandbekämpfung 
+18 DFV-FE_Vegetationsbrand_2020.pdf (feuerwehrverband.de) 
+ 
+
+  
+ 
+Seite 23 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.2.1 Vegetation 
+• 
+Nadelwälder sind wesentlich brandgefährdeter als Laub- und Mischwälder. Birken bilden eine 
+Ausnahme, da ihre Rinde und auch grüne Blätter bei extremer Trockenheit sich deutlich schnel-
+ler entzünden als die von anderen Laubbäumen. 
+• 
+Laubbäume können als natürliche brandhemmende Riegelstellung fungieren. 
+• 
+Vor allem junge Nadelbaumschonungen sind mit ihrer bodennahen Verastung besonders anfäl-
+lig für Brände und erhöhen die Gefahr für Vollbrände. 
+• 
+Trockene sandige Böden erhöhen das Vegetationsbrandrisiko gegenüber feuchten lehmigen 
+Böden. 
+• 
+Im Frühjahr ist die Waldbrandgefahr aufgrund der ausgetrockneten Vegetation besonders hoch. 
+• 
+Getreidefelder sind in der Regel vor und während der Ernte im Spätsommer am gefährdetsten. 
+ 
+Bei der Gefährdungsbewertung und Brandschutzbegehung müssen ebenfalls Wechselwirkungen der 
+Vegetationsarten betrachtet werden.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 18 Übergriff eines Feldbrandes auf eine Hecke 
+Abbildung 19 Beschädigung der Wohngebäude durch 
+thermische Einwirkung 
+Bilder: FF Meilsdorf 
+ 
+ 
+ 
+So stellen beispielsweise direkt an Getreidefelder angrenzende Hecken von Wohngebäu-
+degrundstücken oder andere dort befindliche leicht brennbare Vegetation eine erhebliche Ge-
+fahr für die Anwohner und Infrastruktur dar. 
+
+  
+ 
+Seite 24 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.2.2 Topografie und Boden 
+Auch wenn die topographischen Gegebenheiten in Schleswig-Holstein durch Flachland geprägt sind, 
+so können sich auch hier Geländeformen auf die Vegetationsbrandausbreitung auswirken: 
+• 
+Hangaufwärts (Wärmestrahlung, Thermik, Brandgut, Wind) breitet sich das Feuer schneller aus. 
+Hangabwärts wird es eher gehemmt. 
+• 
+Bereiche, die von der Sonne erwärmt und ausgetrocknet wurden oder werden, zeigen eine hö-
+here Feuerintensität als Bereiche im Schatten, die eher kühl und feucht sind. 
+• 
+Täler oder Einschnitte können Wind kanalisieren und somit die Brandausbreitungsrichtung än-
+dern und die Ausbreitung beschleunigen. 
+• 
+Brände in ausgetrockneten oder ehemaligen Moorgebieten (Heide) können an der meist ebe-
+nen Oberfläche windgetrieben sehr schnell verlaufen. Das Feuer kann sich in die brennbaren 
+Bodenschichten hinein entwickeln. In der Folge kann es zum Umkippen von Bäumen ohne er-
+kennbare Vorwarnung oder zum Einbrechen/Absacken von Fahrzeugen und Personen in durch-
+gebrannte Bodenschichten kommen. 
+ 
+5.2.3 Meteorologie/Wetter 
+In diesem Bereich sind neben der bereits erwähnten Sonneneinstrahlung die wesentlichen Faktoren: 
+• 
+Windgeschwindigkeit und Windrichtung (auch Tagesprognose), 
+• 
+Luftfeuchtigkeit bzw. Taupunkttemperatur, 
+• 
+Niederschlag (besonders Niederschlagssummen bisher und in naher Zukunft). 
+ 
+Der Wetterprognose und -vorhersage sowie dem sogenannten „Tagesgang“ kommen hierbei beson-
+dere einsatztaktische Bedeutung zu. Bei größeren oder (zu erwartenden) mehrtägigen Einsatzlagen 
+empfiehlt sich die Hinzuziehung eines Meteorologen in die Einsatzleitung. 
+ 
+Als besonders kritische Werte und als Daumenformel hat sich die „30-30-30-Regel“ herausgestellt: 
+ 
+Bei diesen vorherrschenden oder im Laufe des Tages eintretenden lokalen Bedingungen ist mit einer 
+extremen Brandausbreitung innerhalb kürzester Zeit zu rechnen. Diesem Umstand sollte mit ent-
+sprechenden Vorbereitungen (Sensibilisierung des Einsatzpersonals, Bereitstellung von landwirt-
+schaftlichen Maschinen mit Wasser oder Scheibeneggen zur Ernte, Sensibilisierung der Bevölkerung, 
+• 
+Windgeschwindigkeiten   
+über 30 km/h (8,4 m/s bzw. 16,2 Knoten bzw. ca. 4 Bf) 
+• 
+Lufttemperaturen  
+ 
+über 30 °C 
+• 
+Relative Luftfeuchtigkeit  
+unter 30 % 
+
+  
+ 
+Seite 25 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Gefahrenbewusstsein und lokale Gefährdungsbewertung risikoreicher Vegetationsflächen) und ent-
+sprechend ausgeweiteter Alarmierung, selbst bei kleinen Vegetationsbränden, Rechnung getragen 
+werden. 
+ 
+Aussagen zur Waldbrandgefahrenprognose findet man zum Beispiel auf der Seite des Deutschen 
+Wetterdienstes unter 
+ 
+https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html 
+ 
+Es sollte dazu immer auch der Graslandfeuerindex beachtet werden, weil dieser vor allem in Moor- 
+und Heidebereichen sowie für Brände auf landwirtschaftlichen Flächen und im Schilf zutreffender ist: 
+ 
+https://www.dwd.de/DE/leistungen/graslandfi/graslandfi.html 
+ 
+5.3 
+LACES-Sicherheitsregel19 
+Neben der bei den Feuerwehren bekannten Gefahrenmatrix (siehe Punkt 5.4) kommt im Bereich der 
+Vegetationsbrandbekämpfung auch die sogenannte LACES-Sicherheitsregel zur Anwendung. Die 
+„LACES“-Regel kommt aus dem angloamerikanischen Raum und hat sich auch in Europa etabliert. Sie 
+besteht aus den Elementen: 
+ 
+L 
+Lage-Beobachter 
+(lookout) 
+ 
+Die Beobachterinnen und Beobachter behalten den Überblick über das 
+Feuergeschehen und aktuelle Wetteränderungen. Erkenntnisse und 
+Gefahren geben sie an die jeweilige Einsatz- oder Abschnittsleitung 
+weiter. Die Beobachtung kann von einen erhöhten Geländepunkt mit-
+tels Drehleiter, Drohne oder Luftfahrzeug erfolgen. Die Beobachtung 
+muss das gesamte Feuer erfassen, ggf. muss mit mehreren Beobach-
+tern gearbeitet werden. 
+ 
+ 
+ 
+19 Cimolino, Dr., Ulrich; Vegetationsbrandbekämpfung, ecomedstorck GmbH, 2015 und DFV-FE_Vegetationsbrand_2020.pdf (feuerwehr-
+verband.de) 
+
+  
+ 
+Seite 26 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+A 
+Ankerpunkt 
+(anchor-point) 
+ 
+Ankerpunkte sind die Startpunkte des direkten Löschangriffes. Sie soll-
+ten bestenfalls an nicht bzw. schwer brennbaren Punkten liegen (z.B. 
+Wege, Straßen, Bäche). Sie sind im Einsatzbefehl festzulegen und zu 
+überwachen. Ankerpunkte stellen sicher, dass die Einsatzkräfte von 
+dem Feuer nicht unbemerkt umlaufen werden und schützt sie damit 
+vor dem Einschluss durch ein Feuer. Es muss immer mindestens einen 
+Ankerpunkt geben. 
+C 
+Kommunikation 
+(communication) 
+ 
+Die Kommunikation ist vielschichtig. Sie beginnt bei der Verwendung 
+einheitlicher Bezeichnungen und Begriffe, führt über die Sicherstellung 
+von Sprechfunkverbindungen oder anderen Signalmitteln (Signalpfeife, 
+Signalleuchtkörper als Notsignal/Rückzugssignal) bis hin zur Interaktion 
+mit der Bevölkerung (Warnungen, Einsatzinformationen) sowie den 
+Medien im Rahmen der Öffentlichkeitsarbeit. 
+E 
+Rettungs- und 
+Rückzugsweg 
+(Evakuierungs- 
+weg) 
+(Escape routes) 
+ 
+Sie können auch als Flucht- und Rettungswege betrachtet werden und 
+dienen den im Gefahrenbereich befindlichen Einsatzkräften als sicherer 
+Weg zur Sicherheitszone bzw. zum Sammelplatz. Sie müssen den Ein-
+satzkräften vorab bekannt gegeben, dokumentiert und im Einsatz frei-
+gehalten werden. Bei Rückzugsbefehl oder -signal sind sie unverzüglich 
+zu nutzen. Werden Rettungsmaßnahmen im Gefahrengebiet notwen-
+dig, so sind sie als Zuwegungen für die Rettungskräfte nutzbar. Im 
+Rahmen der lokalen Gefahrenbeurteilung sollten mögliche Wege vor-
+her regelmäßig erkundet und dokumentiert werden. Insbesondere auf 
+die Tauglichkeit für die zur Verfügung stehenden Einsatzfahrzeuge oder 
+für lediglich fußläufiges Betreten ist hierbei zu achten. Ohne diese We-
+ge ist der bodengebundene direkte Löscheinsatz aus Sicherheitsgrün-
+den abzulehnen.  
+ 
+ 
+ 
+ 
+ 
+ 
+Als einheitliches Rückzugssignal gilt eine Tonfolge von drei Tönen mittels Signalpfeife oder 
+Lautsprecher. Es soll mehrfach wiederholt werden und gilt für alle Einsatzkräfte als Befehl zum 
+Rückzug über die Rückzugswege zu den Sicherheitszonen. 
+
+  
+ 
+Seite 27 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+S 
+Sicherheitszonen 
+/ Sammelplätzen 
+(Safety zones) 
+ 
+Dies sind Plätze, zu denen sich Einsatzkräfte im Falle einer Gefährdung 
+oder Evakuierung zurückziehen und sammeln können. Sie sollten au-
+ßerhalb des Gefahrenbereiches liegen oder so beschaffen sein, dass 
+eine Gefährdung der Flächen nahezu ausgeschlossen werden kann und 
+die Einsatzkräfte dort verharren können. Bestenfalls ist die Sicherheits-
+zone so beschaffen, dass zusätzlich auch eine (luftgestützte) Evakuie-
+rung möglich wäre (z.B. asphaltierte/geschotterte Straßen oder Park-
+plätze, weitläufige Wiesen mit kurzem Bewuchs). 
+Abbildung 20 LACES-Regel 
+Bilder: Dennis Fischer, Mitglied der Arbeitsgruppe des LFV 
+ 
+ 
+
+  
+ 
+Seite 28 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.4 
+Gefahren bei Wald- und Vegetationsbränden in Bezug auf die Gefahrenmatrix 
+Für die weitere Beurteilung der Gefahren bei der Vegetationsbrandbekämpfung kann wie bei ande-
+ren Feuerwehreinsätzen die bekannte Gefahrenmatrix angewandt werden. 
+ 
+ 
+Abbildung 21 Gefahrenmatrix 
+Bild: Landesfeuerwehrschule Schleswig-Holstein 
+ 
+5.4.1 A – Atemgifte 
+Große Rauchentwicklung und drehende Winde, welche durch Thermik und Topographie beeinflusst 
+werden können. 
+ 
+ 
+ 
+ 
+ 
+5.4.2 A – Angstreaktion 
+Tiere und Tierherden können durch den Brand in Panik geraten und flüchten. Dabei geht eine erheb-
+liche Gefahr von ihnen aus, da diese im Stresszustand nicht eingefangen werden können. Im besten 
+Fall können diese Tiere nur geleitet werden. 
+Durch Zivilisten besteht die Gefahr von Schaulustigen, welche die Löschmaßnahmen behindern. Di-
+rekt Betroffene treffen nicht rational überlegte Entscheidungen und gefährden sich dadurch selbst 
+und müssen ggf. von Einsatzkräften gerettet werden.  
+ 
+ 
+ 
+ 
+Schutzmaßnahmen: 
+Nutzung von: Atemfilter (Tücher mit Filterfunktion, Halbmasken), Schutzbrillen, ggf. Atem-
+schutzmasken mit Filter oder Pressluftatmer, um der Gefahr entgegenzutreten. Einhalten der 
+Einsatzgrundsätze. 
+Schutzmaßnahmen: 
+Nutzung von: Ansprachen der Zivilisten, modulares Warnsystem (MoWaS – Nina, Katwarn, Ra-
+diodurchsagen), großräumiges Absperren der Einsatzstelle. Für die eigenen Einsatzkräfte bietet 
+sich unter Umständen der Einsatz von PSNV-Kräften an. 
+
+  
+ 
+Seite 29 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.4.3 A – Ausbreitung 
+• 
+Wärmestrahlung 
+Durch Wärmestrahlung werden nicht betroffene Bereiche entsprechend aufgeheizt, ausgetrocknet 
+und ggf. auch entzündet. 
+ 
+• 
+Funkenflug 
+Durch Funkenflug können zum einen Waldbrände ausgelöst werden, wenn diese bei einem fahrlässig 
+entzündeten Brauchtumsfeuer entstehen. Aber auch bei Waldbränden entsteht dieses Phänomen 
+sehr häufig, wenn Nadelbäume und Reisig verbrennen. Dieses Phänomen kann in dessen Folge zu 
+einem weiteren Brand (Spotfeuer) führen. 
+ 
+• 
+Flugfeuer, Spotfeuer 
+Durch die bestehende Thermik können brennende Teile bis zu mehreren Kilometer mitgetragen wer-
+den und so bislang nicht betroffene Gebiete in Brand setzten. In diesem Fall spricht man von einem 
+Spotfeuer. Dieses Phänomen tritt meist dann auf, wenn durch das Hauptfeuer eine große Thermik 
+entwickelt wird und brennende und glühende Teile dadurch durch die Luft fliegen. Spotfeuer entste-
+hen meist in sehr trockenen Gebieten, in denen die Zündenergie sehr gering sein kann, um diese 
+Bereiche zu entflammen. Spotfeuer können sich im Verlauf ebenso zu großen Bränden entwickeln, 
+welche die geplanten taktischen Maßnahmen der Feuerwehr stören bzw. behindern oder gar unmög-
+lich machen. 
+ 
+• 
+Ausbreitungsgeschwindigkeit20 
+Das Ausbreitungsverhalten der jeweiligen Brandarten ist unterschiedlich und wird zudem von mehre-
+ren Faktoren beeinflusst, z.B. 
+o Menge an brennbarem Material, 
+o Trockenheit des brennbaren Materials, 
+o topografische Gegebenheiten, 
+o Windeinflüsse. 
+ 
+ 
+ 
+ 
+ 
+20 Handbuch Vegetationsbrandbekämpfung, Freistaat Thüringen 
+
+  
+ 
+Seite 30 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Folgende Erfahrungswerte können grundsätzlich zu Grunde gelegt werden: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gerade bei aufkommendem Wind kann sich die Intensität und die Ausbreitung des Feuers massiv 
+entwickeln und verstärken. Auch Richtungsänderungen durch das Drehen des Windes sind möglich 
+und zu berücksichtigen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.4.4 A – Atomare Gefahren 
+Können ausgeschlossen werden 
+ 
+5.4.5 C – Chemische Stoffe 
+Können grundsätzlich ausgeschlossen werden, sofern keine besonders gekennzeichneten Bereiche 
+durch das Feuer direkt bedroht sind (Industrieanlagen, Abstellanlagen für Gefahrguttransporte, …). 
+ 
+5.4.6 E – Erkrankung / Verletzung 
+Chirurgische Verletzungen, Atemgifte (CO-Intoxikation), internistische Notfälle (Hitzeerschöpfung, 
+Hitzschlag, Kreislaufstörungen) 
+ 
+ 
+ 
+ 
+ 
+ 
+Schutzmaßnahmen: 
+Nutzung von: grüner, feuchter, nicht ölhaltiger Vegetation (brandhemmend), Wundstreifen, 
+Straßen, Flüsse, um die Ausbreitung auszubremsen, Handwerkzeug (Feuerpatschen, Schaufeln, 
+Haken, etc.), Kleinlöschgeräte (Löschrucksack, Kübelspritze, etc.), Löschgeräte (von D-Schlauch 
+über C-Leitung bis zu Düsenschläuchen) 
+Schutzmaßnahmen: 
+Nutzung von: Atemfilter (Tücher mit Filterfunktion, Halbmasken), Schutzbrillen, ggf. Atem-
+schutzmasken mit Filter, um der Gefahr durch Atemgifte entgegenzutreten. Einhalten der Ein-
+satzgrundsätze. 
+Beachten von Pausen, passender persönlicher Schutzausrüstung, Schattenplätze wenn möglich 
+nutzen, Sonnencreme und viel trinken (Wasser und Schorlen).  
+Art des Feuers 
+ Ausbreitung / Ausbreitungsgeschwindigkeit 
+Bodenfeuer auf Freifläche, z.B. Stoppelfeld 
+0,2 km/h bis 11 km/h 
+Bodenfeuer im Wald 
+ 
+ 
+ 
+10 m/h bis 1,2 km/h 
+Vollfeuer im Wald 
+ 
+ 
+ 
+bis zu mehreren km/h 
+Stammfeuer 
+ 
+ 
+ 
+ 
+auf einzelne Stämme beschränkt 
+Erdfeuer 
+ 
+ 
+ 
+ 
+sehr langsam, einige Meter pro Tag, unabhängig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vom Wind, kreisförmig 
+Funkenflug / Flugfeuer  
+ 
+ 
+mehrere 100 Meter bis zu mehreren Kilometern 
+
+  
+ 
+Seite 31 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.4.7 E – Explosion 
+Munitionsbelastete Gebiete – Selbstumsetzung durch Feuer und Temperatur – Gefahr durch Split-
+terwirkung, Explosion und Zerknall 
+ 
+ 
+ 
+ 
+ 
+5.4.8 E – Einsturz/Absturz 
+Die Gefahr durch Einsturz oder Absturz besteht bei Bäumen, welche durch die Brandeinwirkung ihre 
+Standfestigkeit verloren haben (sog. „Widowmaker“, zu Deutsch: „Witwenmacher“). Durch Brand-
+einwirkung können grade in Steilhängen Steine und Bäume, teilweise auch brennend, den Hang her-
+unterrollen. Dies birgt für Einsatzkräfte eine doppelte Gefahr, da hierdurch auch die Ausbreitung des 
+Feuers nicht kontrolliert werden kann. Unbekannte Topografie und dadurch unerkannte Absturzkan-
+ten sind für Einsatzkräfte eine Gefahr. Bei einem Löschwasserabwurf durch Hubschrauber können 
+Bäume umgeworfen werden, außerdem können Steine und andere Gegenstände, die bei der Befül-
+lung aus dem offenen Gewässer mit aufgenommen wurden, herabfallen. 
+ 
+ 
+ 
+ 
+ 
+5.4.9 E – Elektrizität 
+ 
+Stromleitungen durch Wald und Wiese, Gefahr des Zerreißens durch Wärmeeinwirkung, Gefahr 
+durch Abbrand des Holzmastes. 
+ 
+ 
+ 
+ 
+ 
+ 
+Schutzmaßnahmen: 
+Munitionsbelastete Flächen nicht befahren und betreten, verantwortliche Personen zur Einsatz-
+stelle kommen lassen und sich um die Ausbreitung außerhalb der munitionsbelasteten Fläche 
+kümmern. Angeordnete Sicherheitsabstände unbedingt einhalten. 
+Schutzmaßnahmen: 
+Bäume begutachten, ggf. Abstand halten oder fällen (dabei auf das Bodenfeuer achten!), in je-
+dem Fall aber deutlich kennzeichnen. Koordination an der Einsatzstelle insbesondere bei Wasser-
+abwürfen durch Hubschrauber (klare Führungs- und Funkstruktur ist sehr wichtig). 
+Schutzmaßnahmen: 
+Ausführliche Erkundung ist hier notwendig, insbesondere für Flächen, die zukünftig von der Aus-
+breitung betroffen sein können. Auch hier ist die Begutachtung und ggf. das Halten von Abstand 
+zu den Masten im Brandgebiet sehr wichtig, ggf. frühzeitige Stromabschaltung im Gefahrengebiet 
+veranlassen. 
+
+  
+ 
+Seite 32 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.5 
+Einsatztaktik 
+ 
+ 
+ 
+ 
+ 
+Um einen erfolgreichen Löscherfolg erzielen zu können, sind eine enge Verzahnung und Ineinander-
+greifen von Technik und Taktik unerlässlich.21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zu den Einsatzmitteln (Fahrzeuge) siehe unter Abschnitt 4.3. 
+ 
+Die Mannschaft besitzt bei der bodengestützten Brandbekämpfung gegenüber den Fahrzeugen in 
+schwer zugänglichem Gelände einige Vorteile:22 
+• 
+Die Mannschaft ist in unwegsamem Gelände flexibel einsetzbar. 
+• 
+Die Mannschaft kann bei sich ändernden Bedingen schnell und variabel an einem anderen 
+Ort eingesetzt werden. 
+• 
+Der Transport kann aufgrund des geringen technischen Equipments einfach erfolgen. 
+• 
+Der Einsatz kann selbstständig ohne Wasserversorgung mit Handwerkzeugen arbeiten oder 
+mit mobilen Wasservorräten (z.B. Löschrucksack) erfolgen. 
+ 
+5.5.1 
+Offensive Vorgehensweise 
+Das offensive Vorgehen bezeichnet das direkte Bekämpfen eines Brandes bzw. des Feuersaumes 
+sowie alle dazu notwendigen Unterstützungsmaßnahmen. 
+Dies kann durch Bodenlöschkräfte mit Löschfahrzeugen, durch Abwürfe von Löschwasser aus der Luft 
+oder in Kombination genannter Einsatzmittel erfolgen. Netzmittel (0,1-0,3 % Class-A-Schaummittel) 
+ 
+21 Rockholtz, Handbuch Brandschutz 
+22 Rockholtz, Handbuch Brandschutz 
+Technik
+Taktik
+Brandbekämpfung 
+  bodengestützte 
+    luftgestützte 
+Mannschaft 
+Einsatzmittel 
+Abbildung 22 Verzahnung Technik und Taktik 
+Grafik: Michael Bendt nach @fire 
+Wie bereits unter Abschnitt 5.1 aufgeführt, sollte die Verhinderung der Ausbreitung der Flam-
+men die erste Maßnahme am Brandort sein, soweit keine Menschenrettung durchzuführen ist, 
+die grundsätzlich vorrangig zu behandeln ist. Das Eingrenzen und Ablöschen des Feuers kann 
+durch offensive, aber auch defensive taktische Vorgehensweise durchgeführt werden.  
+
+  
+ 
+Seite 33 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+kann hierbei eine deutliche Steigerung der Eindringtiefe und somit der Löschwirkung erzielen. Die 
+taktische Vorgehensweise sollte im Vorfeld nach umfassender Erkundung genau geplant werden. Die 
+zur Verfügung stehenden Einsatzmittel, die Feuerintensität mit Flammenlänge sowie die Ausbrei-
+tungsgeschwindigkeit und -richtung sollten unbedingt als wichtige Kriterien in der Planung berück-
+sichtigt werden. 
+Hieraus ergeben sich verschiedene taktische Möglichkeiten. 
+ 
+5.5.1.1 
+Zangenangriff (Angriff über die Flanken zur Feuerfront) 
+Diese Einsatztaktik lässt sich gut bei Vegetationsbränden anwenden. Die Flanken werden von den 
+Ankerpunkten aus aufgerollt. Die Fahrzeuge und Löschmannschaften bewegen sich im grünen, noch 
+unverbrannten Bereich. 
+ 
+ 
+Abbildung 23 Zangenangriff aus dem Grünbereich 
+Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+
+  
+ 
+Seite 34 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Abbildung 24 Zangenangriff aus dem Grünbereich (Grafik) 
+Bild: @fire 
+ 
+In der oben gezeigten Abbildung werden folgende Einheiten eingesetzt: 
+ 
+• 
+Staffelfahrzeug 1 (hier TLF) 
+Der Angriffstrupp geht zur Bekämpfung der Flanken von einem Ankerpunkt aus entweder im 
+Pump & Roll-Betrieb oder Raupenbetrieb an einer der Flanken vor. 
+ 
+Der Wassertrupp führt Nachlöscharbeiten durch. 
+ 
+• 
+Staffelfahrzeug 2 (hier TLF) 
+Der Angriffstrupp geht zur Bekämpfung der Flanken von einem Ankerpunkt aus entweder im 
+Pump & Rollbetrieb oder Raupenbetrieb an einer der Flanken vor. 
+ 
+Der Wassertrupp führt Nachlöscharbeiten durch. 
+ 
+• 
+Fahrzeug 3 (hier ein LF)  
+stellt einen Sicherungsposten und sichert zusätzlich die Flanken. 
+ 
+Sind die Flanken abgelöscht, wird die Feuerfront von der Seite angegriffen und die Trupps bewegen 
+sich aufeinander zu. 
+
+  
+ 
+Seite 35 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Abbildung 25 Zangenangriff (Bild aus einer Drohne) 
+Bild: Alexander Otte, Mitglied der Arbeitsgruppe des LFV 
+ 
+ 
+Ist der grüne Bereich (siehe Abschnitt 2.5) z.B. eine Grasfläche, wird diese auch nicht brennen. Sollte 
+der grüne Bereich auch eine brennbare Fläche (z.B. ein Getreidefeld) sein, könnte sich diese entzün-
+den. Fahrzeuge mit geringer Bodenfreiheit und Katalysatoren sollten diese Flächen nicht befahren, 
+da sie kleine Flächenbrände auslösen können, die durch ihre Ausbreitung dann die Kräfte gefährden. 
+ 
+Der Zangenangriff auf die Flanken kann auch aus dem Schwarzbereich durchgeführt werden. 
+ 
+   
+                                                                               Abbildung 26 Zangenangriff aus dem Schwarzbereich 
+                 Bild: Staatliche Feuerwehrschule Würzburg                                                                                  Bild: @fire 
+ 
+ 
+Video 
+Pump and Roll 
+(LFS-Schleswig- 
+Holstein) 
+
+  
+ 
+Seite 36 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.5.1.2 
+Angriff auf die Flammenfront aus dem Schwarzbereich23 
+Die Flammenfront kann ebenfalls aus dem Schwarzbereich angegriffen werden. Abhängig von Aus-
+breitungsgeschwindigkeit und Flammenhöhe kann dies die sicherste und effektivste Vorgehensweise 
+sein. 
+ 
+Doch auch hier ist Vorsicht geboten. Über dem Schwarzbereich kann Hitze sein, die ungeschützte 
+Bremsleitungen, Hydraulikleitungen und Elektrokabel an den Fahrzeugen zerstört. 
+ 
+ 
+                             Abbildung 27 Angriff auf die Flammenfront aus dem Schwarzbereich 
+                                                   Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+5.5.1.3 
+Brände im Boden bekämpfen  
+Brände im Boden können Moor- oder Torfbrände sein, können aber auch im Wald bei dicken Humus-
+schichten sowie in Form von Glutnestern vorkommen. Je nach Bodenbeschaffenheit 
+und -zusammensetzung kann es zu Bränden direkt im Boden kommen, der sich über das Wurzelwerk 
+der dort vorherrschenden Vegetation ausbreiten und wieder nach oben durchdringen kann. Brände 
+unter der Erdoberfläche bilden oftmals überhaupt keine Flammen und lassen sich aus diesem Grund 
+nur schwer lokalisieren (siehe Bilder unter 2.3.2). Solche Brände können oftmals Tage oder Wochen 
+brennen, bevor sie entdeckt werden und sich somit relativ unkontrolliert ausbreiten. Häufig entste-
+hen solche Brände an Orten mit sandigen Böden, aufgrund geringer Wasserspeicherfähigkeit oder in 
+Moorgebieten, wo es zum Brand trockener Torfflächen kommen kann. Hilfreich ist hierbei eine ge-
+ 
+23  Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+YouTube 
+ 
+https://bit.ly/2LrZvxi 
+Einsatztechnik 
+(SFS Würzburg) 
+(FeuerwehrLernbar 
+Bayern) 
+
+  
+ 
+Seite 37 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+naue Erkundung mit der Wärmebildkamera, um mögliche Brandbereiche lokalisieren zu können. Im 
+Anschluss kann dann der Boden mit Hilfe von Löschnägeln abschnittsweise geflutet werden, wobei 
+auch hier zunächst die Ausbreitung verhindert werden sollte. Alternativ oder auch ergänzend kann 
+Wasser versetzt mit Netzmitteln verwendet werden, welches tiefer in die Bodenschichten eindringen 
+kann. Im Bedarfsfall ist der Einsatz von Baumaschinen oder Spezialgeräten zu prüfen, mit denen die 
+Brandstellen aufgegraben oder eingedämmt werden können. 
+ 
+5.5.2 
+Defensive Vorgehensweise24 
+Wenn die Flammenlängen zu groß sind oder die topografischen Gegebenheiten eine direkte Brand-
+bekämpfung nicht zulassen, besteht die Möglichkeit, eine defensive Vorgehensweise zu wählen. 
+Taktisches Einsatzziel ist es, den Verbrennungsvorgang zu unterbrechen, indem dem Feuer das 
+Brandgut entzogen oder der Brennvorgang chemisch gehemmt wird. Ein Vorteil dieser Variante ist 
+die relative Sicherheit der Einsatzkräfte, die nicht direkt in der Nähe der Flammenfront arbeiten. 
+Gefahr besteht trotzdem, da durch Wind angefachte Flugfeuer entstehen können, die in der Lage 
+sind, defensive Brandbekämpfungsmaßnahmen zu überspringen und die Kontrolle über das Feuer zu 
+erschweren. 
+Ferner können Änderungen in der Windgeschwindigkeit und -richtung zu einer plötzlichen Gefähr-
+dung der Einsatzkräfte führen, sodass ein kontrolliertes Rückweichen notwendig werden kann. 
+(Aufgabe des Beobachters, siehe Ziffer 5.3 LACES-Sicherheitsregel). 
+ 
+Entgegen der bei der Brandbekämpfung üblichen Annahme, dass Riegelstellungen eine Variante des 
+defensiven Vorgehens sind und mithilfe von Wasser aus Strahlrohren gebildet werden, trifft diese 
+Vorgehensweise bei der Vegetationsbrandbekämpfung nur bedingt zu. Im Gegensatz zu Gebäude-
+bränden kann die Dimension von Vegetationsbränden diese um ein Vielfaches übertreffen, was wie-
+derum dazu führt, dass ein erheblicher Mehrbedarf an Einsatzkräften, Material und Löschwasser 
+benötigt wird.  
+Riegelstellungen können allerdings als letzte Möglichkeit und ohne Personal im Gefahrenbereich zum 
+Infrastrukturschutz eingesetzt werden, um ein Übergreifen des Brandes von der Vegetation auf die 
+Infrastruktur zu verhindern. 
+Sollten die genannten Komponenten zur Verfügung stehen, kann eine offensive Vorgehensweise 
+gewählt werden. Ausgehend von der Annahme, dass Knappheit bei den genannten Einsatzmitteln 
+herrscht und die genaue Ausbreitungsrichtung langfristig nur schwer vorherzusagen ist, können ver-
+schiedene Vorgehensweisen zu den defensiven Maßnahmen gezählt werden. 
+ 
+24  Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+ 
+
+  
+ 
+Seite 38 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Neben dem Anlegen von Wund- oder Schutzstreifen gehören zur defensiven Brandbekämpfung 
+ebenfalls alle notwendigen Maßnahmen (Wasserförderung, Wegebau, Versorgung, …), die diese tak-
+tische Vorgehensweise unterstützen.  
+ 
+Ferner kann der Einsatz von Brandhemmern25 als chemische Brandschneise fungieren. Ebenfalls ist 
+der taktische und kontrollierte Einsatz von Feuer als defensive Maßnahme möglich, in Deutschland 
+aber aktuell nicht verbreitet26. 
+ 
+5.5.2.1 
+Anlegen von Schneisen oder Wundstreifen 
+Schneisen sind natürliche oder künstlich geschaffene Flächen, die frei von brennbarer Vegetation und 
+der dazugehörigen oberen Bodenschicht sind. 
+ 
+• 
+Wundstreifen (Präventionsmaßnahme) 
+sind von brennbarem Material und humosen Oberboden freizuhaltende Flächen von über einem 
+Meter Breite. Sie laufen ein- oder beidseitig entlang von Hauptwegen, Straßen oder Bahnlinien. 
+Durch einen Wundstreifen wird das Durchlaufen eines Bodenfeuers verhindert. Durch wieder-
+holtes Eggen oder Pflügen in der Waldbrandsaison wird die Funktion des Wundstreifens auf-
+rechterhalten. 
+• 
+Feuerschneisen (einsatztaktische Maßnahme) 
+werden zur Eingrenzung des Feuers erst im laufenden Einsatz angelegt. Sie sind von brennbarem 
+Material und humosen Oberboden freizuhaltende Flächen, die mindestens die 1,5-fache Breite 
+des angrenzenden Bewuchses haben müssen. 
+ 
+25 Gelbildner, auch Retardants genannt, sind Zusätze zum Löschwasser, die vor allem zur Brandbekämpfung bei Vegetationsbränden einge-
+setzt werden. Sie sollen beispielsweise die Verdunstung vermindern, den Siedepunkt erhöhen und durch ihre Farbe die Stellen, auf die 
+bereits Löschmittel aufgebracht wurde, besser erkennbar machen. 
+26 Der taktische Einsatz eines Vorfeuers wurde 2022 z.B. bei einem Katastrophenwaldbrand in Beelitz/ Brandenburg durch den Experten-
+verein @fire erfolgreich in Deutschland angewendet. Es kann davon ausgegangen werden, dass diese taktische Maßnahme in Zukunft 
+zunehmend an Bedeutung gewinnt. Der Einsatz sollte aber nur durch entsprechend ausgebildete Experten angewandt werden. 
+
+  
+ 
+Seite 39 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Abbildung 28 Wundstreifen 
+Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+• 
+Brandriegel (Präventionsmaßnahme) 
+ist eine ca. 100 bis 300 Meter breite Fläche, die mit brandhemmenden (Laub-) Bäumen, Sträu-
+chern sowie brandhemmender Bodenvegetation bewachsen ist. Ein Waldbrandriegel soll im 
+Brandfall auflaufende Vollfeuer in leichter zu bekämpfende Bodenfeuer umwandeln bzw. die 
+Ausbreitung von Bodenfeuern verhindern sowie ggf. einer Feuerwalze ihre Energie entziehen. 
+• 
+Schutzstreifen (Präventionsmaßnahme) 
+sind ca. 20 bis 30 Meter breite mit Bäumen bestandene Flächen, die von leicht brennbarem Ma-
+terial (Reisig, Gestrüpp usw.) befreit sind. Schwache und trockene Bäume werden entfernt so-
+wie verbleibende Kiefern auf eine Höhe von 4 Metern geastet. 
+ 
+Für die Umsetzung von defensiven Einsatztaktiken ist es sinnvoll, natürliche bzw. topographische 
+Gegebenheiten (Straßen, Wege, Flüsse, Geländeformen, …) auszunutzen. Die Erweiterung von be-
+reits bestehenden Schneisen, beispielsweise in Form von bereits vorhandenen Waldwegen, kann 
+schon mit relativ geringem Aufwand erfolgen. 
+Bei der Anlage oder Erweiterung von Schneisen ist es wichtig, dass die Arbeiten beim Auftreffen der 
+Feuerfront soweit abgeschlossen sind, dass die weitere Ausbreitung verhindert werden kann. Ebenso 
+wichtig ist die ausreichend große Dimensionierung der Schneisen, vor allem bei windgetriebenen 
+
+  
+ 
+Seite 40 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Bränden, um ein Überspringen des Feuers zu verhindern. Beim Anlegen von Schneisen gilt die Faust-
+formel, dass diese mindestens die 1,5-fache Breite des an der Feuerschneise angrenzenden Bewuch-
+ses haben müssen. Diese müssen verteidigt und die feuerabgewandte Seite auf Spotfeuer überwacht 
+werden. 
+ 
+Das Anlegen von Feuerschneisen kann auf unterschiedliche Art und Weise erfolgen und richtet sich 
+nach den örtlichen Gegebenheiten (Vegetation, Zufahrt, verfügbares Gerät, …). 
+Beim Einsatz von schweren Gerätschaften ist darauf zu achten, dass auch der für den Feuerwehrein-
+satz gewünschte Erfolg eintritt. Um den angesprochenen Effekt sicherzustellen, muss im Vorfeld be-
+rücksichtigt werden, dass die für den Zweck geeignete Maschinen eingesetzt werden und beim Ein-
+satz mit der notwendigen Sorgfalt die zu befreiende Fläche gereinigt wird. Um den gewünschten 
+Erfolg sicherstellen zu können, wird der Einsatz eines Beobachters bzw. Koordinators (nicht zu ver-
+wechseln mit dem Lage-Beobachter aus der LACES-Regel aus Abschnitt 5.3) empfohlen, der die Ar-
+beiten anleitet und überwacht. Bei Bedarf ist die Nachbearbeitung mit Handwerkzeugen notwendig. 
+Grundsätzlich muss die Kombination des Einsatzes verschiedener Gerätschaften – maschinell betrie-
+bene Geräte und Handwerkzeuge, aber auch verschiedene Handwerkzeuge – bei der Planung be-
+rücksichtigt werden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Feuer kann bei entsprechenden Gegebenheiten durch die Errichtung von Wundstreifen auch 
+gezielt in eine Richtung gelenkt werden. Läuft das Feuer am Ende auf ein festes Hindernis auf, so 
+dass ihm keine Möglichkeit der weiteren Ausbreitung geboten wird, erlischt es ohne weitere 
+Bekämpfung. Solche Hindernisse können Flüsse oder Seen sein. Auch gezielt abgebrannte Flä-
+chen, die zusätzlich bewässert werden, können hierzu herangezogen werden. 
+
+  
+ 
+Seite 41 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.6 
+Techniken bei der Vegetationsbrandbekämpfung27 
+5.6.1 
+Allgemeines 
+Bei Vegetationsbrandeinsätzen kommt aufgrund der positiven Eigenschaften in Bezug auf das Wär-
+meaufnahmevermögen und die dadurch entstehende Löschwirkung meist Wasser als Löschmittel 
+zum Einsatz. 
+ 
+ 
+ 
+ 
+ 
+ 
+Grundsätzlich sollten bei den Löscharbeiten folgende Faktoren berücksichtigt werden: 
+• 
+mit Wasser nur Brandabschnitte mit offenen Flammen und einer intensiven Flammenentwick-
+lung bekämpfen, 
+• 
+Ablöschen von Feuern mit C- und idealerweise D-Rohren meist ausreichend (aufgrund der aus-
+gebrachten Löschwassermengen und der noch möglichen Manövrierbarkeit der Löschleitungen 
+[Gewicht]), 
+• 
+zum Bekämpfen des Feuersaums und zur Verhinderung einer Ausbreitung Sprühstrahl einsetzen. 
+Komplettes Ablöschen und Nachlöschen des Feuersaumes erst in einem späteren Schritt mit ei-
+nem weiteren Löschfahrzeug oder Löschmannschaften, 
+• 
+nachdem der Außensaum des Feuers gelöscht ist, kann mit Ablöschen der gesamten Brandfläche 
+begonnen werden, 
+• 
+bevor das Löschfahrzeug ggfs. auf verbrannter Fläche postiert wird, muss die beabsichtigte 
+Standfläche komplett abgelöscht werden. 
+ 
+ 
+ 
+ 
+ 
+ 
+27 Handbuch Vegetationsbrandbekämpfung Thüringen 
+Der Einsatz von Löschwasser ist jedoch bei größeren Einsätzen in der Regel aufgrund der zumin-
+dest zu Beginn des Einsatzes nicht vorhandenen oder nicht ausreichenden Wasserversorgung 
+limitiert. Somit sollte, wenn lagebezogen möglich, grundsätzlich sparsam und effektiv mit dem 
+vorhandenen Löschwasser umgegangen werden (Einsatz von Handwerkzeugen und D-Rohren 
+und Löschrucksäcken). Einsatz von Netzmittel zur Effizienzsteigerung prüfen. 
+Das Aufbauen stationärer Löschwasserversorgungen gemäß FwDV 3 sollte bei diesen hochdy-
+namischen Lagen grundsätzlich vermieden werden. Der Schutz von Infrastruktur stellt hierbei 
+eine Ausnahme dar. 
+
+  
+ 
+Seite 42 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.6.2 
+Einsatztechniken 
+5.6.2.1 
+offensive Einsatztechniken 
+• 
+Einsatz von wasserführenden Fahrzeugen28 
+Bei Vegetationsbränden mit entsprechenden Zu- und Abfahrtmöglichkeiten ist der Einsatz von 
+geeigneten, geländegängigen Löschfahrzeugen möglich. Der Einheitsführer muss zunächst aus-
+führlich erkunden, um einen geeigneten Ankerpunkt zu finden. Hierbei ist die Tragfähigkeit des 
+Bodens zu prüfen und der initiale Aufstellbereich des Fahrzeugs im Bedarfsfall von Glutnestern 
+zu befreien. 
+Ausgehend von den an der Einsatzstelle vorherrschenden Gefahren kann dann mit Hilfe unter-
+schiedlichster Löschtechniken die Brandbekämpfung beginnen. Die dynamische Löschtechnik in 
+der Vegetationsbrandbekämpfung zeichnet sich dadurch aus, dass sich das Fahrzeug bei der 
+Brandbekämpfung nahezu gleich mit der Löschmannschaft mitbewegt. Beim dynamischen Vor-
+gehen werden D-Schläuche verschiedener Längen direkt am Fahrzeug angeschlossen. Zum Ein-
+satz dieser Schlauchgrößen sind geeignete Übergangsstücke oder auch direkt ein Verteiler zwi-
+schen Schlauch und Fahrzeug zu schließen. Hierzu gibt es verschiedene Varianten, die nachfol-
+gend kurz erläutert werden 
+ 
+ 
+ 
+ 
+Pump and Roll-Betrieb (Wasser pumpen und fahren) 
+Bei der genannten Variante fördern sowohl die fest eingebaute Feuerlöschkreiselpumpe (FPN) 
+als auch die tragbare Feuerlöschkreiselpumpe (PFPN) Löschwasser, während sich das dazugehö-
+rige Löschfahrzeug gleichzeitig mit maximal Schritttempo vorwärtsbewegt. Die Besatzung des 
+jeweiligen Fahrzeugs übernimmt Aufgaben zur Brandbekämpfung in Kombination mit Löschwas-
+ser und ggf. Handwerkzeugen. Die jeweilige Einheit wird vom Einheitsführer angeleitet, der 
+auch, im Kontakt mit dem Fahrer stehend, die Fortbewegungsgeschwindigkeit vorgibt.  
+ 
+Da bei einer FPN der Pumpenantrieb über den Nebenantrieb des Fahrzeugs erfolgt, sind hier ei-
+nige Besonderheiten zu beachten: 
+• Ist eine Geländeuntersetzung nicht möglich, so ist ein Pump and Roll-Betrieb in der Regel 
+nicht möglich, da bei entsprechender Drehzahl der FPN die Geschwindigkeit des Fahrzeuges 
+zu hoch ist. In den Fällen empfiehlt sich der nachfolgend beschriebene Raupenbetrieb. 
+ 
+28 Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+ 
+Nie den „Schnellangriff“ für den Löschangriff verwenden, sondern zur Sicherung des eigenen 
+Fahrzeuges nutzen! 
+
+  
+ 
+Seite 43 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Wenn eine Geländeuntersetzung vorhanden ist, so ist zunächst die FPN für die Wasserabga-
+be vorzubereiten: 
+o Entwässerung schließen, 
+o Tankabgang öffnen, 
+o Tankfüllleitung öffnen, um Pumpenüberhitzung bei Nullabnahme zu vermeiden 
+o Druckabgänge schließen und nur den Druckabgang öffnen, über den die Wasserab-
+gabe erfolgen soll. 
+• Dann sind das Fahrzeug und der Nebenantrieb zu starten, dabei ist folgendes Vorgehen zu 
+beachten: 
+o Handbremse anziehen 
+o Motor des Fahrzeuges im Leerlauf starten, 
+o Geländeuntersetzung einschalten, 
+o Kupplung treten und Nebenantrieb einschalten, 
+o Fahrzeug nach Anweisung des Einheitsführers vorwärts bewegen. 
+Bei einem Fahrzeug mit einer PFPN ist das Verfahren einfacher, da der Fahrzeugmotor und der 
+Motor der PFPN unabhängig voneinander arbeiten. Zu beachten ist hier jedoch, dass die Kon-
+trolle der Pumpe nicht aus dem Fahrzeug heraus geschehen kann. 
+ 
+                                        Abbildung 29 Pump and Roll-Betrieb einer Staffel 
+                                            Bild: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+YouTube 
+ 
+Video 
+Pump and Roll 
+(FF Baden) 
+
+  
+ 
+Seite 44 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Raupenbetrieb (Stop und Go) 
+Bei der Raupentechnik arbeitet der Angriffstrupp mit einem D-Schlauch. Auf Zeichen des Ein-
+heitsführers bewegt sich das Löschfahrzeug in die gewünschte Richtung. Während des Fahrbe-
+triebes befindet sich die FPN im abgeschalteten Zustand. Erst wenn das Löschfahrzeug zum Ste-
+hen kommt, schaltet der Maschinist die Pumpe zu und der Angriffstrupp kann mit dem Lösch-
+vorgang beginnen, bis die Schlauchlänge ausgereizt ist. Der Vorgang wiederholt sich immer wie-
+der, bis der Löscherfolg eingetreten oder das Löschmittel verbraucht ist. Die Bewegung ähnelt 
+der einer Raupe. Zuweilen ist auch der Begriff „Schneckenbetrieb“ zu lesen. Beim Einsatz einer 
+PFPN bleibt die Pumpe immer eingeschaltet. 
+ 
+ 
+ 
+Abbildung 30 Raupentechnik einer Gruppe 
+Bild: Staatliche Feuerwehrschule Würzburg, bearbeitet Michael Bendt 
+ 
+ 
+
+  
+ 
+Seite 45 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+• 
+Einsatz von Kleinlöschgeräten 
+Auch der Einsatz von Kleinlöschgeräten ist möglich. Dabei ist jedoch auch die Flammenlänge zu 
+betrachten. Im Allgemeinen kann von folgender Faustformel ausgegangen werden. 
+ 
+Flammenlänge 
+Einsatzhinweise 
+Hüfthöhe ca. 1,2 m 
+Einsatz von Handwerkzeugen (Kleinlöschgeräte, Feuerpatschen, 
+Schaufeln, …) möglich. 
+Mannshöhe bis ca. 2 m 
+Bekämpfung der Feuerfront, wenn überhaupt, nur mit mehreren 
+Strahlrohren und ausreichend Löschwasser möglich. Auf die Si-
+cherheit der Einsatzkräfte ist hier besonders zu achten. 
+Ab ca. 2 m 
+Extreme und schnelle, oftmals unkontrollierte Brandausbreitung 
+möglich. Unbedingt eine defensive Einsatztaktik erwägen. 
+Abbildung 31 Faustformel Einsatz von Löschgeräten 
+Bild: Staatliche Feuerwehrschule Würzburg, bearbeitet Michael Bendt 
+ 
+Beispiele für Kleinlöschgeräte 
+ 
+ 
+ 
+ 
+Kübelspritze 
+Löschrucksack 
+Feuerpatsche 
+Abbildung 32 Kleinlöschgeräte 
+Bilder: Gemeinschaft Feuerwehrfachhandel Deutschland 
+ 
+ 
+
+  
+ 
+Seite 46 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YouTube 
+ 
+https://bit.ly/2qvEpa8 
+Handwerkzeuge 
+(SFS Würzburg) 
+(FeuerwehrLernbar 
+Bayern) 
+ 
+ 
+Video 
+Feuerpatsche 
+(LFS Schleswig- 
+Holstein) 
+ 
+ 
+ 
+Video 
+Löschrucksack 
+(LFS Schleswig- 
+Holstein) 
+ 
+
+  
+ 
+Seite 47 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+5.6.2.2 
+Brandbekämpfung aus der Luft 
+Drohnen können einen wichtigen Beitrag zur Erkundung, laufenden lagerelevanten Informationsge-
+winnung und zur Früherkennung von Spotfeuern leisten. Sie sollten daher frühzeitig (Initialphase) in 
+den Einsatz eingebunden werden. Sollte der Einsatz von Luftfahrzeugen über Drohnen hinaus erfor-
+derlich werden, sind diese rechtzeitig über die integrierten Rettungsleitstellen beim Innenministeri-
+um des Landes Schleswig-Holstein anzufordern. Die relevanten Ausführungen zum Einsatz von Luft-
+fahrzeugen können der Fachempfehlung „Luftfahrzeugeinsatz/Aerial Firefighting Air Operations für 
+und durch die Feuerwehr“ des DFV entnommen werden. 
+ 
+5.6.2.3 
+Nachlöscharbeiten 
+Die Nachlöscharbeiten sind mit größter Sorgfalt durchzuführen, da diverse Einsätze in den letzten 
+Jahren gezeigt haben, dass viele Brände aus kleinen Feuern entstanden sind, die nicht vollständig 
+gelöscht wurden. Von daher sind immer folgende Maßnahmen als Nachlöscharbeiten erforderlich: 
+ 
+• 
+Freilegen und Ablöschen von Glutnestern, 
+• 
+Aufbringen von viel Löschwasser unter entsprechend hohem Druck, 
+• 
+Kontrolle des Gebietes mit Wärmebildkameras (Bilder siehe Abschnitt 2.3.2). 
+ 
+Vertiefende Informationen zu Art und Weise der Nachlöscharbeiten können dem Ausbildungsmodul  
+„Vegetationsbrand - Nachlöscharbeiten“ des Projektes Waldbrand-Klima-Resilienz29 entnommen 
+werden.  
+ 
+5.6.2.4 
+defensive Einsatztechniken 
+• 
+Anlage von Feuerschneisen30 
+Die Anlage von Feuerschneisen mithilfe von Handwerkzeugen ist ein mühsamer Prozess, der den 
+effizienten Einsatz von Werkzeug und Personal erfordert. Schaufeln und vor allem Spaten mit 
+möglichst spitzem und scharfem Blatt eignen sich besonders gut zur Lockerung von Böden, vor 
+allem, wenn diese mit fein verzweigtem Wurzelwerk durchzogen sind. 
+Weitere, speziell für die Anlage von Feuerschneisen geeignete Hack- oder Räumwerkzeuge soll-
+ten in sinnvoller Kombination eingesetzt werden, um möglichst schnell und energieschonend 
+ 
+29 Projekt „Waldbrand-Klima-Resilienz“ (kurz: WKR), das vom Waldklimafonds des Bundesministeriums für Ernährung und Landwirtschaft 
+(BMEL) und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (BMU) finanziell unterstützt wird. 
+30 Vegetationsbrände, Merkblatt für die Feuerwehren Bayerns, Staatliche Feuerwehrschule Würzburg, 2022 
+
+  
+ 
+Seite 48 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+zum Einsatzziel zu kommen. Hierbei ist vor allem die Reihenfolge des Einsatzes von Hack- und 
+anschließenden Räumwerkzeugen zu beachten. 
+Beispiele für Handwerkszeug 
+ 
+ 
+ 
+ 
+Frankfurter 
+Schaufel 
+Spaten glatt 
+Spaten spitz 
+Holsteiner 
+Schaufel 
+Abbildung 33 Handwerkszeug zur Brandbekämpfung, Teil 1 
+Bilder: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pulaski-Axt 
+Gorgui-Tool 
+Wiedehopfhaue 
+McLeod-Tool 
+Dunghacke 
+Abbildung 34 Handwerkszeug zur Brandbekämpfung, Teil 2 
+Bilder: Staatliche Feuerwehrschule Würzburg 
+ 
+ 
+ 
+ 
+Das hier aufgeführte Handwerkszeug ist in Kombination mit Kleinlöschgeräten auch für offensive 
+Einsatztechniken geeignet. 
+
+  
+ 
+Seite 49 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+• 
+Bei der Anlage von Feuerschneisen empfiehlt sich folgende Vorgehensweise: 
+ 
+Trupp 1 
+beginnt mit der Bodenbearbeitung für eine Feuerschneise. 
+Trupp 2 
+beginnt mit einem Versatz mit der Bodenbearbeitung für eine Feuerschneise. 
+Trupp 3 
+…… 
+ 
+• 
+Es gilt dabei wie unter Abschnitt 5.5.2.1 (Anlegen von Schneisen) beschrieben zu beachten, dass 
+die Feuerschneise mindestens die mindestens die 1,5-fache Breite des angrenzenden Bewuchses 
+haben muss. 
+ 
+ 
+
+  
+ 
+Seite 50 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+6 
+Führungsorganisation und Kommunikation 
+6.1 Führungsorganisation31 
+Die Führungsorganisation bildet nach Feuerwehrdienstvorschrift (FwDV) 100 „Führung und Lei-
+tung im Einsatz“ eine Säule des Führungssystems. Die Führungsorganisation legt die Aufgaben-
+bereiche der Führungskräfte fest und gibt die Art und Anzahl der Führungsebenen vor. 
+ 
+Die Führungsorganisation stellt sicher, dass die Arbeit der Einsatzleitung bei jeder Art und Größe 
+von Gefahrenlagen oder Schadenereignissen reibungslos und kontinuierlich verläuft. Die Einsatz-
+leitung und somit die Führungsorganisation ist in ihrer Gliederung und ihrem Umfang abhängig 
+von der Gefahrenlage, dem Schadenereignis und den zu führenden Einheiten. Auch die Einbin-
+dung von Fachberatern ist sinnvoll. 
+ 
+Im Rahmen der Vegetationsbrandbekämpfung, vor allem bei aufwachsenden Ereignissen, ist es 
+erforderlich, eine klare und definierte Führungsstruktur zu schaffen und auch vorzuplanen (und 
+in die Alarm- und Ausrückeordnung (AAO) zu integrieren). Die Einbindung der Technischen Ein-
+satzleitung (TEL) der jeweiligen Landkreise in die jeweilige AAO ist hier ein geeignetes Mittel. 
+ 
+6.2 Kommunikation 
+Es muss ständig der Kontakt zwischen den Einsatzkräften und der Einsatzleitung vorhanden sein. 
+Besteht keine ständige Verbindung, ist die Gefahr groß, von Lageänderungen überrascht zu wer-
+den, da sich Vegetationsbrände dynamisch verhalten. 
+ 
+Ein gutes Hilfsmittel für die Planung der Kommunikation an der Einsatzstelle ist das Führen eines 
+Kommunikationsplans. Als Vorlage kann der nachfolgende Kommunikationsplan dienen. 
+ 
+ 
+31 Handbuch Vegetationsbrandbekämpfung Thüringen 
+
+  
+ 
+Seite 51 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+ 
+Abbildung 35 Kommunikationsplan 
+Bild: Landesfeuerwehrschule Schleswig-Holstein 
+ 
+ 
+
+  
+ 
+Seite 52 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+7 
+Versorgung 
+Bei Vegetationsbränden muss im Gegensatz zu den „normalen“ Feuerwehreinsätzen (1-4 Stun-
+den) mit einem größeren Ansatz für die Versorgung gerechnet werden. Zudem ist auch bereits 
+bei kürzeren Einsätzen mit einem Flüssigkeitsverlust bei den Einsatzkräften zu rechnen, da diese 
+Einsätze in der Regel während der „Schönwetterphase“ erfolgen und von daher neben der an-
+strengenden Feuerwehrarbeit auch mit einem Flüssigkeitsverlust durch die Wärme zu rechnen 
+ist. 
+Aber nicht nur die Verpflegung des eingesetzten Personals ist sicherzustellen, sondern auch die 
+Versorgung mit Kraftstoff für die Fahrzeuge, PFPN und sonstigen motorbetriebenen Gerätschaf-
+ten sind einzubeziehen. 
+ 
+ 
+
+  
+ 
+Seite 53 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+8 
+Abbildungsverzeichnis 
+Abbildung 1 Waldbrandstatistik .............................................................................................................. 1 
+Abbildung 2 Feldbrand ............................................................................................................................ 6 
+Abbildung 3 Bodenfeuer ......................................................................................................................... 7 
+Abbildung 4 Glutnest unter der Oberfläche mit TV-Kamera ................................................................... 8 
+Abbildung 5 Glutnest unter der Oberfläche mit Wärmebildkamera ...................................................... 8 
+Abbildung 6 Vollfeuer oder Kronenfeuer ................................................................................................ 9 
+Abbildung 7 schwarzer Rauch bei Vollfeuer ............................................................................................ 9 
+Abbildung 8 Stammfeuer ...................................................................................................................... 10 
+Abbildung 9 Flugfeuer ........................................................................................................................... 11 
+Abbildung 10 Moorbrand ...................................................................................................................... 11 
+Abbildung 11 Flammenhöhe, Flammenlänge, Flammensaum .............................................................. 12 
+Abbildung 12 Form Vegetationsbrand .................................................................................................. 12 
+Abbildung 13 Tabelle 6: PSA-Gruppe 1 Brandbekämpfung aus DGUV 205-014 ................................... 16 
+Abbildung 14 Foto PSA 11 für Brandbekämpfung aus DGUV 205-014 ................................................. 16 
+Abbildung 15  Tabelle Gerätschaften für Vegetationsbrandbekämpfung auf Normfahrzeugen .......... 18 
+Abbildung 16  Tabelle Zusatzbeladung Waldbrand ............................................................................... 19 
+Abbildung 17 Vegetationsbranddreieck ................................................................................................ 22 
+Abbildung 18 Übergriff eines Feldbrandes auf eine Hecke ................................................................... 23 
+Abbildung 19 Beschädigung der Wohngebäude durch thermische Einwirkung ................................... 23 
+Abbildung 20 LACES-Regel .................................................................................................................... 27 
+Abbildung 21 Gefahrenmatrix ............................................................................................................... 28 
+Abbildung 22 Verzahnung Technik und Taktik ...................................................................................... 32 
+Abbildung 23 Zangenangriff aus dem Grünbereich .............................................................................. 33 
+Abbildung 24 Zangenangriff aus dem Grünbereich (Grafik) ................................................................. 34 
+Abbildung 25 Zangenangriff (Bild aus einer Drohne) ............................................................................ 35 
+Abbildung 26 Zangenangriff aus dem Schwarzbereich ......................................................................... 35 
+Abbildung 27 Angriff auf die Flammenfront aus dem Schwarzbereich ................................................ 36 
+Abbildung 28 Wundstreifen .................................................................................................................. 39 
+Abbildung 29 Pump and Roll-Betrieb einer Staffel ............................................................................... 43 
+Abbildung 30 Raupentechnik einer Gruppe .......................................................................................... 44 
+Abbildung 31 Faustformel Einsatz von Löschgeräten ........................................................................... 45 
+Abbildung 32 Kleinlöschgeräte .............................................................................................................. 45 
+Abbildung 33 Handwerkszeug zur Brandbekämpfung, Teil 1 ............................................................... 48 
+
+  
+ 
+Seite 54 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+Abbildung 34 Handwerkszeug zur Brandbekämpfung, Teil 2 ............................................................... 48 
+Abbildung 35 Kommunikationsplan ...................................................................................................... 51 
+ 
+ 
+
+  
+ 
+Seite 55 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+9 
+Quellenangaben 
+ 
+• 
+HFUK Nord: Sicherheit und Gesundheit bei der Vegetationsbrandbekämpfung 
+https://www.hfuknord.de/hfuk/aktuelles/meldungen/2022/fb-aktuell-
+vegetationsbraende.php 
+ 
+• 
+HFUK Nord: Bekämpfung von Vegetationsbränden: Welcher Atemschutz und welche Schutz-
+kleidung sind geeignet? 
+https://www.hfuknord.de/hfuk/aktuelles/meldungen/2020/Bekaempfung-von-
+Vegetationsbraenden.php 
+ 
+• 
+DGUV 205-014: Auswahl von persönlicher Schutzausrüstung für Einsätze bei der Feuerwehr 
+https://publikationen.dguv.de/widgets/pdf/download/article/874 
+ 
+• 
+DGUV: Sicherheit und Gesundheit bei der Vegetationsbrandbekämpfung 
+https://publikationen.dguv.de/widgets/pdf/download/article/4605 
+ 
+• 
+DFV: Sicherheit und Taktik im Vegetationsbrandeinsatz 
+DFV-FE_Vegetationsbrand_2020.pdf (feuerwehrverband.de) 
+ 
+• 
+Staatliche Feuerwehrschulen Bayern: Merkblatt Vegetationsbrände 
+Feuerwehr Lernbar: Download (feuerwehr-lernbar.bayern) 
+ 
+• 
+Heft 3, Feuerwehrfahrzeuge der Landesfeuerwehrschule Schleswig-Holstein 
+ 
+• 
+Waldwissen 
+Waldbrandarten: Von Kronenfeuern und Stammbränden (waldwissen.net) 
+Strategien der Waldbrandbekämpfung (waldwissen.net) 
+ 
+• 
+Waldbrand, Impulsreferat der Landesfeuerwehrschule Schleswig-Holstein 
+ 
+• 
+Taschenkarte Waldbrand 
+Feuerwehr Lernkompass, Institut der Feuerwehr Nordrhein-Westfalen 
+ 
+• 
+Waldbrandstatistik 2018 der Bundesanstalt für Landwirtschaft und Ernährung 
+Waldbrandstatistik 2018.docx (ble.de) 
+ 
+• 
+Vegetationsbrandbekämpfung (Einsatzpraxis) 
+Cimolino, Dr., Ulrich; Vegetationsbrandbekämpfung, ecomedstorck GmbH, 2015 
+ 
+• 
+Wald und Forstwirtschaft in Schleswig-Holstein 
+https://www.schleswig-holstein.de/DE/fachinhalte/W/wald/wald_01_Allg_01_WaldSH.html 
+ 
+
+  
+ 
+Seite 56 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+• 
+@fire Handout 2021 
+ 
+• 
+Handbuch Brandschutz 
+Ferdinand Rockholtz 
+ 
+ 
+ 
+
+  
+ 
+Seite 57 
+ 
+HANDLUNGSEMPFEHLUNG VEGETATIONSBRANDBEKÄMPFUNG 
+10 Haftungsausschluss 
+ 
+Diese Handlungsempfehlung „Vegetationsbrandbekämpfung. Handlungsempfehlung für die Feuer-
+wehren in Schleswig-Holstein“ wurde nach bestem Wissen und unter größter Sorgfalt durch die Ar-
+beitsgruppe erstellt. Eine Haftung der Mitglieder der Arbeitsgruppe oder des Landesfeuerwehrver-
+bandes Schleswig-Holstein ist jedoch grundsätzlich ausgeschlossen. 
+ 
+ 

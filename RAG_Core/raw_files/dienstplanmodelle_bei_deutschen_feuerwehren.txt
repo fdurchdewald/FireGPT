@@ -1,0 +1,2769 @@
+ 
+Berufsfeuerwehr Oberhausen 
+Dienstplanmodelle bei deutschen Feuerwehren 
+Jörg Brandenburg 
+Brandamtsrat 
+Berufsfeuerwehr Oberhausen 
+Dienstplanmodelle bei 
+deutschen Feuerwehren 
+Facharbeit gemäß § 21 VAP2.2-Feu NRW 
+Mülheim an der Ruhr, den 20.12.2019 
+
+ 
+II 
+Aufgabenstellung 
+ 
+Dienstplanmodelle bei deutschen Feuerwehren 
+Erläutern und bewerten Sie die unterschiedlichen Dienstplanmodelle im Hauptamt der 
+Feuerwehren. 
+ 
+ 
+ 
+Anmerkung: 
+In dieser Arbeit wird aus Gründen der besseren Lesbarkeit das generische 
+Maskulinum verwendet. Weibliche und anderweitige Geschlechteridentitäten werden 
+dabei ausdrücklich mitgemeint, soweit es für die Aussage erforderlich ist. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+III 
+Kurzfassung 
+Dienstplanmodelle müssen den Zielen und Interessen der Dienststellen und 
+gleichermaßen denen der Mitarbeiter gerecht werden. Zugleich sind innerhalb der 
+Modelle die Rahmenbedingungen für die Arbeitszeit und des Arbeits- bzw. 
+Gesundheitsschutzes einzuhalten. 
+Ein Spagat, der nicht immer einfach ist. Das zeigten die teils leidenschaftlich geführten 
+Diskussionen, die während der Recherchearbeit für diese Facharbeit entstanden sind. 
+Vornehmlich, wenn es um den Wechsel eines „altbewährten“ Modells geht, wird es 
+schnell emotional.  
+Im Kern konzentriert sich der Inhalt der Facharbeit darauf, die in Deutschland 
+angewendeten Dienstplanmodelle darzustellen, zu erläutern und diese untereinander 
+zu vergleichen. Dazu wird abschließend unter anderem eine Bewertungsmatrix 
+angewendet, mit deren Hilfe man sich einen schnellen und transparenten Überblick 
+über die Vor- und Nachteile bzw. Stärken und Schwächen der unterschiedlichen 
+Dienstplanmodelle verschaffen kann. 
+Im Verlauf der Arbeit werden zudem die allgemeinen Problemstellungen aufgegriffen, 
+die sich bei den Berufsfeuerwehren und den Feuerwehren mit hauptamtlichen Kräften, 
+mit dem zurzeit am häufigsten verwendeten Grundmodell ergeben. Hierzu gehören 
+beispielsweise die Bedeutungen des Schichtmodells für die Konkurrenzfähigkeit einer 
+Feuerwehr oder die Auswirkungen der Schichtlänge auf die innerdienstliche 
+Inanspruchnahme von Einsatzkräften. 
+Die Inhalte richten sich im Wesentlichen an zwei Zielgruppen. Zum einen an 
+Feuerwehren, die einen allgemeinen Eindruck darüber erhalten möchten, welche 
+Schichtmodelle zurzeit schwerpunktmäßig zur Anwendung kommen und welche 
+Kontroversen aktuell zu diesem Thema diskutiert werden. Zum anderen an 
+Feuerwehren, die sich aus unterschiedlichsten Interessenlagen heraus mit einem 
+Modellwechsel auseinandersetzten wollen oder müssen. 
+ 
+
+ 
+IV 
+Inhalt 
+1 
+Einleitung .............................................................................................................. 1 
+1.1 
+Motivation ...................................................................................................... 1 
+1.2 
+Methode ......................................................................................................... 2 
+1.3 
+Abgrenzung des Themas ............................................................................... 3 
+1.4 
+Gesetzliche Grundlagen ................................................................................ 3 
+2 
+Übersicht und Bewertung ...................................................................................... 5 
+2.1 
+Übersicht der analysierten Modelle ................................................................ 5 
+2.2 
+Kombinierte Systeme ..................................................................................... 5 
+2.3 
+Bewertungsmatrix .......................................................................................... 6 
+3 
+Grundsätze zur Dienstplangestaltung ................................................................... 7 
+3.1 
+Einflussfaktoren auf die Dienstplanung .......................................................... 7 
+3.2 
+Schichtlänge .................................................................................................. 7 
+3.3 
+Wachabteilungsstruktur ................................................................................. 8 
+3.4 
+Wochenarbeitszeit ....................................................................................... 10 
+3.5 
+Arbeitswissenschaftliche Grundlagen .......................................................... 10 
+4 
+Der 24-Stundendienst ......................................................................................... 11 
+4.1 
+Wettbewerbsfaktor ....................................................................................... 11 
+4.2 
+Arbeitszeit .................................................................................................... 12 
+4.3 
+Arbeitsschutz ............................................................................................... 13 
+4.4 
+Mitarbeiterzufriedenheit ............................................................................... 15 
+5 
+Dienstplanmodelle im 24-Stundendienst............................................................. 16 
+5.1 
+Modelle mit vier Wachabteilungen ............................................................... 16 
+5.1.1 
+Allgemeine Eigenschaften ..................................................................... 16 
+5.1.2 
+Schichtfolge 24 Dienst/72 Frei ............................................................... 16 
+5.1.3 
+Schichtfolge 24 Dienst/72 Frei, 3 Dienstgruppen je Wachabteilung ...... 17 
+5.1.4 
+Schichtfolge 24 Dienst/24 Frei/24 Dienst/5 Tage Frei ............................ 17 
+5.2 
+Modelle mit drei Wachabteilungen ............................................................... 18 
+5.2.1 
+Allgemeine Eigenschaften ..................................................................... 18 
+5.2.2 
+Schichtfolge im wiederkehrenden 3-Wochenrhythmus .......................... 18 
+5.2.3 
+Schichtfolge 24 Dienst/48 Frei ............................................................... 19 
+5.2.4 
+Schichtfolge 24 Dienst/24 Frei/24 Dienst/24Frei/24 Dienst/96 Frei........ 19 
+ 
+ 
+ 
+
+ 
+V 
+5.3 
+Modelle mit zwei Wachabteilungen .............................................................. 19 
+5.3.1 
+Allgemeine Eigenschaften ..................................................................... 19 
+5.3.2 
+Zwei Wachabteilungen im dezentralen Schichtdienstmanagement ....... 20 
+6 
+Dienstplanmodelle im Mischdienst ...................................................................... 22 
+6.1 
+Allgemeine Eigenschaften ........................................................................... 22 
+6.2 
+Modell mit vier Wachabteilungen ................................................................. 22 
+6.3 
+Modell mit drei Wachabteilungen ................................................................. 22 
+6.4 
+Modelle mit einer Wachabteilung (Personalpool) ......................................... 23 
+7 
+Dienstplanmodell im 12-Stundendienst............................................................... 24 
+8 
+Zusammenfassung und Ausblick ........................................................................ 25 
+Literatur- und Quellenverzeichnis .............................................................................. 26 
+Abbildungsverzeichnis ............................................................................................... 28 
+Tabellenverzeichnis ................................................................................................... 29 
+Anhang ...................................................................................................................... 30 
+A 
+Übersicht der untersuchten Feuerwehren ........................................................... 30 
+B 
+Gespräche und Kontakte .................................................................................... 31 
+C 
+Übersicht der analysierten Modelle ..................................................................... 33 
+D 
+Bewertungsübersichten ...................................................................................... 35 
+E 
+Handlungsempfehlungen für die gesunde Organisation von Schichtarbeit ......... 37 
+Eidesstattliche Erklärung ........................................................................................... 38 
+Datenträger ............................................................................................................... 39 
+ 
+ 
+ 
+
+Einleitung 
+ 
+ 
+1 
+1 Einleitung 
+1.1 Motivation 
+Das vorrangige Ziel der Feuerwehren muss es sein, ein Dienstplanmodell 
+anzuwenden, mit dem dauerhaft eine kontinuierliche und exakte Besetzung aller 
+erforderlichen Funktionen erreicht werden kann. Dies ist notwendig, um die 
+Schutzziele aus den kommunalen Brandschutzbedarfsplanungen zu erreichen. 
+Darüber hinaus ist dem effektiven Einsatz des Personals aus wirtschaftlichen 
+Gesichtspunkten eine hohe Bedeutung beizumessen. Über eine effiziente 
+Dienstplanung kann, bzw. muss das kostenintensive Personal effizient eingesetzt 
+werden. Daher ist es wichtig, dass sowohl Unter-, als auch Überbesetzungen innerhalb 
+einer Dienstschicht unbedingt vermieden werden. 
+Die Überlegungen, hin zu einem effizienten Dienstplanmodell wären einfach, müssten 
+nur die Parameter Schutzziel und effektiver Personaleinsatz Berücksichtigung finden. 
+Die Dienstplanung berührt vielmehr unterschiedlichste Spannungsfelder in den 
+Bereichen der Personalplanung, des Arbeits- und Gesundheitsschutzes sowie der 
+Mitarbeiterzufriedenheit. Diese müssen darüber hinaus noch mit den rechtlichen 
+Rahmenbedingungen in Einklang gebracht werden. 
+ 
+Gleich zu Beginn muss festgestellt werden, dass die Vorteile, die ein Dienstplanmodell 
+in einem der dargestellten Bereiche erzeugt, in der Regel zu Nachteilen in einem 
+anderen Teilbereich führen. Dementsprechend können die Anforderungen, die von 
+Feuerwehren an das „Wunschmodell“ gestellt werden, stark von den örtlichen 
+Abbildung 1: Spannungsfelder bei der Gestaltung von Dienstplanmodellen 
+
+Einleitung 
+ 
+ 
+2 
+Erfordernissen 
+und 
+aktuell 
+auftretenden 
+Schwierigkeiten 
+innerhalb 
+eines 
+Spannungsfeldes geprägt sein und somit unterschiedlich ausfallen. Die Darstellung 
+und Bewertung der identifizierten Dienstplanmodelle in dieser Facharbeit sollen 
+entsprechende Auswahlmöglichkeiten aufzeigen. 
+1.2 Methode 
+Es gibt in Deutschland zurzeit 109 Berufsfeuerwehren und ca. 143 Feuerwehren mit 
+hauptamtlichen Kräften. Von den 143 Feuerwehren mit hauptamtlichen Kräften 
+befinden sich ca. 70 in Nordrhein-Westfalen. 157 Feuerwehren davon wirken aktiv im 
+Rettungsdienst mit [1] [2]. Somit erstreckte sich die Recherchearbeit darauf, einen 
+Großteil der ca. 252 deutschen Feuerwehren im Hauptamt zu untersuchen. 
+Zur Bearbeitung der Aufgabenstellung war es notwendig herauszufinden, welche 
+Dienstplanmodelle bei den Feuerwehren zur Anwendung kommen. In einem zweiten 
+Schritt mussten Basisdaten gewonnen werden, die eine sinnvolle Bewertung 
+ermöglichen, um die Punkte herauszustellen, die für die Dienststellen von Bedeutung 
+sind. Dafür musste zunächst ein Bewertungsschema entwickelt werden, das die 
+bedeutenden Eckpunkte eines Schichtmodells abbildet und alle Spannungsfelder 
+berücksichtigt. Die nachfolgenden Recherchen, insbesondere der vom Verfasser 
+entwickelte Online-Fragebogen und die geführten Experteninterviews, wurden 
+daraufhin konkret an diesem Bewertungsschema ausgerichtet. 
+Um Antworten auf die zugrunde liegenden Fragestellungen auch in einer auswertbaren 
+Masse zu erhalten, wurde ein Online-Fragebogen entwickelt, der mit Unterstützung 
+der Arbeitsgemeinschaft der Leiter der Berufsfeuerwehren in der Bundesrepublik 
+Deutschland (AGBF Bund) und der Arbeitsgemeinschaft der Leiter der hauptamtlichen 
+Feuerwehren in NRW (AGHF NRW), großflächig verteilt werden konnte. Insgesamt 
+konnten 109 Feuerwehren erreicht werden [Anhang A]. 
+Bezugnehmend auf die beteiligten Feuerwehren, kann ein Erreichungsgrad von ca. 
+43 % dargestellt werden. Es ist durchaus möglich, dass von den Feuerwehren die nicht 
+erreicht werden konnten, weitere Modelle genutzt werden. Diese werden aber keine 
+substanziellen Abweichungen aufzeigen und den im Folgenden erläuterten Modellen 
+vom Grundschema her entsprechen. 
+Für den Erhalt einer fundierten Datenbasis, auf die sich die Aussagen und 
+Bewertungen in dieser Arbeit stützen, wurden, zum Zweck der Verifizierung und 
+Vertiefung der gewonnen Erkenntnisse, diverse Experteninterviews geführt. Hierzu 
+wurden zum einen Personen ausgewählt, die angesichts ihres Verbandsvorsitzes oder 
+ihrer Amtsleitertätigkeit auf gebündeltes und umfangreiches Wissen zurückgreifen 
+können und zum anderen Personen, die in der Vergangenheit besondere Erfahrungen 
+mit Modellwechseln gemacht haben und täglich mit der Dienstplangestaltung 
+beauftragt sind. Ferner wurden gezielt Feuerwehren untersucht, bei denen eher selten 
+genutzte Modelle zum Einsatz kommen. 
+Im Vorfeld der Interviews wurde den Interviewpartnern auf Wunsch ein 
+Gesprächsleitfaden zur Vorbereitung auf das Thema zur Verfügung gestellt. Die 
+
+Einleitung 
+ 
+ 
+3 
+wesentlichen Kontaktpartner werden in dieser Arbeit in einer tabellarischen 
+Zusammenfassung dargestellt [Anhang B]. 
+Allen kontaktierten Personen, Interviewpartnern und Bearbeitern des Online-
+Fragebogens ist Diskretion bezüglich ihrer Aussagen im Zusammenhang mit ihrer 
+Person, bzw. ihrer Feuerwehr zugesichert worden. Insofern können die Fragebögen 
+sowie die Protokolle zu den Experteninterviews nicht mit dieser Arbeit veröffentlicht 
+werden. Alle Auswertungen und Protokolle liegen dem Verfasser vor. 
+1.3 Abgrenzung des Themas 
+Bereits zu Beginn der Recherchen hat sich gezeigt, dass sich im Zusammenhang mit 
+der Gestaltung von Dienstplanmodellen, verschiedene Konflikte ergeben, die 
+regelmäßig 
+bei den 
+Dienststellen 
+in 
+ihre 
+Überlegungen, Planungen 
+und 
+Entscheidungen mit einfließen. Innerhalb der geführten Gespräche war insbesondere 
+die Thematik „24-Stundendienst“ sehr prominent. 
+Daher hat sich der Verfasser bewusst dazu entschieden, die gewonnenen 
+Erkenntnisse zu den Grundproblematiken des 24-Stundendienstes in ausführlicher 
+Form in einem eigenen Abschnitt unter Punkt 4 darzustellen. Anlässlich des 
+vorgegebenen Umfangs dieser Arbeit kann allerdings keine vertiefende Betrachtung 
+der einzelnen Aspekte vorgenommen werden. 
+Zu den Kernaussagen zur Aufgabenstellung ergibt sich folglich die Betrachtung der 
+Dienstplanmodelle im Einsatzdienst für den Bereich Brandschutz. Die dort 
+beschriebenen Schichtmodelle kommen natürlich auch für den Bereich Rettungsdienst 
+zur Anwendung, dem stehen aber häufig die arbeitszeitrechtlichen Unterschiede 
+zwischen 
+Angestellten 
+und 
+Beamten, 
+sowie 
+die 
+arbeitsschutzrechtlichen 
+Rahmenbedingungen, aufgrund der meist erhöhten Belastung im Rettungsdienst, 
+entgegen. 
+Auch für den Bereich der Leitstellen werden häufig die gleichen Modelle gewählt wie 
+für den Brandschutz. Aber hier kann aufgrund des eingegrenzten Umfangs dieser 
+Facharbeit, vornehmlich zu den Besonderheiten hinsichtlich der Arbeitszeiten bzw. 
+Sitzzeiten von Leitstellendisponenten, keine gesonderte Bewertung stattfinden. 
+1.4 Gesetzliche Grundlagen 
+EU-Arbeitszeitrichtlinie (2003/88/EG) 
+Um Gesundheit und Sicherheit der Arbeitnehmer und Arbeitnehmerinnen zu schützen, 
+müssen Arbeitszeitregelungen EU-weit geltenden Standards genügen. 
+Die EU-Arbeitszeitrichtlinie (2003/88/EG) schreibt den Mitgliedstaaten vor, allen 
+Arbeitnehmerinnen und Arbeitnehmern folgende Rechte zu gewährleisten: 
+ 
+ 
+
+Einleitung 
+ 
+ 
+4 
+- 
+Begrenzung der wöchentlichen Arbeitszeit 
+- 
+Ruhepausen 
+- 
+tägliche Ruhezeit 
+- 
+wöchentliche Ruhezeit 
+- 
+bezahlten Jahresurlaub 
+- 
+besondere Schutzmaßnahmen für Nachtarbeit 
+- 
+Ausnahmeregelungen für bestimmte Kategorien von Arbeitnehmern oder 
+bestimmte Wirtschaftszweige 
+- 
+Ausnahmeregelungen für einzelne Arbeitnehmer 
+Diese Standards sind für Angestellte im Arbeitszeitgesetz (ArbZG) und für Beamte in 
+den jeweiligen Arbeitszeitverordnungen des Bundes und der Bundesländer umgesetzt 
+worden. 
+Auf der Internetseite der Europäischen Kommission ist darüber hinaus eine 
+interessante „Mitteilung zu Auslegungsfragen über bestimmte Aspekte der 
+Arbeitszeitgestaltung – rechtliche Orientierungshilfe“ zu finden. Diese berücksichtigt 
+bei ihren Erläuterungen die Rechtsprechungen des Gerichtshofes der Europäischen 
+Union und bietet durch diese Konkretisierung wichtige Hinweise, die bei der Gestaltung 
+von Dienstplanmodellen mit einfließen sollten [3]. 
+Arbeitsschutzgesetz (ArbSchG) 
+Das Gesetz dient dazu, Sicherheit und Gesundheitsschutz der Beschäftigten bei der 
+Arbeit, durch Maßnahmen des Arbeitsschutzes, zu sichern und zu verbessern. 
+Es gilt unmittelbar auch für die Beamten und lässt konkrete Rückschlüsse, im Umgang 
+mit der arbeitszeitrechtlichen Beurteilung von Schichtmodellen, zu. Diesbezüglich 
+beschreibt es die Grundpflichten der Arbeitgeber bzw. Dienstherren, insbesondere in 
+Bezug auf die Erstellung von Gefährdungsbeurteilungen (§§ 5 und 6). Diese können 
+wiederum Aufschluss darüber geben, ob das Verhältnis von Arbeitsbelastung und 
+Schichtlänge (z. B. 12- oder 24-Stundendienst) dem Arbeits- und Gesundheitsschutz 
+entsprechen [4]. 
+Arbeitszeitverordnungen 
+Die Arbeitszeitverordnungen regeln in der Bundesrepublik Deutschland unter anderem 
+die wöchentliche Arbeitszeit der Beamten. Für die Feuerwehren gelten die 
+Arbeitszeitverordnung des entsprechenden Bundeslandes und/oder die jeweiligen auf 
+Landesebene eingeführten speziellen Arbeitszeitverordnungen für Beamte des 
+feuerwehrtechnischen Dienstes. Für Nordrhein-Westfalen sind dies exemplarisch die 
+Verordnung über die Arbeitszeit der Beamtinnen und Beamten im Lande Nordrhein-
+Westfalen (Arbeitszeitverordnung - AZVO vom 04.07.2006) und die Verordnung über 
+die Arbeitszeit der Beamtinnen und Beamten des feuerwehrtechnischen Dienstes im 
+Lande Nordrhein-Westfalen (Arbeitszeitverordnung Feuerwehr – AZVO Feu vom 
+01.09.2006). 
+
+Übersicht und Bewertung 
+ 
+ 
+5 
+2 Übersicht und Bewertung 
+2.1 Übersicht der analysierten Modelle 
+Grundsätzlich konnten, wie in unten aufgeführter Tabelle ersichtlich, zunächst drei 
+Hauptgruppen an Dienstplanmodellen bei deutschen Feuerwehren im Hauptamt 
+identifiziert werden. 
+ 
+Tabelle 1: Prozentuale Aufteilung der Dienstplanmodelle nach Hauptgruppen 
+Hauptgruppen 
+Anzahl 
+%-Anteil untersuchte 
+Feuerwehren 
+Modelle im 24-Stundendienst 
+101 
+92,66% 
+Modelle im Mischdienst 
+7 
+6,42% 
+Modell im 12-Stundendienst 
+1 
+0,92% 
+ 
+109 
+100% 
+ 
+Um herauszufinden, welche Dienstplanmodelle konkret zur Anwendung kommen, 
+waren die Parameter Schichtlänge, Anzahl der Wachabteilungen bzw. Dienstgruppen 
+und der zugrunde liegende Schichtrhythmus von Interesse. 
+Im Anhang werden die erkannten Modelle zusammenfassend dargestellt. Die dort 
+abgebildeten Tabellen vermitteln auch einen Eindruck über die Häufigkeit ihrer 
+Verwendung [Anhang C]. 
+2.2 Kombinierte Systeme 
+Ein weiterer Aspekt, der Einfluss auf die zur Anwendung kommenden Modelle hat, ist 
+die Tagesverfügbarkeit der Freiwilligen Feuerwehren. Sie ist bekanntermaßen nicht 
+überall optimal. Diesbezüglich wurde im Zuge der erfolgten Untersuchungen 
+erkennbar, dass ein reiner 24-Stundendienst sich als nicht immer zweckmäßig erweist, 
+um gezielt personelle Nacht- und Wochenendabsenkungen zu realisieren. Hiervon 
+sind überwiegend Feuerwehren mit hauptamtlichen Kräften betroffen. Einige Wehren 
+nutzen daher kombinierte Systeme. Hierbei wird beschrieben, dass im Bereich 
+Brandschutz grundsätzlich auf ein klassisches Modell im 24-Stundendienst 
+zurückgegriffen wird. Zur zeitweisen Funktionsstärkung werden darüber hinaus 
+Tagesdienstfunktionen eingerichtet, bei denen die Mitarbeiter in der Regel zwischen 
+acht und zehn Stunden eingesetzt werden. Zum Teil werden Mitarbeiter eingebunden, 
+die ausschließlich diese Tagesdienstfunktionen besetzten. Andere bedienen diese 
+Tagesdienstfunktionen und die Funktionen innerhalb des 24-Stundendienstes mithilfe 
+des gleichen Personalpools. Da es sich hier nicht um eigenständige Dienstplanmodelle 
+mit gesonderten Eigenschaften handelt, sondern klassische 24-Stundendienst 
+
+Übersicht und Bewertung 
+ 
+ 
+6 
+Systeme im Wechsel mit Tagesdiensten kombiniert werden, wird im weiteren Verlauf 
+nur eine Einzelbetrachtung der genutzten Modelle erfolgen. Gesondert werden 
+hingegen Mischdienste erläutert und bewertet, bei denen verschiedene Schichtlängen 
+innerhalb eines Dienstplanmodells zur Anwendung kommen. 
+2.3 Bewertungsmatrix 
+Um die nachfolgend im einzelnen dargestellten Dienstplanmodelle zu bewerten, sollte 
+ein einfaches und transparentes System genutzt werden, welches anschaulich die 
+unterschiedlichen Vor- und Nachteile herausstellt. 
+Bei den Recherchearbeiten wurde Kontakt zu Dienststellen aufgenommen, die in der 
+Vergangenheit Modellwechsel vollzogen haben. Unter anderem wurde untersucht, 
+nach welchen Schemata im Einzelnen dabei vorgegangen wurde. Bei der Feuerwehr 
+Hamburg konnte hierzu ein langwieriger Prozess beobachtet werden. Dort wurde im 
+Rahmen einer umfangreichen Projektarbeit ein Wechselvorgang eingeleitet, welcher 
+im Jahr 2013 zu der Einführung eines neuen Dienstplanmodells führte. Nach 
+persönlichen Kontaktaufnahmen hat sich herausgestellt, dass sich das damals 
+angewendete Bewertungsverfahren als sehr zweckmäßig erwiesen hat. Daher hat sich 
+der Verfasser entschieden, die in dieser Arbeit genutzten Bewertungsschemata, in 
+abgewandelter Form, an die bewährten Praxiserfahrungen der Feuerwehr Hamburg 
+anzulehnen [5]. 
+Die Bewertung erfolgt über drei Hauptkategorien, denen entsprechende Kriterien 
+zugeordnet worden sind. Jedes Kriterium wird über eine Fünf-Punkteskala bewertet. 
+Somit entsteht die Möglichkeit, einen schnellen Überblick über die Stärken und 
+Schwächen eines Modells zu gewinnen. 
+Hauptkategorien: 
+1. Dienstbetrieb/Personalplanung 
+2. Mitarbeiter 
+3. Arbeits- u. Gesundheitsschutz 
+Die zugrunde liegenden Kriterien wurden so gewählt, dass sich die vorrangigen Ziele, 
+die mit der Dienstplanung erreicht werden sollen, in der Bewertung wiederfinden. 
+Hierzu gehören die Sicherstellung der Funktionsbesetzung ohne Unter- und 
+Überbesetzungen, die Mitarbeiterzufriedenheit sowie ein ausgewogenes Verhältnis 
+zwischen Arbeitsbelastung und Regeneration. 
+Alle im weiteren Verlauf erläuterten Dienstplanmodelle wurden gegenüberstellend, 
+unter Zuhilfenahme der beschriebenen Matrix, bewertet. Die entsprechenden 
+Bewertungsübersichten sind dem Anhang zu entnehmen [Anhang D]. 
+
+Grundsätze zur Dienstplangestaltung 
+ 
+ 
+7 
+3 Grundsätze zur Dienstplangestaltung 
+3.1 Einflussfaktoren auf die Dienstplanung 
+Es gibt verschiedene Einflussfaktoren, die eine reibungslose Dienstplanung 
+maßgeblich mit beeinflussen. Hierzu gehören: 
+- 
+Eine stimmige Personalfaktorberechnung und damit zusammenhängend 
+ausreichend Stellen zur Funktionsbesetzung 
+- 
+Die ermittelten Stellen müssen besetzt sein 
+- 
+Die Dienstplanungssoftware muss zu dem gewählten Dienstplanmodell passen 
+und anwenderfreundlich zu bedienen sein 
+- 
+Die Betrachtung der Arbeitszeit sollte über Jahresarbeitszeitkonten erfolgen 
+- 
+Funktionale Regelungen zur Kompensation von kurzfristigen Personalausfällen 
+sollten vorhanden sein (sog. Verfügerregelung) 
+Wenn diese Faktoren nicht angemessen berücksichtigt sind, kann ein und dasselbe 
+Dienstplanmodell unterschiedlich gut funktionieren und von mehreren Anwendern 
+divergiert bewertet werden. Daher erfolgen die Bewertungen der Modelle in dieser 
+Arbeit mittels einer Kombination aus der erfolgten Datenerhebung und nach ihren 
+grundsätzlichen Wesenszügen. 
+In Bezug auf vorhandene Regelungen zur Kompensation kurzfristiger Personalausfälle 
+ergaben die Umfragen, dass von den 109 untersuchten Feuerwehren, 79 Standorte 
+vordefinierte Verfügerlösungen1 nutzen. Erfahrungsgemäß werden zu diesem Zweck 
+Mitarbeitergruppen in Rufbereitschaft gebildet. Lediglich 30 Wehren setzen auf die 
+Freiwilligkeit des Personals, um kurzfristige Ausfälle auszugleichen. 
+3.2 Schichtlänge 
+Die Auswahlmöglichkeiten, bezogen auf die Schichtlänge von Dienstplanmodellen, 
+können durch standortbezogene Gegebenheiten bereits eingeschränkt sein. Zeigt die 
+Gefährdungsbeurteilung zu hohe Arbeitsbelastungen auf, schließen sich 24-
+Stundendienste bereits im Vorfeld aus. Aufgrund der zu verzeichnenden 
+Einsatzfrequenzen ist dies im Brandschutz eher seltener der Fall als im 
+Rettungsdienst. Das diese Ausnahmen bestehen, zeigt sich beispielsweise in Berlin, 
+wo die Brandschutzeinheiten mit einer Schichtlänge von zwölf Stunden ihren Dienst 
+absolvieren. Das Ergebnis der Datenerhebung stellt dar, dass von den untersuchten 
+Feuerwehren 68 den Rettungsdienst ausschließlich oder teilweise mit Kräften der 
+Berufsfeuerwehr bzw. mit hauptamtlichen Feuerwehrkräften besetzen. Hierunter 
+geben zehn Wehren an, Beamte in einem 12-Stundendienst einzusetzen. Weitere acht 
+führen 
+nach 
+zwölf 
+Stunden 
+einen 
+internen 
+Funktionswechsel 
+zwischen 
+Rettungsdienst- und Brandschutzfunktionen durch. 
+ 
+ 
+1 Verfügerlösungen sind Regelungen, bei denen bestimmte Personengruppen vorgeplant zur Verfügung 
+stehen, um kurzfristige Personalausfälle, meist innerhalb von weniger als 24 Stunden, zu kompensieren. 
+
+Grundsätze zur Dienstplangestaltung 
+ 
+ 
+8 
+3.3 Wachabteilungsstruktur 
+Die zur Anwendung kommende Wachabteilungsstruktur ist ein wesentlicher Faktor, 
+der über die Flexibilität der Dienstplangestaltung entscheidet. Grundsätzlich gilt, je 
+weniger Wachabteilungen, desto flexibler gestalten sich die Möglichkeiten zur 
+Diensteinteilung der Mitarbeiter. Prinzipiell steigen hierdurch auch die Perspektiven 
+der Mitarbeiter, ihren Dienstplan und somit ihre freien Tage entsprechend 
+mitzugestalten. Damit einhergehend entstehen allerdings auch unterschiedliche 
+Dienstrhythmen unter den Kollegen einer Wachabteilung, sodass im Umkehrschluss 
+die Wachabteilungstreue abnimmt. Gleichzeitig steigt der Aufwand für die 
+Dienstplanung. Diese Regel gilt für Modelle mit vier Wachabteilungen oder mehrerer 
+Dienstgruppen 
+nur 
+eingeschränkt, 
+da 
+hier 
+mit 
+einer 
+Durchlässigkeit 
+der 
+unterschiedlichen Mitarbeitergruppen gearbeitet wird, die wiederum eine Flexibilität 
+erzeugt. Nähere Erläuterungen hierzu finden sich unter Punkt 5.1. 
+Zur Verdeutlichung der Unterschiede soll ein Vergleich zwischen den Systemen mit 
+drei und zwei Wachabteilungen dienen. Ein Dienstplanmodell basierend auf drei 
+Wachabteilungen führt zu einer vergleichsweise geringen Personalverfügbarkeit pro 
+Tag. Durch die Dreiteilung des Personalpools und der langfristigen fixen Verplanung 
+von Dienstschichten und dienstfreien Tagen, werden bereits im Vorfeld die 
+Möglichkeiten einer flexiblen Dienstplanung eingeschränkt. Berücksichtigt man 
+darüber 
+hinaus 
+noch 
+die 
+Urlaubsquoten 
+und 
+Fehlzeiten 
+für 
+Aus- 
+und 
+Fortbildungsmaßnahmen, verbleibt nur eine geringe Personalreserve, die zunächst 
+nur auf freiwilliger Basis zur Vermeidung von Funktionsschwankungen an den 
+dienstfreien Tagen eingesetzt werden kann. Bei diesen starren Modellen werden für 
+die Mitarbeiter bereits innerhalb des Dienstplans 243 dienstfreie Tage vorgeplant. 
+Dementsprechend verbleiben noch 122 Tage für zu leistende Dienstschichten, die im 
+Vorfeld feststehen. Eine flexible Verschiebung der Dienste schließt sich im Grunde für 
+die Dienststelle sowie für den Mitarbeiter aus. Folglich sind die Möglichkeiten zur 
+Kompensation von Ausfällen begrenzt. Weiterhin können anlässlich unterschiedlicher 
+Kranken- 
+oder 
+Fortbildungsquoten 
+sehr 
+differenzierte 
+Gesamtsalden 
+der 
+Jahresarbeitszeitkonten zwischen den Wachabteilungen entstehen. Um diese im 
+Jahresverlauf zu regulieren, werden zwingend Verschiebungen der Mitarbeiter durch 
+Wachabteilungswechsel notwendig [6] [7]. 
+Bei Systemen mit zwei Wachabteilungen besteht zunächst ein gleichbleibender 
+Rhythmus von 24 Stunden Dienst und 24 Stunden frei. Dadurch reduzieren sich die 
+fest vorgeplanten freien Tage auf 182,5 und infolge dessen entsteht eine deutlich 
+höhere Flexibilität für die mittelfristige Dienst- und Freizeitplanung. 
+In der Praxis hat sich gezeigt, dass Modelle mit zwei Wachabteilungen für die 
+Dienstplanung und zur Reduzierung von Schwankungen bei der Funktionsbesetzung 
+durchaus gewinnbringend sind. Parallel zur Urlaubs- und Lehrgangsplanung lassen 
+sich gerade die mittelfristigen Ausfälle sowie die Verteilung von Ausgleichsschichten 
+der Mitarbeiter perspektivischer vorplanen. Zur Kompensation von unplanbaren und 
+kurzfristigen Ausfällen sind darüber hinaus für alle Systeme weitere Verfügerlösungen 
+nötig. 
+Diesbezüglich 
+ist 
+die 
+höhere 
+tägliche 
+Personalverfügbarkeit 
+bei  
+2-Wachabteilungssystemen hilfreicher, um solche Lösungen zu gestalten. 
+
+Grundsätze zur Dienstplangestaltung 
+ 
+ 
+9 
+Jedoch ist die gewonnene Flexibilität bei den Mitarbeitern nicht immer beliebt. In 
+einigen Fällen wird auch berichtet, dass durchgeführte Wechsel von drei auf zwei 
+Wachabteilungen zu Unzufriedenheit geführt haben, da die langfristige Planbarkeit als 
+angenehmer 
+empfunden 
+wurde. 
+Rational 
+gesehen 
+kann 
+man 
+die  
+2-Wachabteilungsmodelle als vorteilhaft für die gleichförmige Funktionsbesetzung 
+einer 
+Dienststelle 
+und 
+die 
+3-Wachabteilungsmodelle 
+gemeinhin 
+als 
+die 
+mitarbeiterfreundlichere Variante bezeichnen. 
+In der unten aufgeführten Grafik wird die Thematik der Tagesverfügbarkeit nochmals 
+visualisiert. 
+Innerhalb 
+dieses 
+Abschnittes 
+soll 
+die 
+Bedeutung 
+der 
+Wachabteilungsstruktur herausgestellt werden. Weitere Vor- und Nachteile werden im 
+weiteren Verlauf unter den Einzelerläuterungen zu den Dienstplanmodellen 
+beschrieben. 
+ 
+18 MA
+18 MA
+18 MA
+18 MA
+18 MA
+26 MA
+26 MA
+26 MA
+39 MA
+39 MA
+13 MA
+3 MA
+Ausbildung
+noch verfügbar
+3 MA
+3 MA
+2 MA
+5 MA
+5 MA
+3 MA
+3 MA
+Funktionsbesetzung
+Urlaub, SU, AzV
+13 MA
+2 MA
+2 MA
+3 MA
+3 MA
+3 MA
+26 Mitarbeiter je Wachabteilung
+3 Wachabteilungen
+      2 Wachabteilungen
+                 39 Mitarbeiter je Wachabteilung
+Beispiel: 78 Mitarbeiter
+Abbildung 2: Vergleich der Personalverfügbarkeit zwischen einem 3-Wachabteilungsmodell und einem 
+2-Wachabteilungsmodell (Quelle: Ausbildungsunterlage der Fa. LUELF & RINKE Sicherheitsberatung 
+GmbH) 
+
+Grundsätze zur Dienstplangestaltung 
+ 
+ 
+10 
+3.4 Wochenarbeitszeit 
+Die Rückmeldungen zur Umfrage zeigen, dass ein Großteil der Dienststellen die 48 
+Stundenwoche bei der Dienstplanung und der Berechnung der Jahresarbeitszeit 
+berücksichtigen. Einige Wehren nutzen aber noch die Möglichkeiten von Opt-out2, 
+womit Mitarbeiter noch bis zu 56 Stunden in der Woche arbeiten. 
+Das Ergebnis der Datenerhebung zur Frage, ob ausreichend Personal für die 
+Umsetzung der 48 Stundenwoche vorhanden ist, zeigt, dass 39 % der beteiligten 
+Feuerwehren angeben, noch nicht über ausreichend Personal zu verfügen. 
+Bei der Darstellung und den Ausführungen zu den analysierten Dienstplanmodellen 
+wird nachfolgend die 48 Stundenwoche zugrunde gelegt. Dies ist nötig, um den 
+Zusammenhang zwischen den Schichtrhythmen und den gegebenenfalls noch 
+zusätzlich zu erbringenden bzw. zu vergütenden Schichten aufzuzeigen. 
+Vereinfacht dargestellt, sind bei den 24-Stundendiensten pro Woche zwei und pro 
+Monat etwa 8,3 Dienste zu leisten. Aufgrund der Übersichtlichkeit und dem 
+vorgegebenen Umfang der Arbeit, werden keine exakten Arbeitszeitberechnungen zu 
+den Sollarbeitszeiten dargelegt. Darüber hinaus leisten diese, zur weiteren Erläuterung 
+der Funktionsweisen von Dienstplanmodellen, auch keinen nennenswerten Beitrag. 
+3.5 Arbeitswissenschaftliche Grundlagen 
+Um den Gesundheitsschutz zu gewährleisten, sind bei der Organisation von 
+Dienstplanmodellen und insbesondere bei der konkreten Gestaltung des Dienstplans 
+des einzelnen Mitarbeiters, arbeitswissenschaftlichen Grundlagen zu berücksichtigen. 
+Dazu dienen in der Feuerwehrpraxis beispielsweise Regeln, die eine Häufung von 
+kurzen Wechseln mit geringen Ruhephasen zwischen den Schichten verhindern oder 
+die Überschreitung der höchstzulässigen Wochenarbeitszeit begrenzen. 
+Die Deutsche Gesetzliche Unfallversicherung hat hierzu eigens eine DGUV 
+Information herausgegeben (DGUV 206-024, Feb. 2018) [8]. Darüber hinaus stellt die 
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) auf Ihrer Internetseite 
+umfangreiche Informationen zu diesem Thema bereit [9]. Die dort aufgeführten 
+Handlungsempfehlungen für die gesunde Organisation von Schichtarbeit sind den 
+Anlagen als Orientierungshilfe beigefügt [Anhang E]. 
+ 
+2 Opt-out ist ein Begriff aus dem Arbeitsrecht und beschreibt die Möglichkeit, dass Arbeitgeber und -
+nehmer individualvertraglich eine höhere Wochenarbeitszeit als die im Arbeitszeitgesetz (ArbZG) bzw. 
+in den Arbeitszeitverordnungen (AZVO) grundsätzlich vorgeschriebenen 48 Stunden vereinbaren. 
+
+Der 24-Stundendienst 
+ 
+ 
+11 
+4 Der 24-Stundendienst 
+4.1 Wettbewerbsfaktor 
+Der 24-Stundendienst ist nach wie vor das meistgenutzte Grundmodell der 
+Dienstplangestaltung innerhalb des Einsatzdienstes deutscher Feuerwehren im 
+Hauptamt für den Bereich Brandschutz. Die Datenauswertung ergibt eine Quote in 
+Höhe von 92,7 %. Ausnahmen bilden nur wenige Feuerwehren, die einen  
+12-Stundendienst oder Mischdienstmodelle3 nutzen. 
+Es kann sogar festgestellt werden, dass die Quote tendenziell in den letzten Jahren 
+gestiegen ist. Einige Feuerwehren haben sich zu einer Rückkehr zum 24-
+Stundendienst entschieden. 13 Wehren geben einen vollzogenen Modellwechsel an. 
+Fünf wechselten aus einem 12-Stundendienst, und weitere acht aus einem 
+Mischdienstmodell, zurück auf den 24-Stundendienst. Diese Entwicklung scheint 
+verwunderlich, betrachtet man die Unsicherheiten und die daraus resultierenden 
+Diskussionen der vergangenen Jahre, die sich aus den Vorgaben der EU-
+Arbeitszeitrichtlinie ergeben haben. 
+Die Antworten darauf, warum dies so ist, konnten die vom Verfasser durchgeführten 
+Studien schnell liefern. Die Ursachen sind fast ausschließlich innerhalb der Kategorie 
+Mitarbeiterzufriedenheit zu finden. Feuerwehren, die in der Vergangenheit andere 
+Grundmodelle nutzten, sahen sich aufgrund der Konkurrenzsituation zu anderen 
+Wehren und den damit verbundenen Abwanderungen von Personal gezwungen, zum 
+24-Stundendienst zurückzukehren. Andere Dienststellen handelten infolge einer 
+spürbaren Unzufriedenheit der Mitarbeiter. Dieses Ergebnis wird auch durch eine 
+aktuelle Aussage unterstrichen, welche aus einem öffentlichen personalstrategischen 
+Papier der Feuerwehr Frankfurt a. M. vom 07.10.2019 stammt. „Die bis 2016 noch zu 
+verzeichnende hohe Abwanderungsquote von Einsatzkräften konnte durch die (…) 
+beschlossene Strukturverbesserung im Einsatzdienst und durch die Einführung des 
+24-Stunden Dienstplanmodells deutlich reduziert werden.“ [10] Die Feuerwehr 
+Frankfurt wendete zuvor ein Mischdienstmodell an. 
+Darüber hinaus stehen auch Feuerwehren, bei denen Angestellte im Rettungsdienst 
+eingesetzt werden unter Druck. Die arbeitszeitrechtlichen Rahmenbedingungen 
+lassen oft nur maximal 12-Stundenschichten zu. Die Angestellten wollen genau wie 
+ihre verbeamteten Kollegen im 24-Stundendienst ihren Dienst versehen und fühlen 
+sich benachteiligt. Das stellt die ein oder andere Kommune vor Probleme [11] [12]. 
+Rund 80 % aller untersuchten Feuerwehren geben an, dass bei der Auswahl des 
+Dienstplanmodells die Wettbewerbsfähigkeit bzw. die Konkurrenzfähigkeit zu anderen 
+Wehren eine erhebliche oder sogar eine entscheidende Rolle spielt. Weitere 13 % 
+stimmen dem noch mit Einschränkungen zu. Selbst die wenigen Feuerwehren, die 
+zurzeit noch andere Modelle nutzen, beschreiben einen zunehmenden Druck aufgrund 
+ 
+3 Eine Erläuterung zu den hier genannten Modellen erfolgt in den Abschnitten 5 bis 6. 
+
+Der 24-Stundendienst 
+ 
+ 
+12 
+der vorgetragenen Änderungswünsche ihrer Mitarbeiter. Bestätigung finden diese 
+Aussagen durch Berichte von Feuerwehren, die einen vermehrten Zulauf von Personal 
+der Nachbarfeuerwehr verzeichnen, da dort eine Verkürzung der Schichtlängen im 
+Rettungsdienst stattgefunden hat. 
+Infolge dieser Zwänge entsteht natürlich die Gefahr, dass für den Dienstbetrieb 
+zuträglichere Modelle nicht gewählt werden oder Modelle toleriert werden, die den 
+Grenzen eines nicht mehr ausreichenden Arbeitsschutzes sehr nahekommen. 
+Letzteres gilt natürlich besonders für den Rettungsdienstbereich. 
+4.2 Arbeitszeit 
+Durch den beschränkten Zugang zu den Mitarbeitern, aufgrund der durchschnittlichen 
+Anwesenheit von nur zwei Tagen pro Woche, wurden durch die Dienststellen hiermit 
+in Verbindung stehende Schwierigkeiten beschrieben. Dies konnte während der 
+Recherchen in vielen Gesprächen immer wieder festgestellt werden. Die 
+durchgeführte Online-Befragung zeigte, dass ca. 28 % der untersuchten Feuerwehren, 
+eine spürbaren „Entfremdung“ von Mitarbeitern durch geringe Anwesenheit feststellen. 
+Weitere 28 % stimmen dem noch eingeschränkt zu. Durch diesen Umstand ist oftmals 
+nur eine eingeschränkte Kommunikation zwischen Vorgesetzten und Mitarbeitern 
+möglich, die aber notwendig ist, um Führungsaufgaben wahrzunehmen. Auf diese 
+Weise ist es nur schwer möglich, die Mitarbeiter zu fördern, Ziele zu vereinbaren und 
+zu planen. Auch die Mitarbeiter fühlen sich oft dadurch allein gelassen und entfernen 
+sich aufgrund fehlender Einbindung innerlich von ihrer Dienststelle [13]. 
+Eine Untersuchung aus dem Jahr 2008, die im Auftrag der Vereinigung zur Förderung 
+des deutschen Brandschutzes e. V. (vfdb) durchgeführt wurde, hatte zum Ziel, die zu 
+erwartenden Auswirkungen der Veränderung der Arbeitszeitgestaltung aus den EU-
+Vorgaben bei den Berufsfeuerwehren in einem systemischen Kontext darzustellen. 
+Der entsprechende Forschungsbericht traf damals schon auf die gleiche 
+Argumentation der Feuerwehren. Unter Betrachtung der in dem Bericht dargestellten 
+Nachteile, die durch eine Schichtverkürzung für die Mitarbeiter entstehen, kam man zu 
+dem Rückschluss, dass sich aus dieser Argumentation eine Änderungsnotwendigkeit 
+zur Verkürzung der Schichtlänge auf zwölf Stunden nicht ableiten lässt. Hier hat man 
+entgegengehalten, dass es gute Möglichkeiten gäbe, die Kommunikation zu 
+verbessern, ohne die Nachteile der Verkürzung des Schichtdienstes in Kauf nehmen 
+zu müssen [14]. 
+Ferner wurde von den vom Verfasser untersuchten Feuerwehren beschrieben, dass 
+die Anforderungen an die Fortbildung der Einsatzkräfte, auch im Hinblick auf ihre 
+Multifunktionalität und 
+den 
+Anforderungen 
+an 
+die 
+komplexer gewordenen 
+Arbeitsabläufe innerhalb der unterschiedlichen Fachabteilungen in den vergangenen 
+Jahren, immer weiter gestiegen sind. Aufeinander aufbauende und qualitativ 
+hochwertige Fortbildungseinheiten sind mit einem eingeschränkten Zugriff auf die 
+Einsatzkräfte nur schwer plan- und umsetzbar. Das Gleiche gilt für konstante und 
+produktive Arbeitsabläufe im innerdienstlichen Bereich. Arbeiten deren Erledigung 
+mehrere Tage oder ein regelmäßiges Controlling erfordern, sind mit Personal aus dem 
+24-Stundendienst 
+nur 
+bedingt 
+durchführbar. 
+Der 
+24-Stundendienst 
+ist 
+
+Der 24-Stundendienst 
+ 
+ 
+13 
+arbeitsschutzrechtlich nur vertretbar, wenn Bereitschaftszeiten in einem nicht 
+unerheblichen Umfang vorliegen [4]. Das führt dazu, dass innerhalb einer 
+Dienstschicht, neben der Einsatztätigkeit, nur geringe Zeiträume für die dienstliche 
+Inanspruchnahme 
+der 
+Mitarbeiter 
+zur Verfügung 
+stehen. 
+Eine 
+schwierige 
+Darstellbarkeit von Arbeitsdiensten und der Aus- und Fortbildung wird durch 46 % der 
+Feuerwehren bestätigt. Weitere 31 % bestätigen dies noch mit Einschränkungen. 
+Dieser Umstand betrifft kleinere Feuerwehren oft stärker als größere Wehren. Da hier 
+in der Regel keine breit aufgestellten Fachbereiche im Hintergrund, die anfallenden 
+administrativen 
+Erfordernisse 
+einer 
+Feuerwehr 
+abwickeln. 
+Erfahrungsgemäß 
+verstehen 
+sich 
+die 
+Feuerwehren 
+mit 
+hauptamtlichen 
+Kräften 
+auch 
+als 
+Servicedienstleister für die Freiwilligen Feuerwehren in den Bereichen Beschaffung, 
+Wartung, Instandhaltung, Einsatzvorbereitung und Aus- und Fortbildung. Mit Blick auf 
+die Fülle der Aufgaben, stoßen viele Feuerwehren schnell an ihre Grenzen. Diese 
+Grundproblematik wird allerdings auch von großen Berufsfeuerwehren beschrieben 
+und als hemmend für den Dienstbetrieb empfunden. Sie ist dort aber gemeinhin nicht 
+ganz so essenziell. Gleichwohl müssen der fehlende zeitliche Zugriff sowie die 
+knappen Möglichkeiten der Inanspruchnahme von allen gleichermaßen kompensiert 
+werden. 
+Infolge dessen gewinnen festbesetzte Stellen im Tagesdienst immer mehr an 
+Bedeutung, um einen regelhaften Dienstbetrieb zu gewährleisten. Hierdurch entsteht 
+bei den Dienststellen ein Stellenmehrbedarf. Weitere Kompensation erfolgt über den 
+Einsatz von Mitarbeitern des Einsatzdienstes in den Tagesdienst, um Arbeiten zu 
+realisieren, die aus den zuvor beschriebenen Gründen im Schichtbetrieb nicht 
+darstellbar sind oder um zu Fortbildungszwecken effektive zusammenhängende 
+Ausbildungsblöcke sicherzustellen. Dadurch fehlen die Mitarbeiter zur Besetzung der 
+Funktionsstellen und somit erhöhen sich im Umkehrschluss die Personalfaktoren. 
+Daraus wird erkennbar, dass sich ausgleichende Maßnahmen von fehlender 
+Arbeitszeit bzw. geringer innerdienstlicher Inanspruchnahme nicht nur organisatorisch, 
+sondern auch betriebswirtschaftlich auswirken. 
+4.3 Arbeitsschutz 
+Aus Sicht des Arbeitsschutzes können durchaus greifbarere Problematiken für den 
+Zeitraum von 24 Stunden entstehen. Kommt es innerhalb einer Schicht zu einer 
+erhöhten Belastung, kann selten flexibel reagiert werden und Personal vollständig 
+ausgetauscht 
+werden. 
+Laut 
+erfolgter 
+Online-Umfrage, 
+beschreiben 
+einige 
+Feuerwehren einen regelmäßigen internen Funktionstausch zwischen Rettungsdienst 
+und 
+Brandschutz 
+nach 
+zwölf 
+Stunden 
+innerhalb 
+ihres 
+Dienstplanmodells. 
+Innerdienstliche Wechsel zwischen einzelnen Funktionen, die augenscheinlich zu 
+einer Entlastung der Mitarbeiter führen sollen, können die Tatsache nicht aufhalten, 
+dass alleine aus physiologischen Gründen die Leistungsfähigkeit im Laufe einer 24-
+Stundenschicht erheblich sinkt. Somit muss in Kauf genommen werden, dass ein 
+übermüdeter Mitarbeiter seinen Dienst bis zum Schichtende absolviert und einem 
+höheren Unfallrisiko ausgesetzt ist [15]. Es drängt sich die Frage auf, ob dem 
+Hilferufenden nicht für alle zur Verfügung stehenden Funktionen der Feuerwehr, das 
+Recht auf eine hohe Leistungsfähigkeit zusteht [16]. Problematisch wird es, wenn sich 
+
+Der 24-Stundendienst 
+ 
+ 
+14 
+diese Gegebenheiten häufen. Bei einer rein sachlichen Betrachtung sollte in einem 
+solchen Fall überprüft werden, ob nicht ein Modell mit kürzeren Schichtwechseln zur 
+Anwendung kommen muss. Welche Schichtlänge letztlich gewählt wird oder gewählt 
+werden muss, kann nur durch eine fundierte Gefährdungsbeurteilung, unter 
+Berücksichtigung der tatsächlichen Arbeitsbelastung, auf Standortebene geklärt 
+werden. Hierzu sind alle Tätigkeiten in einem 24-Stundenzeitraum festzuhalten. 
+Repräsentativ ist ein Zeitraum von 3 Monaten [4]. Dies gilt im Übrigen für die Bereiche 
+Brandschutz, Rettungsdienst und Leitstelle gleichermaßen. Einige Feuerwehren 
+führen hierzu personengenaue Kontrollen der gesamten Arbeitsbelastung, inklusive 
+der Einsatzfrequenzen, durch. Für die tendenziell auslastungsgeprägten Bereiche der 
+Feuerwehr, wie den Rettungsdienst, wird aufgrund der erhöhten Arbeitsbelastung und 
+der damit einhergehenden Steigerung von Unfallgefahren, eine Verkürzung der 
+Schichtlängen durchaus als notwendig angesehen [14]. 
+Auf der einen Seite wird der 24-Stundendienst als gesundheitsschädlich und nicht EU-
+konform bezeichnet und auf der anderen Seite wird er von vielen Feuerwehren im 
+Brandschutz und Rettungsdienst wieder eingeführt. Die teils widersprüchlichen 
+Bestrebungen, auch in den gewerkschaftlichen Anstrengungen, unterstreichen die 
+bestehenden Unklarheiten nochmals deutlich [15] [17]. Mit dieser Problematik und den 
+teilweise paradoxen Beurteilungen, fühlen sich viele Feuerwehren allein gelassen. 
+Daraus resultierend besteht teilweise der Wunsch nach einheitlichen Standards für das 
+Feuerwehr- und Rettungsdienstwesen. Die Vorstellungen gehen über Vorgaben von 
+einheitlichen und klaren Handlungsempfehlungen im Umgang mit dem 24-
+Stundendienst in Bezug auf die arbeitszeitrechtlichen Merkmale, bis hin zu einem 
+einheitlichen Grundmodell für den Rettungsdienst, wie beispielsweise den 
+flächendeckenden 12-Stundendienst. Aus Sicht vieler Feuerwehren, würden solche 
+Standards den bestehenden Druck der Wettbewerbs- und Konkurrenzsituation 
+eindämmen, der zurzeit einen sehr hohen Einflussfaktor bei der Auswahl der 
+Dienstplanmodelle darstellt. 
+Ansätze für Versuche, im Bereich der Rettungsdienste einheitliche Regelungen 
+herbeizuführen, lassen sich aktuell in Nordrhein-Westfalen beobachten. Allerdings 
+nicht in Richtung des 12-Stundendienstes, sondern hin zum 24-Stundendienst [17].  
+„Das Ministerium für Arbeit, Gesundheit und Soziales Nordrhein-Westfalen hat in 2019 
+Gespräche mit den Sozialpartnern zu der Frage geführt, inwieweit auf der Grundlage 
+der kollektivrechtlichen Regelungen in diesem Bereich 24-Stunden-Schichten im 
+Rettungsdienst ermöglicht werden können. Hierzu sollte ein Ausgleich zwischen der 
+Sicherheit und dem Gesundheitsschutz der Beschäftigten sowie deren Interesse an 
+einer besseren Vereinbarkeit von Familie und Beruf einerseits und andererseits dem 
+Interesse der Rettungsdienste an der Personalbindung und –rekrutierung sowie der 
+Sicherheit der Patienten und der Verkehrssicherheit gefunden werden. Aus den 
+Gesprächen mit den Sozialpartnern und deren schriftlichen Rückmeldungen haben 
+sich komplexe Rechtsfragen ergeben, an deren rechtssicherer Lösung die 
+Fachabteilung derzeit arbeitet. Hierzu wurde rechtsgutachterliche Expertise in Auftrag 
+gegeben.“ [18] 
+
+Der 24-Stundendienst 
+ 
+ 
+15 
+Aus Sicht des Verfassers verdienen diese Thematiken zukünftig einer intensiveren 
+Betrachtung durch die Feuerwehren, um Möglichkeiten für Lösungsansätze oder 
+Handlungsempfehlungen auszuloten und diese auch mitzugestalten. 
+4.4 Mitarbeiterzufriedenheit 
+Insbesondere für die Mitarbeiter gibt es keinen beliebteren Dienst als die 24-
+Stundenschicht. Die Schnittstelle zwischen Familie und Beruf lässt sich attraktiv 
+darstellen. Mit der Anwesenheit von zwei Tagen in der Woche ist die höchstzulässige 
+wöchentliche Arbeitszeit von 48 Stunden erreicht. Die sich ergebende Work-Life-
+Balance wird als sehr positiv wahrgenommen. Bei 12-Stundendiensten bzw. 
+Mischdiensten fallen viele vollständig freie Tage weg und es kommt zu häufigeren 
+Schichtwechseln zwischen Tag- und Nachtarbeit. Daraus hervorgehend sind die 
+Erholungsphasen zwischen den einzelnen Diensten bei einem 24-Stundendienst 
+größtenteils immer gegeben. Die wenigen Schichtwechsel bedeuten auch wenige 
+Fahrten zur Arbeit und das wiederum führt zu weniger Kosten und mehr Freizeit. Im 
+Umkehrschluss bringt dies allerdings auch Vorteile für den Dienstbetrieb mit sich. 
+Durch die geringen Fahrten zur Dienststelle werden weitere Fahrstrecken in Kauf 
+genommen und das erweitert das Einzugsgebiet für potenzielle Mitarbeiter. Zugleich 
+werden Reibungsverluste von zahlreichen Schichtwechseln minimiert. 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+16 
+5 Dienstplanmodelle im 24-Stundendienst 
+5.1 Modelle mit vier Wachabteilungen 
+5.1.1 Allgemeine Eigenschaften 
+Vorwegnehmend muss festgestellt werden, dass unter dieser Rubrik auch die Modelle 
+mit zwei Wachabteilungen und vier Dienstgruppen fallen. Die Funktionsweise dieser 
+Modelle ist vom Prinzip her gleichzusetzen mit Modellen, die vier Wachabteilungen 
+verwenden. Im Grunde ändern sich nur die Bezeichnungen. Anstelle Wachabteilung 
+eins bis vier trifft man etwa auf Bezeichnungen wie 1A, 1B, 2A und 2B. 
+Durch 
+die 
+Vierteilung 
+des 
+Personalpools 
+entstehen 
+zunächst 
+kleinere 
+Mitarbeitergruppen. Da aufgrund der vorgegebenen Schichtrhythmen allerdings immer 
+zwei Wachabteilungen verfügbar bleiben, steigt wiederum die Personalverfügbarkeit. 
+Im Dienstplan werden zunächst immer weniger Schichten fest vorgeplant, als die 
+Mitarbeiter zur Erfüllung ihrer Sollarbeitszeit erbringen müssen. Somit sind durch die 
+Mitarbeiter Zusatzschichten zu leisten, um auf Ihre Jahresarbeitszeit zu kommen. Um 
+diese Schichten planbar zu gestalten und eine Wachabteilungsstruktur aufrecht zu 
+erhalten, werden Partnerwachabteilungen gebildet, die sich gegenseitig mit Personal 
+auffüllen. Hierzu ist es erforderlich, dass die sich ergänzenden Wachabteilungen eine 
+abgestimmte 
+Dienstplanung 
+vornehmen. 
+Aufgrund 
+der 
+Durchlässigkeit 
+der 
+Dienstgruppen bzw. Wachabteilungen wird die gewünschte Flexibilisierung zur 
+Vermeidung von Schwankungen in der Funktionsbesetzung erreicht. Je nach 
+Ausgestaltung des Modells kann diese mehr oder weniger stark ausgeprägt sein. Die 
+Wachabteilungstreue 
+nimmt 
+bei 
+diesen 
+Modellen 
+im 
+Vergleich 
+zu 
+drei 
+Wachabteilungssystemen ab. 
+5.1.2 Schichtfolge 24 Dienst/72 Frei 
+Das präsentierte Modell unterschreitet geplant die Wochenarbeitszeit von 48 Stunden. 
+Es gibt zugleich vor, an welchen Tagen die nötigen Zusatzschichten geleistet werden 
+können. Dazu dient die Kennzeichnung mit „V“ für Verfügung. Somit wird zunächst 
+immer erst die Partnerwachmannschaft bedient. In diesem Fall werden die erste und 
+die dritte, sowie die zweite und vierte Wachabteilung zu Partnerwachabteilungen. Die 
+Mitarbeiter werden proaktiv an der Dienstplanung beteiligt, in dem Sie Ihre 
+Wunschdienste an den Dienstplaner übersenden, der dann die Planungen unter 
+Berücksichtigung der nötigen Funktionsstärken vornimmt. Bei der Erbringung von 
+Zusatzdiensten entstehen bei diesem Rhythmus allerdings immer wieder kurze 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+2. Wachabteilung
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+3. Wachabteilung
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+4. Wachabteilung
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+V
+24
+Abbildung 3: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/72 Frei 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+17 
+Wechsel. Es ergibt sich aufseiten der Dienstplanung und der Mitarbeiter eine gewisse 
+Flexibilisierung. 
+5.1.3 Schichtfolge 24 Dienst/72 Frei, 3 Dienstgruppen je Wachabteilung 
+Das Grundprinzip dieses Modells ist identisch mit dem zuvor beschriebenem. Durch 
+die weitere Aufteilung der Wachabteilungen in drei Dienstgruppen, stellen sich 
+allerdings die Möglichkeiten zur flexiblen Verteilung der Zusatzdienste etwas 
+eingeschränkter dar. Durch die Entstehung von kleineren Mitarbeitergruppen wird die 
+Vorplanbarkeit 
+auf 
+wenige 
+Mitarbeiter 
+begrenzt. 
+Das 
+Prinzip 
+der 
+Partnerwachabteilungen bleibt auch hier erhalten. 
+5.1.4 Schichtfolge 24 Dienst/24 Frei/24 Dienst/5 Tage Frei 
+Diese Art von Dienstplanmodell erlaubt die größtmögliche Flexibilität unter den 
+Modellen mit vier Wachabteilungen. Es gibt keine Vorgaben, wann Zusatzdienste zu 
+leisten sind. Die Mitarbeiter können Ihre Dienstwünsche frei eintragen und Ihren 
+Dienstplan flexibel mitgestalten. Um hier zu vermeiden, dass lange Ketten von kurzen 
+Wechseln entstehen, sind jedoch Regeln erforderlich, die den Dienstplan regulieren. 
+Hier kommen häufig Vorgaben zur Anwendung, wie die maximale Zulässigkeit von drei 
+kurzen Wechseln. Auch bei diesem Modell wird die gegenseitige Ergänzung über 
+Partnerwachabteilungen beibehalten. Der Aufwand für die Dienstplanung wird 
+hingegen als hoch eingestuft. 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1 A
+24
+V
+24
+24
+24
+V
+24
+24
+24
+V
+1 B
+24
+24
+V
+24
+24
+24
+V
+24
+24
+2 C
+24
+24
+24
+V
+24
+24
+24
+V
+24
+2 A
+24
+V
+24
+24
+24
+V
+24
+24
+24
+V
+2 B
+24
+24
+V
+24
+24
+24
+V
+24
+24
+2 C
+24
+24
+24
+V
+24
+24
+24
+V
+24
+3 A
+24
+V
+24
+24
+24
+V
+24
+24
+24
+3 B
+24
+24
+V
+24
+24
+24
+V
+24
+24
+3 C
+V
+24
+24
+24
+V
+24
+24
+24
+V
+24
+4 A
+V
+24
+24
+24
+V
+24
+24
+24
+V
+24
+4 B
+24
+V
+24
+24
+24
+V
+24
+24
+24
+4 C
+24
+24
+V
+24
+24
+24
+V
+24
+24
+Abbildung 4: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/72 Frei, Aufteilung in drei 
+Dienstgruppen je Wachabteilung 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+3. Wachabteilung
+24
+24
+24
+24
+24
+24
+4. Wachabteilung
+24
+24
+24
+24
+24
+24
+Abbildung 5: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/24 Frei/24 Dienst/5 Tage Frei 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+18 
+5.2 Modelle mit drei Wachabteilungen 
+5.2.1 Allgemeine Eigenschaften 
+Wie bereits unter Punkt 3.3 zu den Erläuterungen der Wachabteilungsstruktur 
+beschrieben, handelt es sich bei den Dienstplanmodellen mit drei Wachabteilungen 
+um eher unflexible Systeme, da der Schichtrhythmus bereits den größten Teil der 
+freien Tage der Mitarbeiter festlegt. So entsteht ein vergleichsweiser starrer 
+Dienstplan, der in Verbindung mit einer geringen Personalverfügbarkeit pro Tag nur 
+geringe Kompensationsmöglichkeiten von Ausfällen ermöglicht. Vorwiegend für 
+mittelfristige Planungen, die sich aus Langzeitkranken oder Ausbildungsmaßnahmen 
+ergeben, sind bei diesen Modellen auch häufigere Wachabteilungswechsel der 
+Mitarbeiter nötig. Solche Ausfälle können bei zwei oder vier Wachabteilungssystemen 
+flexibler 
+vorgeplant 
+werden. 
+Angesichts 
+der 
+Schichtverteilung 
+über 
+drei 
+Wachabteilungen, ergeben sich im direkten Vergleich allerdings weniger bis keine 
+kurzen Wechsel. 
+Obwohl eine individuelle Mitgestaltung von Freizeit- und Wochenendplanung fast 
+ausgeschlossen ist, sind sie aufgrund der langfristigen Vorplanbarkeit unter den 
+Mitarbeitern beliebt. Weiterhin ergibt sich eine hohe Wachabteilungstreue. Dies wird 
+insbesondere von den Mitarbeitern, aber auch aufgrund der eher entstehenden 
+Teambildung, von manchen Feuerwehren als vorteilhaft empfunden. 
+5.2.2 Schichtfolge im wiederkehrenden 3-Wochenrhythmus 
+Diese Dienstplanmodelle werden auch als „Bremer-Modelle“ bezeichnet und sind vom 
+Grundgedanken auf eine 56 Stundenwoche ausgelegt. Dies ergibt sich aus dem 
+gleichbleibenden 3-Wochenrhythmus mit sieben zu leistenden Schichten. Es werden 
+nach Dienstplan mehr Schichten geleistet, als zur Erfüllung der Jahresarbeitszeit nötig 
+wären. Die zu viel erbrachten Schichten müssen somit als Freischichten rückvergütet 
+werden. Dadurch ist die Dienstplanung nach der Umstellung auf die 48 Stundenwoche 
+für diese Systeme aufwendiger geworden. Die zwei dargestellten Schichtrhythmen 
+unterscheiden sich in der Lage der kurzen Wechsel. Im Gegensatz zum Ersten, 
+verschiebt das zweite Modell einen kurzen Wechsel vom Wochenende auf die 
+Wochenmitte. Mit dem ersten Modell wird hingegen innerhalb von drei Wochen ein 
+langes Wochenende von vier freien Tagen in Folge erreicht. Beide garantieren alle drei 
+Wochen ein freies Wochenende. 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+3. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+3. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+Abbildung 6: Dienstplanmodelle mit drei Wachabteilungen im wiederkehrenden 3-Wochenrhythmus 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+19 
+Die Vergabe der Freischichten wird unterschiedlich gehandhabt. Pro Jahr ergeben sich 
+ca. 12 bis 13 Freischichten. Diese können, unter Berücksichtigung der nötigen 
+Funktionsbesetzungen, flexibel und individuell für jeden Mitarbeiter, teilweise in 
+Verbindung mit der Jahresurlaubsplanung verplant werden, was wiederum zu einem 
+höheren Planungsaufwand führt. Oder sie werden nach einem festgelegten Schema 
+rückvergütet. Beispielsweise wird jede achte Schicht automatisch zu einer Freischicht. 
+Somit verschieben sich die Freischichten regelmäßig um eine Dienstschicht nach 
+hinten und werden langfristig planbarer. 
+5.2.3 Schichtfolge 24 Dienst/48 Frei 
+Es handelt sich bei diesem System um einen Rhythmus, der keine längeren oder 
+kürzeren Wechsel erzeugt. Die Erholungsphasen zwischen den Schichten sind immer 
+gleich lang und somit werden keine Kompromisse durch kurze Wechsel an den 
+Wochenenden nötig, um längere Freizeiten zu erhalten. Formell und aus Sicht des 
+Arbeitsschutzes betrachtet, handelt es sich hierbei um eine ausgewogenere Variante. 
+Die Systematik der Freischichten ist vergleichbar mit den zuvor beschriebenen 
+Modellen. 
+5.2.4 Schichtfolge 24 Dienst/24 Frei/24 Dienst/24Frei/24 Dienst/96 Frei 
+Bei diesem Rhythmus wird deutlich, dass vermehrte lange Freizeiten durch viele kurze 
+Wechsel erarbeitet werden müssen. Die Balance zwischen Arbeitsbelastung und 
+Erholung ist als nicht ideal zu bezeichnen. Ansonsten ist die Funktionsweise mit den 
+bereits beschriebenen Modellen vergleichbar. 
+5.3 Modelle mit zwei Wachabteilungen 
+5.3.1 Allgemeine Eigenschaften 
+Aus der Teilung der Mitarbeiter in nur zwei Gruppen entwickelt sich der Hauptvorteil 
+dieser Modelle. Anlässlich der höheren Personalverfügbarkeit pro Tag, fällt die kurz- 
+und mittelfristige Beschaffung von Personal für Ausfälle leichter. Schließlich können 
+die vorhandenen Personalressourcen optimal zur Erreichung der politisch 
+vorgegebenen Schutzziele eingesetzt werden [7]. 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+3. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+Abbildung 7: Dienstplanmodell mit drei Wachabteilungen, 24 Dienst/48 Frei 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+3. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+Abbildung 8: Dienstplanmodell mit drei Wachabteilungen, 24 Dienst/24 Frei/24 Dienst/24Frei/24 
+Dienst/96 Frei 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+20 
+Da sich zwangsläufig eine Dienstfolge von 24 Stunden Dienst und 24 Stunden Freizeit 
+im Wechsel ergibt und so etwa 15 Dienstschichten pro Monat entstehen, wird eine 
+individuelle Dienstplanung jedes einzelnen Mitarbeiters erforderlich. Die zu 
+erbringende Sollarbeitszeit bleibt bei allen Systemen gleich. Daher müssen auch bei 
+Modellen mit zwei Wachabteilungen durchschnittlich 8,3 Schichten pro Monat erbracht 
+werden, die sich nicht regulär aus dem Dienstplan ergeben. Hierdurch entsteht die 
+hohe Flexibilität für die Dienststellen und die Anpassungsmöglichkeiten an die 
+individuellen Bedürfnisse der Mitarbeiter. Freie Wochenenden können durch die 
+Dienstwünsche der Mitarbeiter eigenständig geplant werden. Auch höhere 
+Belastungen 
+können 
+durch 
+Schichtanpassungen 
+zeitnah 
+und 
+gleichwertig 
+ausgeglichen werden. 
+Nachteilig wirkt sich jedoch die Tatsache aus, dass die Schichtfolgen der einzelnen 
+Kollegen einer Wachabteilung, innerhalb desselben Dienstplans sehr unterschiedlich 
+ausfallen können. Damit einhergehend wird die Teambildung erschwert und die 
+Mitarbeiter müssen von Schicht zu Schicht öfter die Positionen wechseln, was mitunter 
+zu einer abnehmenden Identifikation mit der auszuführenden Funktion einhergehen 
+kann. 
+Mit der hohen Flexibilität steigt für die Mitarbeiter der Grad der Eigenverantwortung, 
+die zur Erstellung der Dienstpläne notwendig wird. Es besteht die Gefahr, dass sich 
+durch die selbstständigen Planungen regelmäßig nicht vermeidbare Blöcke von kurzen 
+Wechseln ergeben. Dies tritt erfahrungsgemäß besonders ausgeprägt in der 
+Haupturlaubszeit auf. Um diese Systeme zu steuern und möglichst viele 
+Dienstwünsche der Mitarbeiter zu erfüllen, sind Regelwerke erforderlich. Dazu 
+gehören Regularien wie die Begrenzung der maximal möglichen kurzen Wechsel in 
+Folge und eventuell Vorgaben zu der Anzahl der freien Wochenenden. Außerdem 
+werden für gewöhnlich Sperren zu besonders beliebten Zeiten wie Weihnachten oder 
+Silvester notwendig. 
+Optional sind diese Dienstplanmodelle auch mit vier oder sechs Dienstgruppen 
+darstellbar. Hierdurch entstehen aber erneut die gleichen Systematiken mit festeren 
+Dienst- bzw. Freizeitschemata, wie sie bereits unter den 4-Schichtmodellen erläutert 
+wurden. 
+5.3.2 Zwei Wachabteilungen im dezentralen Schichtdienstmanagement 
+Die logische Konsequenz, die sich aus der variablen Dienstplanung ergibt, ist der 
+erhöhte Planungsaufwand zur Erstellung der Dienstpläne. Um diesem zu begegnen, 
+wird ein dezentrales Schichtmanagement (DSM) angewendet, bei dem eine Wache 
+oder eine Wachabteilung, im günstigsten Fall softwareunterstützt, die Dienstplanung 
+selbstständig übernimmt. Für die Mitarbeiter ergibt sich durch die Beteiligung an der 
+Dienstplanung eine hohe Eigenverantwortung. Die Dezentralisierung lässt eine 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+2. Wachabteilung
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+Abbildung 9: Dienstplanmodell mit zwei Wachabteilungen und flexibler Dienstplangestaltung 
+
+Dienstplanmodelle im 24-Stundendienst 
+ 
+ 
+21 
+Berücksichtigung der örtlichen Gegebenheiten, inklusive der Anpassung an Stark- und 
+Schwachlastzeiten zu. Durch die Beteiligung der Mitarbeiter an der Verteilung von 
+Arbeit und Freizeit kann eine Erhöhung der Motivation erreicht werden [7]. 
+Für die Arbeitszeitberechnung sind für die Mitarbeiter Jahresarbeitszeitkonten 
+einzurichten. Die geleisteten Schichten, Fehlzeiten (z. B. Erholungsurlaub, Krankheit) 
+und Mehrarbeit sind hierauf zu verbuchen. Damit Fehlzeiten wie Sonderurlaub oder 
+Aus- und Fortbildungsveranstaltungen möglichst bereits bei der Planung berücksichtigt 
+werden können, ist durch organisatorische Maßnahmen sicherzustellen, dass diese 
+Eintragungen durch den jeweiligen Dienstplaner, unverzüglich nach Bekanntwerden, 
+im Zeiterfassungssystem vorgenommen werden. 
+Die Mitarbeiter haben die Möglichkeit, unter Berücksichtigung der gegebenenfalls 
+aufgestellten Regularien, ihre Wunschdienste im System einzutragen. Hierbei wird 
+vom Dienstplaner überwacht, dass die vorgegebenen Funktionsstärken weder unter- 
+noch überschritten werden. Dieser erstellt im Anschluss den vorläufigen Rahmenplan, 
+der nach Beendigung der Funktionseinteilungen in den verbindlichen Dienstplan 
+übergeht. Die Bekanntgabe erfolgt größtenteils sechs bis acht Wochen vor 
+Inkrafttreten des Dienstplans. Sollte es zu wenige oder zu viele Eintragungen geben, 
+so entscheidet in der Regel das System auf Grundlage der Jahresarbeitszeitkonten, 
+wer einen Dienst erhält oder nicht. 
+
+Dienstplanmodelle im Mischdienst 
+ 
+ 
+22 
+6 Dienstplanmodelle im Mischdienst 
+6.1 Allgemeine Eigenschaften 
+Mischdienste zeichnen sich durch die Nutzung von unterschiedlichen Schichtlängen 
+innerhalb eines Dienstplans aus. Die Feuerwehren, die diese Dienstform nutzen, 
+beschreiben die Verfügbarkeit der Mitarbeiter in den Tagdiensten als vorteilhaft. Durch 
+die zahlenmäßig höhere Anwesenheit, besonders zu den Tagdiensten, lassen sich die 
+dienstlichen Inanspruchnahmen für Arbeits- und Ausbildungsdienste gut gestalten. 
+Außerdem sind übermäßige Arbeitsbelastungen innerhalb einer Dienstschicht, 
+aufgrund der Nutzung von kürzeren Schichtlängen, seltener zu beobachten. Der 
+Planungsaufwand zur Erreichung der Funktionssollstärken ist mit den Modellen im  
+3-Schichtsystem zu vergleichen. Nachteile für die Mitarbeiter ergeben sich folglich aus 
+einer Erhöhung der nötigen Fahrten zur Dienststelle und einer zeitlichen Verringerung 
+der zusammenhängenden Freizeitblöcke. Interessant waren Aussagen im Verlauf der 
+Untersuchungen, dass ältere Mitarbeiter eher zum Mischdienst und jüngere eher zum 
+reinen 24-Stundendienst tendieren. 
+6.2 Modell mit vier Wachabteilungen 
+Die Besonderheit an diesem Modell ist, dass es für Mitarbeiter genutzt wird, die 
+innerhalb eines 12-Stundendienstes arbeiten möchten und gleichzeitig das Angebot 
+der Dienststelle besteht, die zu erbringenden Zusatzschichten (mit V gekennzeichnet) 
+im 24-Stundendienst zu leisten. Der Grundrhythmus besteht aus zwei Tagschichten 
+und zwei Nachtschichten im 12-Stundendienst mit einem anschließenden Freizeitblock 
+von vier Tagen. Dieses Modell ist auch für einen reinen 12-Stundendienst geeignet. 
+6.3 Modell mit drei Wachabteilungen 
+Durch den regelmäßig wiederkehrenden Rhythmus dieses Mischdienstmodells wird 
+alle drei Wochen ein Block von vier aufeinanderfolgenden Tagdiensten erzeugt, der 
+effektive zusammenhängende Arbeitsdienste oder Ausbildungsblöcke gewährleistet. 
+Eine Dienststelle gibt an, die Schichten von Montag bis Donnerstag in neun Stunden 
+Tagdienst und 15 Stunden Nachtdienst zu teilen. 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+2. Wachabteilung
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+3. Wachabteilung
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+4. Wachabteilung
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+V
+V
+T
+T
+N
+N
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+N
+N
+24
+24
+N
+N
+24
+T
+T
+T
+T
+N
+N
+24
+24
+2. Wachabteilung
+T
+T
+T
+T
+N
+N
+24
+24
+N
+N
+24
+T
+T
+T
+T
+3. Wachabteilung
+N
+N
+24
+T
+T
+T
+T
+N
+N
+24
+24
+N
+N
+24
+Abbildung 10: Dienstplanmodell im Mischdienst mit vier Wachabteilungen 
+Abbildung 11: Dienstplanmodell im Mischdienst mit drei Wachabteilungen 
+
+Dienstplanmodelle im Mischdienst 
+ 
+ 
+23 
+6.4 Modelle mit einer Wachabteilung (Personalpool) 
+Dienstplanmodelle mit einer Wachabteilung fassen das gesamte Personal zu einem 
+Personalpool zusammen. Sie unterliegen keiner Wachabteilungsstruktur und sind 
+auch nur für Dienststellen mit geringen Gesamtpersonalzahlen zu empfehlen, da eine 
+umfassende Dienstplanung nötig wird. Vorteile sind, wie bei allen flexiblen Systemen, 
+die hohe Eigenverantwortung und Mitgestaltung der Mitarbeiter an der Dienstplanung 
+sowie eine stabile Funktionsbesetzung. Eine optische Darstellung kann, infolge der 
+fehlenden Wachabteilungsstruktur, bei diesen Modellen nicht erfolgen. 
+Eine Feuerwehr nutzt einen Mischdienst mit einem wiederkehrenden 4-
+Wochenrhythmus. Dieser besteht aus drei Wochen, die im 24-Stundendienst geleistet 
+werden, auf denen in der vierten Woche vier Tagdienste von 10 Stunden in der 41-
+Stundenwoche folgen. 
+Zwei weitere Dienststellen bieten einen geteilten Mischdienst an. Hierbei werden 
+Tagdienste mit 11 Stunden und Nachtdienste mit 13 Stunden geleistet. Der Dienstplan 
+wird sechs Wochen im Voraus erstellt. Die Mitarbeiter können immer zum 
+nächstmöglichen Dienstplan das Schichtmodell wechseln und die geteilten Dienste zu 
+24-Stundendiensten zusammenlegen.  
+ 
+
+Dienstplanmodell im 12-Stundendienst 
+ 
+ 
+24 
+7 Dienstplanmodell im 12-Stundendienst 
+Für den Bereich Brandschutz konnte dieses Schichtmodell nur bei einer Feuerwehr 
+identifiziert werden, wobei dort eine 44 Stundenwoche zugrunde gelegt wird. Aufgrund 
+des Grundrhythmus, in Verbindung mit der angewendeten Wochenarbeitszeit, sind 
+keine Zusatzschichten zu erbringen. Die Einführung dieses Modells begründete sich 
+mit einer zu hohen Einsatzfrequenz und Arbeitsbelastung auf den Feuerwachen. 
+Wie 
+bereits 
+geschildert, 
+ist 
+der 
+12-Stundendienst 
+überwiegend 
+in 
+den 
+auslastungsgeprägten Bereichen der Feuerwehr anzutreffen. Dort liegt auch einer 
+seiner vorteilhaften Wesensmerkmale. Durch die geringere Schichtlänge gibt es 
+gemeinhin keine arbeitszeitrechtlichen oder arbeitsschutzbedingten Konflikte. Er ist 
+dort angebracht und notwendig, wo der Arbeitsschutz wenig Spielraum für längere 
+Schichtzeiten zulässt.  
+Ein weiterer Vorteil besteht gegebenenfalls noch in einer tendenziell verbesserten 
+innerdienstlichen Inanspruchnahme der Mitarbeiter. Ansonsten können wesentliche 
+Vorteile für die Dienststelle nicht erkannt werden. 
+Im Wesentlichen führt die Reduzierung der Schichtlängen für die Mitarbeiter zu 
+substanzielleren Nachteilen. Es entsteht ein höherer Pendleraufwand und die planbare 
+freie Zeit wird durch die engere Schichttaktung geringer [14]. 
+ 
+ 
+ 
+Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So Mo Di Mi Do Fr Sa So
+1. Wachabteilung
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+2. Wachabteilung
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+3. Wachabteilung
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+4. Wachabteilung
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+T
+N
+Abbildung 12: Dienstplanmodell im 12-Stundendienst 
+
+Zusammenfassung und Ausblick 
+ 
+ 
+25 
+8 Zusammenfassung und Ausblick 
+Zusammenfassend kann festgestellt werden, dass kein Dienstplanmodell in der Lage 
+ist, ein absolutes Gleichgewicht zwischen allen Spannungsfeldern herzustellen. Wie 
+die Bewertungsübersichten zeigen, können einige Modelle jedoch zu einer gewissen 
+Ausgewogenheit beitragen. Hier fallen besonders die flexibleren Systeme mit vier und 
+zwei 
+Wachabteilungen 
+auf, 
+die 
+es 
+ermöglichen, 
+Schwankungen 
+in 
+der 
+Funktionsbesetzung verbessert in den Griff zu bekommen. Weiterhin bieten sie je nach 
+Modell einen unterschiedlichen Grad der Flexibilisierung. Hierdurch ließe sich auch für 
+die Mitarbeiter das Maß der Mitwirkung an der Schicht- und Freizeitgestaltung steuern. 
+Sollten konkrete Wechselabsichten vorliegen, könnten diese Auswahlmöglichkeiten 
+als Ausgangsbasis für ein solches Projekt dienen. Somit besteht die Perspektive, die 
+Spannungsfelder Personalplanung und Mitarbeiterzufriedenheit gut miteinander zu 
+vereinbaren. 
+Die erfolgten Untersuchungen zeigten allerdings auch, dass Feuerwehren die auf 
+andere Modelle zurückgreifen, durchaus nicht unzufrieden sind und scheinbar eine 
+gute Balance gefunden haben. 
+Ob sich eine Veränderung an einem bestehenden System lohnt, kann ausschließlich 
+auf Standortebene entschieden werden. Hierzu muss bewertet werden, wie groß bzw. 
+klein die Probleme in den einzelnen Spannungsfeldern vor Ort sind. Umgestaltungen 
+an gewohnten Arbeitszeitmodellen gehören mit zu den sensibelsten Bereichen im 
+Verhältnis der Mitarbeiter zu Ihrer Dienststelle. Sie machen die Beteiligung der 
+Arbeitnehmervertretungen 
+zwingend 
+erforderlich. 
+Änderungen 
+an 
+einem 
+Dienstplanmodell sollten den Mitarbeitern nicht aufgezwungen werden. Die Gründe für 
+ein solches Vorhaben müssen transparent dargestellt werden. Darüber hinaus ist für 
+eine erfolgreiche Umsetzung die Belegschaft aktiv an den Entscheidungsprozessen 
+zu beteiligen [5]. Um diese Herausforderungen zu bewältigen, ist durch die Führung 
+ein aktives Changemanagement4 anzustreben. 
+Ein Ausblick in die Zukunft zur weiteren Entwicklung von Dienstplanmodellen ist zum 
+gegenwärtigen Zeitpunkt nur schwer möglich. Abzuwarten bleibt, inwieweit oder ob 
+überhaupt Veränderungen an den gesetzlichen Rahmenbedingungen zu erwarten 
+sind. Versuche, die EU-Arbeitszeitrichtlinie zu reformieren, sind bisher gescheitert. Zur 
+Diskussion 
+stehen 
+aber 
+weiterhin 
+die 
+Themen 
+der 
+Behandlung 
+von 
+Bereitschaftszeiten, die maximale wöchentliche Höchstarbeitszeit und Einzelheiten zu 
+den 
+Opt-out-Regelungen 
+[19]. 
+Letztendlich 
+wären 
+klare 
+und 
+einheitliche 
+arbeitszeitrechtliche Rahmenbedingungen, egal ob auf europäischer oder nationaler 
+Ebene, wünschenswert, um die noch immer bestehenden Unsicherheiten 
+auszuräumen. 
+ 
+4 Changemanagement impliziert alle Projekte, Aktivitäten, Maßnahmen und Aufgaben, die eine 
+weitreichende Veränderung in einer Organisation bewirken sollen. 
+
+ 
+ 
+ 
+ 
+26 
+Literatur- und Quellenverzeichnis 
+ 
+[1]  AGBF 
+Bund 
+- 
+AK 
+Rettungsdienst, 
+Rettungsdienst 
+bei 
+Feuerwehren, 
+http://www.agbf.de/downloads-ak-rettungsdienst/category/40-ak-rettungsdienst-
+oeffentlich-strategie-struktur-organisation.html (Zugriff: 30.11.2019), 02/2013.  
+[2]  Jochen 
+Stein, 
+Leiter 
+der 
+Feuerwehr 
+Bonn 
+und 
+Vorsitzender 
+der 
+Arbeitsgemeinschaft der Leiter der Berufsfeuerwehren in der Bundesrepublik 
+Deutschland (AGBF Bund), Experteninterview vom 15.11.2019.  
+[3]  EUROPÄISCHE KOMMISSION, Mitteilung zu Auslegungsfragen über bestimmte 
+Aspekte der Arbeitszeitgestaltung – rechtliche Orientierungshilfe,2017/C 165/01, 
+https://eur-lex.europa.eu/legal-
+content/DE/TXT/PDF/?uri=CELEX:52017XC0524(01)&from=FR 
+(Zugriff: 
+30.10.2019).  
+[4]  Frau Eva Aich, Bezirksregierung Düsseldorf, Dezernat 56 Betrieblicher 
+Arbeitsschutz – Sachgebiet Arbeitszeit (Leitung), Kontakt vom 21.10.2019.  
+[5]  Stadler, Frank; Holst, Sabine; Torsten, Knuhr; Oestreich, Nico, „Neue Wege bei 
+der Feuerwehr Hamburg,“ Zeitschrift BRANDSCHUTZ, pp. 277-286, Heft 4 2013. 
+[6]  Ausbildungsunterlage der Fa. LUELF & RINKE Sicherheitsberatung GmbH, 
+Bedarfsplanung u. Personalwirtschaft, 2013.  
+[7]  Stephan Boddem, Berufsfeuerwehr Düsseldorf, „Optimierte Personalwirtschaft 
+und Schichtdienstorganisation bei der Feuerwehr Düsseldorf,“ Zeitschrift 
+BRANDSCHUTZ, pp. 554-558, Heft 7 1997.  
+[8]  Deutsche 
+Gesetzliche 
+Unfallversicherung, 
+DGUV 
+Information 
+206-024, 
+Schichtarbeit–(k)ein Problem?! Eine Orientierungshilfe für die Prävention, 
+Februar 2018.  
+[9]  Bundesanstalt 
+für 
+Arbeitsschutz 
+und 
+Arbeitsmedizin 
+(BAuA), 
+Handlungsempfehlungen für die gesunde Organisation von Schichtarbeit, 
+https://www.baua.de/DE/Themen/Arbeitsgestaltung-im-
+Betrieb/Arbeitszeit/Nacht-und-Schichtarbeit.html (Zugriff: 21.11.2019).  
+[10] Branddirektion Feuerwehr Frankfurt am Main, Beschlussvorlage für die 
+Stadtverordnetenversammlung 
+vom 
+07.10.2019, 
+Personalstrategische 
+Ausrichtung 
+des 
+mittleren 
+feuerwehrtechnischen 
+Einsatzdienstes 
+der 
+Branddirektion bis zum Jahr 2040, https://www.frankfurt.de (Zugriff: 30.10.2019). 
+
+ 
+ 
+ 
+ 
+27 
+[11] Oliver Schwers, „Einigung - 24-Stunden-Schicht beim Rettungsdienst,“ MOZ.de 
+Märkisches 
+Medienhaus 
+GmbH 
+& 
+Co. 
+KG 
+- 
+Online, 
+pp. 
+https://www.moz.de/landkreise/uckermark/schwedt-und-
+angermuende/artikel90/dg/0/1/1697532/ (Zugriff: 31.10.2019), 13 Dezember 
+2018.  
+[12] Jürgen 
+Lange, 
+„Ärger 
+über 
+unterschiedliche 
+Arbeitszeiten 
+für 
+Rettungsassistenten,“ Aachener Nachrichten - Online, pp. https://www.aachener-
+nachrichten.de/lokales/stolberg/aerger-ueber-unterschiedliche-arbeitszeiten-
+fuer-rettungsassistenten_aid-24483285 (Zugriff: 31.10.2019), 06 April 2018.  
+[13] Prof. Dr. Thomas Bartscher, Professor für die Lehrgebiete Human Resources 
+Management, 
+Innovations- 
+und 
+Transformationsmanagement, 
+Innere 
+Kündigung, 
+https://wirtschaftslexikon.gabler.de/definition/innere-kuendigung-
+40394 (Zugriff: 04.11.2019).  
+[14] Detlef Mamrot und Stefan Holl, im Auftrag der Vereinigung zur Förderung des 
+deutschen Brandschutzes e.V. (vfdb), Arbeitszeitmodelle bei den deutschen 
+Berufsfeuerwehren - ein Forschungsbericht, 01/2008.  
+[15] verdi - Vereinte Dienstleistungsgewerkschaft - Publikation, 24 Stunden sind kein 
+Arbeitstag...auch 
+nicht 
+im 
+Rettungsdienst!, 
+http://www.intellexi.de/index.php?option=com_phocadownload&view 
+=category&download=302:verde-flyer-24-stunden-sind-kein-
+arbeitstag&id=14:rechtsfragen&Itemid=4 (Zugriff 01.11.2019).  
+[16] Wolf, Walter, „Arbeitszeit bei der Feuerwehr: geteilter Schichtdienst,“ Zeitschrift 
+BRANDSCHUTZ, pp. 270-273, Heft 4 2010.  
+[17] KOMBA Gewerkschaft, Fachbereich Feuerwehr u. Rettungsdienst, 24-Stunden-
+Dienst für Beschäftigte im Rettungswesen, www.komba-nrw.de (Zugriff 
+01.11.2019), Publikation Info 05/2019, Stand 27.03.2019.  
+[18] Ministerium für Arbeit, Gesundheit u. Soziales NRW - Herr Schnäbelin, 
+Referatsleiter 
+Rettungsdienst 
+und 
+Frau 
+Mattioli, 
+Leitung 
+Referat 
+Arbeitsschutzrecht, Arbeitsrecht, sozialer Arbeitsschutz (III A 2), Kontakt vom 
+08.11.2019 u. 11.12.2019.  
+[19] Wissenschaftliche Dienste des Deutschen Bundestages, Sachstand zu den 
+Änderungsvorhaben zur Arbeitszeitrichtlinie, 24.01.2018.  
+ 
+ 
+
+ 
+ 
+ 
+28 
+Abbildungsverzeichnis 
+Abbildung 1: Spannungsfelder bei der Gestaltung von Dienstplanmodellen ............... 1 
+Abbildung 2: Vergleich 
+der 
+Personalverfügbarkeit 
+zwischen 
+einem 
+3-
+Wachabteilungsmodell 
+und 
+einem 
+2-Wachabteilungsmodell 
+(Quelle: 
+Ausbildungsunterlage der Fa. LUELF & RINKE Sicherheitsberatung GmbH) ............. 9 
+Abbildung 3: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/72 Frei ............ 16 
+Abbildung 4: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/72 Frei, Aufteilung 
+in drei Dienstgruppen je Wachabteilung .................................................................... 17 
+Abbildung 5: Dienstplanmodell mit vier Wachabteilungen, 24 Dienst/24 Frei/24 
+Dienst/5 Tage Frei ..................................................................................................... 17 
+Abbildung 6: Dienstplanmodelle mit drei Wachabteilungen im wiederkehrenden 3-
+Wochenrhythmus ...................................................................................................... 18 
+Abbildung 7: Dienstplanmodell mit drei Wachabteilungen, 24 Dienst/48 Frei ........... 19 
+Abbildung 8: Dienstplanmodell mit drei Wachabteilungen, 24 Dienst/24 Frei/24 
+Dienst/24Frei/24 Dienst/96 Frei ................................................................................. 19 
+Abbildung 9: Dienstplanmodell 
+mit 
+zwei 
+Wachabteilungen 
+und 
+flexibler 
+Dienstplangestaltung ................................................................................................. 20 
+Abbildung 10: Dienstplanmodell im Mischdienst mit vier Wachabteilungen .............. 22 
+Abbildung 11: Dienstplanmodell im Mischdienst mit drei Wachabteilungen .............. 22 
+Abbildung 12: Dienstplanmodell im 12-Stundendienst .............................................. 24 
+Abbildung 13: Gegenüberstellung der Bewertungsmatrizen I ................................... 35 
+Abbildung 14: Gegenüberstellung der Bewertungsmatrizen II .................................. 35 
+Abbildung 15: Gegenüberstellung der Bewertungsmatrizen III.................................. 36 
+Abbildung 16: Gegenüberstellung der Bewertungsmatrizen IV ................................. 36 
+
+ 
+ 
+ 
+29 
+Tabellenverzeichnis 
+Tabelle 1: Prozentuale Aufteilung der Dienstplanmodelle nach Hauptgruppen ........... 5 
+Tabelle 2: Übersicht der untersuchten Feuerwehren ................................................. 30 
+Tabelle 3: Übersicht der Gesprächs- und Kontaktpartner ......................................... 31 
+Tabelle 4: Übersicht der analysierten Dienstplanmodelle im 24-Stundendienst ........ 33 
+Tabelle 5: Übersicht der analysierten Dienstplanmodelle im Mischdienst ................. 34 
+Tabelle 6: Übersicht der analysierten Dienstplanmodelle im 12-Stundendienst ........ 34 
+
+ 
+30 
+Anhang 
+A Übersicht der untersuchten Feuerwehren 
+ 
+Tabelle 2: Übersicht der untersuchten Feuerwehren 
+Art der Feuerwehren 
+Anzahl 
+Berufsfeuerwehren 
+66 
+Feuerwehren mit hauptamtlichen Kräften 
+43 
+Größe der Feuerwehren (Funktionen im Brandschutz) 
+109 
+bis 10 Funktionen 
+44 
+zwischen 11 und 20 Funktionen 
+29 
+zwischen 21 und 40 Funktionen 
+13 
+zwischen 41 und 60 Funktionen 
+7 
+über 60 Funktionen 
+16 
+ 
+109 
+ 
+ 
+ 
+ 
+ 
+
+ 
+31 
+B Gespräche und Kontakte 
+In der nachfolgenden Tabelle finden sich, in alphabetischer Reihenfolge, aufgeführte 
+Namen von Personen, mit denen der Verfasser telefonischen, persönlichen oder auch 
+schriftlichen Kontakt hatte. Allen Personen ein herzliches Dankeschön für die 
+Unterstützung bei der Recherche zu dieser Facharbeit. 
+Tabelle 3: Übersicht der Gesprächs- und Kontaktpartner 
+Organisation 
+Name 
+Funktion 
+Kontakt 
+Bez. Reg. Düsseldorf, 
+Dezernat 56 
+Betrieblicher 
+Arbeitsschutz-
+Sachgebiet Arbeitszeit 
+Aich, Eva 
+Leitung 
+21.10.2019 
+Telefon, Mail 
+FW Ludwigshafen 
+Bruck, 
+Stefan 
+Leiter der Feuerwehr 
+01.10.2019 
+Telefon, Mail 
+FW München 
+Funk, 
+Bernhard 
+Personalmanagement 
+08.11.2019 
+Experteninterview 
+FW Düsseldorf 
+Hahn, 
+Carsten 
+Abteilungsleiter 
+Gefahrenabwehr und 
+Rettungsdienst 
+25.11.2019 
+Telefon 
+FW Gummersbach 
+Hayer, 
+Detlef 
+Leiter der Feuerwehr 
+17.11.2019 
+Telefon 
+FW Mannheim 
+Jacqui, 
+Thorsten 
+Personal- und 
+Einsatzplanung 
+25.11.2019 
+Telefon 
+FW Bergheim 
+Kellner, 
+Mario 
+Dienstplaner 
+18.11.2019 
+Telefon, Mail 
+FW Mülheim a. d. R. 
+Klein, 
+Burkhard 
+Leiter der Feuerwehr 
+22.10.2019 
+Experteninterview 
+FW Berlin 
+Kleist, Per 
+Direktionsleiter Nord 
+27.11.2019 
+Experteninterview 
+FW Hamburg 
+Knuhr, 
+Torsten 
+Stellv. Projektleiter 
+„Dienstplanmodell 2013 
+FW Hamburg“ 
+29.10.2019 
+Experteninterview 
+
+ 
+32 
+FW Freiburg 
+Krämer, 
+Jérôme 
+Wachleiter 
+26.11.2019 
+Experteninterview 
+FW Essen 
+Lembeck, 
+Thomas 
+Leiter der Feuerwehr, 
+Vors. der AGBF NRW 
+22.10.2019 
+Experteninterview  
+Ministerium für Arbeit, 
+Gesundheit u. Soziales 
+NRW 
+Mattioli, 
+Maria 
+Leitung Referat 
+Arbeitsschutzrecht, 
+Arbeitsrecht, sozialer 
+Arbeitsschutz (III A 2) 
+11.12.2019     
+Mail 
+FW Langenfeld 
+Pohlheim, 
+Wolfram 
+Leiter der Feuerwehr 
+23.10.2019 
+Experteninterview 
+Ministerium für Arbeit, 
+Gesundheit u. Soziales 
+NRW 
+Schnäbelin, 
+Bernd 
+Referatsleiter 
+Rettungsdienst 
+08.11.2019 
+Telefon 
+FW Hattingen 
+Stanke, 
+Tomas 
+Leiter der Feuerwehr, 
+Stellv. Vors. AGHF 
+NRW 
+10.10.2019 
+Telefon 
+FW Bonn 
+Stein, 
+Jochen 
+Leiter der Feuerwehr, 
+Vors. der AGBF Bund 
+15.11.2019 
+Experteninterview 
+FW Düsseldorf 
+Thielen, 
+Valentin 
+Sachgebiet Personal 
+27.11.2019 
+Experteninterview 
+Bez. Reg. Düsseldorf, 
+Dezernat 22 
+Gefahrenabwehr, 
+Hafensicherheit, 
+Kampfmittelbeseitigung 
+Vasen, 
+Ingrid 
+Regierungsbrand-
+direktorin und 
+Feuerschutzdezernentin 
+15.10.2019 
+Telefon, Mail 
+FW Mülheim a. d. R. 
+Werner, 
+Sven 
+Stellv. Leiter der 
+Feuerwehr 
+22.10.2019 
+Experteninterview 
+FW Ahlen 
+Wolf, 
+Walter 
+Leiter der Feuerwehr, 
+Vors. der AGHF NRW 
+24.10.2019 
+Experteninterview 
+ 
+ 
+
+ 
+33 
+C Übersicht der analysierten Modelle 
+In den folgenden Tabellen werden die erkannten Modelle zusammenfassend 
+dargestellt. Um einen Eindruck zu gewinnen, welche Modelle mit welcher Häufigkeit 
+Anwendung finden, wird in der letzten Spalte die Anzahl der Feuerwehren angegeben, 
+die das entsprechende System verwenden. 
+ 
+Tabelle 4: Übersicht der analysierten Dienstplanmodelle im 24-Stundendienst 
+Modelle im 24-Stundendienst 
+Anzahl 
+Modelle mit 4 Wachabteilungen 
+4 
+Schichtfolge 24 Dienst / 72 Frei 
+1 
+Schichtfolge 24 Dienst / 72 Frei, 3 Dienstgruppen je Wachabteilung 
+1 
+Schichtfolge 24 Dienst / 24 Frei / 24 Dienst / 5 Tage Frei 
+2 
+Modelle mit 3 Wachabteilungen 
+79 
+Schichtfolge im wiederkehrenden 3-Wochenrhythmus 
+39 
+Schichtfolge 24 Dienst / 48 Frei 
+39 
+Schichtfolge 24 Dienst / 24 Frei / 24 Dienst / 24 Frei / 24 Dienst / 96 Frei 
+1 
+Modelle mit 2 Wachabteilungen 
+18 
+Dezentrales Schichtdienstmanagement (DSM) 
+18 
+101 
+ 
+ 
+ 
+
+ 
+34 
+Tabelle 5: Übersicht der analysierten Dienstplanmodelle im Mischdienst 
+Modelle im Mischdienst 
+Anzahl 
+Modell mit 4 Wachabteilungen 
+1 
+Schichtfolge Tag / Tag / Nacht / Nacht / 4 Tage Frei 
+1 
+Modell mit 3 Wachabteilungen 
+3 
+Modell im wiederkehrenden 3-Wochenrhytmus 
+3 
+Dienstplanmodelle mit einer Wachabteilung (Personalpool) 
+3 
+24-Stundendienste und Tagdienste 
+1 
+11 Stunden Tag / 13 Stunden Nacht / 24-Stundendienste 
+2 
+7 
+ 
+ 
+Tabelle 6: Übersicht der analysierten Dienstplanmodelle im 12-Stundendienst 
+Modell im 12-Stundendienst 
+Anzahl 
+Modell mit 4 Wachabteilungen 
+1 
+Tag / Nacht / Frei / Tag / Nacht / 3 Tage Frei 
+1 
+1 
+ 
+ 
+ 
+
+ 
+35 
+D Bewertungsübersichten 
+ 
+ 
+ 
+ 
+3
+2
+4
+3
+2
+4
+2
+2
+3
+2
+3
+2
+3
+3
+2
+2
+2
+3
+2
+1
+3
+2
+2
+1
+3
+3
+4
+3
+3
+2
+3
+3
+2
+4
+4
+4
+4 Wachabteilungen
+4 Wachabteilungen
+4 Wachabteilungen
+24 D / 72 F, 
+3 Dienstgruppen
+ 24 D / 24 F / 24 D /
+5 Tage F
+Aufwand zur Durchführung der Dienstplanung
+Ausgleich von Belastungen durch flexible Schichtplanung (auch kurzfristig)
+Länge der Regenerationszeit zwischen den Diensten ausreichend / Möglichst 
+wenig kurze Wechsel
+Gleichmäßige Regenerationszeiten zwischen den Diensten / Gleichmäßige 
+Verteilung von Belastung und Regeneration
+Wachabteilungstreue
+24 D / 72 F
+Wahrscheinlichkeit der Überbelastung aufgrund der Schichtlänge
+Arbeits-/ u. 
+Gesundheitsschutz
+Möglichkeiten zur Planbarkeit von Freizeiten am Wochenende
+Mitarbeiter
+langfristige Planbarkeit der Dienste
+Möglichkeiten zur flexiblen Dienst- und Freizeitplanung
+Dienstbetrieb / 
+Personalplanung
+Flexibilität zur Sicherstellung der Funktionsbesetzung / Kurzfristiger Zugriff auf 
+einen möglichst großen Teil des Personalpools
+Stärkung der Eigenverantwortung / Eigenständige Mitgestaltung durch die 
+Mitarbeiter bei der Dienstplanung (Dezentralisierung)
+Zum Ausgleich von Personalschwankungen sind Wachabteilungswechsel 
+nötig
+Abbildung 13: Gegenüberstellung der Bewertungsmatrizen I 
+2
+2
+2
+1
+1
+1
+2
+2
+2
+4
+4
+4
+5
+5
+5
+1
+1
+1
+1
+1
+1
+5
+5
+5
+1
+1
+1
+3
+3
+1
+3
+5
+1
+4
+4
+4
+Arbeits-/ u. 
+Gesundheitsschutz
+Ausgleich von Belastungen durch flexible Schichtplanung (auch kurzfristig)
+Länge der Regenerationszeit zwischen den Diensten ausreichend / Möglichst 
+wenig kurze Wechsel
+Gleichmäßige Regenerationszeiten zwischen den Diensten / Gleichmäßige 
+Verteilung von Belastung und Regeneration
+Wahrscheinlichkeit der Überbelastung aufgrund der Schichtlänge
+Dienstbetrieb / 
+Personalplanung
+Flexibilität zur Sicherstellung der Funktionsbesetzung / Kurzfristiger Zugriff auf 
+einen möglichst großen Teil des Personalpools
+Stärkung der Eigenverantwortung / Eigenständige Mitgestaltung durch die 
+Mitarbeiter bei der Dienstplanung (Dezentralisierung)
+Aufwand zur Durchführung der Dienstplanung
+Zum Ausgleich von Personalschwankungen sind Wachabteilungswechsel 
+nötig
+Mitarbeiter
+langfristige Planbarkeit der Dienste
+Möglichkeiten zur flexiblen Dienst- und Freizeitplanung
+Möglichkeiten zur Planbarkeit von Freizeiten am Wochenende
+Wachabteilungstreue
+24 D / 24 F / 24 D / 
+24 F / 24 D / 96 F
+ 3-Wochenrhythmus
+3 Wachabteilungen
+24 D / 48 F
+3 Wachabteilungen
+3 Wachabteilungen
+Abbildung 14: Gegenüberstellung der Bewertungsmatrizen II 
+
+ 
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 15: Gegenüberstellung der Bewertungsmatrizen III 
+5
+3
+2
+5
+2
+1
+4
+2
+2
+1
+2
+4
+2
+4
+5
+4
+2
+1
+4
+2
+1
+1
+2
+5
+4
+2
+1
+1
+3
+3
+1
+3
+3
+4
+2
+2
+Arbeits-/ u. 
+Gesundheitsschutz
+Ausgleich von Belastungen durch flexible Schichtplanung (auch kurzfristig)
+Länge der Regenerationszeit zwischen den Diensten ausreichend / Möglichst 
+wenig kurze Wechsel
+Gleichmäßige Regenerationszeiten zwischen den Diensten / Gleichmäßige 
+Verteilung von Belastung und Regeneration
+Wahrscheinlichkeit der Überbelastung aufgrund der Schichtlänge
+Dienstbetrieb / 
+Personalplanung
+Flexibilität zur Sicherstellung der Funktionsbesetzung / Kurzfristiger Zugriff auf 
+einen möglichst großen Teil des Personalpools
+Stärkung der Eigenverantwortung / Eigenständige Mitgestaltung durch die 
+Mitarbeiter bei der Dienstplanung (Dezentralisierung)
+Aufwand zur Durchführung der Dienstplanung
+Zum Ausgleich von Personalschwankungen sind Wachabteilungswechsel 
+nötig
+Mitarbeiter
+langfristige Planbarkeit der Dienste
+Möglichkeiten zur flexiblen Dienst- und Freizeitplanung
+Möglichkeiten zur Planbarkeit von Freizeiten am Wochenende
+Wachabteilungstreue
+DSM
+Tag / Tag / Nacht / 
+Nacht / 4 Tage Frei
+3-Wochenrhythmus
+2 Wachabteilungen
+Mischdienst, 4 Wa.
+Mischdienst, 3 Wa.
+5
+3
+5
+1
+5
+2
+0
+2
+1
+4
+5
+1
+5
+1
+0
+4
+4
+1
+2
+3
+1
+3
+2
+1
+Arbeits-/ u. 
+Gesundheitsschutz
+Ausgleich von Belastungen durch flexible Schichtplanung (auch kurzfristig)
+Länge der Regenerationszeit zwischen den Diensten ausreichend / Möglichst 
+wenig kurze Wechsel
+Gleichmäßige Regenerationszeiten zwischen den Diensten / Gleichmäßige 
+Verteilung von Belastung und Regeneration
+Wahrscheinlichkeit der Überbelastung aufgrund der Schichtlänge
+Dienstbetrieb / 
+Personalplanung
+Flexibilität zur Sicherstellung der Funktionsbesetzung / Kurzfristiger Zugriff auf 
+einen möglichst großen Teil des Personalpools
+Stärkung der Eigenverantwortung / Eigenständige Mitgestaltung durch die 
+Mitarbeiter bei der Dienstplanung (Dezentralisierung)
+Aufwand zur Durchführung der Dienstplanung
+Zum Ausgleich von Personalschwankungen sind Wachabteilungswechsel 
+nötig
+Mitarbeiter
+langfristige Planbarkeit der Dienste
+Möglichkeiten zur flexiblen Dienst- und Freizeitplanung
+Möglichkeiten zur Planbarkeit von Freizeiten am Wochenende
+Wachabteilungstreue
+Mischdienst
+12-Stunden, 4. Wa.
+1 Wachabteilung 
+(Personalpool)
+Tag / Nacht / Frei / 
+Tag / Nacht / 3 Tage 
+Frei
+Abbildung 16: Gegenüberstellung der Bewertungsmatrizen IV 
+
+ 
+37 
+E Handlungsempfehlungen 
+für 
+die 
+gesunde 
+Organisation von Schichtarbeit 
+1. Die Anzahl der aufeinanderfolgenden Nachtschichten sollte möglichst gering 
+sein. 
+2. Nach einer Nachtschichtphase sollte eine möglichst lange Ruhephase folgen. 
+Sie sollte auf keinen Fall weniger als 24 Stunden betragen. 
+3. Geblockte Wochenendfreizeiten sind besser als einzelne freie Tage am 
+Wochenende. 
+4. Schichtarbeiter sollten möglichst mehr freie Tage im Jahr haben als 
+Tagarbeiter. 
+5. Ungünstige Schichtfolgen sollten vermieden werden, das heißt immer vorwärts 
+rotieren. 
+6. Die Frühschicht sollte nicht zu früh beginnen. 
+7. Die Nachtschicht sollte möglichst früh enden. 
+8. Zugunsten individueller Vorlieben sollte auf starre Anfangszeiten verzichtet 
+werden. 
+9. Die Massierung von Arbeitstagen oder Arbeitszeiten auf einen Tag sollte 
+begrenzt werden. 
+10. Schichtpläne sollen vorhersagbar und überschaubar sein. 
+Diese Empfehlungen müssen nicht alle gleichzeitig erfüllt und auch nicht nach der 
+obigen Reihenfolge umgesetzt werden. Vielmehr müssen die einzelnen Kriterien 
+individuell bewertet werden und an die Anforderungen im Betrieb angepasst werden.  
+Grundsätzlich gilt aber, dass die Kriterien zur Verringerung des gesundheitlichen 
+Risikos Vorrang haben müssen. 
+Weiter gilt: 
+• 
+Die Massierung von Arbeitsbelastung unter Berücksichtigung der Arbeitszeit 
+sollte vermieden werden. 
+• 
+Die Ruhezeiten zwischen den Schichten sollten so lang sein, dass sie eine 
+effektive Erholung ermöglichen. 
+• 
+Um Schlafdefizite zu vermeiden, sollten nicht zu viele Nachtschichten 
+aufeinander folgen. 
+Quelle: Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) 
+ 
+
+ 
+38 
+Eidesstattliche Erklärung 
+Hiermit versichere ich, Jörg Brandenburg, die vorliegende Arbeit selbständig, ohne 
+fremde Hilfe und ohne Benutzung anderer als der von mir angegebenen Quellen 
+angefertigt zu haben. Alle aus fremden Quellen direkt oder indirekt übernommenen 
+Gedanken sind als solche gekennzeichnet.  
+Die Arbeit wurde noch keiner Prüfungsbehörde in gleicher oder ähnlicher Form 
+vorgelegt. 
+ 
+Mülheim an der Ruhr, 20.12.2019 
+ 
+ 
+.......................................................... 
+Jörg Brandenburg 
+  
+
+ 
+39 
+ 
+Datenträger 
+ 

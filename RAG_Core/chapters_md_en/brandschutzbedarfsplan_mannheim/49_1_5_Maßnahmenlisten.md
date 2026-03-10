@@ -1,0 +1,6 @@
+# 1.5 Maßnahmenlisten
+
+- Main measures "Brandschutzbedarfsplan Mannheim" Fire protection needsplan of the city of Mannheim, as of: 04.04.2013 41 Chapter overview Chapter 1: Extraction and summary (management version) 4 Chapter 2: Starting situation, order and project flow 41 Chapter 3: Presentation and analysis of the IST state 46 Chapter 4: Assessment of the hazard potential and planning basis 94 Chapter 5: SOLL concept for fire protection requirementsplanning 114 Chapter 8: List of installations 182 Note: Contact details LUELF&RINKE 200 Chapter 6: Determination of personnel requirements 156 Chapter 7: Abbreviations and definitions 176 Fire protection requirementsplan of the city of Mannheim, as of: 04.04.2013 42 Scale 0 1.5 km Eckdaten-Overview City of Mannheim Structure of the city area:
+
+- 400,000 - Area size: 144,97 km2 - Extension East-West: 11 km North-South: 20 km - Highest point: 97 m over NN -- Town breakdown: 17 urban districts, 24 districts -- Neighbouring cities/circles: Ludwigshafen, Heidelberg, Frankenthal, Bergstraße district in Hesse, Rhein-Neckar-Kreis, Rhein-Pfalz-Kreis --- Traffic routes: -- 37 km Bundesautobahn (A6, A656) --- 55 km Rail line (passenger and freight) --- 37 km Bundeswasserstraße --- 73 km Straßen/Stadtbahnlinen (Source: urbanrail. net)----
+

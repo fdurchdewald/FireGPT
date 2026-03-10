@@ -1,0 +1,2066 @@
+ 
+Künstliche Intelligenz im Feuerwehrwesen 
+ 
+ 
+Marius Brüser 
+Brandreferendar 
+Feuerwehr Düsseldorf 
+Künstliche Intelligenz im  
+Feuerwehrwesen 
+Facharbeit gemäß § 21 VAP2.2-Feu NRW 
+Düsseldorf, den 20.12.2019 
+
+ 
+Aufgabenstellung 
+ 
+Künstliche Intelligenz im Feuerwehrwesen 
+Beschreiben Sie mögliche zukünftige Einsatzmöglichkeiten Künstlicher Intelligenz - 
+KI oder des maschinellen Lernens im Aufgabenbereich von Feuerwehr und Katastro-
+phenschutz. Wo vermuten Sie gravierende Vorteile, was sind mögliche Risiken? Sind 
+Ihnen bereits praktische Anwendungsfälle der KI oder des maschinellen Lernens im 
+Bereich Feuerwehr/Katastrophenschutz bekannt? Falls ja, beschreiben Sie deren 
+grundsätzliche Funktionsweise. 
+ 
+
+ 
+III 
+Inhalt 
+1 
+Einleitung .............................................................................................................. 1 
+2 
+Grundlagen ........................................................................................................... 2 
+2.1 
+Was ist Künstliche Intelligenz? ...................................................................... 2 
+2.2 
+Was ist Maschinelles Lernen? ....................................................................... 3 
+2.3 
+Hat KI ein Verständnis? ................................................................................. 5 
+3 
+Aktuelle Anwendungsbeispiele ............................................................................. 6 
+3.1 
+Assistenzsystem zum Erkennen von Herzstillständen (Kopenhagen) ........... 6 
+3.2 
+Social Media Screening (London) .................................................................. 7 
+3.3 
+Predictive Analytics (London und New York) ................................................. 7 
+3.4 
+Intelligente Verkehrssteuerung (Hangzhou) ................................................... 9 
+4 
+Mögliche zukünftige Einsatzgebiete .................................................................... 10 
+4.1 
+Ausbildungsunterstützungssysteme............................................................. 10 
+4.2 
+Sprachassistenzsysteme ............................................................................. 10 
+4.3 
+Intelligente Disposition und Routing ............................................................. 11 
+4.4 
+Überwachung sozialer Medien ..................................................................... 12 
+4.5 
+Lagebeurteilung und Entscheidungsunterstützung ...................................... 12 
+4.6 
+Weitere Möglichkeiten für Predictive Analytics ............................................ 13 
+4.7 
+Autonom agierende Roboter und Drohnen .................................................. 14 
+5 
+Mögliche Risiken ................................................................................................. 16 
+5.1 
+Datenschutz ................................................................................................. 16 
+5.2 
+Haftung ........................................................................................................ 16 
+5.3 
+Ethische Bedenken ...................................................................................... 17 
+5.4 
+Diskriminierung ............................................................................................ 18 
+5.5 
+Transparenz ................................................................................................. 18 
+5.6 
+Abhängigkeit von Systemen, Verfügbarkeit und Ausfallsicherheit ............... 19 
+5.7 
+Akzeptanz durch Personal und Gesellschaft ............................................... 20 
+5.8 
+Bewertung der Risiken ................................................................................. 20 
+6 
+Zusammenfassung und Ausblick ........................................................................ 23 
+6.1 
+Zusammenfassung ...................................................................................... 23 
+6.2 
+Ausblick ....................................................................................................... 24 
+Literaturverzeichnis .................................................................................................... V 
+Abkürzungsverzeichnis ........................................................................................... XIII 
+Mündliche, telefonische und elektronische Mitteilungen .......................................... XIV 
+Abbildungsverzeichnis .............................................................................................. XV 
+
+ 
+IV 
+Tabellenverzeichnis .................................................................................................. XV 
+Anhang Periodensystem der künstlichen Intelligenz ............................................... XVI 
+Eidesstattliche Erklärung ............................................................................................... 
+Datenträger ................................................................................................................... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In dieser Arbeit wird aus Gründen der besseren Lesbarkeit das generische Maskuli-
+num verwendet. Weibliche und anderweitige Geschlechteridentitäten werden dabei 
+ausdrücklich mitgemeint, soweit es für die Aussage erforderlich ist. 
+
+Einleitung 
+1 
+1 Einleitung 
+Bei Künstlicher Intelligenz1 (KI) handelt es sich heutzutage um einen allgegenwärti-
+gen Begriff, der auf wissenschaftlicher, wirtschaftlicher, gesellschaftlicher und politi-
+scher Ebene viele Diskussionen dominiert. Nahezu alle Internetnutzer kommen täg-
+lich, meist ohne ihr Wissen, mit ihr in Kontakt. Prominente Beispiele hierfür sind die 
+Auswertung von Kaufverhalten und die darauf basierenden Kaufempfehlungen beim 
+Online-Shopping oder Sprachassistenten, wie Siri und Alexa. Die hinter diesen An-
+wendungen agierenden Algorithmen zählen bereits zu den KIs [1]. Auch in anderen 
+Bereichen, wie beispielsweise der Medizin, ist das Potential KI längst erkannt wor-
+den. In einer Studie erfolgte ein Vergleich einer KI mit erfahrenen Dermatologen bei 
+der Erkennung von Hautkrebs. Die KI erhielt vor dem Einsatz ein Training mit 
+100.000 Bildaufnahmen, auf denen Hautkrebs oder harmlose Muttermale abgebildet 
+waren. Die besseren Ergebnisse erzielte die KI [2]. Neben reinen Verbesserungen 
+ergeben sich auch neue Verfahren, welche ohne KI nicht möglich gewesen wären. 
+Ein Beispiel für ein solches System ist die frühzeitige Erkennung von Krampfanfällen, 
+bis zu einer Stunde bevor sie auftreten [3]. Ebenfalls beschäftigt sich unlängst das 
+Militär mit dem Einsatz von KI zur Effizienz- und Effektivitätssteigerung in verschie-
+denen Bereichen. Hierzu gehören unter anderem Waffen- und Führungssysteme [4]. 
+Bereits 2017 fanden in den USA Tests statt, autonome Drohnenschwärme zur Auf-
+klärung einzusetzen [5]. Ähnliche Versuche führte Airbus 2018 in Deutschland durch 
+[6]. 
+Im Bereich des öffentlichen Sektors ist eine Effektivitäts- und Effizienzsteigerung es-
+senziell, daher müssen auch Feuerwehren sich mit den neuen Möglichkeiten, welche 
+technologische Fortschritte bringen, auseinandersetzen. Ferner kann KI, beispiels-
+weise durch autonom agierende Drohnen und Roboter, voraussichtlich dazu beitra-
+gen, die Sicherheit für Feuerwehrkräfte im Einsatz zu erhöhen [7]. Bei einer Betrach-
+tung der Erfolge, welche KI in weiten Bereichen schon heute erzielt, stellt sich somit 
+die Frage, welche möglichen Einsatzgebiete es für KI im Feuerwehrwesen gibt und 
+ob bereits erste Beispiele für eine erfolgreiche Anwendung vorhanden sind. Bei aller 
+Euphorie über die neuen Möglichkeiten von KI dürfen jedoch die eventuell mit der 
+Einführung und Anwendung verbundenen Risiken nicht vergessen werden. Häufig 
+erzeugen zudem Filme eine negative Assoziation mit KI [8].  
+Ziel der vorliegenden Arbeit ist es, dem Leser einen Überblick über KI sowie über 
+maschinelles Lernen (ML) zu geben und ein grundlegendes Verständnis zu erzeu-
+gen. Erste Anwendungsbeispiele im Feuerwehrwesen werden aufgezeigt und die 
+grundlegenden Funktionsweisen dieser erläutert. Weiterhin erfolgt eine Betrachtung 
+möglicher Einsatzgebiete sowie aktueller Forschungsprojekte von KI im Feuerwehr-
+wesen. Ferner werden mögliche Risiken dargestellt und bewertet. In der Zusammen-
+fassung wird dargestellt, in welchen Bereichen, nach Meinung des Verfassers, zu-
+künftig gravierende Vorteile durch die Anwendung von KI für das Feuerwehrwesen 
+zu erwarten sind.  
+ 
+1 Teilweise auch artifizielle Intelligenz vom Englischen artificial intelligence (AI bzw. A. I.). 
+
+Grundlagen 
+2 
+2 Grundlagen 
+2.1 Was ist Künstliche Intelligenz?  
+Trotz der in der Einleitung aufgezeigten ständigen Präsenz von KI in nahezu allen 
+Lebensbereichen, ist sie für die meisten Menschen nicht greifbar. Häufig wird zudem 
+angenommen, dass sich hinter KI eine homogene Technologie verbirgt. Dies ist je-
+doch nicht der Fall, ganz im Gegenteil handelt es sich bei KI um ein Teilgebiet der 
+Informatik, unter welchem eine Vielzahl unterschiedlicher Methoden, Verfahren und 
+Technologien zusammengefasst werden. 
+Grundlegend stellt sich die Frage, wo die Grenze zwischen normalen Algorithmen 
+und KI liegt. Die Beantwortung ebendieser Frage ist, aufgrund einer fehlenden all-
+gemeingültigen Definition von KI, nicht trivial. Dies ist im Wesentlichen der Problema-
+tik geschuldet, dass es bereits an einer eindeutigen Definition von Intelligenz mangelt 
+[9]. Jedoch lässt sich als eine besondere Stärke menschlicher Intelligenz die Adapti-
+vität identifizieren. Menschen sind in der Lage, sich an die verschiedensten Umwelt-
+bedingungen anzupassen und durch Lernen ihr Verhalten entsprechend zu ändern. 
+Da wir insbesondere in der Lernfähigkeit den Computern häufig noch weit überlegen 
+sind, ist Lernen der erste zentrale Grundbaustein der KI. Weiterhin können Men-
+schen im Rahmen der Adaptivität auch mit Unsicherheiten und Wahrscheinlichkeiten 
+umgehen. Hieraus leitet sich der zweite zentrale Grundbaustein der KI ab [10], vgl. 
+Abbildung 1. 
+ 
+Abbildung 1 Die zwei Grundbausteine für künstliche Intelligenz (Eigene Darstellung) 
+Eine zeitlose und pragmatische Definition liefert Elaine Rich [10], im Folgenden in 
+eigener Übersetzung aus dem Englischen: 
+„Künstliche Intelligenz ist die Wissenschaft, wie man Computern Dinge beibringt, in 
+denen der Mensch derzeit besser ist.“ 
+Eine für den Anwender praxisnahe Unterteilung in die drei Gruppen Erfassen, 
+Folgern und Reagieren zeigt Abbildung 2. Im äußeren Ring werden beispielhafte 
+Anwendungen genannt, welche in die entsprechende Gruppe fallen. Es sei jedoch 
+erwähnt, dass in der Realität eine strikte Abgrenzung nicht immer möglich ist, da es 
+gegebenenfalls Überschneidungen gibt oder Gesamtsysteme Kombinationen aus 
+verschiedenen Anwendungen sind. Die Unterteilung der Gruppen basiert auf dem 
+Leitfaden „Digitalisierung gestalten mit dem Periodensystem der Künstlichen 
+Intelligenz“, welches vom Bundesverband Informationswirtschaft, Telekommunikation 
+und neue Medien (BITKOM) zur Verfügung gestellt wird. Eine in Teilen angepasste 
+Version des Periodensystems findet sich im Anhang. Es bietet eine Übersicht über 
+Anwendungsmöglichkeiten von KI-Systemen.  
+Fähigkeit zu 
+lernen
+Umgang mit 
+Wahrschein-
+lichkeiten
+Künstliche
+Intelligenz
+
+Grundlagen 
+3 
+ 
+Abbildung 2 Einteilung künstlicher Intelligenz (Eigene Darstellung) 
+Im wissenschaftlichen Kontext erfolgt die Unterscheidung in „starke“ und „schwache“ 
+KI. Eine schwache KI ist darauf spezialisiert, ein einzelnes konkretes Anwendungs-
+problem des menschlichen Denkens zu lösen. Eine starke KI hingegen könnte das 
+menschliche Denken nachahmen und sich wie ein Mensch verhalten. Zum heutigen 
+Zeitpunkt ist eine starke KI noch nicht entwickelt, allerdings stellt die Entwicklung 
+ebendieser ein langfristiges Ziel der Forschung dar. Derzeit ist es jedoch noch nicht 
+absehbar, ob oder ab wann solche Systeme entwickelt werden können [1].  
+2.2 Was ist Maschinelles Lernen? 
+Ein Grundbaustein der KI ist ML und bezweckt die Generierung von Wissen aus Er-
+fahrung. Wobei mit Erfahrung Daten gemeint sind, mit welchen der Lernalgorithmus 
+ein komplexes Modell entwickelt. Damit ein Algorithmus lernen kann, existiert im Ge-
+gensatz zu klassischen, statisch programmierten, Algorithmen eine Rückkopplung, 
+welche die Entscheidungsregeln an das Erlernte anpasst, wodurch sich der Code 
+dynamisch verhält, vgl. Abbildung 3. Hierbei wird zwischen offline und online lernen-
+de Systeme unterschieden. Bei offline lernenden Systemen erfolgt das Lernen vor 
+der eigentlichen Anwendung der KI und wird während der Verwendung nicht fortge-
+setzt. Ein online lernendes System lernt im Rahmen der Anwendung und setzt diesen 
+Prozess stetig fort. Hierdurch adaptieren sich diese Algorithmen kontinuierlich, wäh-
+rend sie eingesetzt werden. In aller Regel ergibt sich somit eine fortlaufende Anpas-
+sung und daher eine Verbesserung der Algorithmen [1]. 
+
+Grundlagen 
+4 
+ 
+Abbildung 3 Vergleich traditioneller Programme mit ML (Eigene Darstellung, in Anlehnung an: [1]) 
+Das Deep Learning2 beschreibt den Versuch, das menschliche Gehirn modellhaft 
+durch künstliche neuronale Netze nachzubilden. Ein vereinfachtes neuronales Netz 
+zeigt Abbildung 4. Im Laufe des Lernprozesses verändern sich die Verbindungen 
+sowie die Aktivierungsschwellen der Neuronen. Insbesondere mit dieser Technologie 
+konnten in den letzten Jahren große Erfolge erzielt werden. Sie ist auch für den ak-
+tuellen Aufschwung der KI verantwortlich [1]. Jedoch ist es auch in diesem Fall not-
+wendig, dass die KI zunächst lernt. Dies kann entweder durch Trainingsdaten ge-
+schehen, ein Verfahren, das zurzeit am häufigsten verwendet wird, oder durch ei-
+genständiges Training. Eigenständiges Training bedeutet, dass beispielsweise ein 
+Roboterarm versucht ein Bauteil zu greifen, sich bei diesem Prozess beobachtet und 
+dadurch selbst lernt, wie das Bauteil am besten zu greifen ist. Es darf allerdings nicht 
+davon ausgegangen werden, dass eine Programmierung in diesem Fall nicht not-
+wendig ist, denn auch bei einem lernenden Algorithmus erfolgt zunächst eine auf-
+wendige Programmierung des Lernalgorithmus. Dieser unterscheidet sich in aller 
+Regel von Projekt zu Projekt. 
+ 
+Abbildung 4 Vereinfachtes neuronales Netz (Eigene Darstellung, in Anlehnung an: [1]) 
+ 
+2 Deutsch: mehrschichtiges Lernen, tiefes Lernen oder tiefgehendes Lernen. 
+
+Grundlagen 
+5 
+Welches Entwicklungspotential, aber auch gleichzeitig welche Schnelllebigkeit das 
+ML besitzt, zeigt sich am Beispiel der KIs Alpha Go und Alpha Go Zero. Diese KIs 
+sind zum Spielen des chinesischen Strategiebrettspiels Go, von Google, program-
+miert worden. Im Jahr 2017 konnte Alpha Go den internationalen Go Champion Lee 
+Sedol schlagen. Bereits ein Jahr später stellte Google die KI Alpha Go Zero vor, die-
+se schlug die im Vorjahr programmierte KI Alpha Go, nach nur drei Tagen Lernzeit, 
+mit dem eindeutigen Spielergebnis von 100 zu 0. Erstaunlich ist hierbei, dass Alpha 
+Go Zero im Vergleich zu Alpha Go mit sparsamerer Hardware auskommt und nur 
+rund ein Zehntel an Trainingsspielen benötigte [1]. 
+2.3 Hat KI ein Verständnis?  
+Nicht selten wird impliziert, dass KI ein Verständnis oder sogar ein Bewusstsein von 
+den Daten hat, welche sie verarbeitet oder versteht, welche Bedeutung diese haben 
+und in welchem Kontext sie stehen. Ein oft zitiertes Beispiel hierzu ist „Searles  
+Chinesisches Zimmer“ [11]. In diesem Beispiel befindet sich eine Person, die kein 
+chinesisch versteht, in einem abgeschlossenen Raum. Der Raum enthält ein umfang-
+reiches Regelwerk, welches chinesische Schriftzeichenfolgen in andere chinesische 
+Schriftzeichenfolgen überführt. Bekommt diese Person nun von außen einen Zettel 
+hineingereicht, ohne zu wissen, dass es sich um eine Frage auf Chinesisch handelt, 
+kann Sie unter Anwendung des Regelwerks eine Ausgabe generieren. Außerhalb 
+wird diese Ausgabe als Antwort auf die Frage verstanden. Die Person in dem Raum 
+hat jedoch weder die gestellte Frage noch die gegebene Antwort verstanden. Ent-
+sprechend handelt es sich in diesem Fall um kein verstehendes oder denkendes 
+System. Angepasst an selbstlernende Algorithmen hieße dies, dass die Person im 
+Raum Fragen gestellt bekommt, darauf antwortet und ein Feedback erhält, ob die 
+gegebene Antwort korrekt oder falsch ist. Notiert sich die Person nun, in welchen Fäl-
+len eine Ausgabe korrekt bzw. falsch ist, generiert Sie nach ausreichend vielen 
+Durchgängen, einen immer höheren Prozentsatz von richtigen Ausgaben und kann 
+so ein Modell entwickeln, um zukünftige Fragen beantworten zu können. Wichtig ist 
+hierbei jedoch, dass es sich um ähnliche Fragen handelt. Mit diesem Beispiel lässt 
+sich verdeutlichen, dass das System kein weiterführendes Verständnis der gestellten 
+Fragen besitzt. 
+ 
+ 
+ 
+ 
+ 
+
+Aktuelle Anwendungsbeispiele 
+6 
+3 Aktuelle Anwendungsbeispiele 
+Im Folgenden werden die im Rahmen der Recherche ermittelten KI-Systeme, welche 
+sich im Feuerwehrwesen im Einsatz befinden, aufgezeigt. In Deutschland konnte 
+noch kein in Betrieb befindliches System ermittelt werden. 
+3.1 Assistenzsystem zum Erkennen von Herzstillständen (Kopen-
+hagen) 
+Ein Beispiel für eine bereits erfolgreich im Einsatz befindliche KI ist ein Assistenzsys-
+tem bei den Emergency Medical Services Copenhagen (EMS Copenhagen). Die 
+EMS Copenhagen ist eine dem Gesundheitswesen zugehörige Leitstelle, welche 
+sowohl den Notruf als auch eine medizinische Hilfshotline bedient [12]. Gemeinsam 
+mit der Firma Corti erfolgte die Entwicklung einer auf Deep Learning basierten KI, 
+welche die Erkennung von, am Telefon gemeldeten, Herzstillständen verbessert. Die 
+Grundidee basiert auf einer Kombination der Erfahrungen sowie des Fachwissens 
+der Leitstellendisponenten mit den Analysefähigkeiten einer KI. Mit dieser Verknüp-
+fung sollen Herzstillstände zuverlässiger und schneller erkannt werden. Durch die 
+schnellere Identifikation besteht die Möglichkeit einer frühzeitig durch den Disponen-
+ten angeleiteten Laien-Reanimation, was die Überlebenschancen signifikant erhöht 
+[13]. Während des Notrufes analysiert im Hintergrund das Assistenzsystem in Echt-
+zeit den Anruf. Es wertet nicht nur den Inhalt, also das Gesprochene aus, sondern 
+auch die Prosodie3 sowie Umgebungsgeräusche. Diese Daten ermöglichen der KI 
+eine Einschätzung der Lage. Erkennt sie, dass der Anrufer einen Patienten mit  
+Herzstillstand meldet, wird automatisch eine Meldung an den Leitstellendisponenten 
+generiert.  
+Die Erprobung des Algorithmus erfolgte mittels 108.607 unbearbeiteter aufgezeich-
+neter Notrufe, von welchen bei 918 ein Herzstillstand vorlag. Zur kontinuierlichen 
+Verbesserung archiviert Corti die in einem neuen Gespräch erfassten Daten und ver-
+gleicht diese mit bereits zuvor analysierten Notrufen. Hierdurch lernt der Algorithmus 
+mit jedem weiteren Gespräch und erhöht mit steigender Datenmenge seine Genau-
+igkeit. Basierend auf dem Testlauf wurde festgestellt, dass die KI Herzstillstände mit 
+einer Differenz von 11,6 % nicht nur häufiger, sondern im Median auch 10 Sekunden 
+schneller erkannt hat, vgl. Tabelle 1. Lediglich in 1 % der Fälle hat der Disponent ei-
+nen Herzstillstand richtigerweise erkannt und die KI nicht. Dagegen hat bei 12 % die 
+KI einen Herzstillstand korrekt festgestellt und der Disponent nicht [14].  
+ 
+ 
+ 
+3 Prosodie: Gesamtheit sprachlicher Eigenschaften wie Akzent, Intonation, Sprechgeschwindigkeit, 
+Rhythmus, Quantität und Sprechpausen. 
+
+Aktuelle Anwendungsbeispiele 
+7 
+Tabelle 1 Vergleich KI und Leitstellendisponent bei der Erkennung von Herzstillständen  
+(Eigene Darstellung, in Anlehnung an: [14]) 
+ 
+Künstliche Intelligenz  
+Leitstellendisponent 
+Sensitivität4  
+84,1 % 
+72,5 % 
+Spezifität5 
+97,3 % 
+98,8 % 
+Erkennungszeit (Median) 44 s 
+54 s 
+ 
+Nach der Pilotphase in Kopenhagen soll das System, in Kooperation mit der Euro-
+pean Emergency Number Association (EENA), in vier weiteren europäischen Städten 
+zum Einsatz kommen [15].  
+3.2 Social Media Screening (London) 
+Ein Phänomen in unserer heutigen Gesellschaft ist, dass in manchen Fällen noch 
+bevor ein Notruf abgesetzt wird, bereits Informationen in den sozialen Medien vor-
+handen sind. Die Feuerwehr London hat diese Problematik erkannt und nutzt mittler-
+weile ein KI-System, welches die sozialen Medien nach Informationen zu Bränden 
+sowie Unglücksfällen durchsucht und sie den Leitstellendisponenten mitteilt. Das 
+System basiert auf ML. Durch dieses Vorgehen soll die Entdeckungszeit von Brän-
+den und Unglücksfällen verkürzt werden [16]. Weitere Informationen sind zu diesem 
+System gegenwärtig nicht vorhanden.  
+3.3 Predictive Analytics (London und New York) 
+Zu Predictive Analytics, also vorhersagenden Folgerung, zählen Systeme, welche auf 
+Grundlage vergangener Daten Prognosen über Zustände in der Zukunft treffen. Der 
+Allgemeinheit sind diese Art von Systemen häufig als Stauvorhersagen oder in Form 
+von erhaltenen angepassten Kaufempfehlungen bekannt. Abbildung 5 zeigt, wo die 
+Vorhersage zukünftiger Geschehnisse, Predictive Analytics, zeitlich neben der Ana-
+lyse und dem Monitoring einzuordnen ist [17]. 
+ 
+Abbildung 5 Einordnung Predictive Analytics (Eigene Darstellung, in Anlehnung an: [18]) 
+Dieser Ansatz wurde zunächst von den Ermittlungsbehörden aufgegriffen und ist un-
+ter dem Namen Predictive Policing bekannt geworden. Es handelt sich hierbei um 
+Prognosetechnologien zur Umsetzung vorhersagebasierter Polizeiarbeit. Solche Sys-
+ 
+4 „Richtig-positiv-Rate“ Herzstillstände, welche korrekt als Herzstillstand erkannt wurden. 
+5 „Richtig-negativ-Rate“ Keine Herzstillstände, welche korrekt als kein Herzstillstand erkannt wurden. 
+
+Aktuelle Anwendungsbeispiele 
+8 
+teme zielen nicht darauf ab einzelne Täter vor der Durchführung der Tat zu ermitteln, 
+wie es teilweise in Filmen wie Minority Report dargestellt wird. Die Zieldefinition ist 
+hingegen wesentlich abstrakter und dient beispielsweise der Identifikation von Risi-
+kogebieten. Auch in Deutschland haben verschiedene Bundesländer Tests durchge-
+führt oder führen diese aktuell durch. Einige der getesteten Systeme sind bereits in 
+die Alltagsorganisation übernommen worden [19]. Bisher wurden jedoch nur wenige 
+und meist auch umstrittene empirische Studien veröffentlicht, welche die erhofften 
+präventiven und effizienzsteigernden Effekte untermauern [20].  
+Auch Feuerwehren im Ausland nutzen mittlerweile Predictive Analytics Systeme, die 
+analog zur Polizei häufig als Predictive Firefighting bezeichnet werden. Zu den be-
+kanntesten Feuerwehren, welche solche Systeme einsetzen, gehören unter anderem 
+New York und London. Auch wenn es geringe Unterschiede gibt, sind die Grund-
+ideen hinter diesen Systemen gleich. Zum gegenwärtigen Zeitpunkt gibt es keine 
+Feuerwehr in Deutschland, die ein KI basiertes Predictive Analytics System einsetzt.  
+Die Ansätze der Feuerwehren aus New York und London basieren darauf, ähnlich 
+wie beim Predictive Policing, zukünftige Gefahrenschwerpunkte zu identifizieren. 
+Beide Systeme nutzen eine Vielzahl unterschiedlicher Daten. Dazu gehören unter 
+anderem Gebäudehöhen, Geodaten, vergangene Einsätze, die demografische Situa-
+tion und Kriminalstatistiken. In London fließen rund 60 Variablen in die Analyse ein 
+[21] [22]. Anhand dieser Daten erfolgt die Identifizierung von besonders gefährdeten 
+Gebieten und Gebäuden. In den besonders gefährdeten Gebäuden, hierzu zählen 
+auch private Haushalte, werden daraufhin gezielte Fire Inspections, vergleichbar mit 
+der deutschen Brandverhütungsschau, durchgeführt [23] [17] [24]. Zur Gewährleis-
+tung der Datenaktualität unterhält die Londoner Feuerwehr ein spezielles Team von 
+Datenanalysten, dessen Aufgabe es ist, interne wie externe Daten zu akquirieren 
+und zu pflegen [16].  
+Die Feuerwehr London setzt das System seit 2008 ein. Bei der Betrachtung der  
+Einsatzzahlen zeigt sich, dass die Anzahl der Brände, mit einigen Ausnahmen, stetig 
+abnimmt, vgl. Abbildung 6. Ein kausaler Zusammenhang zwischen der Einführung 
+und der Entwicklung der Anzahl der Brände lässt sich nicht eindeutig feststellen [25]. 
+In New York konnten in den ersten 30 Tagen der Testphase des Predictive  
+Firefighting 19 % mehr Verstöße gegen die Brandschutzvorschriften registriert wer-
+den als in den 30 Tagen zuvor. In Bezug auf die Anzahl der Brände kann, nach An-
+gaben der Feuerwehr New York, allerdings nur ein geringer Rückgang festgestellt 
+werden. Ob dieser im direkten Zusammenhang mit dem neuen System liegt, ist nicht 
+bewiesen [17]. 
+
+Aktuelle Anwendungsbeispiele 
+9 
+ 
+Abbildung 6 Anzahl aller Brände in Greater London (Eigene Darstellung, in Anlehnung an: [25]) 
+Somit stellt sich, ähnlich wie beim Predictive Policing, die Frage, wie viele Brände 
+durch das Predictive Firefighting letztendlich wirklich verhindert werden. Unumstritten 
+ist jedoch eine gezieltere Durchführung von Brandverhütungsschauen möglich. 
+3.4 Intelligente Verkehrssteuerung (Hangzhou) 
+In Hangzhou, China, kommt seit 2016 das KI-System „City-Brain“ des Herstellers 
+Alibaba zum Einsatz, welches den Verkehrsfluss in der Stadt intelligent steuert. Es 
+vernetzt Ampeln, öffentliche Verkehrsmittel, aber auch Polizei und Feuerwehr mitei-
+nander. Auf der Liste der Städte mit den längsten Staus Chinas schaffte es  
+Hangzhou, von 2016 bis 2018, von Platz 5 auf Platz 57 zu sinken [26].  
+Das System führt eine Echtzeit-Analyse des Verkehrs durch und steuert basierend 
+darauf 128 Kreuzungsampeln, um einen reibungslosen Verkehrsfluss zu ermögli-
+chen. Neben der Verkehrssteuerung kann das System Unfälle innerhalb einer Se-
+kunde erkennen. Die Genauigkeit bei der Unfallerkennung liegt bei 92 %. In einigen 
+Stadtteilen reduziert die intelligente Vorrangschaltung der Lichtzeichenanlagen für 
+Rettungswagen die Anfahrtsdauer um die Hälfte. Die Stadtverwaltung plant für die 
+Zukunft die Ausweitung des Systems auf weitere Sektoren, wie z. B. die Energiever-
+sorgung. Dadurch wird eine sukzessive Entwicklung zu einer Smart-City durchgeführt 
+[27].  
+Ein ähnlicher Ansatz zur optimierten Routenführung auf Basis von Verkehrsvorher-
+sage, Routenplanung und Ampelschaltung wird im Forschungsprojekt Sirene bei der 
+Berufsfeuerwehr Braunschweig erforscht [28]. Hier ist die Verwendung von KI aktuell 
+nicht vorgesehen, da sich die Anforderungen gegenwärtig mit normalen Algorithmen 
+abbilden lassen. Es wäre jedoch denkbar KI im Rahmen von Predictive Analytics zu 
+einem späteren Zeitpunkt zu integrieren und so eine KI gestützte Verkehrsprognose 
+mit einzubinden [29].  
+ 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+Anzahl Brände in Greater London
+vor der Einführung Predictive Firefighting 
+nach der Einführung Predictive Firefighting 
+Anzahl Brände pro Jahr 
+
+Mögliche zukünftige Einsatzgebiete 
+10 
+4 Mögliche zukünftige Einsatzgebiete 
+Im folgenden Kapitel werden weitere mögliche Einsatzgebiete für KI-Systeme im 
+Feuerwehrwesen vorgestellt. Weiterhin erfolgt eine Betrachtung aktueller For-
+schungsprojekte. 
+4.1 Ausbildungsunterstützungssysteme  
+Insbesondere bei der Feuerwehr lässt sich eine stark ausgeprägte Heterogenität in 
+der Ausbildung erkennen. Dies gilt für das Alter der Teilnehmer genauso wie für ihre 
+Vorbildung. Weiterhin ist in den letzten Jahren die Teilnehmerzahl in Grundausbil-
+dungslehrgängen häufig gestiegen. Dadurch wird es den Ausbildern erschwert, die 
+individuellen Lernstile, -fähigkeiten und -fortschritte jedes Einzelnen zu ermitteln. Mit-
+hilfe von, durch KI-Systeme begleiteten, E-Learning Prozessen soll dies ermöglicht 
+werden. Durch Auswertung des E-Learnings hat die Ausbildungsstelle die Möglich-
+keit für jeden Auszubildenden einen, auf die individuellen Bedürfnisse angepassten, 
+Bildungsplan zu entwickeln. Auch bei der Erstellung eines solchen Bildungsplans 
+besteht die Möglichkeit der Unterstützung durch KI-Systeme. Somit ergibt sich die 
+Chance, einer Unterforderung von besonders begabten Teilnehmern entgegenzuwir-
+ken und gleichzeitig überforderte Auszubildende individuell zu unterstützen, um 
+ihnen ein Mithalten zu ermöglichen [30]. Es ist jedoch zu berücksichtigen, dass für 
+ein solches System eine Vielzahl von sensiblen persönlichen Daten erhoben und 
+elektronisch verarbeitet werden müssen. Je nach Ausbaustufe kann zudem ein Ge-
+fühl der ständigen Überwachung auftreten. Aufgrund der kurzen Dauer von Lehrgän-
+gen im Bereich der freiwilligen Feuerwehr sowie bei Seminaren, wird ein solches 
+System keine valide Datenmenge sammeln können. Auch die Etablierung individuel-
+ler Bildungspläne ist in der kurzen Zeit kaum möglich. Somit begrenzt sich der 
+Hauptanwendungsbereich auf die Ausbildung von hauptamtlichen Kräften der ver-
+schiedenen Laufbahngruppen. 
+Ein weiterer Aspekt im Rahmen der Ausbildung ist die Verwendung von Agenten zur 
+Simulation menschlichen Handelns in virtuellen Simulationsumgebungen [4]. Durch 
+diese Agenten kann die Zahl der benötigten Personen zur Betreuung einer Übung 
+reduziert werden. Ein Beispiel hierfür ist die Stabsausbildung, welche sonst von meh-
+reren Ausbildern bespielt werden muss. Hier könnten auf die Entscheidungen des 
+Stabes angepasste Lageänderungen generiert werden.  
+4.2 Sprachassistenzsysteme 
+Das bei der Leitstelle Kopenhagen eingesetzte Assistenzsystem, vgl. Kapitel 3.1, ist 
+ein System, welches das hohe Potential von KI basierten Assistenzsystemen im Be-
+reich der Leitstelle aufzeigt. Es unterstützt den Disponenten bei seiner Entschei-
+dungsfindung und kann Merkmale, deren Wahrnehmung sich ihm entziehen, berück-
+sichtigen. Weiterhin gibt es Forschungen, die sich mit der Erkennung von Krankhei-
+ten auf Basis der Analyse der Stimme fokussieren [31] [32]. 
+In Zukunft können mit hoher Wahrscheinlichkeit weitere Bereiche ermittelt werden, in 
+denen ein Assistenzsystem den Leitstellendisponenten dabei unterstützt die Situation 
+
+Mögliche zukünftige Einsatzgebiete 
+11 
+vor Ort und den Zustand des Anrufers mit einem höheren Detailgrad einzuschätzen. 
+Ferner ist eine Funktionserweiterung des Systems denkbar. Die bereits genutzte 
+Spracherkennung kann dafür verwendet werden, den gesprochenen Text des Anru-
+fers zu visualisieren, um so Kommunikationsprobleme zu beheben.  
+In Kombination mit einem Übersetzungssystem besteht die Möglichkeit Sprachbarrie-
+ren zu überwinden. Dies bekommt, insbesondere mit zunehmender Globalisierung, 
+einen immer höheren Stellenwert. Häufig reichen Kenntnisse in deutscher und engli-
+scher Sprache nicht mehr aus, um das große Spektrum an verschiedenen Sprachen 
+bei Notrufen zu bedienen [33]. Auch für solche Anwendungen kommen schon heute 
+im Privatsektor KI-Systeme zum Einsatz. Google Translator beherrscht durch den 
+selbstlernenden Algorithmus, Stand November 2016, bereits 103 Sprachen [34].  
+Weiterhin kann in Leitstellen häufig beobachtet werden, wie die Disponenten bei 
+Rückmeldungen von der Einsatzstelle versuchen diese mit zu tippen oder händisch 
+Notizen anzufertigen, um sie dann schließlich in den Leitstellenrechner einzupflegen. 
+Auch hier kann solch ein System die Rückmeldung mithören und in Text umwandeln. 
+Der Disponent hat so die Möglichkeit sich auf den Inhalt der Rückmeldung zu kon-
+zentrieren und kann im Anschluss den generierten Text, wenn notwendig, korrigie-
+ren. Durch diese Anpassungen kann die Spracherkennung weiter lernen.  
+Bei Flächenlagen kann es dazu kommen, dass aufgrund der Vielzahl der Anrufe 
+Wartezeiten beim Notruf entstehen. Die Problematik in diesen Fällen liegt darin, dass 
+eine intelligente Unterscheidung zwischen nicht kritischen Meldungen, z. B. dem auf 
+der Straße liegenden Baum, und einem kritischen Anruf, beispielsweise einem Brand 
+mit Menschenleben in Gefahr oder einer Reanimation, momentan nicht möglich ist. 
+Eine KI könnte, als Alternative zur Warteschleife, eine erste intelligente Abfrage zur 
+Priorisierung der Anrufe durchführen und zeitkritische Meldungen direkt zu einem 
+Disponenten durchschalten. Als Basis könnte hier die KI aus Kapitel 3.1 genutzt wer-
+den. 
+4.3 Intelligente Disposition und Routing 
+Die Verkehrssituation in deutschen Städten wird zunehmend komplexer und insbe-
+sondere durch Umweltzonen, Umweltspuren o.Ä. häufig zusätzlich verkompliziert 
+[35]. Auch wenn Einsatzfahrzeuge mit Sondersignalanlagen ausgestattet sind, ver-
+zögert sich die Anfahrtszeit aufgrund der angespannten Verkehrslage häufig. Daten 
+von Smartphones, Fahrzeugtrackern, Kameras und weiteren Sensoren ermöglichen 
+eine wesentlich detailliertere Betrachtung der aktuellen sowie eine Prognose der zu-
+künftigen Verkehrssituation [36]. Die Disposition der Einsatzfahrzeuge erfasst diese 
+in aller Regel jedoch nicht, sondern ist an statische Ausrückebereiche gebunden  
+oder verwendet ein Routing, welches nicht die aktuelle Verkehrslage berücksichtigt.  
+Mittels KI besteht die Möglichkeit eine intelligente Disposition durchzuführen, in der 
+die aktuelle Verkehrssituation mit einbezogen wird. Zudem können mit GPS ausge-
+stattete Einsatzfahrzeuge, basierend auf ihrer aktuellen Position, in Einsätze einge-
+bunden werden. Der Vorteil einer dynamischen Disposition liegt darin, dass sie die 
+
+Mögliche zukünftige Einsatzgebiete 
+12 
+aktuelle Situation bewertet und basierend darauf die Einheiten einer Einsatzstelle 
+zuteilt. Hierdurch ergibt sich eine Reduzierung der Anfahrtszeiten.  
+In Verbindung mit einer intelligenten Verkehrssteuerung, wie in Kapitel 3.4 bereits 
+vorgestellt, kann ein solches System auch prüfen, welche Strecke kombiniert mit ei-
+ner intelligenten Ampelsteuerung die schnellste ist, darauf basierend die Einheiten 
+bestimmen und per Navigation über die ausgewählte Route zur Einsatzstelle führen. 
+Ferner kann ein Routing auch für die Rückfahrt zur Wache eingesetzt werden, was 
+zu einer schnelleren Wiederherstellung der Einsatzbereitschaft führt.  
+4.4 Überwachung sozialer Medien  
+Wie in Kapitel 3.2 vorgestellt, nutzt die Feuerwehr London bereits ein KI-System zum 
+Überwachen der sozialen Medien. Auch in Deutschland erfolgte beim G20 Gipfel das 
+händische Überwachen von sozialen Netzwerken. Jedoch hat sich gezeigt, dass dies 
+äußerst personalintensiv ist. Eine Kontrolle auf deutlich erhöhte Aktivitäten von 
+Smartphones, in Kombination mit Informationen aus sozialen Netzwerken, könnte 
+möglicherweise auf ungewöhnliche Zustände aufmerksam machen [37]. 
+Im Forschungsprojekt Integer wird beispielsweise eine visuelle Entscheidungsunter-
+stützung bei der Auswertung von sozialen Netzwerken erforscht [38]. Hier wäre es 
+denkbar solche Auswertprozesse einer KI zu überlassen, da die Überwachung der 
+sozialen Netzwerke andernfalls, aufgrund der Vielzahl von Netzwerken und der darin 
+enthaltenen Informationen, nicht oder nur mit erheblichem Aufwand durch Menschen 
+zu bewältigen wäre. Die KI kann selbstständig entscheiden, welche Informationen 
+Priorität für den aktuellen Einsatz haben. Auch kann sie die Überprüfung des Wahr-
+heitsgehaltes durch die Einbeziehung verschiedener Quellen und den Vergleich mit 
+früheren bereits geposteten Informationen durchführen. Dadurch kann der Gefahr 
+der gezielten Desinformation entgegnet werden.  
+4.5 Lagebeurteilung und Entscheidungsunterstützung  
+Insbesondere hochdynamische Lagen, wie Amok oder Terror, bringen die klassische 
+Stabsarbeit an ihre Grenzen. Zum einen ist ein Stab nicht unmittelbar mit Ereignisein-
+tritt vollständig besetzt und zum anderen erfordern diese Lagen eine Auswertung von 
+massenhaften, schnell veränderlichen Daten in kurzer Zeit. Die Bundeswehr nennt 
+diese Entwicklung „Fight-at-machine-Speed“, womit ausgedrückt wird, dass Ent-
+scheidungsprozesse, die früher teilweise Stunden beansprucht haben, heute in Minu-
+ten oder gar Sekunden durchgeführt werden müssen [4].  
+Gerade die Vervollständigung und Aktualisierung des Lagebildes ist aufgrund der 
+hohen Dynamik und der Vielzahl an Datenquellen durch Menschen in solchen Lagen, 
+aber auch bei Flächenlagen, nicht mehr adäquat beherrschbar. Die Polizei sieht im 
+Informationsüberfluss eine Quelle für Fehlentscheidungen in der Stabsarbeit [39]. 
+Ebenso stößt der klassische Ansatz der Zerlegung in Teilaufgaben bei solchen La-
+gen aufgrund der Komplexität sowie der Dynamik an seine Grenzen [40].  
+Weiterhin sind Großveranstaltungen für Sicherheitsbehörden eine besondere Her-
+ausforderung. Eine Einschätzung der Personendichte sowie der Emotionslage der 
+
+Mögliche zukünftige Einsatzgebiete 
+13 
+Personen mittels KI-basierter Video- und Audioauswertung ermöglicht es frühzeitig 
+auf gefährliche Veränderungen zu reagieren und entsprechende Maßnahmen vorzu-
+bereiten oder bereits einzuleiten. Erste KI-Anwendungen, die die Stimmung von 
+Menschen einschätzen können, existieren bereits [41].  
+Auch zukünftig eventuell neu hinzukommende Datenquellen wie Smart-Home oder 
+Smart-City Systeme, die eine Vielzahl an neuen Daten zur Verfügung stellen, können 
+nicht mehr adäquat von Menschen allein verarbeitet werden. Sie können dennoch 
+wichtige Informationen wie Aufenthaltsorte von Personen in brennenden oder einge-
+stürzten Gebäuden enthalten, was eine Beschleunigung der Rettung begünstigen 
+kann. Auch bei Flächenlagen können solche Systeme die Lagebeurteilung durch 
+Vernetzung vieler Sensoren verbessern. Ein Beispiel hierfür ist die Verknüpfung von 
+Wetterdaten mit Regensensoren sowie Pegelständen bei Unwetterlagen.  
+Eine KI könnte hier sowohl die Datenakquise, beispielsweise durch Auswertung sozi-
+aler Medien, vgl. Kapitel 4.4, als auch die Aufbereitung optimieren. So kann eine KI 
+die Daten auf Plausibilität prüfen und damit eine erste Filterung erreichen. In einem 
+nächsten Schritt besteht die Möglichkeit in den Daten Muster zu erkennen und somit 
+Informationen zu generieren. Diese können dem Anwender zielgerichtet als taktische 
+Lagebeurteilung zur Verfügung gestellt werden.  
+In einer weiteren Ausbaustufe wäre es denkbar, Vorschläge für Einsatzoptionen zu 
+generieren, welche einen möglichst effizienten und effektiven Einsatz der Kräfte er-
+möglichen und diese dem Anwender zur Auswahl zu stellen. Hierdurch ergibt sich ein 
+Wechsel vom kräfteorientierten zu einem wirkungsorientierten Einsatz [40].  
+4.6 Weitere Möglichkeiten für Predictive Analytics 
+Die ersten Anwendungen von Predictive Analytics in London und New York zeigen, 
+dass die Auswertung unterschiedlichster Daten zu einer Erkenntniserweiterung füh-
+ren kann. Die Zahl der entdeckten Mängel im Brandschutz konnte in beiden Fällen 
+erhöht werden. Ein Beweis für eine Verminderung der Anzahl der Brände lässt sich 
+jedoch nicht eindeutig ableiten. Außerdem ist fraglich, in welcher Form eine solche 
+zielgerichtete Brandverhütungsschau in Deutschland anwendbar ist. Am Beispiel von 
+NRW lässt sich aufzeigen, dass es im Gesetz über den Brandschutz, die Hilfeleis-
+tung und den Katastrophenschutz (BHKG) klare Regelungen dafür gibt, welche Ge-
+bäude zu kontrollieren sind.6 Somit fehlt für eine zielgerichtete Kontrolle von Privat-
+haushalten die rechtliche Grundlage. Einzig die im BHKG definierte maximale Dauer 
+zwischen zwei Brandverhütungsschauen könnte gegebenenfalls dynamisch, auf-
+grund der Vorhersagen, angepasst werden.7  
+Wo jedoch die Predictive Analytics mit hoher Wahrscheinlichkeit einen Mehrwert er-
+zeugen kann, sind zum einen im Bereich der dynamischen Verschiebung von Ein-
+satzfahrzeugen und zum anderen in der Brandschutzbedarfsplanung. Die dynami-
+ 
+6 Vgl. § 26 Absatz 2 Satz 1 BHKG. 
+7 Vgl. § 26 Absatz 2 Satz 4 BHKG. 
+
+Mögliche zukünftige Einsatzgebiete 
+14 
+sche Verschiebung von Fahrzeugen ermöglicht es, die vorhandenen Ressourcen 
+möglichst effizient zu positionieren. Insbesondere im Rettungsdienstsektor sind, auf-
+grund der in aller Regel hohen Einsatzzahlen, eine Vielzahl an Daten vorhanden. 
+Diese ermöglichen es, zeitabhängig Gebiete zu prognostizieren, an denen viele 
+Einsätze anfallen. Entsprechend können Einsatzfahrzeuge zur Spitzenabdeckung 
+von gering frequentierten Gebieten abgezogen und in diese Gebiete verlegt werden. 
+In den Vereinigten Staaten gab es bereits 1983 erste Ansätze, bei denen Fahrzeu-
+gen zwischen Einsätzen optimierte Ausrückebereiche zugewiesen wurden. Somit 
+kehren die Fahrzeuge nach Beendigung nicht zur Wache zurück, sondern bewegen 
+sich einsatzbereit in einem zugewiesenen Bereich z. B. in einem bestimmten Stadtteil 
+[42].  
+In der Brandschutzbedarfsplanung soll, nach der Handreichung des Deutschen Städ-
+tetags, das zukünftige Leistungsniveau der Feuerwehr beschrieben werden [43]. Bei 
+der Verwendung von vielen unterschiedlichen Datenquellen besteht die Möglichkeit 
+neue Zusammenhänge zu entdecken und mittels Predictive Analytics zukünftige 
+Entwicklungen genauer abzuschätzen.  
+4.7 Autonom agierende Roboter und Drohnen 
+Der Bereich der autonom agierenden Roboter und Drohnen umfasst Mess- und Er-
+kundungssysteme sowie manipulierende Systeme. Diese können einzeln agieren 
+oder eine Schwarmintelligenz, also eine gemeinsam wirkende Einheit aus mehreren 
+autonom agierenden Systemen, bilden.  
+Insbesondere Waldbrände in Munitionsverdachtsflächen haben die Feuerwehren im 
+Jahr 2019 vor besondere Herausforderungen gestellt. Betroffen sind davon sowohl 
+die Lageerkundung als auch die spätere Brandbekämpfung, da Sperrflächen nicht 
+betreten werden können [44]. Die frühzeitige Lageerkundung in einsturzgefährdeten 
+Gebäuden sowie im Gefahrenbereich bei Einsätzen mit atomaren, biologischen oder 
+chemischen Gefahrstoffen sind ebenfalls Beispiele, bei denen der Mensch an seine 
+Grenzen stößt. Auch können weit ausgedehnte Einsatzstellen die Lageerkundung 
+erschweren oder in der Erkundungsphase zu viel Personal binden.  
+Mittlerweile nutzen Feuerwehren zunehmend ferngesteuerte Drohnen zur Erkundung 
+[45]. Aber auch diese Erkundungsinstrumente kommen bei ausgedehnten Einsatz-
+stellen schnell an ihre Grenzen und sie benötigen Personal für die Flugsteuerung 
+sowie für die Auswertung der Bild- und Sensordaten. In aller Regel kann ein Droh-
+nenpilot nur eine einzelne Drohne steuern. Die in der Einleitung bereits erwähnten, 
+mittels KI gesteuerten autonomen Drohnenschwärme könnten hingegen Einsatzstel-
+len selbstständig flächendeckend erkunden und fortlaufend überwachen. Im Rahmen 
+der fortlaufenden Überwachung der Einsatzstelle könnten Lageänderungen automa-
+tisiert gemeldet werden. Durch die Autonomität der Systeme benötigen diese zukünf-
+tig keinen Piloten, sondern können durch die KI selbstständig agieren. Erste For-
+schungen zur Erkundung von Gefahrstoffen mit Drohnen und Robotern sowie zur 
+Schwarmintelligenz erfolgten bereits am Institut für Feuerwehr- und Rettungstechno-
+logie Dortmund [46] [47].  
+
+Mögliche zukünftige Einsatzgebiete 
+15 
+Überdies gibt es bereits erste Forschungsprojekte in Duisburg und Dortmund, in de-
+nen eine Drohne parallel zur Alarmierung der Einsatzkräfte startet und noch vor dem 
+Eintreffen der Einsatzkräfte erste Video und Bildaufnahmen von der Einsatzstelle zur 
+Verfügung stellen soll. Bei beiden Projekten ist zum aktuellen Stand noch ein Pilot 
+vorgesehen [48]. Beim Forschungsprojekt der Feuerwehr Dortmund wäre ein voll-
+ständig autonomer Flug ohne Piloten, nach Angaben der RWTH8 Aachen, grundsätz-
+lich möglich [49]. Auch das Forschungsprojekt der Feuerwehr Duisburg hat das Ziel, 
+eine autonom agierende Drohne einzusetzen. 
+Neben der reinen Erkundung ist es durchaus denkbar in Zukunft in Hochrisikoberei-
+chen, wie beispielsweise Munitionsverdachtsflächen oder kontaminierten Bereichen, 
+autonome Roboter zum Einsatz kommen zu lassen. Gegenwärtig werden hier fern-
+gesteuerte bodengebundene Systeme verwendet. Ein Beispiel dafür ist der Kern-
+technische Hilfsdienst. Dieser besitzt mehrere ferngesteuerte Roboter, die bei einem 
+Unfall mit radioaktiven Stoffen dort zum Einsatz kommen, wo die Strahlenbelastung 
+für Menschen zu hoch ist [50]. Auch der Einsatz von autonomen Löschdrohnen, zur 
+Durchführung punktueller Brandbekämpfungen wäre denkbar. Bei Munitionsver-
+dachtsflächen oder ABC-Lagen ergäbe sich bei Drohnen der Vorteil, dass der Bo-
+denkontakt gemieden wird. Im Bereich von zeitkritischen Einsätzen wie einem Innen-
+angriff sind Roboter aktuell dem Menschen weder in Geschwindigkeit noch im Hand-
+ling ebenbürtig. Jedoch sind auch auf diesem Gebiet zukünftig neue Ergebnisse zu 
+erwarten. 
+Ein Gesamtprojekt, welches untersucht, in welcher Form KI in verschiedenen Szena-
+rien im Feuerwehrwesen eingesetzt werden kann, erfolgt durch die Plattform Lernen-
+de Systeme, die das Bundesministerium für Bildung und Forschung (BMBF) im Jahr 
+2017 initiiert hat [7]. Weiterhin beschäftig sich das Kompetenzzentrum für Rettungs-
+robotik mit Robotersystemen in menschenfeindlichen Umgebungen [51]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 Rheinisch-Westfälische Technische Hochschule. 
+
+Mögliche Risiken 
+16 
+5 Mögliche Risiken 
+In diesem Kapitel werden mögliche Risiken bei der Verwendung von KI in der Feuer-
+wehr betrachtet. Die, durch Filme und Bücher häufig prognostizierte, Gefahr einer 
+künstlichen Superintelligenz, welche den Menschen übertrifft, ist aus aktueller Sicht 
+heraus nicht gegeben [8]. Dazu müsste zunächst die Entwicklung einer starken KI 
+gelingen. Von dieser sind die aktuellen Forschungen noch weit entfernt [1]. Entspre-
+chend wird diese Thematik unter den Risiken nicht betrachtet.  
+5.1 Datenschutz 
+Mit der Datenschutz-Grundverordnung (DSGVO) hat die Europäische Union im Jahr 
+2018 eine Gewährleistung für den Schutz personenbezogener Daten innerhalb der 
+Europäischen Union eingeführt.9 Sie umfasst die ganz, teilweise oder nicht automati-
+sierte Verarbeitung personenbezogener Daten. Jedoch sieht die DSGVO verschie-
+dene Bedingungen für eine rechtmäßige Verarbeitung vor, im Folgenden die für die 
+Feuerwehr wichtigsten: 
+• Bei Einwilligung der betroffenen Person.10 
+• Erforderlichkeit, um eine rechtliche Verpflichtung zu erfüllen.11 
+• Erforderlichkeit, um lebenswichtige Interessen der Betroffenen oder einer an-
+deren natürlichen Person zu schützen.12 
+• Erforderlichkeit der Verarbeitung für die Wahrnehmung einer Aufgabe, die im 
+öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die 
+dem Verantwortlichen übertragen wurde.13 
+Die obigen Bedingungen zeigen, dass es Ausnahmen für die rechtmäßige Verarbei-
+tung gibt, ob diese anwendbar sind sollte jedoch im Einzelnen geprüft werden [52]. 
+Soweit eine Zuordnung der Daten zu bestimmten Personen nicht notwendig ist, bietet 
+sich die Alternative der Pseudonymisierung von Datensätzen an, um den Schutz per-
+sonenbezogener Daten zu gewährleisten. Hier wird die Zuordnung von Daten zu ei-
+ner Person, durch die Entfernung von Namen und Identifikationsmerkmalen, er-
+schwert oder verhindert [53]. 
+5.2 Haftung 
+In Bezug auf die Haftung ergibt sich eine wichtige Frage bei online lernenden Algo-
+rithmen. Diese entwickeln sich während ihrer Verwendung stetig weiter. Entspre-
+chend kommt es zu einer Veränderung des Algorithmus. Sollte es durch einen Fehler 
+des Algorithmus zu einem Schaden kommen, stellt sich die Frage der Haftung. Ist 
+ 
+9 Vgl. Artikel 1 Absatz 1 und 2 DSGVO. 
+10 Vgl. Artikel 6 Absatz 1 Satz 1a DSGVO. 
+11 Vgl. Artikel 6 Absatz 1 Satz 1c DSGVO. 
+12 Vgl. Artikel 6 Absatz 1 Satz 1d DSGVO. 
+13 Vgl. Artikel 6 Absatz 1 Satz 1e DSGVO. 
+
+Mögliche Risiken 
+17 
+der Hersteller verantwortlich, obwohl der Algorithmus bei der Auslieferung funktioniert 
+hat und der Fehler erst durch den Online-Lernprozess erzeugt wurde, oder ist der 
+Benutzer verantwortlich, da er den Lernprozess nicht korrekt überwacht hat? Nach 
+juristischer Ansicht darf sich der Betreiber von KI-Systemen nicht alleinig auf den 
+Hersteller verlassen, sondern steht in der Pflicht eigene Schutzmaßnahmen zu er-
+greifen [54]. Das Produkthaftungsgesetz gilt nur für bewegliche Sachen, gegenwärtig 
+wird Software entsprechend nicht als Produkt im Sinne des Gesetzes betrachtet. Die 
+Produzentenhaftung hingegen kommt nur in Betracht, wenn der Hersteller einen 
+Schaden vorsätzlich oder fahrlässig verursacht. Aufgrund der Weiterentwicklung von 
+KI-Systemen ist fragwürdig, ob dem Hersteller Fahrlässigkeit vorgeworfen werden 
+kann, wenn er den Eintritt nicht voraussehen und damit auch nicht verhindern kann 
+[53].  
+Ein erster tödlicher Unfall mit einem durch KI gesteuerten Fahrzeug der Firma Uber 
+hat sich im März 2018 in Phoenix (Arizona) in den USA zugetragen. Hier wurde eine 
+Fahrradfahrerin durch ein autonomes Fahrzeug beim Überqueren der Straße nicht 
+korrekt erkannt, was zu einer tödlichen Kollision führte. Die Ermittlungsbehörden ge-
+hen davon aus, dass der Algorithmus den fatalen Unfall begünstigt hat [55]. Nach 
+einem Bericht der US-Verkehrssicherheitsbehörde NTSB14 gilt die Unaufmerksamkeit 
+der Testfahrerin des autonomen Fahrzeuges als wahrscheinliche Unfallursache [56]. 
+Sollte sich die Einschätzung der NTSB bestätigen, zeigt dies den enormen Verant-
+wortungsbereich der Anwender bzw. Überwacher von KI. Sie tragen letztlich die Ver-
+antwortung und müssen als letzter Entscheider die KI überwachen.  
+5.3 Ethische Bedenken 
+Insbesondere wenn eine KI Entscheidungen trifft, welche unmittelbar das Leben von 
+Menschen beeinflussen, müssen auch ethische Überlegungen vorgenommen wer-
+den. Beispiele hierfür sind Entscheidungen im Rahmen der Einsatzplanung. Welche 
+Gefahr muss an welcher Stelle zuerst bekämpft werden? Eine Frage, die sich Füh-
+rungskräfte im Rahmen der Beurteilung einer Lage stellen müssen. Gegebenenfalls 
+kann darin auch die Entscheidung über die Reihenfolge der Menschenrettung enthal-
+ten sein. Hier stellt sich die Frage, ob eine solche Entscheidung durch eine KI getrof-
+fen werden soll. Eine Fixierung der Formulierung ethischer Normen, sodass KI-
+Systeme diese auf die verschiedenartigsten komplexen Situationen anwenden kön-
+nen, scheint derzeit nicht realisierbar. Auch stellt sich die Frage des Umgangs mit 
+online lernenden Algorithmen, die zum Beginn ihrer Verwendung ethische Normen 
+einhalten, sie aber durch ihre Weiterentwicklung verwerfen könnten [9]. Die ethische 
+Betrachtung der KI in kritischen Entscheidungsprozessen bestärkt die Installation des 
+Menschen als letzten Entscheider.  
+ 
+14 National Transportation Safety Board. 
+
+Mögliche Risiken 
+18 
+5.4 Diskriminierung  
+Ein von Amazon eingeführtes KI-Tool, zur Beurteilung von Bewerbungen, basierend 
+auf ML, wird von dem Unternehmen mittlerweile nicht mehr eingesetzt. Der Grund 
+dafür ist, dass der Algorithmus sich sexistische Tendenzen beigebracht hat. Männer 
+wurden beispielsweise mit einer höheren Punktzahl als Frauen bewertet. Das Trai-
+ning des Systems erfolgte hauptsächlich durch zehn Jahre alte Bewerbungen, die 
+überwiegend von Männern stammten. Daraufhin bewertete der Algorithmus das Wort 
+Frauen als schlecht, was entsprechend negativ in die Bewertung einfloss [57]. Mit 
+dieser Problematik ist Amazon jedoch nicht allein, auch Bilderkennungssysteme von 
+IBM und Microsoft identifizieren, nach einer Studie des MITs15, weiße Männer mit 
+einer höheren Wahrscheinlichkeit als dunkelhäutige Frauen [58]. Eine Frage, die an 
+dieser Stelle allerdings gestellt werden muss, ist die nach der zugrunde liegenden 
+Quelle des Problems. Diese scheint nicht beim Algorithmus zu liegen, sondern 
+hauptsächlich bei den, durch die Entwickler, ausgewählten Trainingsdaten. Enthalten 
+diese sexistische oder rassistische Tendenzen, entwickelt der Algorithmus im Rah-
+men seines Lernprozesses entsprechende Kriterien. Eine KI, welche beispielsweise 
+bei der Priorisierung von Rettungsmaßnahmen Geschlecht, Ethnie oder ähnliche Kri-
+terien mit einbezieht, wäre unvertretbar. 
+Andererseits besitzt eine richtig programmierte KI keine Emotionen oder irrationale 
+Willkür. So gibt es einen statistischen Zusammenhang zwischen der Tageszeit sowie 
+der Entscheidung eines Richters bei der Strafhöhe und der Wahrscheinlichkeit eine 
+Strafaussetzung auf Bewährung zu erhalten. Daher stellt sich die Frage, ob Algorith-
+men im Durchschnitt nicht sogar die besseren, unvoreingenommeneren und konsis-
+tenteren Entscheider sind [59].  
+Insbesondere bei lernenden Algorithmen sind deshalb die Richtigkeit und Qualität 
+der Daten, die zum Lernen verwendet werden, von essenzieller Bedeutung. Sind be-
+reits diese Daten fehlerbehaftet, können fatale Fehlentwicklungen des Systems die 
+Folge sein. Ebenfalls muss eine Manipulation der Daten ausgeschlossen werden. Es 
+ist somit zwingend erforderlich, dass Qualität und Richtigkeit der zum Training ge-
+nutzten Daten, offline wie online, zuvor verifiziert werden. 
+5.5 Transparenz  
+Ein Problem von KI ist, dass insbesondere Deep-Learning Strukturen aufgrund ihrer 
+Komplexität nicht mehr vollumfänglich durchschaut werden können. Der Grund dafür 
+ist, dass Entscheidungen auf einer Interaktion einzelner neuronaler Knoten basieren. 
+Die Anzahl der Knoten kann hier bei bis zu Millionen oder sogar Milliarden liegen. 
+Weiterhin verändern sich die neuronalen Netze bei online lernenden Systemen wäh-
+rend der Verwendung. Somit beeinflussen die verarbeiteten Daten die Entschei-
+dungsstruktur des Netzes. Hierdurch kann es sogar bei gleichgelagerten Fällen zu 
+ 
+15 Massachusetts Institute of Technology. 
+
+Mögliche Risiken 
+19 
+unterschiedlichen Entscheidungen kommen, da sich die Struktur zwischenzeitlich 
+verändert hat [59].  
+Dhruv Batra, Mitglied der Forschungsgruppe für KI bei Facebook hat dazu Folgendes 
+gesagt: „Wir verstehen schon jetzt im Allgemeinen nicht, wie komplexe KIs denken, 
+weil wir in ihren Denkprozess nicht wirklich hineinsehen können.“ [60]. Auch die In-
+formatiker Kleinberg und Mullainathan sehen dies ähnlich: „Wir bauen sie zwar, aber 
+wir verstehen sie nicht.“ [59]. Aus diesen Zitaten lässt sich erkennen, dass sich die 
+Prozesse innerhalb der Algorithmen sogar dem Erkenntnishorizont der Schöpfer ent-
+ziehen.  
+Auch lassen sich Entscheidungen neuronaler Netze später nicht mehr oder nur teil-
+weise rekonstruieren, sodass sich, je nach Einsatzgebiet, die Frage stellt, wie ein 
+nachvollziehbares und rechtlich überprüfbares Handeln gewährleistet werden kann. 
+Neben der zumeist nicht möglichen Rekonstruktion von Entscheidungen ist weiterhin 
+eine Vorhersage der Verhaltensweisen online lernender KIs in aller Regel ausge-
+schlossen [59].  
+Ist ein transparentes, nachvollziehbares oder vorhersehbares Handeln einer KI not-
+wendig, ist dies im Entwicklungsprozess zu berücksichtigen. Ist eine Garantie dieser 
+Punkte allerdings nicht möglich, aber notwendig, sollte in diesen Fällen der Einsatz 
+solcher Algorithmen kritisch hinterfragt werden. Ein unveränderliches Handeln lässt 
+sich durch den Einsatz von offline lernenden Systemen erreichen. 
+5.6 Abhängigkeit von Systemen, Verfügbarkeit und Ausfallsicher-
+heit 
+Bei der Gefahrenabwehr ist die Funktionalität in Ausnahmesituationen von zentraler 
+Bedeutung. Zwar lässt sich mit Unterstützungssystemen die Effektivität und Effizienz 
+sowie der Komfort für die Mitarbeiter steigern, aber auch bei einem Ausfall oder einer 
+Fehlfunktion einzelner oder aller Unterstützungssysteme müssen die Mitarbeiter in 
+der Lage sein den Betrieb aufrecht zu erhalten. Hierzu ist es notwendig, dass die 
+Mitarbeiter auch ohne Unterstützungssysteme handlungsfähig bleiben. Des Weiteren 
+müssen die Mitarbeiter Fehlfunktionen oder Fehlentscheidungen des Systems er-
+kennen und dann intervenieren, denn sie agieren in aller Regel als letzter Entschei-
+der. Außerdem müssen Rückfallebenen vorhanden sein, um bei einem Ausfall den 
+Betrieb aufrecht zu erhalten.  
+Ein vergleichbarer Sektor in dieser Beziehung ist die Luftfahrt, auch hier können 
+durch Autopiloten positive Aspekte erzielt werden, jedoch muss die Crew bei einem 
+Ausfall oder einer Fehlfunktion die Fähigkeit besitzen, das Flugzeug weiter zu betrei-
+ben und sicher zu landen. Eine Studie der Bundesluftfahrtbehörde der Vereinigten 
+Staaten zeigt jedoch, dass zum einen Piloten häufig Defizite im händischen Flug auf-
+zeigen und zum anderen das Vertrauen in die Autopiloten zu groß ist. Entsprechend 
+besteht eine Hemmschwelle, gegen diese zu entscheiden [61]. Hier stellt sich die 
+Frage, ob der Mensch als letzter Entscheider auch als dieser agiert.  
+Bereits vor der Einführung ist zu klären, wie mit Abweichungen von den von KI-
+Systemen generierten Entscheidungen umgegangen wird. Andernfalls kann der Ef-
+
+Mögliche Risiken 
+20 
+fekt des blinden Vertrauens in Assistenzsysteme zusätzlich verstärkt werden. Auch 
+Beispiele, bei denen Fahrzeuge auf der Autobahn wenden oder auf Waldstraßen 
+stecken bleiben, weil das Navigationsgerät einen Fehler macht und sich trotz berech-
+tigter Zweifel auf dieses verlassen wurde, zeigen die Gefahr eines unreflektierten 
+Vertrauens in die Systeme sowie einer zu großen Abhängigkeit von der Technik [62] 
+[63]. Eine weitere Automation von Entscheidungsprozessen durch Anwendung von 
+KI könnte solche Effekte noch verstärken. Entgegnet werden kann solchen Tenden-
+zen durch eine klare Stärkung der Mitarbeiter als letzte Entscheider. 
+Die Entscheidungsfähigkeit oder die Fähigkeit einen bestimmten Prozess durchzu-
+führen können aufgrund mangelnden Trainings durch einen zu hohen Automatisie-
+rungsgrad nicht mehr oder nur noch rudimentär vorhanden sein. Im Bereich der Leit-
+stelle begegnen viele Feuerwehren dieser Entwicklung durch Notbetriebsübungen, 
+bei denen diese ohne Unterstützungssysteme betrieben wird. Dadurch sind Hand-
+lungsabläufe und Vorgehensweisen bei einem Ausfall trainiert und funktionieren auch 
+bei einem Spontanausfall.  
+Ferner ist es wichtig, dass Assistenzsysteme für die speziellen Anforderungen der 
+Feuerwehr geeignet sind und dass das Personal entsprechend geschult ist. Bei-
+spielsweise gibt es erste Fälle in denen Fahrerassistenzsysteme in Einsatzfahrzeu-
+gen, auf welche die Mitarbeiter nicht geschult waren, bei einsatzbedingten Fahrma-
+növern eingriffen und somit eine Gefahrensituation herbeigeführt haben [64]. 
+5.7 Akzeptanz durch Personal und Gesellschaft 
+Ein wichtiger Aspekt bei der Einführung neuer Systeme ist die Akzeptanz der Mitar-
+beiter, deren Arbeit direkt oder indirekt durch sie beeinflusst wird. Ein hoher Grad an 
+Transparenz bei der Planung sowie Einführung und die ausführliche Schulung des 
+Personals ist daher unabdingbar. Bereits die Einführung der strukturierten Notrufab-
+frage erzeugt teilweise kritische Sichtweisen. Eine Studie hat jedoch ergeben, dass 
+bei 79,5 % der Leitstellen, welche die strukturierte Notrufabfrage eingeführt haben, 
+die Mitarbeiterzufriedenheit gestiegen ist [65]. Ein weiterer Punkt bei der Mitarbeiter-
+akzeptanz ist die Beherrschbarkeit eines Systems. Bei einer intuitiven Anwendbarkeit 
+und einem spürbaren positiven Nutzen ist diese eher zu erwarten, als bei hochkom-
+plexen, schwer zu bedienenden Systemen. 
+Neben der Akzeptanz der Mitarbeiter darf die gesellschaftliche Akzeptanz nicht ver-
+gessen werden. Eine im Jahr 2017 durchgeführte Umfrage zur Akzeptanz von KI bei 
+der Diagnose zeigt, dass nur 12 % der Befragten einer Diagnose durch einen Com-
+puter vertrauen, jedoch ganze 63 % diese ablehnen. Wird die Diagnose durch einen 
+Computer und einen Arzt durchgeführt, steigt die Akzeptanz auf 61 % [66]. Auch hier 
+zeigt sich die Wichtigkeit einer menschlichen Entscheidungskompetenz bei der Ver-
+wendung von KI. 
+5.8 Bewertung der Risiken 
+In diesem Kapitel sind verschiedene Risiken bei der Einführung und Verwendung von 
+KI im Feuerwehrwesen betrachtet worden. Wie sich zeigt, handelt es sich dabei al-
+
+Mögliche Risiken 
+21 
+lerdings eher um überwindbare Herausforderungen. Einige sind bei der Einführung 
+jeglicher elektronischer Unterstützungssysteme zu erwarten. Bei lernenden Syste-
+men, insbesondere online lernenden, sowie Entscheidungsunterstützungssystemen 
+sind jedoch einige Besonderheiten zu berücksichtigen. Die zentralen Punkte werden 
+im Folgenden noch einmal zusammengefasst und darauf basierend Aspekte, welche 
+bei einer Einführung von KI beachtet werden sollten, vorgestellt.  
+Der Datenschutz ist ein bei jeglicher Verarbeitung von personenbezogenen Daten zu 
+beachtender Gesichtspunkt. Eine Pseudonymisierung von Daten stellt, soweit der 
+Personenbezug unerheblich ist, eine Vereinfachung dar. Ist eine Pseudonymisierung 
+nicht möglich, muss geprüft werden, ob die Verarbeitung rechtskonform ist.  
+Bei online lernenden Systemen muss, um eine Fehlentwicklung auszuschließen, zum 
+einen die Datenbasis geprüft und zum anderen der Lernprozess überwacht werden. 
+Die Überwachung der Weiterentwicklung ist auch aufgrund fehlender haftungsrechtli-
+cher Regularien von Bedeutung. Im Zweifelsfall sollte auf offline lernende Systeme 
+zurückgegriffen werden, hier fällt die Überwachung der Weiterentwicklung weg.  
+Ein zentraler Aspekt bei der Einführung von KI ist die Stellung des Menschen. Je kri-
+tischer und folgenschwerer die zu treffenden Entscheidungen sind, desto essenziel-
+ler ist die Rolle des Individuums als letztem Entscheider. Somit ist es unerlässlich 
+einen gut ausgebildeten menschlichen Entscheidungsträger beizubehalten, da nur 
+bei ausreichender Expertise Fehler der KI erkannt und eine darauf basierende Fehl-
+entscheidung ausgeschlossen werden kann. Ferner wird dadurch, beim Vorhanden-
+sein von Rückfallebenen, bei einem Systemausfall die Ausfallsicherheit garantiert. 
+Eine weitere nicht gesondert betrachtete Herausforderung liegt bei der Einführung 
+von KI in ihrer enormen Entwicklungsgeschwindigkeit. Demgegenüber stehen meist 
+langwierige Entwicklungs-, Beschaffungs- und Inbetriebnahmezeiten im öffentlichen 
+Sektor. Dadurch kann es dazu kommen, dass Systeme bereits bei der Inbetriebnah-
+me veraltet sind. Die schnelle Entwicklungszeit erfordert zudem eine kontinuierliche 
+Fortentwicklung und Betreuung der Systeme. Einzelne Feuerwehren haben meist zu 
+begrenzte Ressourcen, um die prototypischen Systeme zu entwickeln. Demnach er-
+halten insbesondere Forschungsinstitute und die Verbände sowie Vertretungen der 
+Feuerwehren eine essenzielle Rolle.  
+Weiterhin kann es durch fortschreitende Digitalisierungsprozesse unter Einbindung 
+von KI dazu kommen, dass festen Regeln folgende Prozesse automatisiert werden. 
+Eine mögliche Folge davon kann die Veränderung der Personalstruktur sein. Es be-
+steht ein zunehmender Bedarf an IT-Fachkräften, Arbeitsplätze für einfache Arbeiten 
+können hingegen durch die KI verdrängt werden. Zu einer Dämpfung eines solchen 
+Effektes kann die Forderung des Menschen als letzter Entscheider führen. Insbeson-
+dere bei feuerwehrtechnischen oder rettungsdienstlichen Fragestellungen ist es von 
+großer Bedeutung, dass die entsprechende Fachexpertise und Erfahrung der letzten 
+Entscheider verlangt wird. Laut eines Berichts der Bundesagentur für Arbeit bewegt 
+sich die Nachfrage nach IT-Spezialisten im Jahr 2019 auf Höchstniveau [67]. Hier 
+liegt die Herausforderung darin, diese für den öffentlichen Dienst zu akquirieren. 
+
+Mögliche Risiken 
+22 
+Wie eingangs bereits erwähnt, können keine unüberwindbaren Hindernisse identifi-
+ziert werden. Trotzdem gilt es einige Punkte bei der Einführung und Anwendung von 
+KI zu berücksichtigen: 
+• Der Mensch bleibt bei kritischen Entscheidungen die letzte Instanz. 
+• Der letzte Entscheider hat eine der Aufgabe entsprechende Ausbildung und ist 
+auch ohne KI handlungsfähig. 
+• Vorgehensweisen bei einer Abweichung von der KI sind klar geregelt.  
+• Der Datenschutz wird berücksichtigt. 
+• Die Technik ist ausreichend ausgereift und für das spezielle Gebiet des Feu-
+erwehrwesens anwendbar.  
+• Rückfallebenen sind in kritischen Bereichen vorhanden.  
+• Die Komplexität der Systeme ist beherrschbar und die Bedienung intuitiv. 
+• Die Entwicklung von online lernenden Systemen wird überwacht. 
+Weiterhin ist es wichtig, bei der Einführung von KI den gesamten Transformations-
+prozess zu beachten. Beispielsweise führt die alleinige Einführung einer KI, ohne die 
+Anpassung der betroffenen Prozesse in aller Regel zu einem verminderten oder zu 
+gar keinem Mehrwert. Im Anpassungsprozess sind der Mensch, die Organisation, 
+Technologie und Prozesse zu berücksichtigen. Nur wenn alle Punkte in den Trans-
+formationsprozess eingebunden werden, kann dieser erfolgreich sein, vgl. Abbildung 
+7 [40]. 
+ 
+Abbildung 7 Transformationsprozess (Eigene Darstellung, in Anlehnung an: [40]) 
+ 
+ 
+
+Zusammenfassung und Ausblick 
+23 
+6  Zusammenfassung und Ausblick 
+6.1 Zusammenfassung 
+Ziel dieser Arbeit ist es, dem Leser einen Überblick über das Thema „Künstliche In-
+telligenz im Feuerwehrwesen“ zu geben. Hierfür erfolgte zunächst eine grundlegende 
+Einführung in KI sowie ML. Es wurde gezeigt, dass KI ein Teilbereich der Informatik 
+ist und ein äußerst breites Spektrum an Anwendungen bietet. Das gegenwärtig große 
+Interesse basiert primär auf dem, dem ML zuzuschreibenden, Deep Learning. Im An-
+schluss wurden verschiedene, im Feuerwehrwesen bereits eingesetzte, KI-Systeme 
+vorgestellt. 
+Basierend auf den vorgestellten, sich bereits im Gebrauch befindlichen, KI-
+Systemen, aktuellen Forschungsprojekten und eigenen Überlegungen konnten ver-
+schiedene Einsatzgebiete identifiziert werden. Nach Meinung des Verfassers wird KI 
+im Feuerwehrwesen zukünftig eine immer wichtigere Rolle einnehmen und bietet vie-
+le neue Möglichkeiten der Verbesserung. Insbesondere Leitstellen besitzen ein ho-
+hes Potential ihre Effizienz und Effektivität mittels KI zu steigern. Sprachassistenz-
+systeme erkennen für den Menschen versteckte Merkmale und können so den Dis-
+ponenten bei seiner Auswertung von Notrufen unterstützen. Diese Systeme bieten 
+gleichzeitig den Vorteil, dass gesprochene Worte visualisiert werden und bei Fremd-
+sprachen könnten zukünftig Übersetzungssysteme Sprachbarrieren überwinden. 
+Ferner kann eine KI im Bereich Disposition sowie Routing unterstützend wirken, so-
+dass, in Kombination mit einer intelligenten Verkehrssteuerung, die Anfahrtszeiten 
+drastisch verkürzt werden können.  
+Die Auswertung von Massendaten, beispielsweise aus sozialen Netzwerken, ist mitt-
+lerweile ohne eine Automation kaum noch möglich. KI kann in diesem Kontext die 
+Überwachung und Auswertung unterstützen. Auch könnten in Zukunft weitere Da-
+tenquellen durch Smart-City oder Smart-Home Anbindungen hinzukommen, wobei 
+insbesondere bei Letzteren zunächst datenschutzrechtliche Belange betrachtet wer-
+den müssen.  
+Autonom agierende Drohnen und Roboter sind gegenwärtig primär im Forschungs-
+bereich anzutreffen. Aber auch in diesem Feld können verschiedene Firmen und 
+Forschungsinstitute Fortschritte vermelden. Zukünftig können davon insbesondere 
+die Einsatzkräfte vor Ort profitieren. Dies gilt sowohl für die schnelle Erkundung als 
+auch für die Unterstützung bei Arbeiten in Hochrisikobereichen. Hier liegt der große 
+Vorteil in der Erhöhung der Sicherheit für die Einsatzkräfte.  
+Außerdem gibt es im militärischen Bereich Ideen, KI zur Lagebeurteilung und Ent-
+scheidungsunterstützung, beispielsweise in der Stabsarbeit, einzusetzen. Für die 
+Stabsarbeit, insbesondere bei hochdynamischen Lagen, könnten zukünftig Assis-
+tenzsysteme verwendet werden, welche Daten sammeln, überprüfen und im An-
+schluss aufbereitet dem Stab zur Verfügung stellen. In einer weiteren Entwicklungs-
+stufe ist es zudem denkbar Handlungsempfehlungen zu generieren.  
+
+Zusammenfassung und Ausblick 
+24 
+Predictive Analytics sind schon bei mehreren ausländischen Feuerwehren sowie Po-
+lizeien im Einsatz. An dieser Stelle ergibt sich die Möglichkeit zukünftige Entwicklun-
+gen zu prognostizieren und entsprechende Planungen durchzuführen.  
+Im Bereich der Ausbildung bieten KI-Systeme in Kombination mit E-Learning neue 
+Möglichkeiten einer individuellen Bildungsplanung. Jedoch muss in diesem Fall be-
+dacht werden, dass mit sensiblen Daten gearbeitet wird und ein solches Vorgehen 
+auch das Gefühl der Überwachung hervorrufen kann.  
+Bei der Betrachtung der Risiken konnte gezeigt werden, dass es sich bei diesen 
+vielmehr um überwindbare Herausforderungen handelt. Jedoch wurden einige Punk-
+te identifiziert, die bei der Einführung und Verwendung von KI im Feuerwehrwesen 
+beachtet werden sollten. Ein zentraler Punkt ist hierbei die Rolle des Menschen beim 
+Einsatz von KI, er wird in kritischen Bereichen weiterhin eine Schlüsselrolle als letzter 
+Entscheidungsträger einnehmen. Zudem wird es in naher Zukunft unmöglich sein, 
+Feuerwehreinsätze allein durch KI abarbeiten zu können, sodass sich vielmehr die 
+Symbiose aus natürlicher und künstlicher Intelligenz anbietet. 
+6.2 Ausblick 
+Die Förderung von Forschungsvorhaben, wie beispielsweise die Förderung zum 
+Themenfeld „Künstliche Intelligenz in der zivilen Sicherheitsforschung“ im Rahmen 
+des Programms „Forschung für die zivile Sicherheit 2018 bis 2023“ der Bundesregie-
+rung, wird neue Erkenntnisse erzeugen und KI auch im Feuerwehrwesen sowie der 
+allgemeinen Gefahrenabwehr vorantreiben [68]. Übergreifende Zusammenschlüsse, 
+wie die Plattform Lernende Systeme oder das Deutsche Rettungsrobotik Zentrum, 
+treiben die Weiterentwicklung zusätzlich an [7] [51]. Infolgedessen sind im Zusam-
+menhang mit KI im Feuerwehrwesen in den nächsten Jahren weitreichende Fort-
+schritte zu erwarten.  
+Im Jahr 2016 investierten große Konzerne, nach der Berechnung einer Unterneh-
+mensberatung, weltweit rund 40 Milliarden Dollar in die Entwicklung von KI [69]. Hier 
+ist mit erheblichen Entwicklungen zu rechnen, da insbesondere Softwareriesen mit 
+Hochdruck an der Forschung im Kontext KI arbeiten. 
+Die Entwicklung von ersten Quantencomputern macht fortlaufend Schlagzeilen, es ist 
+davon auszugehen, dass die Rechenleistung heutiger Computer um ein Vielfaches 
+übertroffen wird. Zwar ist, aufgrund der hohen Komplexität, noch mit einer längeren 
+Zeitspanne bis zur Marktreife zu rechnen, es sind jedoch weitreichende Veränderun-
+gen zu erwarten. Auch der Sektor der KI wird von der erhöhten Rechenleistung profi-
+tieren und sich entsprechend weiterentwickeln [70].  
+Aktuell plant die Bundesregierung die Implementierung eines KI-Observatoriums, 
+dessen Aufgabe die Überwachung von KI werden soll. Inwiefern darunter zukünftig 
+auch KI-Systeme im öffentlichen Bereich und insbesondere im Zusammenhang mit 
+kritischen Infrastrukturen fallen ist gegenwärtig jedoch noch unklar [71] .  
+
+ 
+V 
+Literaturverzeichnis 
+ 
+[1]  
+V. Wittpahl, Künstliche Intelligenz - Technologie | Anwendung | Gesellschaft, 
+Wiesbaden: Springer Viewig, 2019.  
+[2]  
+H. A. Hänssle und C. Fink, Man against machine: diagnostic performance of 
+adeep learning convolutional neural network fordermoscopic melanoma 
+recognition in comparisonto 58 dermatologists, Oxford University Press, 2018.  
+[3]  
+M. Hampson, „New AI System Predicts Seizures With Near-Perfect Accuracy,“ 
+IEEE 
+Spectrum, 
+15 
+November 
+2019. 
+[Online]. 
+Available: 
+https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/this-new-ai-
+system-can-predict-seizures-with-nearperfect-accuracy. 
+[Zugriff 
+am 
+16 
+November 2019]. 
+[4]  
+T. Doll und T. Schiller, Künstliche Intelligenz in den Landstreitkräften, Köln: Amt 
+für Heeresentwicklung, 2019.  
+[5]  
+U.S. Department of Defense, „U.S. Department of Defense,“ 09 Januar 2017. 
+[Online]. 
+Available: 
+https://www.defense.gov/Newsroom/Releases/Release/Article/1044811/depart
+ment-of-defense-announces-successful-micro-drone-demonstration/. 
+[Zugriff 
+am 01 November 2019]. 
+[6]  
+M. Hoenig und C. Hoffmann, „Heise Online,“ DPA, 05 Oktober 2018. [Online]. 
+Available: 
+https://www.heise.de/newsticker/meldung/Luftkampftechnik-Airbus-
+testet-Drohnenschwarm-ueber-der-Ostsee-4181676.html. 
+[Zugriff 
+am 
+01 
+November 2019]. 
+[7]  
+acatech - Deutsche Akademie der Technikwissenschaften e.V., „Schnelle Hilfe 
+beim 
+Rettungseinsatz,“ 
+acatech 
+- 
+Deutsche 
+Akademie 
+der 
+Technikwissenschaften 
+e.V., 
+[Online]. 
+Available: 
+https://www.plattform-
+lernende-systeme.de/anwendungsszenario-rettungseinsatz.html. [Zugriff am 03 
+Dezember 2019]. 
+[8]  
+O. Reißmann, „Entscheider statt Terminator - Warum wir oft ein falsches Bild 
+von künstlicher Intelligenz haben,“ Spiegel Online, 14 März 2019. [Online]. 
+Available: 
+https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-filme-
+und-serien-machen-es-realer-ki-schwer-a-1257759.html. 
+[Zugriff 
+am 
+08 
+Dezember 2019]. 
+[9]  
+U. Furbach und U. Barthelmeß, Künstliche Intelligenz aus ungewohnten 
+Perspektiven, Wiesbaden: Springer Viewig, 2019.  
+ 
+
+ 
+VI 
+[10]  W. Ertel, Grundkurs Künstliche Intelligenz - Eine praxisorientierte Einführung, 
+Wiesbaden: Springer Viewig, 2016.  
+[11]  J. R. Searle, „Minds, brains, and programs,“ The Behavioral and Brain Sciences 
+3, pp. 417-457, 1980.  
+[12]  Healthcare Denmark, Emergency Medical Services - White Paper, Januar: 01, 
+2019.  
+[13]  P. Sefrin, „Reanimation im Rettungsdienst: Welche Faktoren beeinflussen den 
+Erfolg?,“ Intensivmedizin und Notfallmedizin, p. 554–560, 01 Oktober 2001.  
+[14]  S. N. Blomberg, F. Folke, A. K. Ersbøll, H. C. Christensen, C. Torp-Pedersen, 
+M. R. Sayre, C. R. Counts und F. K. Lippert, „Machine learning as a supportive 
+tool to recognize cardiac arrest in emergency calls,“ Elsevier, Kopenhagen, 
+2019. 
+[15]  Deutsche Messe, „Rettende Idee: Künstliche Intelligenz hilft bei Erstdiagnose,“ 
+Deutsche 
+Messe, 
+09 
+Mai 
+2018. 
+[Online]. 
+Available: 
+https://www.interschutz.de/de/news-hub/artikel/rettende-idee-kuenstliche-
+intelligenz-hilft-bei-erstdiagnose.xhtml. [Zugriff am 18 November 2019]. 
+[16]  London Fire Brigade’s Chief Information Officer, LFB in a digital world, London: 
+London Fire Brigade, 2019.  
+[17]  A. Lobe, „Big Data: Der Algorithmus sagt, wo's brennt,“ 17 Dezember 2015. 
+[Online]. Available: https://www.golem.de/news/big-data-der-algorithmus-sagt-
+wo-s-brennt-1512-117986-2.html. [Zugriff am 15 Oktober 2019]. 
+[18]  imanuel, „What is predictive Analytics,“ Pat Research, [Online]. Available: 
+https://www.predictiveanalyticstoday.com/what-is-predictive-analytics/. 
+[Zugriff 
+am 20 November 2019]. 
+[19]  K. Seidensticker, F. Bode und F. Stoffel, Predictive Policing in Germany, 
+Konstanz, 2018.  
+[20]  S. 
+Egbert, 
+„Siegeszug 
+der 
+Algorithmen? 
+Predictive 
+Policing 
+im 
+deutschsprachigen Raum,“ Bundeszentrale für politische Bildung , 04 August 
+2017. 
+[Online]. 
+Available: 
+https://www.bpb.de/apuz/253603/siegeszug-der-
+algorithmen-predictive-policing-im-deutschsprachigen-raum?p=all. [Zugriff am 
+20 November 2019]. 
+[21]  SAS Institute Inc. , „Predicting fire risk and saving lives,“ [Online]. Available: 
+https://www.sas.com/en_gb/customers/london-fire-brigade.html. [Zugriff am 21 
+November 2019]. 
+
+ 
+VII 
+[22]  B. Heaton, „New York City Fights Fire with Data,“ 18 Mai 2015. [Online]. 
+Available: 
+https://www.govtech.com/em/safety/New-York-City-Fights-Fire-
+Data.html. [Zugriff am 15 Oktober 2019]. 
+[23]  GeoPlace, „Predicting and preventing London’s next fire using predictive 
+analytics and the Unique Property Reference Number,“ 25 Oktober 2018. 
+[Online]. 
+Available: 
+https://www.wired-
+gov.net/wg/news.nsf/print/Predicting+and+preventing+Londons+next+fire+usin
+g+predictive+analytics+and+the+Unique+Property+Reference+Number+26102
+018122000. [Zugriff am 21 November 2019]. 
+[24]  GeoPlace, Case Study Predicting and preventing fires using predictive analytics 
+and the UPRN, London.  
+[25]  London Fire Brigade, Fire Facts Fires in Greater London, London: London Fire 
+Brigade, 2017.  
+[26]  S. Muscat und Z. Siebert, „Schlaue Autos, gläserne Bürger?,“ Böll Thema , pp. 
+30-31, Juli 2019.  
+[27]  D. Yifei, „Hangzhou growing ‘smarter’ thanks to AI technology,“ Alwihda Info, 19 
+Oktober 2017. [Online]. Available: https://www.alwihdainfo.com/Hangzhou-
+growing-smarter-thanks-to-AI-technology_a58657.html. 
+[Zugriff 
+am 
+23 
+November 2019]. 
+[28]  SIRENE Konsortium , „SIRENE - Secure and Intelligent Road Emergency 
+Network,“ [Online]. Available: https://sirene.ifak.eu/node/1. [Zugriff am 25 
+November 2019]. 
+[29]  T. Ruß, Interviewee, Einsatz von KI im Forschungsprojekt Sirene. [Interview]. 
+25 November 2019. 
+[30]  L. Rouhiainen, „How AI and Data Could Personalize Higher Education,“ 14 
+Oktober 2019. [Online]. Available: https://hbr.org/2019/10/how-ai-and-data-
+could-personalize-higher-education. [Zugriff am 15 Oktober 2019]. 
+[31]  C. M. Corcoran, F. Carrillo, D. Diego Fernandez-Slezak, G. Bedi, C. Klim, D. C. 
+Javitt, C. E. Bearden und G. A. Cecchi, „Prediction of psychosis across 
+protocols and risk cohorts usingautomated language analysis,“ World 
+Psychiatry, pp. 67-75, Februar 2018.  
+[32]  J. I. Godino-Llorente, S. Shattuck-Hufnagel, J. Y. Choi, L. Moro-Velázquez und 
+J. A. JGómez-García, „Towards the identification of Idiopathic Parkinson’s 
+Disease from the speech. New articulatory kinetic biomarkers,“ Plos One, 14 
+Dezember 2017.  
+
+ 
+VIII 
+[33]  Redaktion Rettungsdienst, „Notruf 112 – Deutschland hinkt hinterher,“ Ebner 
+Media Group GmbH & Co. KG, 11 Februar 2011. [Online]. Available: 
+https://www.rettungsdienst.de/news/notruf-112-deutschland-hinkt-hinterher-
+21305. [Zugriff am 08 Dezember 2019]. 
+[34]  P. Merkert , „Google: Translate - KI übersetzt dank selbst erlernter Sprache,“ 
+Heise Medien GmbH & Co. KG, 25 November 2016. [Online]. Available: 
+https://www.heise.de/newsticker/meldung/Google-Translate-KI-uebersetzt-
+dank-selbst-erlernter-Sprache-3502351.html. [Zugriff am 22 November 2019]. 
+[35]  M. Hommen, „Studie: So langsam fließt der Verkehr in Städten,“ ADAC e.V., 25 
+Oktober 
+2019. 
+[Online]. 
+Available: 
+https://www.adac.de/der-
+adac/aktuelles/studie-verkehrsfluss-in-staedten/. [Zugriff am 08 Dezember 
+2019]. 
+[36]  C. Velten , „Digitale Alleskönner: Diese Navis wissen viel mehr als nur den 
+Weg,“ 
+Welt, 
+08 
+April 
+2010. 
+[Online]. 
+Available: 
+https://www.welt.de/motor/article7100003/Diese-Navis-wissen-viel-mehr-als-
+nur-den-Weg.html. [Zugriff am 08 Dezember 2019]. 
+[37]  K. M. Höfer, „"Social Media Monitoring" - Schneller als die Feuerwehr,“ 29 
+August 2017. [Online]. Available: https://www.deutschlandfunk.de/social-media-
+monitoring-schneller-als-die-feuerwehr.2907.de.html?dram:article_id=394597. 
+[Zugriff am 27 November 2019]. 
+[38]  S. Taing, Visuelle Entscheidungsunterstützung bei der Auswertung von Daten 
+aus sozialen Netzwerken (INTEGER), KMU-innovativ: Forschung für die zivile 
+Sicherheit.  
+[39]  R. 
+Heimann, 
+Entscheidungsfindung 
+in 
+polizeilichen 
+Einsatzlagen 
+- 
+Softwareunterstütztes 
+Informations- 
+und 
+Kommunikationsmanagement, 
+Wiesbaden: Polizei Hessen Hessisches Ministerium des Inneren und für Sport 
+Wiesbaden.  
+[40]  AGBF Bund Fachausschuss Leitstellen und Digitalisierung der deutschen 
+Feuerwehren, 
+Entwurf 
+Positionspapier 
+Künstliche 
+Intelligenz 
+in 
+der 
+Gefahrenabwehr, München, 2019.  
+[41]  H. Bielawa, „Diese KI erkennt 11 verschiedene Arten von Emotionen auf 
+Fotos,“ t3n – digital pioneers, 02 August 2019. [Online]. Available: 
+https://t3n.de/news/ki-erkennt-11-emotionen-auf-fotos-1183419/. [Zugriff am 29 
+November 2019]. 
+[42]  J. Müller, „"Predictive Firefighting" - ein Thema der Zukunft für Deutsche 
+Feuerwehren?,“ Brandschutz, pp. 759-763, 01 September 2015.  
+
+ 
+IX 
+[43]  Ministerium für Inneres und KommunalesNRW, StädtetagNRW, Landkreistag 
+NRW 
+und 
+Städte-und 
+Gemeindebund 
+NRW, 
+Handreichung 
+zur 
+Brandschutzbedarfsplanung für kommunale Entscheidungsträger.  
+[44]  U. Cimolino, „Einsätze bei Munitionsverdachtsflächen,“ Brandschutz, pp. 13-21, 
+Dezember 2019.  
+[45]  D. Großert, „Feuerwehr der Stadt Sundern stellt eigene Flugdrohne vor,“ 
+Sauerlandkurier, 
+24 
+April 
+2018. 
+[Online]. 
+Available: 
+https://www.sauerlandkurier.de/hochsauerlandkreis/sundern/feuerwehr-stadt-
+sundern-stellt-eigene-flugdrohne-9810178.html. [Zugriff am 27 November 
+2019]. 
+[46]  Bundesministerium für Bildung und Forschung, UAV-Assisted Ad Hoc Networks 
+for Crisis Management and Hostile Environment Sensing (ANCHORS), 
+Bundesministerium für Bildung und Forschung.  
+[47]  Bundesministerium 
+für 
+Bildung 
+und 
+Forschung, 
+AirborneRemoteSensingforHazard 
+Inspection 
+by 
+Lightweight 
+Drones 
+(AirShield), Bundesministerium für Bildung und Forschung.  
+[48]  R. Berger, S. Bayer, J. Helmrich und T. Kraft, „Entwicklung und Erprobung 
+eines neuartigen Konzeptes zur schnellen Aufklärung von Einsatzlagen – Eine 
+Kooperation zwischen der Feuerwehr Duisburg und dem DLR,“ Tagungsband 
+65. Jahresfachtagung der vfdb 2018 in Duisburg, pp. 53-64, 2018.  
+[49]  RWTH Aachen University, „RWTH Aachen will die Nutzung von Drohnen bei 
+Rettungseinsätzen optimieren,“ RWTH Aachen University, 05 März 2019. 
+[Online]. Available: https://www.rwth-aachen.de/go/id/swsx. [Zugriff am 29 
+November 2019]. 
+[50]  K. 
+K. 
+H. 
+GmbH, 
+„Fernhantierung 
+Übersicht,“ 
+[Online]. 
+Available: 
+https://khgmbh.de/fernhantierung. [Zugriff am 24 November 2019]. 
+[51]  Kompetenzzentrum für Rettungsrobotik, „Das Projekt,“ Kompetenzzentrum für 
+Rettungsrobotik, [Online]. Available: https://rettungsrobotik.de/das-projekt/. 
+[Zugriff am 04 Dezember 2019]. 
+[52]  A. Graner und F. Feucht, „Einstieg ins Datenschutzrecht,“ 17 Oktober 2018. 
+[Online]. 
+Available: 
+https://www.baden-wuerttemberg.datenschutz.de/wp-
+content/uploads/2018/10/Vortrag-f%C3%BCr-DSB_Verwaltungsschule.pdf. 
+[Zugriff am 06 Dezember 2019]. 
+ 
+ 
+
+ 
+X 
+[53]  D. Amschewitz, D. Gesmann-Nuissl, P. Haas, N. Hullen, U. Keil, T. Klebe, T. 
+Kriesel, T. Schauf, J. Schipp und M. Wirwas, Künstliche Intelligenz und Recht 
+im Kontext von Industrie 4.0, Berlin: Bundesministerium für Wirtschaft und 
+Energie (BMWi), 2019.  
+[54]  M. Müller-ter Jung, Qualitätssicherung und Zertifizierung von KI-Algorithmen als 
+Voraussetzung für die Allokation von Verantwortlichkeit, Münster: Tagung 
+„Künstliche Intelligenz und Recht – Gegenwart und Zukunft“, 2019.  
+[55]  F. Greis, „Ermittlungsberichte - Wie die Uber-Software den tödlichen Unfall 
+begünstigte,“ Golem Media GmbH, 06 November 2019. [Online]. Available: 
+https://www.golem.de/news/ermittlungsberichte-wie-die-uber-software-den-
+toedlichen-unfall-beguenstigte-1911-144832.html. [Zugriff am 15 November 
+2019]. 
+[56]  National Transportation Safety Board, „Collision Between Vehicle Controlled by 
+Developmental Automated Driving System and Pedestrian Tempe, Arizona 
+March 18, 2018 HWY18MH010,“ 2019. 
+[57]  O. Nickel, „Amazon verwirft sexistisches KI-Tool für Bewerber,“ Golem, 11 
+Oktober 
+2018. 
+[Online]. 
+Available: 
+https://www.golem.de/news/machine-
+learning-amazon-verwirft-sexistisches-ki-tool-fuer-bewerber-1810-137060.html. 
+[Zugriff am 25 November 2019]. 
+[58]  O. Nickel, „Gesichtserkennung ist zuverlässig - bei weißen Männern,“ Golem, 
+12 Februar 2018. [Online]. Available: https://www.golem.de/news/maschinelles-
+lernen-gesichtserkennung-ist-zuverlaessig-bei-weissen-maennern-1802-
+132709.html. [Zugriff am 25 November 2019]. 
+[59]  M. Martini, Blackbox Algorithmus - Grundfragen einer Regulierung Künstlicher 
+Intelligenz, Berlin: Springer, 2019.  
+[60]  P. Nagels, „Facebook musste AI abschalten, die „Geheimsprache“ entwickelt 
+hat,“ 
+28 
+Juli 
+2017. 
+[Online]. 
+Available: 
+https://www.welt.de/kmpkt/article167102506/Facebook-musste-AI-abschalten-
+die-Geheimsprache-entwickelt-hat.html. [Zugriff am 11 Oktober 2019]. 
+[61]  PARC/CAST Flight Deck Automation Working Group, Operational Use of Flight 
+Path Management Systems, Washington: Federal Aviation Administration, 
+2013.  
+[62]  G. Kramper, „"In 100 Metern fahren Sie" ... in den Fluss,“ stern.de GmbH, 18 
+April 
+2008. 
+[Online]. 
+Available: 
+https://www.stern.de/digital/technik/navi-
+missgeschicke--in-100-metern-fahren-sie------in-den-fluss-3087618.html. 
+[Zugriff am 01 Dezember 2019]. 
+
+ 
+XI 
+[63]  P. Robinette, W. Li, R. Allen, A. M. Howard und A. R. Wagner, Overtrust of 
+Robots in Emergency Evacuation Scenarios, Atlanta: Georgia Institute of 
+Technology.  
+[64]  C. Hengstebeck, Niederschrift Sitzung AK Technik, Mühlheim: AGBF und VDF 
+NRW, 2019.  
+[65]  T. Luiz, H. Marung, G. Pollach und A. Hackstein, „Implementierungsgrad der 
+strukturierten Notrufabfrage in deutschen Leitstellen und Auswirkungen ihrer 
+Einführung,“ Der Anaesthesist, pp. 282-293, Mai 2019.  
+[66]  BearingPoint GmbH, Jetzt und in Zukunft Smarte Gesundheit in Deutschland 
+startet (noch) nicht durch, Frankfurt am Main: BearingPoint GmbH, 2017.  
+[67]  Statistik der Bundesagentur für Arbeit, Blickpunkt Arbeitsmarkt – IT-Fachleute, 
+Nürnberg: Bundesagentur für Arbeit, 2019.  
+[68]  Bundesministerium für Bildung und Forschung, „Bekanntmachung Richtlinie 
+über die Förderung zum Themenfeld „Künstliche Intelligenz in der zivilen 
+Sicherheitsforschung“ im Rahmen des Programms „Forschung für die zivile 
+Sicherheit 2018 bis 2023“ der Bundesregierung, Bundesanzeiger vom 
+15.10.2019,“ 
+27 
+August 
+2019. 
+[Online]. 
+Available: 
+https://www.bmbf.de/foerderungen/bekanntmachung-2650.html. [Zugriff am 04 
+Dezember 2019]. 
+[69]  A. Armbruster, „Milliarden-Investitionen in künstliche Intelligenz,“ Frankfurter 
+Allgemeine 
+Zeitung 
+GmbH, 
+20 
+Juni 
+2017. 
+[Online]. 
+Available: 
+https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/unternehmen-milliarden-
+investitionen-in-kuenstliche-intelligenz-15068099.html. 
+[Zugriff 
+am 
+04 
+Dezember 2019]. 
+[70]  C. Drösser, „Quantencomputer Problem gelöst – in rund drei Minuten statt 
+10.000 Jahren,“ ZEIT ONLINE GmbH, 28 September 2019. [Online]. Available: 
+https://www.zeit.de/digital/datenschutz/2019-09/quantencomputer-google-
+technik-fortschritt-supercomputer/komplettansicht. [Zugriff am 08 Dezember 
+2019]. 
+[71]  P. Beuth, „KI-Überwachung soll noch in diesem Jahr starten - mit acht Stellen,“ 
+SPIEGEL 
+ONLINE, 
+12 
+November 
+2019. 
+[Online]. 
+Available: 
+https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-
+observatorium-im-arbeitsministerium-startet-noch-2019-a-1296070.html. [Zugriff 
+am 04 Dezember 2019]. 
+ 
+ 
+
+ 
+XII 
+[72]  Bitkom e.V., „Digitalisierung gestalten mit dem Periodensystem der Künstlichen 
+Intelligenz,“ 
+2018. 
+[Online]. 
+Available: 
+https://www.bitkom.org/Bitkom/Publikationen/Digitalisierung-gestalten-mit-dem-
+Periodensystem-der-Kuenstlichen-Intelligenz. [Zugriff am 14 Oktober 2019]. 
+ 
+ 
+ 
+
+ 
+XIII 
+Abkürzungsverzeichnis 
+AI oder A. I. 
+Artifizielle Intelligenz  
+BHKG 
+Gesetz über den Brandschutz, die Hilfeleistung und den Katastro-
+phenschutz 
+BITKOM 
+Bundesverband Informationswirtschaft, Telekommunikation und neue 
+Medien 
+BMBF 
+Bundesministerium für Bildung und Forschung 
+DSGVO 
+Datenschutzgrundverordnung 
+EENA 
+European Emergency Number Association 
+EMS 
+Emergency Medical Service 
+KI 
+Künstliche Intelligenz 
+MIT 
+Massachusetts Institute of Technology 
+ML 
+Maschinelles Lernen 
+NRW 
+Nordrhein-Westfalen 
+NTSB 
+National Transportation Safety Board 
+RWTH 
+Rheinisch-Westfälische Technische Hochschule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+XIV 
+Mündliche, telefonische und elektronische Mitteilun-
+gen  
+Die hier genannten Personen wurden im Rahmen der Facharbeit per Telefon, per  
+E-Mail oder im persönlichen Gespräch zur Thematik befragt. 
+Raimund Bücher 
+Werkfeuerwehr Henkel / Werkfeuerwehrverband 
+Deutschland 
+Dr. Ulrich Cimolino 
+Berufsfeuerwehr Düsseldorf / Deutscher Feuerwehr-
+verband - Arbeitskreis Waldbrand  
+Jens Cordes 
+Berufsfeuerwehr Bremerhaven / Fachausschuss Leit-
+stellen und Digitalisierung der deutschen Feuerwehren 
+Peter Damm 
+Berufsfeuerwehr Dortmund / Institut für Feuerwehr- 
+und Rettungstechnologie der Feuerwehr Dortmund 
+Sven Dunkel 
+Berufsfeuerwehr Frankfurt / Vereinigung zur Förderung 
+des Deutschen Brandschutzes e. V. - Referat 7 
+Dr. Olaf Grebner 
+mobilion.eu 
+Jonas Klemmt 
+Berufsfeuerwehr Braunschweig (Forschungsprojekt 
+Sirene) 
+Dr. Adrian Ridder 
+Berufsfeuerwehr Düsseldorf 
+Tim Ruß 
+Institut für Automation und Kommunikation e.V. Mag-
+deburg (Forschungsprojekt Sirene) 
+Dr. Hans-Christian Schmitz 
+Fraunhofer-Institut für Kommunikation, Informations-
+verarbeitung und Ergonomie 
+Carsten Schneider 
+Berufsfeuerwehr Bonn 
+Katrin Sommer 
+Institut für Feuerwehr- und Rettungstechnologie der 
+Feuerwehr Dortmund (Forschungsprojekt Vision) 
+Stefan Truthän 
+hhpberlin 
+David von der Lieth 
+Berufsfeuerwehr Düsseldorf 
+Florentin von Kaufmann 
+Berufsfeuerwehr München / Fachausschuss Leitstellen 
+und Digitalisierung der deutschen Feuerwehren 
+ 
+ 
+
+ 
+XV 
+Abbildungsverzeichnis 
+Abbildung 1 Die zwei Grundbausteine für künstliche Intelligenz (Eigene Darstellung) 2 
+Abbildung 2 Einteilung künstlicher Intelligenz (Eigene Darstellung) ............................ 3 
+Abbildung 3 Vergleich traditioneller Programme mit ML (Eigene Darstellung, in 
+Anlehnung an: [1]) ....................................................................................................... 4 
+Abbildung 4 Vereinfachtes neuronales Netz (Eigene Darstellung, in Anlehnung an: 
+[1]) ............................................................................................................................... 4 
+Abbildung 5 Einordnung Predictive Analytics (Eigene Darstellung, in Anlehnung an: 
+[18]) ............................................................................................................................. 7 
+Abbildung 6 Anzahl aller Brände in Greater London (Eigene Darstellung, in 
+Anlehnung an: [25]) ..................................................................................................... 9 
+Abbildung 7 Transformationsprozess (Eigene Darstellung, in Anlehnung an: [40]) ... 22 
+Abbildung 8 Periodensystem der künstlichen Intelligenz (Eigene Darstellung, in 
+Anlehnung an: [72]) ................................................................................................. XVI 
+ 
+Tabellenverzeichnis 
+Tabelle 1 Vergleich KI und Leitstellendisponent bei der Erkennung von 
+Herzstillständen  (Eigene Darstellung, in Anlehnung an: [14]) .................................... 7 
+Tabelle 2 Periodensystem der künstlichen Intelligenz (Eigene Darstellung in 
+Anlehnung an [72]) ................................................................................................. XVII 
+ 
+
+ 
+XVI 
+Anhang Periodensystem der künstlichen Intelligenz 
+Das Periodensystem der KI versteht sich als Vereinfachung der meist vielzahligen, 
+komplexen und vor allem nicht einheitlichen Definitionen von KI. Weiterhin lassen 
+sich aus den Definitionen in aller Regel keine Einsatzgebiete oder konkreten 
+Anwendungsfälle ableiten. Durch das Periodensystem entsteht zudem eine 
+Entkopplung von der technischen Realisierung des Systems. So soll dem 
+Entscheider eine Übersicht über die Möglichkeiten und Anwendungsfelder von KI-
+Systemen geben werden, ohne ein tiefergehendes technisches Verständnis 
+vorauszusetzen. Für die Facharbeit erfolgte die Übersetzung des Periodensystems in 
+die deutsche Sprache. In Abbildung 8 sind die verschiedenen Teilsysteme 
+dargestellt, die Farben beziehen sich auf die in Abbildung 2 eingeführten 
+Teilbereiche. Eine detallierte Beschreibung der einzelnen Elemente enthält Tabelle 2 
+[72]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 8 Periodensystem der künstlichen Intelligenz (Eigene Darstellung, in Anlehnung an: [72]) 
+ 
+In aller Regel besteht ein vollständiges KI-System aus der Kombination von je einem 
+KI-Element aus jeder der drei Gruppen. So entsteht in Summe ein funktionales 
+System. Ein Beispiel hierfür ist ein Notbremssystem: Erfassen (z. B. die 
+Verkehrssituation um das Fahrzeug herum erfassen), Folgern (z. B. die 
+Wahrscheinlichkeit eines Auffahrunfalls kalkulieren) und Reagieren (z. B. das Brems- 
+oder Ausweichmanöver einleiten). 
+ 
+ 
+ 
+Se 
+Sprach-
+erkennung 
+Si 
+Sprach- 
+identifikation 
+Ae 
+Audio- 
+erkennung 
+Ai 
+Audio- 
+identifikation 
+Vf 
+Vorhersagende 
+Folgerung 
+Pn 
+Planung 
+ 
+Ge 
+Gesichts- 
+erkennung 
+Gi 
+Gesichts- 
+identifikation 
+Ef 
+Erklärende 
+Folgerung 
+Pl 
+Problem- 
+lösung 
+Bl 
+Beziehungen 
+Lernen 
+Be 
+Bild- 
+erkennung 
+Bi 
+Bild- 
+identifikation 
+Kf 
+Künstliche 
+Folgerung 
+Et 
+Entscheidun-
+gen Treffen 
+Sa 
+Sprache 
+Allgemein 
+Kl 
+Kategorien 
+Lernen 
+Mg 
+Mobilität 
+Groß 
+Ko 
+Kommuni-
+kation 
+Ea 
+Erkennung 
+Allgemein 
+Ia 
+Identifikation 
+Allgemein 
+Da 
+Daten- 
+analyse 
+Te 
+Text- 
+extrahierung 
+Sv 
+Sprache 
+Verstehen 
+Wv 
+Wissens- 
+verbesserung Mk 
+Mobilität 
+Klein 
+Ma 
+Manipulation 
+ 
+Kn 
+Kontrollieren 
+ 
+
+ 
+XVII 
+Tabelle 2 Periodensystem der künstlichen Intelligenz (Eigene Darstellung in Anlehnung an [72]) 
+GRUPPE ELEMENT ABKÜRZUNG KURZBESCHREIBUNG 
+Erfassen 
+[Se] 
+Sprach- 
+erkennung 
+Das Erkennen von gesprochener Sprache und/oder 
+Gefühlszuständen allgemein in einem Audiosignal. 
+ 
+Erfassen 
+[Ae] 
+Audio- 
+erkennung 
+Das Erkennen bestimmter Arten von Geräuschen 
+(Alarme, Gerätestress, Automotor) in einem Audiosig-
+nal. 
+ 
+Erfassen 
+[Ge] 
+Gesichts- 
+erkennung 
+Das Erkennen von Gesichtern und emotionalen Zu-
+ständen in Bildern oder Videosignalen. 
+ 
+Erfassen 
+[Be] 
+Bild- 
+erkennung 
+Das Erkennen bestimmter Objekttypen in Bildern oder 
+Videosignalen. 
+ 
+Erfassen 
+[Ea] 
+Erkennung 
+Allgemein 
+Das Analysieren von Sensordaten zum Erkennen von 
+Objekttypen und/oder Situationen allein aus dem Sig-
+nal heraus. 
+ 
+Erfassen 
+[Si] 
+Sprach- 
+identifikation 
+Das Erkennen einer individuellen Stimme in einem 
+Audiosignal. 
+ 
+Erfassen 
+[Ai] 
+Audio- 
+identifikation 
+Das Erkennen von Audiosignaturen (ein bestimmter 
+Motor oder eine bestimmte Türklingel) aus Audiosig-
+nalen. 
+ 
+Erfassen 
+[Gi] 
+Gesichts- 
+identifikation 
+Das Erkennen konkreter Personen in Bildern oder 
+Videosignalen. 
+ 
+Erfassen 
+[Bi] 
+Bild- 
+identifikation 
+Das Erkennen eines konkretes Objekts in einem Bild 
+oder Video. 
+ 
+Erfassen 
+[Ia] 
+Identifikation 
+Allgemein 
+Das Analysieren von Sensordaten, um Objekte 
+und/oder Situationen allein aus dem Signal heraus zu 
+erkennen. 
+ 
+Folgern 
+[Vf] 
+Vorhersagende 
+Folgerung 
+Das Vorhersagen von Ereignissen oder Zuständen in 
+der Zukunft auf der Grundlage eines Verständnisses 
+eines aktuellen Zustandes der Welt und der Funkti-
+onsweise der Welt. 
+ 
+Folgern 
+[Ef] 
+Erklärende 
+Folgerung 
+Das Erklären von Ereignissen oder Zuständen in der 
+realen Welt, basierend auf dem Verständnis früherer 
+Zustände. 
+ 
+Folgern 
+[Kf] 
+Künstliche 
+Folgerung 
+Das Verwenden von Beweisen, um Rückschlüsse auf 
+den realen Zustand der Welt, eine Vorhersage oder 
+eine Erklärung zu unterstützen. 
+ 
+Erfassen 
+[Da] 
+Daten- 
+analyse 
+Das Analysieren von Daten, um bestimmte Tatsachen 
+und/oder Ereignisse zu erkennen, die diese Daten 
+repräsentieren. 
+ 
+Folgern 
+[Pn] 
+Planung 
+ 
+Das Erstellen eines Aktionsplans auf der Grundlage 
+einer Reihe von Zielen, eines Verständnisses des 
+realen Zustands der Welt und des Wissens über 
+Handlungen und deren Konsequenzen. 
+ 
+Folgern 
+[Pl] 
+Problem- 
+lösung 
+Das Erstellen einer Lösung für ein Problem, das mit 
+oder ohne den Einsatz von Aktionen verbunden sein 
+kann (siehe Planung [Pn]). 
+ 
+Folgern 
+[Et] 
+Entscheidungen 
+Treffen 
+Das Auswählen eines bestimmten Plans oder einer 
+Lösung auf der Grundlage vorliegender Fakten, alter-
+nativer Lösungen und einer Reihe von Zielen. 
+ 
+Erfassen 
+[Te] 
+Text- 
+extrahierung 
+Das Analysieren von Texten, um Informationen über 
+Entitäten, Zeit, Orte und Fakten extrahieren, die aus-
+schließlich im Text enthalten sind. 
+ 
+ 
+ 
+
+ 
+XVIII 
+Folgern 
+[Sa] 
+Sprache 
+Allgemein 
+Das Erstellen natürlicher Sprachtexte und/oder Erklä-
+rungen basierend auf einem gewissen Verständnis der 
+Welt. 
+ 
+ 
+ 
+Folgern 
+[Sv] 
+Sprache 
+Verstehen 
+ 
+Das Erstellen einer semantischen Repräsentation der 
+Bedeutung eines Textes, der den Kontext und ein 
+gewisses Verständnis über das Funktionieren der Welt 
+zeigt. 
+ 
+Reagieren 
+[Bl] 
+Beziehungen 
+Lernen 
+Das Erkennen von Beziehungen zwischen Merkma-
+len, die dazu verwendet werden können, das Vorhan-
+densein eines Satzes von versteckten Merkmalen 
+vorherzusagen, wenn andere sichtbar sind (z. B. Kor-
+relation zwischen abgewiesenen Anrufen und Kun-
+denabwanderung).  
+ 
+Reagieren 
+[Kl] 
+Kategorien 
+Lernen 
+Das Erkennen neuer Kategorien von semantischen 
+Werten auf der Grundlage von Merkmalssammlungen. 
+ 
+Reagieren 
+[Wv] 
+Wissens- 
+verbesserung 
+Das Überarbeiten von Wissen oder Regeln, die bereits 
+existieren als Reaktion darauf, dass sie zur Unterstüt-
+zung von Handlungen oder Schlussfolgerungen ver-
+wendet werden. 
+ 
+Reagieren 
+[Mg] 
+Mobilität 
+Groß 
+Das Steuern autonomer Fahrzeuge, die zuallererst mit 
+anderen Fahrzeugen interagieren. 
+ 
+Reagieren 
+[Mk] 
+Mobilität 
+Klein 
+Das Steuern von Robotern, die sich durch Innenräume 
+bewegen, arbeiten und mit Menschen interagieren. 
+ 
+Reagieren 
+[Ma] 
+Manipulieren 
+ 
+Das Manipulieren derselben Objekte, mit denen Men-
+schen regelmäßig arbeiten. 
+ 
+Reagieren 
+[Ko] 
+Kommunizieren 
+ 
+Mechanismen, die das Ausführen verschiedener For-
+men der Kommunikation zwischen Mensch und Ma-
+schine unterstützen. 
+ 
+Reagieren 
+[Kn] 
+Kontrollieren 
+ 
+Das intelligente Steuern anderer Maschinen, wenn 
+keine Manipulation oder Handlung in der physischen 
+Welt erforderlich ist (z. B. automatisierter Handel). 
+ 
+ 
+ 
+
+ 
+ 
+Eidesstattliche Erklärung 
+Hiermit versichere ich, Marius Brüser, die vorliegende Arbeit selbständig, ohne frem-
+de Hilfe und ohne Benutzung anderer als der von mir angegebenen Quellen angefer-
+tigt zu haben. Alle aus fremden Quellen direkt oder indirekt übernommenen Gedan-
+ken sind als solche gekennzeichnet.  
+Die Arbeit wurde noch keiner Prüfungsbehörde in gleicher oder ähnlicher Form vor-
+gelegt. 
+ 
+Ort, Datum der Abgabe 
+ 
+ 
+.......................................................... 
+Marius Brüser 
+  
+
+ 
+ 
+Datenträger 
+ 
+ 
+ 

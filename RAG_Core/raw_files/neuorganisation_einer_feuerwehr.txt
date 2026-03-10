@@ -1,0 +1,712 @@
+Steffen Dannenberg 
+Aufstiegsbeamter 
+Feuerwehr Mülheim an der Ruhr
+Fachartikel 
+Neuorganisation einer Feuerwehr
+Facharbeit gemäß § 20 Abs. 1 VAP2.2-Feu NRW
+Bruchsal, den 19.06.2024
+
+ 
+II 
+ 
+Aufgabenstellung 
+Neuorganisation einer Feuerwehr 
+Untersuchen Sie mögliche Organisationsmodelle großer deutscher Berufsfeuerwehren. Gehen Sie hierbei 
+explizit auf die Neuorganisation der Feuerwehr Essen ein.  
+Wurden bei der Neuorganisation die richtigen Schwerpunkte gesetzt, um die Feuerwehr auf zukünftige 
+Herausforderungen vorzubereiten?  
+Kann dieses Modell zukunftsweisend für große deutsche Berufsfeuerwehren sein? 
+ 
+ 
+
+ 
+III 
+ 
+Abbildungsverzeichnis 
+Abbildung 1 - Zentrale Fragen einer Aufbauorganisation (eigene Darstellung) .......................................... 2 
+Abbildung 2 - Untersuchungsmenge großer deutscher Berufsfeuerwehren (eigene Darstellung)
+ ............................................................................................................................................... 2 
+Abbildung 3 - Fragen zum Experteninterview (eigene Darstellung) ............................................................ 2 
+Abbildung 4 - Deckblatt der Strategie 2030 (Berliner Feuerwehr) ............................................................... 3 
+Abbildung 5 - Organisationsmodelle (eigene Darstellung) .......................................................................... 3 
+Abbildung 6 - Herausforderungen aus Sicht der befragten Experten  (eigene Darstellung) ....................... 4 
+Abbildung 7 - Prozess zur Neuorganisation aus fachplanerischer Sicht (eigene Darstellung) .................... 4 
+Abbildung 8 - Organisationsstruktur der Feuerwehr Essen vom 01.10.2000 (eigene 
+Darstellung) ........................................................................................................................... 5 
+Abbildung 9 - Zeitstrahl der Neuorganisation der Feuerwehr Essen (eigene Darstellung) ......................... 6 
+Abbildung 10 - Organisationsstruktur der Feuerwehr Essen - 01.04.2024 (eigene Darstellung) ................ 6 
+Abbildung 11 - Vereinfachte Organigramme der Feuerwehren Düsseldorf, Duisburg und 
+Dortmund (eigene Darstellung) .............................................................................................. 7 
+Abbildung 12 - Prozessschritte der angewandten Methodik (eigene Darstellung) ...................................... 9 
+ 
+Tabellenverzeichnis 
+Tabelle 1 - Interviewte Experten (eigene Darstellung) .............................................................................. 10 
+Tabelle 2 - Ergebnisse der Onlinesuche (eigene Darstellung) .................................................................. 10 
+ 
+ 
+
+ 
+IV 
+ 
+Inhalt 
+Teil I: Fachartikel ....................................................................................................................................... 1 
+Kurzzusammenfassung ............................................................................................................................ 1 
+1 Einleitung ................................................................................................................................................ 2 
+1.1 Problemstellung ................................................................................................................................. 2 
+1.2 Herangehensweise ............................................................................................................................ 2 
+1.2.1 Eingrenzung der Untersuchungsmenge ...................................................................................... 2 
+1.2.2 Grundlagenermittlung ................................................................................................................. 2 
+1.2.3 Experteninterviews ...................................................................................................................... 2 
+2 Ergebnisse .............................................................................................................................................. 3 
+2.1 Allgemeine Grundlagen ..................................................................................................................... 3 
+2.2 Herausforderungen aus Sicht der befragten Feuerwehren ................................................................ 3 
+2.3 Neuorganisation aus fachplanerischer Sicht ..................................................................................... 4 
+2.4 Neuorganisation der Feuerwehr Essen ............................................................................................. 5 
+2.4.1 Stand vor der Neuorganisation ................................................................................................... 5 
+2.4.2 Prozess der Neuorganisation ...................................................................................................... 5 
+2.4.3 Stand nach der Neuorganisation ................................................................................................ 6 
+3 Diskussion .............................................................................................................................................. 6 
+3.1 Vergleich zu anderen Organisationsstrukturen .................................................................................. 7 
+3.2 Schwerpunktsetzung ......................................................................................................................... 7 
+3.3 Herausforderungen ............................................................................................................................ 8 
+3.3.1 Führungsfunktionen .................................................................................................................... 8 
+3.3.2 Stellenbesetzung ........................................................................................................................ 8 
+3.3.3 Interne Umsetzung und Kommunikation ..................................................................................... 8 
+3.4 Zukunftsfähigkeit ............................................................................................................................... 8 
+4 Fazit ......................................................................................................................................................... 8 
+Teil II: Methoden-, Literatur- und Quellendokumentation ...................................................................... 9 
+1 Beschreibung der Methodik .................................................................................................................. 9 
+2 Begründung ............................................................................................................................................ 9 
+2.1 Literaturrecherche ............................................................................................................................. 9 
+2.2 Experteninterview .............................................................................................................................. 9 
+3 Literatur- und Quellendokumentation .................................................................................................. 9 
+3.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken ............................................ 10 
+3.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation ....................................... 10 
+3.3 Kriterien der Literatur- und Quellenauswahl .................................................................................... 10 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen ................................. 11 
+Literaturverzeichnis ................................................................................................................................ 12 
+A. Anhänge .............................................................................................................................................. 13 
+B. Eigenständigkeitserklärung ............................................................................................................... 22 
+
+Kurzzusammenfassung 
+1 
+ 
+Teil I: Fachartikel 
+Kurzzusammenfassung 
+Die Welt steht vor zahlreichen Herausforderungen, die sich auf verschiedenen Ebenen manifestieren. Die 
+Bundesrepublik Deutschland sieht sich aktuell mit spezifischen sozialen, ökonomischen und politischen 
+Problemen konfrontiert. Auf europäischer Ebene bestehen grenzüberschreitende Themen wie Migration, 
+wirtschaftliche Disparitäten und die Sicherung der europäischen Werte. Global betrachtet sind es insbeson-
+dere der Klimawandel, geopolitische Spannungen, Ungleichheit und die rasante technologische Entwick-
+lung. 
+In den verschiedenen deutschen, europäischen und weltweiten Herausforderungen bewegen sich auch die 
+deutschen Feuerwehren. Sie mussten im Laufe der Geschichte zahlreiche Herausforderungen meistern, die 
+ihre Entwicklung und Professionalität geprägt haben. Von den Anfängen in der Antike bis hin zu modernen 
+Zeiten haben sich Feuerwehren ständig weiterentwickelt, um den Anforderungen gerecht zu werden. 
+Die aktuellen Herausforderungen der befragten großen deutschen Feuerwehren sind neben verschiedenen 
+anderen, die Personalgewinnung, die Digitalisierung, sowie die Individualisierung der Mitarbeitenden und 
+die eigene Infrastruktur. Um sich auf die Gegebenheiten einzustellen und den Herausforderungen zu begeg-
+nen haben acht große deutsche Berufsfeuerwehren in den letzten fünf Jahren ihre Struktur verändert oder 
+angepasst. Die Berliner Feuerwehr und die Feuerwehr München benennen in diesem Zusammenhang ihre 
+Herausforderungen und Ziele in Zukunftsstrategien (Franzke, 2024) (Elser, 2024). Die Feuerwehr Dortmund 
+versucht durch die Reduzierung des Umfangs und der Abstände zwischen den Bedarfsplänen schneller und 
+flexibler auf Herausforderungen zu reagieren (Aschenbrenner, 2024).  
+Eine gute Aufbauorganisation beinhaltet klare Hierarchien und Zuständigkeiten sowie effektive Kommunika-
+tionswege. Sie ist flexibel genug, um auf Veränderungen und neue Herausforderungen reagieren zu können, 
+und hinterfragt sich regelmäßig.  
+In dieser herausfordernden Zeit hat die Feuerwehr Essen mit ihrer Organisationsuntersuchung, der Um-
+strukturierung des Amtes und den drei Bedarfsplänen einen großen und notwendigen Schritt aus einer ver-
+alteten und kaum angepassten Organisationsstruktur zu einer leistungs- und zukunftsfähigeren Behörden-
+struktur durchgeführt. Die nun begonnene und noch viele Jahre andauernde Umsetzung ist unter anderem 
+bei den 321 neuen Stellen und der Vielzahl an Infrastrukturprojekten eine große Herausforderung, welche 
+sich die gesamte Feuerwehr gemeinsam stellt (Keil, Walch, Zoller, 2023). 
+Verglichen mit anderen untersuchten großen deutschen Feuerwehren sind in der Aufbauorganisation der 
+Feuerwehr Essen marginale Unterschiede hinsichtlich der Aufgaben und Schwerpunkte erkennbar. Die Aus-
+richtung ist mit dem Hintergrund der vor der Neustrukturierung bestandenen Probleme nachvollziehbar. 
+Die Schnittstellen innerhalb der Behörde wurden so weit möglich durch eine sinnvolle Aggregation von Auf-
+gaben reduziert. Die Stabstellen an der Behördenleitung und in den Abteilungen lassen eine strategische 
+übergeordnete Aufgabenbearbeitung zu. Die Positionierung auf der Abteilungsebene ist jedoch im Hinblick 
+der Linienorganisation und der zum Teil übergeordneten Fragestellungen in den kommenden Jahren zu 
+überprüfen.  
+ 
+ 
+ 
+ 
+ 
+
+Einleitung 
+2 
+ 
+1 Einleitung 
+Die Zuordnung von Verantwortlichkeiten in Organisationen wie Feuerwehren oder Behörden ist komplex. 
+Wenn viele Menschen gemeinsam an einem Ziel arbeiten, ist eine klare Struktur erforderlich. Diese wird 
+üblicherweise durch die Aufbauorganisation erreicht, 
+welche zentrale Fragen (siehe Abbildung 1) regelt. Eine 
+gut strukturierte Organisation hilft, Konflikte zu vermei-
+den und die Effizienz zu steigern. Mitarbeitende sind in 
+dieser Struktur in der Lage, sich zu orientieren, die eige-
+nen Verantwortlichkeiten und die an sie gestellten Erwar-
+tungen klar zu erkennen. Ziel ist es also, die Behörde oder die Organisation entsprechend ihren Aufgaben 
+bestmöglich zu strukturieren (Personio SE & Co. KG, 2024). 
+1.1 Problemstellung 
+Die Aufgabenstellung zum Fachartikel mit der Überschrift Neuorganisation einer Feuerwehr umfasst meh-
+rere Fragestellungen. Zum einen sind die Organisationsmodelle großer deutscher Berufsfeuerwehren zu 
+untersuchen. Zum anderen soll explizit auf die Feuerwehr Essen eingegangen und in diesem Zusammen-
+hang folgendes Thema behandelt werden: Wurden bei der Neuorganisation die richtigen Schwerpunkte ge-
+setzt, um auf zukünftige Herausforderungen vorbereitet zu sein? Des Weiteren soll erläutert werden, ob das 
+Organisationsmodell der Feuerwehr Essen zukunftsweisend für große deutsche Berufsfeuerwehren sein 
+kann.  
+Um dem vorgegebenen Rahmen des Fachartikels gerecht zu werden, können die Organisationsmodelle der 
+großen deutschen Berufsfeuerwehren nur dem vorgegebenen Umfang der Arbeit angemessen verglichen 
+werden. Insbesondere auf die Schwerpunkte und Herausforderungen im Vergleich mit der Neuorganisation 
+der Feuerwehr Essen wurde der Fokus gelegt. 
+1.2 Herangehensweise 
+Im Folgenden wird der methodische Ansatz zur Bearbeitung der Aufgabenstellung und folgend das Konzept 
+zur Datenerhebung und Auswertung beschrieben.  
+1.2.1 Eingrenzung der Untersuchungsmenge 
+Da in der Aufgabenstellung zu diesem Fachartikel explizit die Feuerwehr 
+Essen (595.900 Einwohner) (Stadt Essen, 2024) untersucht werden sollte, 
+ist die Grenze für die Betrachtung der Organisation einer großen deutschen 
+Berufsfeuerwehr bei mindestens 500.000 Einwohner festgelegt worden. 
+Hieraus ergab sich eine Untersuchungsmenge von 15 Feuerwehren (siehe 
+Abbildung 2). Diese wurden per E-Mail kontaktiert und um Unterstützung 
+gebeten. Für ein Experteninterview oder eine schriftliche Beantwortung der 
+Fragen haben sich elf Feuerwehren zur Verfügung gestellt. 
+1.2.2 Grundlagenermittlung 
+Die allgemeinen Grundlagen wurden mit Hilfe einer systematischen Literaturrecherche erarbeitet. Die Er-
+gebnisse werden im entsprechenden Abschnitt erläutert. 
+1.2.3 Experteninterviews 
+Die Untersuchung der Organisationsstruktur einer Feuerwehr kann nicht vollumfänglich mithilfe einer Litera-
+turrecherche erfolgen. Neben dem eventuell zu findenden Organigramm sind Erklärungen zu den Schwer-
+punkten und Strategien sowie Erläuterungen zur Feuerwehr im Allgemeinen erforderlich. Mit der Anfrage zur 
+Unterstützung bei der Erstellung des Fachartikels wurden neben der allgemeinen Beschreibung der Aufga-
+benstellung, einer kurzen Vorstellung des Autors und fünf Fragestellungen hinsichtlich der Organisations-
+struktur der Feuerwehr versendet (siehe Abbildung 3). 
+Abbildung 2 - Untersuchungsmenge großer deut-
+scher Berufsfeuerwehren (eigene Darstellung) 
+Abbildung 3 - Fragen zum Experteninterview (eigene Darstellung) 
+Abbildung 1 - Zentrale Fragen einer Aufbauorganisation (eigene Darstellung) 
+
+Ergebnisse 
+3 
+ 
+Ergänzend wurde die „Megatrend-Map“ des Zukunftsinstituts beigefügt (siehe 
+Anhang). Diese ist frei zugänglich und bietet einen Überblick aus Sicht des In-
+stituts über die Herausforderungen der kommenden fünf bis zehn Jahre. Die 
+Trends werden auf Basis von Beobachtungen und Entwicklungen in Wirtschaft 
+und der Gesellschaft identifiziert (Zukunftsinstitut GmbH, 2024). Verwendung 
+fanden diese unter anderem in der Strategie 2030 der Berliner Feuerwehr 
+(Berliner Feuerwehr, 2024). 
+Im Verlauf der Interviews hat sich herausgestellt, dass die Feuerwehren Dort-
+mund, Düsseldorf, Essen, Leipzig und Nürnberg extern begleitet wurden. Er-
+gänzend wurde zusätzlich das Beratungsunternehmen Lülf+ angefragt und er-
+klärte sich zu einem Experteninterview aus fachplanerischer Sicht bereit. Die 
+Ergebnisse werden im Abschnitt 2.3 dargestellt. 
+2 Ergebnisse 
+Im Folgenden werden die Ergebnisse aus der Literaturrecherche, den Experteninterviews mit den Feuer-
+wehren und dem Fachplaner wertungsfrei dargestellt. Aus den Befragungen hat sich ergeben, dass von den 
+elf befragten großen deutschen Berufsfeuerwehren acht innerhalb der letzten fünf Jahre ihre Struktur verän-
+dert haben. Sechs Behörden sogar im Zeitraum von 2022 bis heute. Zum Teil handelte es sich dabei um 
+grundlegende Veränderungen der Struktur, in den übrigen Fällen um organisatorische Anpassungen aus 
+Sicht der Feuerwehren.  
+Grundlage für die Anpassungen oder Neuorganisationen waren in acht von elf Fällen Erweiterung von Auf-
+gaben oder gestiegene Anforderungen. Bei zwei Feuerwehren gab es eine Strategieentwicklung, aus der 
+eine Strukturveränderung erfolgt. Bei der Feuerwehr Essen und der Feuerwehr Leipzig lag eine Organisati-
+onsuntersuchung zugrunde. 
+2.1 Allgemeine Grundlagen 
+Feuerwehren sind ähnlich wie andere Behörden und Organisationen mit Sicherheitsaufgaben grundsätzlich 
+hierarchisch aufgebaut. Man unterscheidet dabei drei Organisationsformen. Eine Linienorganisation ist 
+eine traditionelle Organisationsstruktur, die eine Hierarchie von oben nach unten aufweist, ohne speziali-
+sierte Stäbe oder Stabstellen. Die Stablinienorganisation enthält Elemente, in der sowohl Linien- als auch 
+die einer Staborganisation kombiniert sind. Es gibt eine Hauptlinie, ähnlich wie in einer Linienorganisation. 
+Zusätzlich werden spezialisierte Beratungs- oder Unterstützungseinheiten eingeführt, entweder als Stäbe 
+oder als Stabstellen. Eine Matrixorganisation ist eine Kombination aus funktionaler und projektbezogener 
+Struktur. In ihr sind Mitarbeiter in funktionalen Abteilungen organisiert, wie beispielsweise Marketing, Finan-
+zen oder Produktion. Gleichzeitig arbeiten sie zusätzlich in verschiedenen Projekten oder Teams zusam-
+men, die oft funktionsübergreifend sind. In einer Matrixorganisation haben die Mitarbeiter daher zwei Be-
+richtslinien (Nestler, 2019). 
+2.2 Herausforderungen aus Sicht der befragten Feuerwehren 
+Die Struktur einer Feuerwehr unterliegt ständigen Veränderungen und Einflüssen. Die zukunftsweisende 
+Ausrichtung der eigenen Behörde und die damit verbundene Organisationsstruktur ist dem Durchlaufen des 
+Führungsvorgangs im Einsatz ähnlich. Es ist ein wiederkehrender Prozess im Kontext der aktuellen und 
+zukünftigen Aufgaben. In den Experteninterviews wurden die Feuerwehren unter anderem gefragt, welche 
+Herausforderungen sie in den kommenden fünf bis zehn Jahren für sich sehen. Im Folgenden werden diese 
+beschrieben und die Aussagen der Experten wiedergegeben.  
+Fast zwei Drittel aller befragten Feuerwehren haben die Personalgewinnung als Herausforderung angege-
+ben. Durch den Fachkräftemangel und das Überangebot an Arbeitsplätzen ist es schwieriger, potenzielle 
+Abbildung 5 - Organisationsmodelle (eigene Darstellung) 
+Abbildung 4 - Deckblatt der Strategie 
+2030 (Berliner Feuerwehr) 
+
+Ergebnisse 
+4 
+ 
+Arbeitnehmer für die eigene Behörde zu gewinnen. Ins-
+besondere in Ballungsräumen (z. B. dem Ruhrgebiet) 
+herrscht eine große Konkurrenz untereinander. Interes-
+santerweise ist für die Feuerwehr Leipzig sowie die Ber-
+liner Feuerwehr mit deutlich weniger Konkurrenz durch 
+andere Berufsfeuerwehren im direkten Umfeld das 
+Thema ebenso von Bedeutung. Die Digitalisierung 
+soll die Anforderungen in Bezug auf Vorschriften und 
+Regelungen unterstützen, als auch die interne Kommu-
+nikation erleichtern. 
+Zum anderen möchte man den Einsatz der Feuerwehr 
+und seine Abarbeitung effektiver mit Technologie ge-
+stalten. Die Individualisierung beziehungsweise New Work bezieht sich auf eine Verschiebung des Le-
+bensmittelpunkts von der Arbeit hin zur persönlichen Entwicklung. Die Arbeitnehmer möchten ihre Arbeits-
+modelle und Anwesenheiten flexibel wählen können.  
+Der Neubau und die Unterhaltung von eigener Infrastruktur stellen einen Teil der Befragten vor die Her-
+ausforderung im Spannungsfeld der Finanzen und des städtebaulichen Wettbewerbs, um vermarktbare Flä-
+chen zu konkurrieren. Die Urbanisierung und die damit einhergehende Verdichtung von Wohnraum, Ver-
+engung von Straßen haben Auswirkungen auf die Hilfsfristen. Die Klimafolgeerscheinungen und ihre Aus-
+wirkungen auf das Einsatzgeschehen haben mit der Flutkatastrophe 2021 in Rheinland-Pfalz und Nordrhein-
+Westfalen einen Teil der Gefahrenabwehr in Deutschland beschäftigt. Sowohl die Anzahl der Rettungsdien-
+steinsätze bei Hitzeperioden, aber auch die Extremwetterereignisse und häufigere Fluten stellen eine Her-
+ausforderung aus Sicht der großen deutschen Feuerwehren dar.  
+Weniger zahlreich wurden durch die Feuerwehren die Herausforderungen Bedarfspläne (geringere Ab-
+stände zwischen den Plänen, weniger Umfang) und Investitionen/Finanzen (Herausforderung, die geplan-
+ten Summen auf Grund von Lieferzeiten und Ausschreibungsregelungen zu verausgaben) genannt. Dane-
+ben sind ebenso häufig der Rettungsdienst (steigende Einsatzzahlen), die Sicherheit (Mitarbeitersicher-
+heit im Einsatz) und nur bei jeder zehnten Behörde die Aus- und Fortbildung (erhöhter Ausbildungsbedarf 
+durch ansteigende Stellen), der demografische Wandel (Ausscheiden von Mitarbeitenden und die daraus 
+folgende Kompensation) und das Führungsverhalten (Veränderung im Umgang und der Kommunikation 
+miteinander) genannt worden. 
+2.3 Neuorganisation aus fachplanerischer Sicht 
+Im Rahmen der Experteninterviews hat sich gezeigt, dass einige der befragten Feuerwehren sowie die Feu-
+erwehr Essen von dem Beratungsunternehmen Lülf+ bei der Neuorganisation ihrer Behörde unterstützt wur-
+den. Der Prozess, die Beratung des Unternehmens und die Grundlagenermittlung einer Neuorganisation 
+setzen sich aus verschiedenen Teilen zusammen.  
+Zunächst gilt es, die Historie der Feuerwehr und speziell ihrer Organisationsstruktur zu untersuchen. Wie 
+hat sich die Feuerwehr bisher aufge-
+stellt? Wo befinden sich Schwer-
+punkte? Wo waren diese in der Ver-
+gangenheit (Ohrem, 2024)? 
+Der Umgang mit und die Einbeziehung 
+der Mitarbeitenden in den Prozess der 
+Strukturierung ist entscheidend. Das 
+kann zum Beispiel im Rahmen einer Befragung der Mitarbeitenden erfolgen. Hiermit können über alle Füh-
+rungsebenen und Bereiche zukünftige Erwartungen und aktuelle Schwierigkeiten aufgezeigt werden. 
+Schnittstellen zwischen Aufgaben und externen Stellen sind ein nicht zu verhindernder Teil von Organisati-
+onsstrukturen. Diese erhöhen die Kommunikation und die Notwendigkeit zur Zusammenarbeit. Sie zu redu-
+zieren ist im weiteren Verlauf des Prozesses eine elementare Aufgabe. Externe Schnittstellen einer Organi-
+sation (andere Fachämter, Behörden) sind darzustellen und zu beleuchten (Ohrem, 2024).  
+Die Prozessvisualisierung der Aufgabenbewältigung innerhalb der Behörde und die dazugehörige Beschrei-
+bung ist elementar für das Verständnis der Organisation. Dieser Teilbereich ist sehr aufwendig, wenn die 
+Abbildung 6 - Herausforderungen aus Sicht der befragten Experten  
+(eigene Darstellung) 
+Abbildung 7 - Prozess zur Neuorganisation aus fachplanerischer Sicht (eigene Darstellung) 
+
+Ergebnisse 
+5 
+ 
+bisherige Dokumentation Lücken aufweist. Die Prozessdarstellung dient dem Verständnis von Arbeitsabläu-
+fen innerhalb der Behörde und kann zur Schnittstellenreduzierung beitragen (Ohrem, 2024).  
+Identität und Identifikation mit der eigenen Feuerwehr, ihren Zielen und Ideen ist in einem dynamischen 
+Arbeitsmarkt ein Baustein, Mitarbeitende langfristig an die eigene Behörde zu binden. Relevante Fragestel-
+lungen sind hierbei: Wie funktioniert meine Organisation und was macht uns aus? Wo möchten wir in Zukunft 
+hin? Die neue Organisationsform sollte das Ziel beinhalten, eine größtmögliche Schnittstellenfreiheit her-
+zustellen. In diesem Zusammenhang sind zum Beispiel folgende Ansätze zu wählen Was ist die Kompetenz, 
+die abgebildet werden soll und kann die damit verknüpfte Schnittstelle in einer Abteilung abgebildet werden? 
+Bewusste Schnittstellen hingegen, zum Beispiel die Vergabe von Lieferungen und Leistungen, die Finanz-
+steuerung oder das Controlling sollten in Kauf genommen werden (Ohrem, 2024).  
+Relevante Fragestellungen zu strategischen oder grundsätzlichen Fragen finden sich in vielen Behörden 
+höher positioniert wieder. Das kann im Rahmen von Stabstellen oder von sogenannten Leitungsstäben 
+stattfinden. Bei einer Neustrukturierung ist zu diskutieren, relevante Fragestellungen wie zum Beispiel Be-
+darfsplanungen, Controlling, Strategie oder Kommunikation in einer Stablinienorganisation zu etablieren. 
+Welche Führungsspanne ergibt sich aus der Organisationsstruktur? Kann die geplante Organisationsein-
+heit dem Inhalt und der Vielfalt an Aufgaben gerecht werden? Wenn nicht, sind Zwischenebenen einzufüh-
+ren. Das zu wählende Organisationsmodell kann sich aus verschiedenen Gründen ergeben. Zum einen 
+kann es Vorgaben durch das Personal- und Organisationsamt geben. Zum anderen kann die Leitung oder 
+die Projektgruppe ein Modell bevorzugen (Ohrem, 2024).  
+2.4 Neuorganisation der Feuerwehr Essen 
+Die Feuerwehr Essen ist ein eigenständiges Amt im Geschäftsbereich Recht, öffentliche Sicherheit und Ord-
+nung und beschäftigt aktuell 940 hauptberufliche Mitarbeitende und wird von 550 Ehrenamtlichen unter-
+stützt. Mit ihren 180.000 Einsätzen pro Jahr schützt sie auf einer Fläche von 210 Quadratkilometern circa 
+590.000 Einwohner (Stadt Essen, 2024). Essen liegt zentral in der Metropolregion Rhein-Ruhr und im Zent-
+rum des Ruhrgebiets. Als viertgrößte Kommune in Nordrhein-Westfalen zählt sie zu den zehn bevölkerungs-
+reichsten Städten in Deutschland. (Die freie Enzyklopädie, Wikipedia, Essen, 2024) 
+2.4.1 Stand vor der Neuorganisation 
+Die Feuerwehr Essen basierte bis zu ihrer 
+umfassenden Neuorganisation auf einer 
+Struktur aus den 2000er-Jahren. Die resultie-
+renden Schwierigkeiten waren wenig etab-
+lierten Standards, fehlende Dokumentation 
+und Festlegungen. Es gab eine hohe Perso-
+nalunzufriedenheit, starke Mitarbeiterfluktua-
+tion, resultierend mit einer zweistelligen An-
+zahl an Abgängen pro Jahr. Die Feuerwehr 
+Essen bot aus Sicht der Mitarbeitenden we-
+nig Entwicklungspotenzial durch niedrige 
+Stellenbewertungen. Die drei Wachabteilun-
+gen waren als Stabstellen ohne zentrale Füh-
+rung an der Behördenleitung verortet (siehe 
+Abbildung 8). Heterogene Abteilungszu-
+schnitte unterscheiden sich in der Anzahl und 
+Qualität der zugewiesenen Aufgaben. Dar-
+aus resultierend konnten diese nicht sachge-
+recht ausgeführt werden. Hinzu kam der Ent-
+fall von Funktionen und Stellen durch die Herabstufung von Hierarchieebenen, zum Beispiel im Katastro-
+phenschutz durch den Entfall der Abteilung und Überführung in ein Sachgebiet. (Keil, Walch, Zoller, 2023). 
+2.4.2 Prozess der Neuorganisation 
+Der Prozess der Neustrukturierung der Feuerwehr Essen wurde durch die Behördenleitung im Jahr 2016 
+initiiert.  
+Abbildung 8 - Organisationsstruktur der Feuerwehr Essen vom 01.10.2000 (eigene Darstellung) 
+
+Diskussion 
+6 
+ 
+In den folgenden drei Jahren wurden hausintern die Prozesse analysiert, 
+eine Berechnung der notwendigen Mitarbeitenden und Ideen für eine Re-
+organisation entwickelt.  
+Zusätzlich gab es einen intensiven Austausch mit benachbarten Feuer-
+wehren vergleichbarer Größe, explizit Düsseldorf, Duisburg und Dort-
+mund. Der gesamte Prozess wurde politisch begleitet. 2018 wurde die 
+Ausschreibung für den Fachplaner durchgeführt. Das Unternehmen Lülf+ 
+hat nach Zuschlag im Bieterverfahren in den Jahren 2019 bis 2021 das 
+Gutachten erstellt. Es gab ausdrücklich keine Vorgaben durch die Verwal-
+tung oder die Feuerwehr Essen. Die Ergebnisse führten zu einem Orga-
+nisationsgutachten, welches in großen Teilen unverändert nach Ergebnis 
+des Beratungsunternehmens vorgestellt wurde. Aufbauend wurden in den 
+folgenden Jahren der Brandschutz-, der Rettungsdienst- und der Kata-
+strophenschutzbedarfsplan mit Unterstützung desselben Fachplaners fer-
+tiggestellt (siehe Abbildung 9) (Keil, Walch, Zoller, 2023).  
+2.4.3 Stand nach der Neuorganisation 
+Die Feuerwehr Essen präsentiert sich nach der Neuorganisation deutlich breiter und aufgeräumter aufge-
+stellt. Folgende Kernpunkte haben sich für die Struktur ergeben: 
+- 
+Aufwuchs von vier auf sieben Abteilungen. 
+- 
+Thematische Aufgabenzusammenfassung in den Abteilungen zur Schnittstellenreduzierung und 
+Effizienzsteigerung. 
+- 
+Eingliederung des Wachdienstes in die Abteilung Gefahrenabwehr und Gründung von Inspektions-
+bereichen sowie Anpassung der Führungsstruktur im Einsatz. 
+- 
+Zuordnung von Stabstellen zusätzlich auf Abteilungsebene für übergeordnete oder strategische 
+Aufgaben.  
+- 
+Feuerwehr- und Rettungsdienstakademie als eigene Abteilung. 
+- 
+Bevölkerungsschutz und Krisenmanagement aus dem ehemaligen Sachgebiet Zivil- und Katastro-
+phenschutz wieder in eine eigene Abteilung überführt. (Keil, Walch, Zoller, 2023) 
+Die Neustrukturierung ist organisatorisch abgeschlossen. Aus dieser umfassenden Organisationsänderung 
+resultieren personelle und organisatorische Aufgaben, die in den folgenden Jahren die Feuerwehr Essen 
+beschäftigen werden. Zusätzlich wird die geschaffene Struktur regelmäßig auf ihre Funktionalität und Aktu-
+alität überprüft und bei Bedarf angepasst (Keil, Walch, Zoller, 2023).  
+3 Diskussion 
+Im Folgenden wird die Struktur der Feuerwehr Essen mit der anderer großer deutscher Berufsfeuerwehren 
+verglichen und die resultierenden Herausforderungen der Neuorganisation diskutiert. Hierbei beschränkt 
+sich die Auswahl aufgrund des Umfangs des Fachartikels auf die Feuerwehren, welche im Rahmen der 
+Neustrukturierung im direkten Austausch mit der Feuerwehr Essen waren.  
+Abbildung 9 - Zeitstrahl der Neuorganisation der 
+Feuerwehr Essen (eigene Darstellung) 
+Abbildung 10 - Organisationsstruktur der Feuerwehr Essen - 01.04.2024 (eigene Darstellung) 
+
+Diskussion 
+7 
+ 
+3.1 Vergleich zu anderen Organisationsstrukturen 
+Die neue, deutlich breiter aufgestellte Struktur der Feuerwehr Essen ist mit denen vieler anderer großer 
+deutscher Berufsfeuerwehren vergleichbar (siehe Anhang Organigramme).  
+Insbesondere finden sich jedoch aufgrund des engen Austausches im Rahmen der Neuorganisation Ele-
+mente und Zuschnitte der Feuerwehren aus Düsseldorf, Duisburg und Dortmund wieder.  
+Abbildung 11 - Vereinfachte Organigramme der Feuerwehren Düsseldorf, Duisburg und Dortmund (eigene Darstellung) 
+Die drei Behördenstrukturen weisen zwischen fünf und sieben Abteilungen auf. Übergeordnete Aufgaben 
+sind entweder in Stabstellen der Amtsleitungen oder an Abteilungsleitungen angegliedert. Folgende Analo-
+gien im Hinblick auf die vorher in den Experteninterviews ermittelten Herausforderungen (rot umrandet) sind 
+festzustellen. Unterschiede bestehen in der Aufgabenverortung als Abteilung oder Sachgebiet, nicht jedoch 
+in der eigentlichen Aufgabe: 
+- 
+Stab der Amtsleitung, Grundsatzstab (Düsseldorf, Duisburg, Essen) 
+- 
+Stabstelle Standortentwicklung und Bauunterhaltung, Neubau (Düsseldorf, Essen) 
+- 
+Abteilung Ausbildung, Akademie (Düsseldorf, Duisburg, Dortmund, Essen) 
+- 
+Abteilung Einsatz, Gefahrenabwehr (Düsseldorf, Duisburg, Dortmund, Essen) 
+- 
+Abteilung Bevölkerungsschutz und Krisenmanagement (Duisburg, Dortmund, Essen) 
+Selbstverständlich bestehen bei allen Feuerwehren Abteilungen unter anderem zu den funktionalen Themen 
+Technik, Vorbeugender Brandschutz, Gefahrenabwehr und Organisation. Diese werden aber nicht weiter 
+betrachtet. 
+3.2 Schwerpunktsetzung  
+Die Neuorganisation der Feuerwehr Essen hat im Ergebnis eine breit gefächerte grundlegende Strukturie-
+rung ergeben. Schwerpunkte sind in folgenden Bereichen gesetzt worden. 
+Stab 
+Abteilung: Gefahrenabwehr 
+Stab Neubau 
+Abteilung: Feuerwehr- und Rettungsdienstakademie 
+ 
+Abteilung: Bevölkerungsschutz und Krisenmanagement 
+Aus der Sicht des Autors wurden aufgrund der aufgezeigten Schwierigkeiten in der vorherigen Organisati-
+onsstruktur die Schwerpunkte aktuell richtig gesetzt. Zum einen begründet sich das aus dem Vergleich der 
+Aufbauorganisationen anderer großer deutscher Berufsfeuerwehren. Zum anderen stellt die Feuerwehr Es-
+sen sich insbesondere in den Bereichen stark auf, welche für den Erfolg und die Umsetzung der neuen 
+Struktur erforderlich sind. Der „Stab“ dient der grundlegenden strategischen Ausrichtung der Feuerwehr. Der 
+„Stab Neubau“ dient der stadtinternen Koordinierung der notwendigen Bauprojekte (Standortsuche, Neubau 
+von Feuer- und Rettungswachen, Sanierung von bestehenden Objekten). Die Stadt Essen versucht mit den 
+Bereichen Personal- und Organisation, Bau- und Liegenschaften und der Feuerwehr unter der Federführung 
+des Oberbürgermeisters die Bedarfe der Infrastruktur zu berücksichtigen und umzusetzen. Die Abteilung 
+„Feuerwehr- und Rettungsakademie“ soll den durch die Neuorganisation resultierenden Zuwachs von 321 
+Stellen zu einem Teil decken und die demografisch bedingten Abgänge durch Vergrößerung der Lehrgangs-
+kapazitäten kompensieren. Die aus dem bisherigen Sachgebiet resultierende Abteilung „Bevölkerungs-
+schutz und Krisenmanagement“ dient der Koordinierung aller Katastrophenschutzmaßnahmen und der Ent-
+wicklung, Bündelung und Steuerung des städtischen Bevölkerungsschutzes und Krisenmanagements. 
+ 
+ 
+
+Fazit 
+8 
+ 
+3.3 Herausforderungen 
+Neben den positiven Veränderungen für die Feuerwehr Essen ergeben sich folgerichtig Herausforderungen, 
+welche unmittelbar aus der Neuorganisation resultieren. Ein Teil wird durch ein gesamtstädtisches Projekt 
+(Neubau) bearbeitet, andere werden im Folgenden aufgezeigt und diskutiert. 
+3.3.1 Führungsfunktionen 
+Im Zusammenhang mit der Neuorganisation wurden der Feuerwehr 321 neue Stellen zugesprochen und in 
+großen Teilen eine deutliche Anhebung der Besoldungsstruktur erzielt. Diese Punkte sind kritisch zu be-
+trachten. Eingerichtete Stellen konnten verständlicherweise aufgrund der Vielzahl und Kürze der Zeit noch 
+nicht besetzt werden, da durch die personelle Erhöhung der Abteilungen und die Neuschaffung diverser 
+Sachgebiete entsprechend Führungs- und Leitungskräfte für die Aufgaben zunächst eingestellt oder qualifi-
+ziert werden müssen. Laut Aussage des Projektteams sind noch weitere sechs Jahre notwendig, die Füh-
+rungsstruktur zu füllen. 
+3.3.2 Stellenbesetzung 
+Die Feuerwehr Essen unterliegt wie viele anderen Behörden dem Fachkräftemangel. Der Unterschied ist die 
+im Verhältnis zu anderen Behörden sehr hohe Anzahl neuer Stellen. Um diese zu besetzen, sind laut eigener 
+Aussage mindestens weitere zehn Jahre notwendig. Zurzeit wird mit 30 Neueinstellungen pro Jahr geplant. 
+Hierbei sind die demografisch bedingten Abgänge nicht berücksichtigt. Diese addieren sich zusätzlich. Die 
+Grundausbildungslehrgänge werden dazu von zwei auf drei pro Jahr erweitert, je Lehrgang sind mindestens 
+18 Teilnehmer erforderlich.  
+3.3.3 Interne Umsetzung und Kommunikation 
+Aufgrund der Neustrukturierung sind aktuell viele personelle Ressourcen bei der Feuerwehr Essen gebun-
+den. Es gilt aktuell die neue Organisationsstruktur umzusetzen, vorzuleben und zu erklären. Das führt dazu, 
+dass Kräfte gebündelt und Aufgaben priorisiert werden. Die Mitarbeitenden stehen somit für die originären 
+Aufgaben nicht vollständig zur Verfügung.  
+3.4 Zukunftsfähigkeit 
+Ein Teilaspekt des Fachartikels behandelt die Frage, ob die neue Organisationsstruktur der Feuerwehr Es-
+sen für andere große deutsche Berufsfeuerwehren zukunftsfähig sein kann. Die Neuorganisation der Feu-
+erwehr Essen stellt eine notwendige und folgerichtige Veränderung der Struktur dar. Wie bereits im Abschnitt 
+3.1 erläutert, sind große Analogien hinsichtlich der Schwerpunktsetzung, Anzahl und Breite der Stäbe, Stab-
+stellen und Abteilungen mit allen untersuchten großen deutschen Berufsfeuerwehren festzustellen. Das be-
+deutet, dass die Struktur keine Neuentwicklung ist, sondern eine Angleichung einer deutlich veralteten Struk-
+tur an erprobte und bestehende Aufbauorganisationen anderer Behörden darstellt.  
+4 Fazit 
+Die Feuerwehren stehen wie in allen Zeiten vor Herausforderungen und werden sich zukünftig mit neuen 
+Aufgaben auseinandersetzen müssen. Diese sind nach Meinung der großen deutschen Berufsfeuerwehren 
+unter anderem aufgrund der Verkürzung von Innovationszeiträumen und der Komplexität nur mit einer fle-
+xiblen Organisationsstruktur zu bewältigen. Unvorhersehbare Ereignisse wie eine Pandemie oder Krieg sind 
+jederzeit einzuplanen. Die Notwendigkeit, die eigene Organisation regelmäßig und in engen Abständen zu 
+betrachten, haben alle befragten Feuerwehren betont. In den Experteninterviews hat sich ergeben, dass 
+acht von elf teilnehmenden großen deutschen Berufsfeuerwehren ihre Organisationsstruktur in den letzten 
+fünf Jahren verändert haben. Die Auseinandersetzung mit der eigenen Struktur und die daraus resultierende 
+Anpassung ist notwendig.  
+Die Feuerwehr Essen hat durch die bis zur Neustrukturierung nur marginal veränderte Organisation seit den 
+90er-Jahren einen großen und wichtigen Schritt getätigt. Vergleichbare Feuerwehren haben rückblickend 
+kontinuierlich die Veränderung herbeigeführt. Beispielhaft hat die Feuerwehr Dortmund bereits im Jahre 
+2001 mit einem grundlegenden Umbau der Behördenstruktur begonnen. Stellenzuwächse sind besser zu 
+handhaben, wenn diese kleineren Zuwachsraten entsprechen. Für die Feuerwehr Essen wird es daher eine 
+der großen Herausforderungen sein, die neuen Stellen in Verbindung mit regelhaften Abgängen zu beset-
+zen. Grundsätzlich bleibt abzuwarten, in welcher Weise sich die Organisationsstrukturen der deutschen Feu-
+erwehren in den nächsten Jahren verändern. Die Strategien aus Berlin und München geben einen Ausblick 
+auf die mögliche Zukunft. 
+
+Beschreibung der Methodik 
+9 
+ 
+Teil II: Methoden-, Literatur- und Quellendokumentation 
+Die Ausbildung für den höheren feuerwehrtechnischen Dienst gemäß der Verordnung über die Ausbildung 
+und Prüfung für die Laufbahn des zweiten Einstiegsamtes der Laufbahngruppe 2 des feuerwehrtechni-
+schen Dienstes im Land Nordrhein-Westfalen (VAP2.2-Feu NRW) sieht die Erstellung einer Facharbeit in 
+Form eines Fachartikels vor. (IDF, 2023) 
+Der Teil I als auch Teil II dieses Fachartikels sind auf Grundlage der „Anforderungen an die Facharbeit Teil 
+I“ der VAP2.2-Feu NRW, ausgegeben vom Institut der Feuerwehr Nordrhein-Westfalen mit Stand vom 
+21.03.2023 entstanden. 
+In den folgenden Punkten werden die Begründung der Methodik und die Literatur- und Quellendokumen-
+tation aufgezeigt. Die Gliederung des Fachartikels entspricht den Vorgaben der „Anforderungen an die 
+Facharbeit Teil I“. 
+1 Beschreibung der Methodik 
+Für die Bearbeitung der Aufgabe und die Erstellung der Facharbeit wurde ein qualitativer Ansatz gewählt, 
+der die Problemstellung Schritt für Schritt herleitet und beantwortet. Dabei wurde das Vorgehen in mehrere 
+Hauptschritte unterteilt. Jeder dieser Schritte besteht aus kleineren, aufeinander aufbauenden Prozessen, 
+deren Ergebnisse immer wieder miteinander verglichen und überprüft wurden. 
+ 
+Abbildung 12 - Prozessschritte der angewandten Methodik (eigene Darstellung) 
+2 Begründung 
+Zur Lösung der Aufgabe ist der qualitative Ansatz verwendet worden. Anders als bei quantitativen Metho-
+den, die auf Zahlen und Statistiken basieren, geht es um die Interpretation von nicht-numerischen Daten, 
+um ein besseres Verständnis zu erlangen.  
+2.1 Literaturrecherche 
+Die Wahl der Literaturrecherche erfolgte, weil sie einen umfassenden Überblick über vorhandenes Wissen 
+und Theorien bietet. Durch die Auswertung, Fachartikeln und anderen Veröffentlichungen lassen sich viel-
+fältige und fundierte Perspektiven gewinnen. Diese Methode erlaubt es, vorhandenes Wissen zu nutzen, 
+Wissenslücken zu erkennen und die eigene Forschung auf einer soliden theoretischen Basis aufzubauen. 
+Außerdem ermöglicht die Literaturrecherche den Zugang zu validen empirischen Daten und bewährten 
+Konzepten, die für die Beantwortung der Fragestellung wichtig sind. (Bortz, 2006) 
+2.2 Experteninterview 
+Neben der Literaturrecherche wurde das Experteninterview als qualitativer Ansatz gewählt, weil es detail-
+lierte Einblicke und ein umfassendes Verständnis der Problemstellung bietet. Durch das direkte Gespräch 
+mit Fachleuten können spezifische und oft komplexe Informationen gewonnen werden, die in schriftlichen 
+Quellen möglicherweise nicht so detailliert vorhanden sind. Darüber hinaus ermöglichen Experteninter-
+views das Sammeln von Meinungen, Erfahrungen und Einsichten, die für die Entwicklung praxisnaher und 
+umsetzbarer Lösungen wichtig sind. Diese Methode ist besonders wertvoll, da sie aktuelle und praxisrele-
+vante Informationen aus erster Hand liefert. (Bortz, 2006) 
+3 Literatur- und Quellendokumentation  
+Im Folgenden wird das Vorgehen bei der Suche nach Literatur und Quellen erläutert. 
+ 
+
+
+Literatur- und Quellendokumentation 
+11 
+ 
+Besonderes Augenmerk wurde bei der Auswahl von Literatur und Quellen auf behördliche Veröffentlichun-
+gen gelegt, da diesen eine hohe inhaltliche Validität und Relevanz auf Grund der Aufgabenstellung zuge-
+schrieben wird. Die erhobenen Daten wurden analysiert, ausgewertet und in Bezug zur Problemstellung 
+gesetzt. Durch die Dokumentation des Prozesses, die offene Diskussion der Ergebnisse und ihre Über-
+tragbarkeit wurden die zentralen Qualitätskriterien qualitativer Forschung – Transparenz, Intersubjektivität 
+und Reichweite – eingehalten. 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen 
+Zu der hier gestellten Aufgabenstellung ist eine Vielzahl an Grundlagenliteratur zu finden. Nicht jedoch 
+spezifisch auf die Organisation von Feuerwehren. Die Fachartikel aus dem Bereich der Feuerwehren be-
+handeln diese spezielle Thematik entweder rückblickend oder allgemeiner in die Zukunft ausgerichtet. Ein 
+Leitfaden oder eine grundlegende Organisationsstruktur wird nicht vorgegeben. Ebenso sind zwar rechtli-
+che Grundlagen zur Einrichtung einer Feuerwehr zu finden. Spezifische rechtliche Vorgaben zur Organi-
+sation sind aber nicht zu finden. 
+Zur Lösung der Problemstellung wurde aus diesem Grunde auf Expertenerkenntnisse gesetzt und im Rah-
+men von strukturierten Interviews Ergebnisse, Organisationsstrukturen und Sichtweisen zusammengetra-
+gen und anschließend aggregiert und mit der Feuerwehr Essen verglichen.  
+ 
+
+Literaturverzeichnis 
+12 
+ 
+Literaturverzeichnis 
+ 
+Aschenbrenner. (22. 01 2024). Experteninterview Feuerwehr Dortmund. (Dannenberg, Interviewer) 
+Berliner Feuerwehr. (04. 04 2024). Strategie 2030. Von Strategie 2030: https://www.berliner-
+feuerwehr.de/ueber-uns/strategie-2030/ abgerufen 
+Bortz, J. D. (2006). Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler. 
+Heidelberg: Springer Medizin Verlag. 
+Die freie Enzyklopädie, Wikipedia. (14. 04 2024). Essen. Von Essen: 
+https://de.wikipedia.org/w/index.php?title=Essen&oldid=243895703 abgerufen 
+Elser. (12. 02 2024). Experteninterview Feuerwehr München. (Dannenberg, Interviewer) 
+Franzke. (01. 02 2024). Experteninterview Berliner Feuerwehr. (Dannenberg, Interviewer) 
+IDF. (21. März 2023). Anforderungen an die Facharbeit Teil I der Verordnung über die Ausbildung und 
+Prüfung für die Laufbahn des zweiten Einstiegsamtes der Laufbahngruppe 2 des 
+feuerwehrtechnischen Dienstes im Land Nordrhein- Westfalen. Münster, NRW, Deutschland: 
+Selbstverlag. 
+Keil, Walch, Zoller. (13. 12 2023). Experteninterview Feuerwehr Essen. (Dannenberg, Interviewer) 
+Nestler. (2019). Warum Matrix Sinn macht - Gedanken zur Neuorganisation. brennpunkt, S. 64. 
+Ohrem. (30. 01 2024). Experteninterview Fachplaner. (Dannenberg, Interviewer) 
+Personio SE & Co. KG. (03. 06 2024). Personio.de. Von Personio.de: https://www.personio.de/hr-
+lexikon/aufbauorganisation/ abgerufen 
+Stadt Essen. (03. 04 2024). essen.de. Von essen.de: 
+https://www.essen.de/dasistessen/essen_in_zahlen/bevoelkerung.de.html abgerufen 
+Zukunftsinstitut GmbH. (03. 04 2024). Zukunftsinstitut. Von Zukunftsinstitut: 
+https://www.zukunftsinstitut.de/ abgerufen 
+ 
+
+Anhänge 
+13 
+ 
+A. Anhänge 
+ 
+Anhang 1 – Megatrend-Map (Zukunftsinstitut GmbH, 2024) 
+Anhang 2 – Organisationsstruktur Berliner Feuerwehr 
+Anhang 3 – Organisationsstruktur Feuerwehr Dortmund 
+Anhang 4 – Organisationsstruktur Feuerwehr Dresden 
+Anhang 5 – Organisationsstruktur Feuerwehr Duisburg 
+Anhang 6 – Organisationsstruktur Feuerwehr Düsseldorf  
+Anhang 7 – Organisationsstruktur Feuerwehr Essen (Stand: 2000) 
+Anhang 8 – Organisationsstruktur Feuerwehr Essen (Stand: 2024) 
+Anhang 9 – Organisationsstruktur Feuerwehr Hannover 
+Anhang 10 – Organisationsstruktur Feuerwehr Leipzig 
+Anhang 11 – Organisationsstruktur Feuerwehr München 
+Anhang 12 – Organisationsstruktur Feuerwehr Nürnberg 
+Anhang 13 – Organisationsstruktur Feuerwehr Stuttgart 
+ 
+ 
+ 
+
+Anhänge 
+14 
+ 
+Anhang 1 – Megatrend-Map (Zukunftsinstitut GmbH, 2024) 
+ 
+ 
+ 
+Anhang 2 – Organisationsstruktur Berliner Feuerwehr  
+ 
+
+Anhänge 
+15 
+ 
+Anhang 3 – Organisationsstruktur Feuerwehr Dortmund 
+ 
+ 
+ 
+Anhang 4 – Organisationsstruktur Feuerwehr Dresden 
+ 
+ 
+
+Anhänge 
+16 
+ 
+Anhang 5 – Organisationsstruktur Feuerwehr Duisburg 
+ 
+ 
+ 
+Anhang 6 – Organisationsstruktur Feuerwehr Düsseldorf 
+ 
+  
+ 
+ 
+ 
+ 
+
+Anhänge 
+17 
+ 
+Anhang 7 – Organisationsstruktur Feuerwehr Essen (Stand: 2000) 
+ 
+ 
+Anhang 8 – Organisationsstruktur Feuerwehr Essen (Stand: 2024) 
+ 
+ 
+
+Anhänge 
+18 
+ 
+Anhang 9 – Organisationsstruktur Feuerwehr Hannover 
+ 
+ 
+Anhang 10 – Organisationsstruktur Feuerwehr Leipzig 
+ 
+ 
+ 
+
+Anhänge 
+19 
+ 
+Anhang 11 – Organisationsstruktur Feuerwehr München 
+ 
+ 
+ 
+ 
+
+Anhänge 
+20 
+ 
+Anhang 12 – Organisationsstruktur Feuerwehr Nürnberg 
+ 
+ 
+
+Anhänge 
+21 
+ 
+Anhang 13 – Organisationsstruktur Feuerwehr Stuttgart 
+ 
+ 
+ 
+ 
+

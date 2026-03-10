@@ -1,0 +1,1633 @@
+  
+ 
+Digitalisierung im Einsatzdienst - Drohnen, Exoskelette und Vernetzung 
+Jürgen Gottschalk 
+Brandinspektor 
+Werkfeuerwehr Infraserv GmbH & Co. Höchst KG 
+ 
+Digitalisierung im Einsatzdienst 
+ 
+ 
+Facharbeit gemäß § 21 der Verordnung über die 
+Ausbildung und Prüfung für die Laufbahn des zweiten 
+Einstiegsamtes der Laufbahngruppe 2 des 
+feuerwehrtechnischen Dienstes im Land Nordrhein-
+Westfalen (VAP2.2-Feu) 
+ 
+Münster, den 20.12.2019 
+
+ 
+II 
+Aufgabenstellung 
+Digitalisierung im Einsatzdienst – Drohnen, Exoskelette und Vernetzung 
+Wie ist der Stand bei den deutschen Berufsfeuerwehren, wie bei den europäischen 
+Feuerwehren? Welche Entwicklungen sind sinnvoll, welche bereits einsetzbar? Erstel-
+len Sie Vorschläge dafür, wie sich eine Berufsfeuerwehr heute aufstellen muss, um die 
+künftigen Entwicklungen umsetzen zu können. Stellen Sie dies insbesondere bei einer 
+Vernetzung von Atemschutzüberwachung, Einsatzführung und Einsatzsteuerung dar. 
+
+ 
+III 
+Kurzfassung 
+In dieser Facharbeit wird die Digitalisierung und die damit in Verbindung stehenden 
+Innovationen, wie Drohnen, Exoskelette und Vernetzung, für den Einsatz bei der Feu-
+erwehr genauer beschrieben. Die bei telefonischen Interviews gewonnenen Erkennt-
+nisse zu den einzelnen Strukturen von fünf europäischen Feuerwehrorganisationen 
+werden mit der Struktur der deutschen Feuerwehrorganisation gegenübergestellt und 
+verglichen. Bei der Befragung hat sich ergeben, dass sich in Europa drei Verwaltungs-
+strukturen erkennen lassen. Im weiteren Verlauf erfolgt die Auswertung der Rückläufe 
+eines Erhebungsbogens, der an mehrere deutsche Berufsfeuerwehren gesandt 
+wurde. Die sich aus dem Erhebungsbogen ergebenden Antworten werden denen der 
+europäischen Feuerwehren gegenübergestellt und daraus ein Zwischenfazit gebildet. 
+Um sich über den aktuellen Stand der Digitalisierung bei der Feuerwehr und über de-
+ren Einsatzmöglichkeiten zu informieren, ist die umfangreiche Recherche zu aktuellen 
+Forschungsprojekten und Neuerungen aus der Industrie die Grundlage, für das Auf-
+zeigen dreier Szenarien zu den Themenfeldern Einsatzsteuerung, Einsatzführung und 
+Atemschutzüberwachung. Im Zuge dessen werden die Forschungsprojekte VISION, 
+SIRENE, VERONIKA und CELIDON vorgestellt. Das Aufzeigen eines möglichen We-
+ges, wie deutsche Berufsfeuerwehren die zukünftigen Entwicklungen der in den drei 
+Szenarien beschrieben Themenfeldern aktiv umsetzen und sogar mitgestalten kön-
+nen, schließt die in der Aufgabenstellung geforderten Maßnahmen ab. 
+
+ 
+IV 
+Inhalt 
+1 
+Einleitung .............................................................................................................. 1 
+2 
+Digitalisierung im Einsatzdienst ............................................................................ 2 
+2.1 
+Drohnen ......................................................................................................... 2 
+2.2 
+Exoskelett ...................................................................................................... 3 
+2.3 
+Vernetzung ..................................................................................................... 6 
+3 
+Organisationstrukturen europäischer Feuerwehren .............................................. 8 
+3.1 
+Feuerwehrstruktur in der Bundesrepublik Deutschland ................................. 8 
+3.2 
+Feuerwehrstruktur ausgewählter europäischer Feuerwehren ....................... 8 
+3.2.1 
+Österreich .............................................................................................. 8 
+3.2.2 
+Schweiz .................................................................................................. 8 
+3.2.3 
+Italien ..................................................................................................... 9 
+3.2.4 
+Frankreich .............................................................................................. 9 
+3.2.5 
+Niederlande ............................................................................................ 9 
+3.3 
+Zwischenfazit ............................................................................................... 10 
+4 
+Stand der Digitalisierung bei europäischen Feuerwehren .................................. 11 
+4.1 
+Motivation der Umfrage ................................................................................ 11 
+4.2 
+Auswertung der Befragung .......................................................................... 11 
+5 
+Aktuelle Entwicklungen ....................................................................................... 13 
+5.1 
+Einsatzsteuerung ......................................................................................... 13 
+5.2 
+Einsatzführung ............................................................................................. 15 
+5.3 
+Atemschutzüberwachung ............................................................................. 17 
+5.4 
+Zukünftige Entwicklungen bei deutschen Berufsfeuerwehren ..................... 18 
+5.4.1 
+Bedarf anhand von Nutzungsszenarien ermitteln ................................ 19 
+5.4.2 
+Ziele und Schnittstellen definieren ....................................................... 19 
+5.4.3 
+Strukturen schaffen und Prioritäten setzen .......................................... 19 
+5.4.4 
+Fördermittel nutzen .............................................................................. 20 
+5.4.5 
+Erstellen einer Notfallplanung .............................................................. 20 
+5.4.6 
+Umsetzung ........................................................................................... 21 
+6 
+Fazit .................................................................................................................... 22 
+Literaturverzeichnis ................................................................................................... 24 
+Abkürzungen ............................................................................................................. 28 
+Abbildungsverzeichnis ............................................................................................... 30 
+Anhang ...................................................................................................................... 31 
+Anhang A: Erhebungsbogen ..................................................................................... 32 
+
+ 
+V 
+Anhang B: Aufstellung Interviewpartner .................................................................... 35 
+Anhang C: Aufstellung befragter Berufsfeuerwehren ................................................ 36 
+Eidesstattliche Erklärung ........................................................................................... 37 
+ 
+
+Einleitung 
+ 
+ 
+1 
+1 Einleitung 
+Seit einigen Jahren wird bereits von einer digitalen Transformation gesprochen [1]. Die 
+Feuerwehr ist von diesem technischen Fortschritt nicht ausgenommen. Dabei wird von 
+Seiten der Entwickler dieser Technologie keine Rücksicht auf die Belange der Feuer-
+wehr genommen. Hierbei ist es unbedingt erforderlich, dass sich der Brandschutz mit 
+dieser Veränderung befasst und die Zukunft aktiv mitgestaltet. „Denn ohne fortschrei-
+tende Digitalisierung und Vernetzung sind eine leistungsfähige Feuerwehr und ein mo-
+derner Rettungsdienst in Zukunft nicht mehr denkbar. Nur die Nutzung der digitalen 
+Möglichkeiten helfe den Rettern in allen Bereichen, mit den Anforderungen Schritt zu 
+halten“ [2]. Auf dieses Resümee haben sich verschiedene Referenten bei der Fachta-
+gung des VFDB 2019 in Ulm geeinigt. 
+Zu besagter Digitalisierung gehört nicht nur die Vernetzung einzelner Anwendungen 
+im Feuerwehreinsatz. Nein, auch die Einbindung einer Atemschutzüberwachung oder 
+der Einsatz einer Drohne wird unter diesem komplexen Begriff der Digitalisierung ver-
+standen. Weiterhin hat die Nutzung sogenannter Exoskelette in den Alltag der Feuer-
+wehr Entwicklungspotential. Die Industrie zeigt hier, dass die Feuerwehr von dieser 
+Innovation profitieren kann, da diese dort bereits ihre Einsatzmöglichkeiten gefunden 
+hat und nicht länger eine Vision ist.  
+Diese Arbeit beschreibt den aktuellen Stand der Digitalisierung bei deutschen sowie 
+bei einer Auswahl europäischer Feuerwehren. Es werden auf bereits bestehende und 
+im Forschungsstatus befindliche Entwicklungen eingegangen. Im Fokus stehen vor al-
+lem Vorschläge zur Vernetzung von Atemschutzüberwachung, Einsatzführung und 
+Einsatzsteuerung, um dafür Sorge zu tragen, dass die Berufsfeuerwehr in der schnel-
+len und unaufhaltbaren digitalen Welt mithalten kann. 
+ 
+ 
+ 
+ 
+ 
+Anmerkung 
+In dieser Arbeit wird aus Gründen der besseren Lesbarkeit das generische Maskuli-
+num verwendet. Weibliche und anderweitige Geschlechteridentitäten werden dabei 
+ausdrücklich miteinbezogen, soweit es für die Aussage erforderlich ist. 
+ 
+ 
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+2 
+2 Digitalisierung im Einsatzdienst 
+„Der Begriff Digitalisierung bezeichnet im Allgemeinen die Veränderungen von 
+Prozessen, Objekten und Ereignissen, welche durch eine zunehmende Nut-
+zung von digitalen Geräten erfolgt. Dies bedeutet im engeren Sinne die Erstel-
+lung digitaler Repräsentationen von physischen Objekten, von Ereignissen o-
+der analogen Medien.“ [3]  
+Intelligente Systeme und deren Vernetzung verändern unser tägliches Leben. Diese 
+Digitalisierung macht auch vor dem allgemeinen Feuerwehr- und Rettungswesen nicht 
+halt. Sowohl bei der Bewältigung von Schadenfällen als auch im täglichen Dienstbe-
+trieb beeinflussen digitale Daten und deren umfangreiche Möglichkeiten das Arbeits-
+geschehen. „Vermittlung von Anwendungswissen sowie sicherer Umgang mit digitalen 
+Medien sind […] Grundfertigkeiten, die es zu beherrschen gilt“ [4]. Der Trend der Digi-
+talisierung im Feuer- und Rettungswesen äußert sich vor allem in den Innovationen 
+Big Data, Internet der Dinge (IoT), Smart Textile, Smart Home und Telemedizin. Auch 
+die Organisation der Feuerwehr passt sich dem digitalen Zeitalter an. Dabei kommen 
+u.a. eGovernance, Robotik, Drohnen und die Nutzung von Echtzeitdaten sowie künst-
+licher Intelligenz täglich zum Einsatz. „Die Verarbeitung und Vernetzung der Daten, die 
+Bewältigung der Informationsflut und neue Kommunikationswege (Infrastruktur, Spon-
+tanhelfer und „smarte Freiwillige Feuerwehr“) werden zur Herausforderung“ [5]. 
+Mit den Begriffen Digitalisierung, Verwaltung 2.0 und Industrie 4.0 werden Verknüp-
+fungen verschiedener Entwicklungsstränge beschrieben. Zu diesen Entwicklungs-
+strängen gehören unter anderem eine dramatische Miniaturisierung von Computern, 
+Sensoren und Motoren, ein allgegenwärtiges Internet, zunehmende Erfolge bei der 
+Schaffung von künstlicher Intelligenz (KI), immer präziser und intelligenter arbeitende 
+Robotik sowie ein damit einhergehender rapider technischer Fortschritt und Preisver-
+fall der genannten Komponenten [6]. 
+„Welchen Einfluss hat zukünftig eine digitalisierte und vernetzte Feuerwehrwelt? Wel-
+che Chancen eröffnen sich, aber auch welche Risiken sind zu beachten, wenn es da-
+rum geht, den Feuerwehralltag digital zu gestalten“ [4].  
+In dem folgenden Abschnitt werden die in der Aufgabenstellung genannten Themen-
+gebiete, welche die aktuellen und zukünftigen Entwicklungen der Feuerwehr darstel-
+len, näher beschrieben. 
+2.1 Drohnen 
+Eine Drohne ist ein unbemanntes Luftfahrtsystem (englisch unmanned aerial vehicle, 
+UAV ‚unbemannt‘ oder unmanned aerialt system, UAS), das ohne eine an Bord be-
+findliche Besatzung autark durch einen Computer oder vom Boden über eine Fern-
+steuerung betrieben und navigiert werden kann. Für die EU (Europäische Union) sowie 
+auch die ICAO (International Civil Aviation Organisation) sind automatisch und ohne 
+Piloten gesteuerte Flugsysteme zurzeit nicht zulassungsfähig [7].  
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+3 
+Ferngesteuerte Luftfahrzeuge dieser Art können bei der Feuerwehr in den unterschied-
+lichsten Einsatzszenarien betrieben werden. Die Nutzung zur Lageerkundung aus der 
+Luft und zum Anfertigen von Echtzeitaufnahmen von einer Einsatzstelle überwiegen 
+hierbei. Die dabei angefertigten Aufnahmen können sowohl der Einsatzleitung vor Ort, 
+als auch einer Einsatzleitung in einem abgesetzten Stabsraum zur Auswertung zu Ver-
+fügung gestellt werden. Aber auch andere Anwendungen sind für dieses Einsatzmittel 
+denkbar. Derzeit laufen mehrere innovative und vielversprechende Forschungspro-
+jekte1 zu einem erweiterten Einsatz solcher Drohnen. Anwendungen als Vorauserkun-
+der oder zur Schadstoffmessung im Einsatz mit chemischen, biologischen, radioakti-
+ven oder nuklearen Gefahrstoffen (CBRN) sind nicht nur denkbar, sondern auch zum 
+Teil schon umsetzbar. Erfolgreich wurden in Deutschland Drohen auch zur Erkundung 
+innerhalb von Schadensgebäuden und zu einer Personensuche mittels Wärmebildka-
+mera eingesetzt. Besonders bei dieser kann sich autarkes und flexibles Agieren an 
+einem Einsatzort als Vorteil erweisen. Da es in Deutschland eine Vielzahl von Spezifi-
+kationen bezüglich einer Drohne gibt, sind vom Gesetzgeber im Abschnitt 5a in der 
+Luftverkehrs-Ordnung (LuftVO) Sonderregelungen für Behörden und Organisationen 
+mit Sicherheitsaufgaben (BOS) benannt. Eine dieser Regelungen beschreibt unter an-
+derem den Umgang und die Benutzung im Einsatz-, Übungs- und Ausbildungsdienst. 
+Explizit ist hierbei auch die Befreiung gemäß § 21a Abs. 2 S.1 Nr. 1 und 2 LuftVO des 
+sogenannten Kenntnisnachweises für den Betrieb von Drohnen bis zu einer Start-
+masse von 25 kg genannt. Weiterhin sind die BOS auch von einer Vielzahl an Be-
+triebsverboten nach § 21b Abs.1 LuftVO ausgenommen, wie z. B. das Überflugverbot 
+von Menschenansammlungen oder der Betrieb außerhalb der Sichtweite des Steue-
+rers [8]. Es bleibt festzuhalten, dass der Gesetzgeber den Einsatz von Drohnen für die 
+Feuerwehr durch Erleichterungen in der Gesetzgebung unterstützt. Eine umfangreiche 
+Erkenntnisquelle für die anwendenden Feuerwehren bietet die von dem Bundesamt 
+für Bevölkerungsschutz und Katastrophenhilfe (BBK) herausgegebene „Empfehlung 
+für Gemeinsame Regelungen zum Einsatz von Drohnen im Bevölkerungsschutz“ [9]. 
+2.2 Exoskelett 
+Prinzipiell stellt sich die Frage, was ist ein Exoskelett und wie kann diese Technologie 
+mit der Feuerwehr in Verbindung gebracht werden? Wird sie bereits eingesetzt oder 
+ist es eine Zukunftsvision? Exoskelett bedeutet übersetzt Außenskelett, es ist eine 
+„Sammelbezeichnung für die äußeren formgebenden Stützstrukturen von ein- und 
+mehrzelligen Organismen, die den Körper als Stützkorsett umgeben“ [10]. Als Beispiel 
+für solche Stützstrukturen können aus der Tierwelt Insekten, Krebs- und Spinnentiere 
+genannt werden [10]. 
+Dieser, von der Natur gegebene, spezielle Stützapparat fehlt dem menschlichen Kör-
+per und somit können schwere Lasten nur über die Knochen-, Gelenk- und Muskelver-
+bindungen abgetragen werden. Das Bewegungssystem des Menschen ist für das dau-
+ 
+1 In den nachfolgenden Kapiteln dieser Arbeit wird das Forschungsprojekt VISION (IFR Dortmund) als 
+Beispiel aufgeführt und näher erläutert. 
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+4 
+erhafte Bewegen von Lasten nicht ausgelegt, folglich können sich daraus schwerwie-
+gende und chronische Erkrankungen des Bewegungsapparates ergeben. Laut Ge-
+sundheitsreport der Krankenkasse DAK-Gesundheit entstehen durch Erkrankungen 
+am Muskel-Skelett-System „allein in Deutschland ca. 125 Millionen Ausfalltage im 
+Jahr. „Das ergibt einen Wertschöpfungsausfall von ca. 22,7 Milliarden Euro“, weiß Da-
+vid Minzenmay, Wissenschaftler am Fraunhofer IPA“ [11]2. Um diesen Arbeitsausfällen 
+vorzubeugen, werden Exoskelette in Deutschland und Europa in den vielfältigsten 
+Ausführungen in der Logistik- und Automobilbranche zu einer Arbeitserleichterung ein-
+gesetzt. Hierbei wird die Wirbelsäule der Mitarbeiter unterstützt und Kräfte in einem 
+Bereich bis zu 25 kg reduziert [12]. Dazu haben Wissenschaftler des Fraunhofer IPA 
+„erstmals ein Oberkörperexoskelett entwickelt, das den Träger unterstützt, dabei aber 
+auch schnelle und intuitive Bewegungen zulässt. An Ellenbogen und Schultern haben 
+die Experten Antriebsmodule integriert, die Bewegungen mit hohem Drehmoment un-
+terstützen. Außerdem erlaubt eine Freilaufkupplung dem Träger, sich frei zu bewegen 
+- selbst, wenn der Motor ausgeschaltet ist“ [11]. Dieses auf der folgenden Abbildung 
+dargestellte Stuttgart Exo-Jacket ist ein Einzelstück, welches im Jahr 2015 im Rahmen 
+eines Forschungsprojektes des Fraunhofer IPA entwickelt und als Demonstrator ver-
+öffentlicht wurde. 
+Abbildung 2-1 Stuttgart Exo-Jacket (Bild: Verfasser) 
+ 
+Von dem deutschen Robotikspezialist German Bionic wurde mit dem Modell Cray+ ein 
+Exoskelett speziell für den Katastropheneinsatz entwickelt. Die Funktionsweise basiert 
+auf einer Entlastung des Rückens beim Heben schwerer Lasten, indem es die Bewe-
+gung des Trägers aktiv-unterstützend nachahmt und verstärkt [12]. Zu den angedach-
+ten Einsatzszenarien zählen alle Arten von Hilfeleistungseinsätzen. Dieses System soll 
+ 
+2 Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA 
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+5 
+die menschliche Intelligenz mit der maschinellen Kraft vereinen und die Bewegung des 
+Anwenders unterstützen und verstärken. Ausgestattet mit einem langlebigen Akku, ist 
+es besonders witterungsgeschützt und kann dadurch unter widrigsten Bedingungen in 
+den Einsatz genommen werden. Ergänzt werden diese Funktionen durch eine Kom-
+munikations- und Ortungseinrichtung. Zusätzlich kann es mit einer Kamera Liveauf-
+nahmen aus dem Einsatzgebiet direkt an die Einsatzleitung liefern [13].  
+ 
+Abbildung 2-2 Exoskelett Cray+ (Bild: German Bionic [13]) 
+ 
+Ausschließlich für den Einsatz bei einer Feuerwehr hat der Designstudent Ken Chen 
+im Rahmen seiner Masterthesis im Fach „Industrial Design“ an der Monash-University 
+in Melbourne (Australien) ein Exoskelett entworfen. Auf die Thematik aufmerksam 
+wurde er aufgrund eines Zeitungsartikels, der über die Problematik bei der Brandbe-
+kämpfung berichtete, wobei in einem Hochhausbrand in Shanghai 2010 59 Menschen 
+ums Leben kamen. Chen wollte die Arbeit der Feuerwehr vor allem bei einer Brandbe-
+kämpfung in großer Höhe erleichtern, indem er in der Theorie ein Exoskelett entwi-
+ckelte, welches den Feuerwehrleuten das Tragen von Lasten bis zu 90 kg über Trep-
+pen mühelos ermöglicht. Mit einem Eigengewicht von 25 kg und einer Größe von 1,60 
+Meter soll es über der Feuerwehrschutzbekleidung getragen werden. Dank eingebau-
+ter Lithium-Ionen-Batterie werden Einsatzzeiten von bis zu 2 Stunden erreicht. Über 
+ein Pneumatik-System erfolgt für den Feuerwehrmann eine Unterstützung beim Gehen 
+und Tragen. Die Gelenke sind so gestaltet, dass es zu keiner Bewegungseinschrän-
+kung kommt und selbst das in die Knie Gehen problemlos möglich ist. Zusätzlich kann 
+eine Reihe von nützlichen Hilfsmitteln am Rahmen des Exoskelettes, wie ein Pressluf-
+tatmer, Taschenlampen oder Schläuche, befestigt werden. Im Notfall kann das Gestell 
+über Zugschlaufen am Oberschenkel durch Demontage der Gelenke in seine einzel-
+nen Bauteile zerlegt werden [14]. Bis heute wurde noch kein Prototyp dieses Modells 
+angefertigt und dementsprechend können keine praktischen Testreihen zu diesem 
+Exoskelett nachgewiesen werden. Demnach können auch nur vage Vermutungen über 
+die Eignung und Nutzbarkeit zu dieser Designstudie angestellt werden [15]. 
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 2-3 Designstudie Ken Chen (Bild: Yanko Design [16]) 
+2.3 Vernetzung 
+Die Vernetzung von Alltagsgegenständen, welche bereits zum Teil dazu in der Lage 
+sind, miteinander zu kommunizieren, rückt immer mehr in den Mittelpunkt des tägli-
+chen Lebens. Diese neuen Technologien werden vermehrt in die Umgebung und in 
+die tägliche Handlung des Menschen flexibel eingebunden und sind somit eine Schnitt-
+stelle zwischen Mensch und Maschine. Es entstehen neue digitale Handlungsmodelle 
+nicht nur für die Feuerwehr. „Hinter dem Begriff „Internet der Dinge“ (englisch: Internet 
+of Things, IoT) verbirgt sich die Vision, dass das Internet eine Brücke zwischen der 
+realen und der virtuellen Welt schlägt, und viele Alltagsgegenstände aus dem Arbeits- 
+und Lebenswelten der Menschen „smart“ zusammenführt“ [6]. Schlagworte wie Smart 
+City, Smart Home, Smart Glass oder Smart Grid beherrschen wie selbstverständlich 
+unser Leben. „Diese Gegenstände werden durch Programmierbarkeit, Speicherver-
+mögen, Sensoren und Kommunikationsfähigkeit intelligent und können unter anderem 
+web-basiert sowie kabellos eigenständig Informationen austauschen. Durch die ge-
+meinsame Kommunikation können diverse Aktionen ausgelöst sowie eine wechselsei-
+tige Steuerung vorgenommen werden“ [6]. Diese zukunftweisende Technologie wird 
+auch die Leistungsfähigkeit einer Feuerwehr mitbestimmen. Denn die Vernetzung von 
+z. B. Hydrantenplänen mit einem leistungsstarken Geodateninformationssystem ist 
+nur der Anfang einer solchen Idee. Es ist denkbar, dass sich Atemschutzüberwachung, 
+Drohnenbilder, Rettungskarten und Navigationssysteme ebenfalls miteinander vernet-
+zen lassen und somit dem Einsatzleiter hilfreich zur Seite stehen können. Auch eine 
+Vernetzung aller kommunalen Verwaltungseinheiten und Unternehmen kann wesent-
+lich am Einsatzerfolg teilhaben, insofern eine nötige Veränderung in den Strukturen 
+und Prozessen der kommunalen Gefahrenabwehr geleistet wird. „Somit kristallisiert 
+sich ein zentraler Baustein im Netzwerk der Gefahrenabwehr das „bessere Gesamt-
+verständnis“ einer stets aktuellen Lage heraus“ [6]. Es entsteht ein Wechsel von einem 
+
+Digitalisierung im Einsatzdienst 
+ 
+ 
+7 
+kräfteorientierten hin zu einem wirkungsorientierten Ansatz. Es findet eine Transfor-
+mation von einer klassischen Feuerwehr hin zu einer Feuerwehr 4.0 statt (siehe Abbil-
+dung 2-4). 
+ 
+Abbildung 2-4 Darstellung Netzwerk Feuerwehr 4.0 (C. Lange [4]) 
+ 
+Insgesamt lässt sich festhalten, dass die Digitalisierung in Teilen schon Anwendung 
+im alltäglichen Feuerwehrdienst gefunden hat. Dies ist in den vergangenen Jahren 
+eher „still“ von Statten gegangen. Durch die verschiedensten digitalen Anwendungen 
+im privaten Bereich hat die Feuerwehr diese Vorteile nebenbei in ihren Dienstalltag 
+integriert. Spezielle Lösungen, wie beispielsweise die Einsatzmöglichkeiten von Exos-
+keletten bei der Feuerwehr, sind Ideen einzelner zukunftsorientierter Entwickler. Diese 
+werden sicherlich in Zukunft auch Anwendung im Feuerwehreinsatz finden, jedoch 
+aufgrund ihres nicht kommerziellen Gebrauchs mehr Gewöhnungszeit bedürfen, da 
+Exoskelette noch nicht im privaten und häuslichen Umfeld etabliert sind. In den folgen-
+den Kapiteln wird mittels einer Befragung europäischer sowie deutscher Feuerwehren 
+der aktuelle Stand der Digitalisierung betrachtet. 
+Feuerwehr 4.0
+Digitale Daten
+Vernetzung
+Schnelligkeit
+Ausbildung/
+Training
+Standards
+Sicherheit
+Simulation
+Wirtschaftlichkeit
+
+Organisationstrukturen europäischer Feuerwehren 
+ 
+ 
+8 
+3 Organisationstrukturen europäischer Feuerwehren 
+Um Vergleiche innerhalb der Feuerwehren in Europa durchführen zu können, müssen 
+die nationalen Organisationsstrukturen der einzelnen Staaten betrachtet werden. In 
+diesem Abschnitt werden in Kürze die jeweiligen spezifischen Besonderheiten der 
+Feuerwehrorganisationen der europäischen Staaten dargestellt.  
+3.1 Feuerwehrstruktur in der Bundesrepublik Deutschland 
+In der Bundesrepublik Deutschland unterliegen die Feuerwehrgesetze der Gesetzge-
+bungskompetenz der einzelnen Länder. Dies ist in Artikel 70 Abs. 1 des Grundgeset-
+zes (GG) verankert. Ist die Ausbildung und technische Ausstattung der Feuerwehren 
+hinsichtlich zu Einführung empfohlener Feuerwehrdienstvorschriften (FwDV) und einer 
+Normierung noch annähernd gleich, ergeben sich bezüglich der Organisation und Fi-
+nanzierung aufgrund der kommunalen Selbstverwaltung der Länder und Gemeinden 
+teilweise erhebliche Unterschiede. Dies ist in den einzelnen Brandschutzgesetzen der 
+Länder geregelt. Die Aufgabenträger sind, am Beispiel des Landes Nordrhein-Westfa-
+len ersichtlich, im „Gesetz über den Brandschutz, die Hilfeleistung und den Katastro-
+phenschutz“ (BHKG) im §2 Abs. 1 genau definiert [17]. In Deutschland unterscheidet 
+man grundsätzlich zwischen Berufs-, Freiwilligen- und Werkfeuerwehren, selbst 
+Pflichtfeuerwehren sind denkbar, wenn eine Gemeinde nicht ausreichend freiwillige 
+Helfer für den Feuerwehrdienst findet. Diese mehrgliedrige Organisationsstruktur ist 
+nicht in ganz Europa beheimatet, nur in den deutschsprachigen Nachbarländern der 
+Bundesrepublik findet man beispielsweise das Konstrukt einer Freiwilligen Feuerwehr. 
+3.2 Feuerwehrstruktur ausgewählter europäischer Feuerwehren 
+3.2.1 Österreich 
+Vergleichbar mit Deutschland ist das Feuerwehrwesen in Österreich aufgebaut. Die 
+Feuerwehrgesetze der Bundesländer verpflichten die Gemeinden zu einer Gefahren-
+abwehr und die Landesfeuerwehrverbände unterstützen die Feuerwehren bei der Aus-
+bildung ihrer Einsatzkräfte sowie der Beschaffung von Ausrüstungsgegenständen. 
+Einzig die Aufgaben des Zivilschutzes obliegen dem Bund. Den Gemeinden wird nach 
+den Landesgesetzen auch die Verantwortung für die Aufstellung einer Feuerwehr 
+übertragen und diese zeigen sich verantwortlich für den Brand- und Gefahrenschutz. 
+Den personellen Grundstock bilden dabei die freiwilligen Feuerwehren. Nur sechs 
+Städte in Österreich verfügen über eine Berufsfeuerwehr, darunter unter anderem 
+Wien, Salzburg und Linz [18]. 
+3.2.2 Schweiz 
+Als Besonderheit in Europa kann die schweizerische Feuerwehrpflicht für Männer und 
+teilweise Frauen betrachtet werden. Dadurch ergeben sich nur in einzelnen Kantonen 
+freiwillige Feuerwehren. Die Mehrzahl ist mit Pflichtfeuerwehren, sogenannte Milizfeu-
+erwehren ausgestattet. In großen Städten mit mehr als 100.000 Einwohnern ist eine 
+Berufsfeuerwehr mit Sonderausrüstung für z. B. Gefahrguteinsätze vorhanden. Die 
+
+Organisationstrukturen europäischer Feuerwehren 
+ 
+ 
+9 
+Feuerwehrgesetzgebung ist kantonal geregelt und wird zentral von der Feuerwehr Ko-
+ordination Schweiz FKS, welche auch für die Ausbildung zuständig ist, geführt. Die 
+Organisation der jeweiligen Feuerwehr ist Aufgabe der Kommune und die Finanzie-
+rung erfolgt über die kantonalen Feuerversicherer [19]. 
+3.2.3 Italien 
+In Italien ist die Feuerwehr durch ein nationales Gesetz für Feuerwehr- und Rettungs-
+wesen sowie Zivilschutz geregelt und untersteht dem Innenministerium in Rom. Regi-
+onal aufgeteilt wird sie in Feuerwehrkommandos von 100 einzelnen Provinzen und 
+deren dazugehörigen Leitstellen. Die ca. 35.000 Einsatzkräfte der italienischen Feuer-
+wehr bestehen in großen Teilen aus hauptberuflichen Mitarbeitern, welche durch eine 
+geringe Anzahl von Freiwilligen unterstützt werden und verteilen sich auf 500 Feuer-
+wachen in ganz Italien. Eine Ausnahme bilden hierbei die autonomen Provinzen Süd-
+tirol, Aostetal und Trient, die das Feuerwehrwesen in einem eigenen Landesgesetz 
+geregelt haben. Deren Feuerwehrstruktur mit fast ausschließlich freiwilligen Einsatz-
+kräften und Hauptamtlichen nur in Ballungszentren, lehnt sich stark an die der Deut-
+schen Feuerwehren an [20] [21].  
+3.2.4 Frankreich 
+Die französischen Feuerwehren gliedern sich seit 1996 in eine sogenannte Departe-
+ments-Ebene (Regionen) mit staatlicher Gesetzgebung auf. Jedes dieser Departe-
+ments besitzt eine eigene Feuerwehrstruktur mit dazugehöriger Leitstelle. Hierbei steht 
+es den Gemeinden frei, eine eigene Feuerwehr zu unterhalten oder sich mit anderen 
+Gemeinden zusammenzuschließen. Eine Ausnahme bilden die Feuerwehren in Paris 
+und Marseille, da diese dem Militär unterstellt sind. Im Wesentlichen wurde den Feu-
+erwehren die gesetzliche Aufgabenerfüllung für die Gefahrenabwehr sowie den Ret-
+tungsdienst übertragen. Weiterhin erlaubt diese Organisationsstruktur eine zentrali-
+sierte Ausbildung und Materialbeschaffung für die Kräfte der Freiwilligen- und Berufs-
+feuerwehren [22]. 
+3.2.5 Niederlande 
+In den Niederlanden ist die Feuerwehr in eine Arbeitsgemeinschaft aller 25 Sicher-
+heitsregionen zusammengefasst. Die Kommandanten dieser Regionen bilden einen 
+gemeinsamen Rat mit einem Vorsitzenden. Jede dieser 25 Sicherheitsregionen koor-
+diniert ihre Einsätze über eine interdisziplinäre Leitstelle für Feuerwehr, Rettungsdienst 
+und Polizei. Die Leitung einer solchen Sicherheitsregion obliegt dem Direktor der Feu-
+erwehr. Jede Sicherheitsregion ist für ihre Einsatzplanung des Rettungsdienstes und 
+des Katastrophenschutzes zuständig. Somit ist die Feuerwehr in den Niederlanden 
+nicht kommunal, sondern regional gegliedert. Ein weiterer wichtiger Unterschied zum 
+deutschen Feuerwehrwesen besteht in der einheitlichen Ausbildung von Freiwilliger- 
+und Berufsfeuerwehr. Die Beschaffung der Fahrzeuge und der Ausrüstung erfolgt 
+zentral, unter Berücksichtigung regionaler Aspekte [23]. 
+ 
+
+Organisationstrukturen europäischer Feuerwehren 
+ 
+ 
+10 
+3.3 Zwischenfazit 
+Anhand der in diesem Kapitel beschriebenen Strukturen wird deutlich, dass die euro-
+päischen Feuerwehren verschieden organisiert sind. Sie sind sowohl zentral, regional 
+als auch kommunal aufgebaut. Aufgrund der Differenz in der strukturell unterschiedli-
+chen Organisation ergeben sich folgende Konsequenzen: 
+Während kommunal organisierte Feuerwehren flexibler und schneller agieren können, 
+sowohl in der Beschaffung von Fahrzeugen und Geräten als auch in der Umsetzung 
+der Feuerwehrdienstvorschriften z. B. mittels Standardeinsatzregeln (SER), profitieren 
+zentral verwaltete Feuerwehren von der Einheitlichkeit ihrer Einsatzmittel und Umset-
+zung der geltenden Vorschriften. Allerdings sind diese Strukturen in der Umsetzung 
+sehr schwerfällig. Der Nachteil einer kommunal geführten Feuerwehrorganisation ist 
+in der zum Teil bestehenden mangelnden Austauschbarkeit von Einsatzmitteln zu er-
+kennen. Als Beispiel sind hier die Verwendungsmöglichkeiten beim Atemanschluss, 
+wie beispielsweise bei Normal- und Überdrucksystemen oder Schraub- und Steckan-
+schluss, zu nennen. Diese Diskrepanzen lassen sich beliebig weiterführen.  
+Die jeweiligen Vor- und Nachteile der einzelnen Organisationstrukturen sind anhand 
+des nachfolgenden Kapitels erkennbar. 
+
+Stand der Digitalisierung bei europäischen Feuerwehren 
+ 
+ 
+11 
+4 Stand der Digitalisierung bei europäischen Feuer-
+wehren 
+4.1 Motivation der Umfrage 
+Um die europäischen Feuerwehren mit der deutschen zu vergleichen, wurde ein Er-
+hebungsbogen (siehe Anhang A) entwickelt, der dazu dient, die Strukturen der einzel-
+nen Organisationen transparent dazulegen. Dabei wurden die Fragen bewusst offen 
+gestaltet, um die ganze Bandbreite der jeweiligen Einsatzverwendung der digitalen 
+Anwendungen bei den europäischen Berufsfeuerwehren zu eruieren. Hierbei lag das 
+Augenmerk auf der Verwendung von Drohnen, die Art und den Umfang der eingesetz-
+ten Atemschutzüberwachung, digitale Anwendungen als Führungsmittel und zur Ein-
+satzsteuerung sowie eine Fragestellung zu den Einsatzmöglichkeiten von Exoskelet-
+ten bei der Feuerwehr. Die Art der Befragung hat zur Folge, dass eine Auswertung 
+beispielsweise in Form eines Diagramms nicht möglich ist.  
+Die ausgewählten 13 Berufsfeuerwehren (siehe Anhang C) kommen aus verschiede-
+nen Regionen Deutschlands, bei der Auswahl der europäischen Feuerwehren wurden 
+Vertreter der Landesfeuerwehrverbände oder überregionaler Aufsichtsbehörden des 
+jeweiligen Landes ausgewählt. Exemplarisch für Europa stehen die Feuerwehren von 
+Frankreich, Niederlande, Schweiz, Italien, hierbei speziell Südtirol, und Österreich. Die 
+Umfrage für die europäischen Feuerwehren wurde ausschließlich in telefonischen In-
+terviews (siehe Anhang B) durchgeführt, da hier gleichzeitig die Organisationsstruktur 
+des Feuerwehrwesens des betreffenden Landes ermittelt wurde. Die deutschen Be-
+rufsfeuerwehren sind, je nach Wunsch des Ansprechpartners, sowohl telefonisch, als 
+auch per E-Mail, befragt worden. In die Auswertung der Befragung fließen elf Ergeb-
+nisse ein, da zum Zeitpunkt der Auswertung nur diese vorlagen.  
+4.2 Auswertung der Befragung 
+Erwartungsgemäß sind die Antworten der Feuerwehren auf den Erhebungsbogen sehr 
+vielfältig ausgefallen. Auffällig hierbei ist, dass der Einsatz von Drohen europaweit nur 
+in Deutschland und den Niederlanden flächendeckend und regelmäßig praktiziert wird. 
+Wobei lediglich in Deutschland hierfür bereits vom Gesetzgeber entsprechende Mög-
+lichkeiten zur Erleichterung im Einsatz der BOS geschaffen worden sind. In allen an-
+deren befragten europäischen Ländern sind die Bestrebungen für spezielle gesetzli-
+che Regelungen vorhanden. Erst anschließend wird sich der Drohneneinsatz bei den 
+Feuerwehren etablieren können. In Bezug auf die Atemschutzüberwachung hat sich 
+folgende Auswertung ergeben: In der Schweiz wird nach den vorhandenen Vorgaben 
+ausschließlich eine handschriftliche Atemschutzüberwachung geführt. In Frankreich 
+gibt es keine zentrale Atemschutzüberwachung. Hier ist der jeweilige Trupp eigenver-
+antwortlich für die Einhaltung der Einsatzzeiten zuständig. Bei deutschen, österreichi-
+schen und italienischen sowie der südtiroler Feuerwehren sind alle marktgängigen 
+Systeme verbreitet, eine Telemetrie über Datenfunk ergibt sich jedoch nur bei einer 
+deutschen Feuerwehr. Bei digitalen Führungsmitteln hat sich die Frage gestellt, in wel-
+cher Art und in welchem Umfang diese genutzt werden. Dabei hat sich ergeben, dass 
+in der Schweiz und Südtirol nur vereinzelt auf solche Alternativen zurückgegriffen wird. 
+
+Stand der Digitalisierung bei europäischen Feuerwehren 
+ 
+ 
+12 
+In Frankreich werden bei Großschadenslagen mit Beteiligung von einem Massenanfall 
+von Verletzten die Verletztenanhängekarten mittels Barcodes ausgelesen und die Da-
+ten mittels eines verfügbaren Mobilfunkstandards an die zuständige Leitstelle übertra-
+gen. In den Niederlanden sind die Einsatzfahrzeuge einheitlich mit einem Tablet-PC 
+ausgerüstet, worauf verschiedene Anwendungen, wie beispielsweise eine Gefahrstoff-
+datenbank, vorhanden sind. Weiterhin besteht für die Leitstelle die Möglichkeit z. B. 
+Objekt- und Hydrantenpläne oder Einsatzprotokolle direkt an den Einsatzleiter zu über-
+mitteln. Österreichische, deutsche und südtiroler Feuerwehren nutzen auf den Einsatz-
+fahrzeugen PC oder Tablet-Lösungen mit den jeweiligen spezifischen lokalen Anfor-
+derungen. Anwendungen wie Geoinformationssysteme (GIS), digitale Rettungskarten 
+oder verschiedene Gefahrstoffdatenbanken mit Gefahrstoffausbreitungssoftware sind 
+hier Standard. Einzelne deutsche Feuerwehren besitzen zusätzlich die Möglichkeit 
+über eine direkte Anbindung mittels eines virtuellen privaten Netzwerks (VPN) an das 
+städtische Kommunikationsnetz und können somit alle notwendigen Daten wie bei-
+spielsweise Objektpläne oder Sondereinsatzpläne aktualisiert vor Ort abrufen. Über 
+ein Navigationssystem mit dynamischer Ampelschaltung wurde sich von allen befrag-
+ten Feuerwehren positiv geäußert. Vorhanden ist ausschließlich eine statische Ampel-
+schaltung zur Steuerung der umliegenden Ampeln an der jeweiligen Feuerwache. Na-
+vigationssysteme mit einer Datenübertragung durch die Leitstellen sind bei den be-
+fragten europäischen sowie deutschen Feuerwehren im vergleichbaren Umfang im 
+Einsatz. Eine Ausnahme bilden nach Aussage der Befragten hierbei Frankreich und 
+Südtirol, da die Leitstelle der Feuerwehr erst nach der Alarmierung besetzt wird. Die 
+Antworten zu einer allumfassenden Softwarelösung, welche den Atemschutzeinsatz, 
+die Einsatzsteuerung und Einsatzführung, die eine Vernetzung untereinander zulässt, 
+sind kontrovers. Das zuständige italienische Ministerium untersagt sogar die Nutzung 
+solcher Komplettlösungen. Bei einigen deutschen und österreichischen Feuerwehren 
+sind Anwendungen als kombiniertes Einsatzführungssystem bereits im Einsatz. 
+Grundsätzlich ist der Wunsch zu einer separaten Atemschutzüberwachung deutlich zu 
+erkennen. Mehrere negative Aussagen gegenüber einer Gesamtlösung begründen 
+sich hierbei mit schlechten Erfahrungen bezüglich der eigenen Administration und dem 
+damit einhergehenden Support der Softwareanbieter. Zu einer Empfehlung von Exos-
+keletten sind nur wenige Aussagen getroffen worden. Die Möglichkeit zur Verwendung 
+solch eines Hilfsmittels für die Feuerwehr ist den wenigsten ausländischen Befragten 
+bewusst. In Deutschland ist diese Thematik allein durch verschiedene Publikationen 
+in der Fachpresse deutlich präsenter. 
+Die Erhebung hat gezeigt, dass sich bei den abgefragten Feuerwehren in keinem der 
+Punkte eine einheitliche Auffassung ergibt. Dies ist auf die nicht einheitliche Organisa-
+tionsstruktur innerhalb des Feuerwehrwesens in Europa zurückzuführen. In Deutsch-
+land hindert der Föderalismus ein einheitliches Beschaffungssystem im Bereich der 
+Feuerwehren. Möglichkeiten hierfür ergeben sich lediglich im Rahmen einer Beschaf-
+fung des Zivilschutzes auf Bundesebene oder des Katastrophenschutzes auf Länder-
+ebene. 
+
+Aktuelle Entwicklungen 
+ 
+ 
+13 
+5 Aktuelle Entwicklungen  
+In diesem Abschnitt wird an drei Szenarien die Vernetzung von Atemschutzeinsatz, 
+Einsatzführung und Einsatzsteuerung anhand aktueller und innovativer Forschungs-
+projekte dargestellt. In Deutschland beschäftigen sich einige Berufsfeuerwehren mit 
+der Erforschung praxis- und bedarfsgerechter Anwendungen. An dem Forschungs-
+institut für Feuerwehr- und Rettungstechnologie in Dortmund (IFR) wird in enger Zu-
+sammenarbeit mit der Feuerwehr Dortmund zurzeit an mehreren Projekten zum 
+Thema Einsatz von Drohnen im Feuerwehrdienst und Atemschutznotfall geforscht. 
+Nach Abschluss der Projektlaufzeit wird das Ergebnis des Forschungsprojektes durch 
+die Forschungspartner präsentiert. Im Anschluss daran sind die Feuerwehren und de-
+ren Partner aus der Industrie gefragt, ob ein Serienprodukt auf den Weg gebracht wer-
+den kann. Nachfolgend werden vier Projekte näher beleuchtet.   
+5.1 Einsatzsteuerung 
+Im Idealfall wird ein Feuerwehreinsatz in der Zukunft hoch technologisiert ablaufen. In 
+der Europäisch Union und weiteren Ländern gilt bereits die einheitliche Notrufnummer 
+112, wobei die nationalen Nummern weiterhin ihre Gültigkeit behalten haben. Zusätz-
+lich ist im Dezember 2018 die EU-Richtlinie 2018/1972 in Kraft getreten, welche die 
+Mitgliedsstaaten dazu verpflichtet, dass den Leitstellen Informationen zu dem Anrufer-
+standort bereitgestellt werden müssen [24]. Bereits heute können mittels „Advanced 
+Mobile Location“ (AML) über Satelliten Smartphones oder Kraftfahrzeuge (eCell) 
+punktgenau geortet werden. „Konkret erlaubt AML die genaue Ortung von Hilfesuchen-
+den“ [25]. Beim Absetzen eines Notrufes über die einheitliche Notrufnummer 112 über-
+mittelt das Mobiltelefon per AML automatisch unabhängig von Netzbetreiber und Be-
+triebssystem den Standort an die Rettungsleitstelle. Dies geschieht bis auf wenige Me-
+ter genau. „AML-Daten basieren auf exakten GPS-Koordinaten und sind damit weitaus 
+genauer als die bisherige grobe Ortung über Funkzellen. Gerade in ländlichen Gebie-
+ten kann AML hilfreich und zeitsparend sein“ [25]. Diese Funktion ermöglicht auch 
+Apps wie z. B. Nina oder Katwarn die Übermittlung dieser wichtigen Koordinaten an 
+die bearbeitende Leitstelle. Parallel zu einer Alarmierung der Einsatzkräfte könnte in 
+der Zukunft eine mit 4K- und Wärmebildkamera ausgerüstete Erkundungs-Drohne 
+(Forschungsprojekt VISION des IFR Dortmund = Vernetzte integrierte UAS-gestützte 
+Datenerfassung und –aufbereitung für die Unterstützung von BOS im Bevölkerungs-
+schutz) zu der Einsatzstelle entsendet werden. Diese Drohne wird von einem Flugbe-
+obachter aus der Leitstelle überwacht und fliegt autonom zu den eingegebenen Koor-
+dinaten. Um diese Flüge unbemannt durchzuführen, meldet sich das autonome Flug-
+system bei der deutschen Flugsicherung mittels UAS Traffic Management System 
+(UTM) an. Diese kann die Positionsdaten der Drohne verarbeiten und zusammen mit 
+den Ortungsdaten der bemannten Luftfahrt darstellen. Auf diese Weise entsteht für die 
+Flugsicherung ein komplettes Luftlagebild [26]. 
+ 
+ 
+ 
+
+Aktuelle Entwicklungen 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 5-1 Projekt VISION (Präsentation: Katrin Sommer [27]) Ablaufschema der ausrückenden 
+Kräfte mit vorrauseilender Drohne  
+ 
+An der Einsatzstelle kann nun die Drohne erste georeferenzierte Lagebilder an die 
+Leitstelle und die anfahrenden Einsatzkräfte übermitteln. Dabei ist denkbar, sogar Hyd-
+rantenpläne auf dieses Lagebild zu übertragen. Somit hat der Disponent und der an-
+fahrende Einsatzleiter die Möglichkeit sich mittels Tablet oder PC einen Überblick mit 
+Livebildern über die Einsatzstelle und tatsächliche Lage zu verschaffen. Die hieraus 
+gewonnenen Erkenntnisse ermöglichen dem Einsatzbearbeiter der Leitstelle die Lage 
+neu zu bewerten und bei Bedarf weitere Einsatzmittel zu entsenden oder sogar diese 
+mit Absprache des Einsatzleiters umzuleiten. Vorteile sind vor allem bei Einsätzen auf 
+Bundesautobahnen, Waldbränden, unübersichtlichen Einsatzlagen, Unfälle mit Ge-
+fahrstoffen oder einer Personensuche zu erkennen. Gleichzeitig zur vorauseilenden 
+UAV erhalten die alarmierten bodengebundenen Einsatzkräfte mit ihrem Einsatzauf-
+trag eine feste Route, unter Berücksichtigung von aktuellen Verkehrsdaten sowie Bau-
+stellen, auf das im Fahrzeug verbaute Navigationsgerät übermittelt. Zusätzlich werden 
+alle sich auf der Route befindlichen Ampeln auf Vorrang geschaltet (Forschungsprojekt 
+SIRENE = Secure and Intelligent Road Emergency Network) [28]. Dieses System er-
+möglicht, im Gegensatz zu den bereits mehrfach in Deutschland eingesetzten stati-
+schen Systemen, dass aus verschiedenen Richtungen anfahrende Kräfte der jeweils 
+für sie kürzeste Anfahrtsweg zu der Einsatzstelle übermittelt wird. Die Automobilindust-
+rie hat sich mit der dafür notwendigen Entwicklung der Car2X-Kommunikation, welche 
+die Vernetzung zwischen Fahrzeug und Verkehrsinfrastruktur sowie Fahrzeug und 
+Fahrzeug vorantreibt, bereits beschäftigt [29]. Der sich hieraus ergebende Vorteil, dass 
+
+Aktuelle Entwicklungen 
+ 
+ 
+15 
+der vorausfahrende Verkehr abfließen und Fahrzeuge über das herannahende Ein-
+satzfahrzeug gewarnt werden kann, liegt auf der Hand. Somit wird den Rettungskräften 
+eine ungehinderte Anfahrt zu einer Einsatzstelle ermöglicht. 
+ 
+Abbildung 5-2 Projekt SIRENE „Funktionsdarstellung“ (Quelle: Präsentation [28]) 
+ 
+Bereits erfolgreich wurde Anfang Dezember 2019 das Forschungsprojekt VERONIKA 
+(Vernetztes Fahren des oeffentlichen Nahverkehrs in Kassel) in Kassel beendet. Hier-
+bei hat man Busse, Straßenbahnen und Rettungsfahrzeuge mit sogenannten On 
+Board Units ausgerüstet. Diese können mittels einer Funkschnittstelle eines definierten 
+Kommunikationsstandards mit an Lichtsignalanlagen verbauten Roadside Unit opera-
+tive Daten austauschen und strategisch beeinflussen. Zusätzlich werden durch ver-
+netztes Warnen, auf einer Grundlage der direkten Fahrzeug-Fahrzeug-Kommunika-
+tion, die jeweiligen Fahrzeugführer auf sich nähernde Fahrzeuge mit Sondersignal hin-
+gewiesen, bevor diese wahrnehmbar sind [30]. Deutschlandweit gibt es neben Braun-
+schweig und Kassel noch sechs weiter Großstädte, die sich in der Forschung zu einer 
+digitalen Mobilität einbringen [31]. 
+5.2 Einsatzführung 
+Bei einem Blick in die Feuerwehrdienstvorschrift 100 (FwDV 100) findet man unter 
+Punkt 3.4: „Führungsmittel sind technische Mittel und Einrichtungen, die Führungs-
+kräfte bei ihrer Führungsarbeit unterstützen. Die Führungsmittel ermöglichen es, die 
+für den Führungsvorgang erforderlichen Informationen zu gewinnen, zu verarbeiten 
+und zu übertragen“ [32]. Schon jetzt haben digitale Führungsmittel flächendeckend 
+Einzug in die Führungsarbeit der Feuerwehr gehalten und sind aus dem Einsatzleit-
+wagen einer Feuerwehr nicht mehr wegzudenken. Als Beispiel lassen sich hier die in 
+Kapitel 4.1 genannten Einsatzmöglichkeiten anbringen, in denen Bilder einer voraus-
+eilenden Drohne auf ein Geographisches Informationssystem (GIS) gelegt werden. 
+
+Aktuelle Entwicklungen 
+ 
+ 
+16 
+Dies wird im heutigen Einsatzgeschehen immer mehr an Bedeutung gewinnen. Wich-
+tige Informationen, wie z. B. die Position eines brennenden PKWs3, sind von elemen-
+tarer Bedeutung für die sofortige Nachalarmierung von Einsatzkräften. Zusätzlich hat 
+der Einsatzleiter die Möglichkeit durch sogenannte Smarte Anwendungen auf seinem 
+Laptop bzw. Tablet zu erkennen, welche Einsatzkräfte in der Anfahrt sind und wann 
+mit ihrem Eintreffen zu rechnen ist. Mit solch einer digitalen Anwendung muss gleich-
+zeitig der Zugriff auf Meldeinformationen, Informationen zu der Gebäudestruktur, Zu-
+stand der Brandmeldeanlage oder aktuellen Feuerwehrplänen bestehen. „Eine not-
+wendige Voraussetzung für viele weitere Entwicklungen ist die Verfügbarkeit der vor-
+handenen digital vorliegenden Infrastrukturpläne, Stadt- und Gebäudepläne mit ver-
+netzten Teilplänen bis auf Bauteilebene. […] Zu den digital miteinander zu verbinden-
+den und bereitzustellenden Plänen gehören z.B. auch Wasser- / Abwasser- / Gas- / 
+Elektroversorgung eines Objektes mit Geschossplänen, aber auch eines Quartiers o-
+der umfänglicheren Stadtviertels“ [33]. Private Dienstleister, wie beispielsweise Betrei-
+ber einer Brandmeldeanlage (BMA), können in diese Cloud ihre Feuerwehrlaufkarten 
+implementieren und somit der Feuerwehr immer die aktuellsten Versionen zu Verfü-
+gung stellen. Aber nicht nur der öffentliche Gebäudebetreiber, sondern auch Privat-
+personen können freiwillig wichtige Informationen, wie beispielsweise Standort und 
+Zustand vernetzter Rauchwarnmelder, in diese Cloud einstellen. Der öffentliche Per-
+sonennahverkehr ist bereits in der Lage, durch Fahrgastzählsysteme die genaue Pas-
+sagierzahl zu ermitteln, gleiches trifft auf den Fernverkehr der Deutschen Bahn zu. Alle 
+diese Beispiele sollen verdeutlichen, dass die Zukunft in einer transparenten Vernet-
+zung aller beteiligten Akteure liegt. Diese Daten können aus einer besonders zu schüt-
+zenden Cloud von der Feuerwehr entnommen werden (SmartCity). Dabei ist beson-
+ders zu beachten, dass diese Zugriffsmöglichkeit nur für die nichtpolizeiliche Gefah-
+renabwehr bestimmt und datenschutzrechtlich extrem sensibel zu behandeln ist. Mit 
+der Umsetzung der Europäischen Datenschutz Grundverordnung (DSGV) [34] ist ein 
+erster Schritt in diese Richtung gemacht worden. Das dem Einsatzleiter dargestellte 
+Lagebild auf der digitalen Anwendung ist in Zukunft dynamisch, er hat gleichzeitig den 
+Einblick auf seine Wasserversorgung und den Aufstellort seiner im Global Position 
+System (GPS) erfassten Einsatzmittel. Weiterhin hat er Zugriff auf Datenbänke zu ei-
+ner Stoffdatenrecherche, Einblick in Rettungskarten und er kann sich einen Überblick 
+seiner eingesetzten Atemschutztrupps verschaffen. Aktuelle Entwicklungen werden 
+dem Einsatzleiter die Möglichkeit geben, sich die Messergebnisse aus Gefahrstoffein-
+sätzen direkt über digitale Vernetzung von seiner Erkundungsdrohne oder dem Erkun-
+dungstrupp auf seiner Endanwendung zeigen zu lassen. Kommunikative Übermitt-
+lungsfehler über Funk werden dabei ausgeschlossen. Eine gleichzeitige Ausbreitungs-
+berechnung in einer Gefahrstoffsoftware im Hintergrund der Anwendung ist dabei 
+denkbar. Es ist zu erkennen, dass sich hierbei wichtige Schnittmengen, die bei einer 
+Einsatzsteuerung und Einsatzführung von beiderseitiger Bedeutung sind, ergeben.  
+ 
+3 Befindet sich das brennende Fahrzeug nicht auf der Straße, sondern vielleicht sogar in einer überbau-
+ten Einfahrt, besteht die Gefahr, dass der Brand auf das angrenzende Gebäude überzugreifen droht.  
+ 
+
+Aktuelle Entwicklungen 
+ 
+ 
+17 
+5.3 Atemschutzüberwachung 
+Eine Atemschutzüberwachung wird in der Feuerwehrdienstvorschrift 7 (FwDV 7) ver-
+pflichtend für jeden Einsatz und Übung unter umluftunabhängigem Atemschutz gefor-
+dert. Die hier zu erfüllenden Grundsätze sind in der FwDV 7 unter Punkt 7.4 definiert. 
+In dieser Vorschrift sind nur die Fakten der Registrierung, wie z. B. Name des Geräte-
+trägers, Uhrzeit beim Anschließen des Luftversorgungssystems oder Erreichen des 
+Einsatzziels, genannt, welche erhoben werden müssen [35]. Dies kann sowohl analog, 
+also mit Block, Stift und Uhr, erfolgen, als auch digital. Auf dem deutschen Markt sind 
+vielfältige softwaregestützte Anwendungen bei den Feuerwehren im Umlauf. Wenige 
+große Feuerwehren in Deutschland besitzen ein sogenanntes Telemetrie-System der 
+etablierten Atemschutzgerätehersteller. Aktuelle Projekte erlauben einen Ausblick in 
+die nahe Zukunft. Im nächsten Jahr wird ein Telemetrie-System der Firma MSA auf 
+den Markt gebracht, welches es erlaubt, mittels Datenübertragung alle einsatzrelevan-
+ten Daten der Überwachungseinheit des Pressluftatmers (PA) direkt in eine Atem-
+schutzüberwachungssoftware zu übertragen. Im Gegensatz zu anderen auf dem Markt 
+befindlichen Telemetrie-Systemen werden hierfür keine zusätzlichen Repeater benö-
+tigt, um größere Strecken im Gebäude zu überwinden. Die einzelnen Überwachungs-
+einheiten sind in der Lage, die Daten zur außerhalb der Einsatzstelle gelegenen Atem-
+schutzüberwachung zu übertragen. Weiterhin soll das System in der Lage sein, Mes-
+sergebnisse von zusätzlich mitgeführten Gasmessgeräten direkt der Einsatzleitersoft-
+ware zur Verfügung zu stellen. Hierbei entfällt die fehlerhafte Übermittlung der Mess-
+ergebnisse durch Funkübertragung vollständig. Zusätzlich zu Atemschutzüberwa-
+chungssystemen befinden sich sogenannte Smart-Clothes auf dem Markt, welche in 
+der Lage sind, Daten, wie z. B. Kreislaufparameter in Sportkleidung, zu erheben und 
+über eine spezielle Software auf ein Handy zu übertragen. Diese Eigenschaften muss 
+sich die Feuerwehr unter Wahrung der datenschutzrechtlichen Grundsätze zunutze 
+machen. In der Atemschutzübung ist es seit Jahren üblich, die Vitalwerte der Übenden 
+zu kontrollieren. Feuerwehrleute sind im Einsatz häufig extremen Umgebungsbedin-
+gungen ausgesetzt. Gerade im Innenangriff mit wärmeisolierender Feuerschutzklei-
+dung (FSK) oder unter einem Chemikalienschutzanzug (CSA) ist der Wärmeaustausch 
+nicht mehr gegeben und über die Erhöhung der Körperkerntemperatur in Verbindung 
+mit der Pulsfrequenz sind wichtige Erkenntnisquellen vorhanden, um den Zustand des 
+Atemschutzgeräteträgers von außen zu analysieren. Hiermit kann im Vorfeld einem 
+Atemschutznotfall vorgebeugt und der Einsatzverlauf ungehindert fortgeführt werden.  
+Besonders bei starker Rauchbildung innerhalb von Gebäuden ist die Orientierung er-
+schwert, wodurch die Einsatzkräfte voneinander getrennt werden können. Zudem sind 
+sie ernsthaften Risiken für das eigene Leben ausgesetzt. Folglich ist auch die Sicher-
+heit der zu rettenden Personen direkt betroffen. Am IFR in Dortmund wird mit dem 
+Forschungsprojekt CELIDON ein Lokalisierungssystem erforscht, „das über ein in die 
+Atemschutzmaske integriertes Augmented-Reality-Display den Standort der Feuer-
+wehrleute anzeigt und so deren Trennung voneinander verhindert. […] Durch die in 
+CELIDON entwickelte Lokalisierungs- und Visualisierungstechnologie kann die Tren-
+nung eines Einsatztrupps verhindert und die Sicherheit der Feuerwehrleute in Null-
+sichtsituationen gesteigert werden. Die Technik wird quelloffen gestaltet und in beste-
+
+Aktuelle Entwicklungen 
+ 
+ 
+18 
+hende Ausrüstung nachrüstbar sein, womit die spätere Nutzung nicht nur durch Be-
+rufsfeuerwehren, sondern auch durch kleinere Feuerwehren und andere Anwender-
+gruppen ermöglicht wird“ [36].  
+ 
+Abbildung 5-3 Projekt CELIDON (Präsentation David Ahn [37]) Anzeige in der Maske mit Darstellung 
+der Trupps zueinander (blaue Punkte) und der vermissten Person (roter Punkt)  
+5.4 Zukünftige Entwicklungen bei deutschen Berufsfeuerwehren 
+In dem vorangegangenen Kapitel wurde anhand aktueller Forschungsprojekte und zu-
+kunftsweisenden Entwicklungen aufgezeigt, dass sich das Feuerwehrwesen von sei-
+ner klassischen Aufstellung in Richtung digitales Zeitalter fortbewegt. Da die aufge-
+führten Forschungsprojekte nicht über den Status des „Demonstrators“, d. h. Einzel-
+stücke, hinausgehen, müssen die Feuerwehren ihren zukünftigen Bedarf erkennen 
+lassen und aktiv mit der Industrie an deren Weiterentwicklung bis zu einer endgültigen 
+Serienreife zusammenarbeiten. Weiterhin ist das Potential von bereits vorhandenem 
+mobilen Informationsmanagement zu nutzen, „die Abläufe der Feuerwehr in Einsatz, 
+Ausbildung und Verwaltung schneller, besser und sicherer zu machen. Mobile Soft-
+warebasierte Werkzeuge ermöglichen ein Informationsmanagement in unterschiedli-
+chen Anwendungsfällen. Die Software läuft dabei auf mobiler Hardware (Smartphones 
+& Tablets). Das Arbeitsumfeld der Feuerwehr ist von Mobilität und Dynamik geprägt – 
+insbesondere in Einsatz und Ausbildung“ [38]. Ein wichtiger Faktor ist bei einer konse-
+quenten Umsetzung von Digitalisierung und Vernetzung nicht außer Acht zu lassen, 
+„mit der Digitalisierung muss auch ein Wandel in der Einsatztaktik erfolgen!“ [39], 
+mahnt Stefan Truthän von hhpBerlin. Es steht außer Frage, dass durch die Nutzung 
+von Drohnen und Exoskeletten im Feuerwehreinsatz eine Effizienzsteigerung stattfin-
+det. Jedoch ist auf die richtige Balance zwischen Mensch und Maschine zu achten 
+[39]. 
+
+Aktuelle Entwicklungen 
+ 
+ 
+19 
+5.4.1 Bedarf anhand von Nutzungsszenarien ermitteln 
+Jede Feuerwehr muss für sich entscheiden, ob und wie sie den Weg in die Zukunft 
+bestreitet. Nach einer Entscheidung zu diesem Wandel muss der Bedarf und Umfang 
+an Innovationen in Form von geplanten Nutzungsszenarien ermittelt werden. Dieses 
+unterstützt dabei die Auswahl geeigneter Hardware und Software in Bezug auf einen 
+bestimmten Anwendungsfall. „Ein Nutzungsszenario ist die Art und Weise wie ein End-
+anwender mit einem Gerät und passender Software in seinem Arbeitsumfeld umgeht“ 
+[38]. Die Mitarbeiter der Feuerwehr sind hierbei Endanwender und in die verschiede-
+nen Arbeitsprozesse eingebunden, um die Arbeiten an den Bildschirmen mit anderen 
+Tätigkeiten zu verknüpfen. Typische Nutzungsszenarien, die durch Arbeitsbedingun-
+gen im Umfeld der Mitarbeiter gekennzeichnet sind, laufen bei der Feuerwehr stationär 
+am und im Fahrzeug ab sowie an einer Person.  
+5.4.2 Ziele und Schnittstellen definieren 
+„Eine wichtige Voraussetzung für eine erfolgreiche digitale Transformation besteht da-
+rin, klare Ziele für [die eigene Feuerwehr] zu definieren“ [40]. Von gezielter Einsatz-
+steuerung durch übersichtlichere Einsatzführung bis hin zur effizienten Atemschutz-
+überwachung ist alles möglich. Es sollte hierbei darauf geachtet werden, Zielkonflikte 
+zu vermeiden. Dies ist umsetzbar, indem man den Zielen eine Rangfolge verleiht [40]. 
+Zurzeit herrschen im deutschen Feuerwehralltag viele digitale Anwendungen als Insel-
+lösung vor, deren Daten isoliert verarbeitet werden und nicht quelloffen sind. Die vor-
+rangige Aufgabe ist es hierbei die Schnittstellen zu ermitteln und zu benennen. Mittels 
+dieser Schnittstellen können Informationen an alle eingebundenen Systeme auf einen 
+gleichen Datensatz zurückgreifen und nutzen. Weitere Fragen, die im Vorfeld zu klären 
+wären: Wie soll der digitale Datenaustausch stattfinden, welcher Übertragungsstandart 
+wird gewählt? 
+5.4.3 Strukturen schaffen und Prioritäten setzen 
+Um die Aufgaben der digitalen Entwicklung vorantreiben zu können, wird sich die Feu-
+erwehr organisatorisch erweitern und separate Strukturen für die Umsetzung schaffen 
+müssen. In Projektgruppen, welche sich aus Mitarbeitern aller Ebenen der Feuerweh-
+rorganisation zusammensetzen, sollte anhand des ermittelten Bedarfs Lösungsvor-
+schläge erarbeitet werden. Nur unter Beteiligung alle Mitarbeiter innerhalb der Feuer-
+wehr ist eine durchgängige Akzeptanz zu erwarten. Mit der initialen Schaffung einer 
+eigenständigen Organisationseinheit, die sich nur um die Implementierung der neuen 
+digitalen Systeme kümmert, wird die originäre Arbeit der IT-Abteilung nicht gestört. 
+Schon zu diesem Zeitpunkt muss die Entscheidung getroffen sein, ob marktgängige 
+Systeme oder ein eigenes förderungsfähiges Forschungsprojekt zur Anwendung 
+kommt. Fällt die Entscheidung zu Gunsten eines durch die Regierung geförderten Pro-
+jekts, zeigt das vorangegangene Kapitel die entsprechenden Rahmenbedingungen 
+auf. Für die Beschaffung eines bereits entwickelnden Systems ist die zeitliche Abwick-
+lung deutlich geringer, da hier bereits die volle Anwendbarkeit gegeben ist. Nachteilig 
+ist hierbei, dass auf spezielle Wünsche nur geringfügig Einfluss genommen werden 
+kann. Nachfolgender Vorschlag legt eine mögliche Vorgehensweise einer Beschaffung 
+anhand von Beispielen dar.  
+
+Aktuelle Entwicklungen 
+ 
+ 
+20 
+Unerlässlich ist die primäre Erstellung eines Umsetzungsplanes, der die zeitliche Ab-
+folge von der ersten Idee, über Schulungsmaßnahmen, bis hin zur endgültigen Indi-
+enststellung, beschreibt. Die Projektgruppe ist gut beraten, mehrere auf dem Markt 
+befindliche Entwicklungen zu testen. Hierbei können die jeweiligen Stärken und 
+Schwächen erfasst und dokumentiert werden. Nach erfolgter Schulung eines ausge-
+suchten Personenkreises und einer festgelegten und evaluierten Testphase der ver-
+schiedenen Anwendungen im realen Einsatzgeschehen, kann eine Empfehlung durch 
+Mitglieder der Projektgruppe an die Amtsleitung erfolgen. Mit Zusage der benötigten 
+Haushaltsmittel kann der endgültige Entschluss zu einer Beschaffung getroffen und 
+diese angestoßen werden. Es ist hierbei empfehlenswert, die Neuerungen parallel zu 
+den alten Anwendungen in den Einsatz zu geben. Dies gibt dem Endanwender immer 
+die Sicherheit „Herr über die Lage“ zu sein. 
+5.4.4 Fördermittel nutzen 
+„Das Rahmenprogramm „Forschung für die zivile Sicherheit 2018–2023“ bildet als ler-
+nendes Programm den Rahmen für eine flexibel ausgerichtete Förderpolitik, die auf 
+Basis der Erfahrungen der Programmdurchführung und unter Einbeziehung aktueller 
+Fragestellungen kontinuierlich weiterentwickelt wird. Ausgehend von den globalen, 
+technologischen und gesellschaftlichen Herausforderungen der zivilen Sicherheit wird 
+die Forschungsförderung an zivilen Anwendungsszenarien ausgerichtet“ [41]. Mithilfe 
+der Szenarien können Insellösungen vermieden werden. Zusätzlich wird die Entwick-
+lung von Systeminnovationen unterstützt. Dadurch wird eine Grundlage geschaffen, 
+um einen gezielten und problemlösungsorientierten Know-how-Transfer sowie die er-
+folgreiche Entwicklung von Sicherheitsprodukten und -dienstleistungen zu ermögli-
+chen. Am Sicherheitsforschungsprogramm ist eine Vielzahl von Akteuren beteiligt, die 
+sich aus Vertretern der Wissenschaft, Wirtschaft, Behörden und Sicherheitsorganisa-
+tionen zusammensetzt. Deren Ziele liegen in der Lösungsfindung von aktuellen und 
+zukünftigen Aufgaben in der zivilen Sicherheit. „Bei den Verbundprojekten sollte es die 
+Regel sein, dass Anwender als geförderte Partner direkt in die Projekte eingebunden 
+werden. Für eine erfolgreiche Erforschung von Sicherheitsinnovationen, die zur Praxis 
+und zur Gesellschaft passen, werden alle relevanten Disziplinen der Technik, Natur- 
+und Gesellschaftswissenschaften einbezogen“ [41]. 
+Rund 60 Millionen Euro pro Jahr wird das Bundesministerium für Bildung und For-
+schung (BMBF) in den Jahren 2018 bis 2023 für das Rahmenprogramm bereitstellen 
+[41]. 
+5.4.5 Erstellen einer Notfallplanung 
+Bereits im Vorfeld muss eine Notfallplanung für System- und Stromausfälle stattgefun-
+den haben. Dabei müssen unter anderem folgende Fragen berücksichtigt werden: 
+Wie werden Feuerwehreinsätze bei einem Systemabsturz störungsfrei abgearbeitet? 
+Wie können die Systeme gegen Angriffe von außen, wie z. B. Viren- oder Hackeran-
+griffe abgesichert werden? Was geschieht bei einem Stromausfall? Wie bleiben die 
+digitalen und vernetzten Abläufe der Feuerwehr, trotz eines Eingriffes in die Systemab-
+läufe, handlungssicher?  
+
+Aktuelle Entwicklungen 
+ 
+ 
+21 
+Um dies zu gewährleisten, ist das Überprüfen der Prozesse anhand einer Risikoana-
+lyse unerlässlich. Hierbei werden Schwachstellen erkannt und ihnen entgegengewirkt. 
+Das Bundesministerium für Sicherheit in der Informationstechnik (BSI) hat dafür Stan-
+dards definiert [42]. Zu einer umfangreichen Digitalisierung und Vernetzung der Ein-
+satzmittel gehört ebenfalls das Vorhalten einer analogen Rückfallebene, welche alle 
+Arten von Systemausfällen abdeckt. Zusätzlich muss das Personal auf den digitalen 
+Anwendungen sowie auch auf die analogen Systeme einer Rückfallebene geschult 
+sein und auf diese sofort zurückgreifen können. 
+5.4.6 Umsetzung  
+Die Digitalisierung bietet der Feuerwehr die große Möglichkeit sich dem digitalen Fort-
+schritt anzupassen. Damit die Feuerwehr dauerhaft den Ansprüchen und Anforderun-
+gen der gesellschaftlichen Entwicklung gerecht wird, ist es notwendig zu digitalisieren. 
+Im Zuge der Digitalisierung ist die Feuerwehr, genauso wie jedes andere Unterneh-
+men, auf die Akzeptanz der Mitarbeiter gegenüber neuen, digitalen Technologien und 
+Prozessen angewiesen. Um die besagte Akzeptanz herbeizuführen, sollten die tech-
+nologischen Erneuerungen kontinuierlich in den Arbeitsalltag integriert werden. Auch 
+der Wissensaustausch unter den Mitarbeitern ist hierbei von Vorteil. Vor allem die jün-
+gere Generation, die mit dem Umgang digitaler Endgeräte aufgewachsen ist, ist hierbei 
+in den Fortschritt unterstützend einzubinden. Weiterhin müssen die neuen digitalen 
+Medien intuitiv und benutzerfreundlich gestalten sein, sodass der Ablösevorgang 
+leichtfällt. Zusätzlich muss der Umgang eine Arbeitserleichterung darstellen, Vorteile 
+bieten und einen Spaßfaktor erkennen lassen. Zuletzt spielt die Vorbildfunktion der 
+Führungsebene eine wichtige Rolle, da diese dem Mitarbeiter die Notwendigkeit der 
+Digitalisierung vorleben muss. Ein Mitarbeiter akzeptiert Veränderungen eher, wenn 
+sie durch die Vorgesetzten ausgeführt und aktiv genutzt werden [43]. 
+
+Fazit 
+ 
+ 
+22 
+6 Fazit 
+Die deutsche Feuerwehr lebt zurzeit noch in einer klassischen, altbewährten Form. 
+Dabei stützt sie sich auf Verordnungen, Richtlinien und Normen. Das digitale Zeitalter 
+hält langsam, aber trotzdem stetig Einzug. Das private Umfeld ist der Feuerwehr deut-
+lich voraus. Wohnungen werden smart, Heizungen und Beleuchtungssysteme können 
+von unterwegs über eine App gesteuert werden. Im Gegenzug ist bei der deutschen 
+Feuerwehr die Einführung des Digitalfunks noch nicht flächenmäßig abgeschlossen. 
+Der Wunsch, die Arbeit der Feuerwehr den digitalen Gegebenheiten anzupassen, ist 
+mit der Vergabe innovativer Forschungsaufträge bereits in vollem Gange. Das Poten-
+tial besagter Aufträge erweist sich als enorm. Lediglich der zum Teil sehr lange For-
+schungszeitraum eines Projektes wird von Seiten der Softwareentwickler kritisch be-
+trachtet. Um mit der sich schnell entwickelnden Hardwaretechnik Schritt halten zu kön-
+nen, „müssen mehrere Projekte mit einem kleineren Umfang gestartet werden, um 
+zeitnahe Ergebnisse erzielen zu können“ [44]. 
+Im Zuge dieser Facharbeit wurde eine Befragung bei ausgesuchten Feuerwehren mit 
+einem einheitlichen Abfrageschema durchgeführt, um den Stand der Digitalisierung in 
+Deutschland und Europa zu validieren. Die Auswertung des Erhebungsbogens ergab 
+unter anderem, dass im Vergleich zu europäischen Feuerwehren mit zentraler oder 
+regionaler Führung der Föderalismus mit der kommunalen Selbstverwaltung, der sich 
+aus der Feuerwehrgesetzgebung der Länder ergibt, ein Fluch und Segen zugleich sein 
+kann. Der Vorteil, dass die Länder und Kommunen über Beschaffung und Ausstattung 
+ihrer Feuerwehren autonom entscheiden können und dabei individuelle Wege möglich 
+sind, behindert jedoch gleichzeitig die Zusammenarbeit dieser untereinander. Vor al-
+lem bei einer Vernetzung von digitalen Anwendungen in der Einsatzführung und Ein-
+satzsteuerung kann der sich daraus ergebende Mehrwert nicht vollständig nutzbar ge-
+macht werden, wenn die Endgeräte unterschiedlicher Feuerwehren untereinander 
+nicht kompatibel sind. Wenn sich die aus der Forschung ergebenden Möglichkeiten für 
+die Entwicklung von zukunftsorientierten Projekten, wie z. B. Nutzung von künstlicher 
+Intelligenz (KI), humanoiden Robotern (Hubots) oder einer Auswertung von Big-Data-
+Analysen, konsequent genutzt werden sollen, müssen dafür Anwender, Entwickler und 
+Produzenten ihr Wissen kontinuierlich austauschen. Im Einzelnen bedeutet dies für die 
+Feuerwehr die nötigen gesetzlichen Grundlagen zu schaffen. Dazu sollten die Arbeits-
+gemeinschaften der Leiter der Berufsfeuerwehren (AGBF) und Interessenvertretungen 
+wie der Deutsche Feuerwehrverband (DFV) ihre Anregungen gegenüber dem Gesetz-
+geber deutlich formulieren und ihn auf einen einheitlichen Gesetzestext hinbewegen, 
+welcher für alle Brandschutzgesetze der Länder übernommen werden kann [6].  
+Der Deutsche Städtetag hat bereits in einem Diskussionspapier die wichtigsten Eck-
+punkte zu einer Digitalisierung im Brand-, Katastrophenschutz und Rettungswesen de-
+finiert. Darauf aufbauend sollten die Überlegungen in Richtung eines BOS-eigenen 
+verschlüsselten, flächendeckenden und bundesweit einheitlichen Datenfunknetzes ge-
+hen [45]. Ein Vorschlag wäre, ähnlich wie der des Bundesamtes für Digitalfunk der 
+Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS), die Einrichtung ei-
+ner BOS-Netzagentur. Das dabei entstehende Netz steht ausschließlich den Kräften 
+
+Fazit 
+ 
+ 
+23 
+der Polizei, Feuerwehr und den Rettungsdiensten sowie allen Einheiten des Zivil- und 
+Katastrophenschutzes zur Nutzung bei der digitalen Einsatzabwicklung zur Verfügung. 
+Abschließend ist anzumerken: „Die technologischen Hürden sind überwunden, jetzt 
+gilt es die gedanklichen abzuschalten“ [39]. Nur bei einer Einigkeit aller Feuerwehren 
+kann die Digitalisierung zu einer Feuerwehr 4.0 in Deutschland effektiv umgesetzt wer-
+den.  
+
+Literaturverzeichnis 
+ 
+ 
+24 
+Literaturverzeichnis 
+ 
+[1]  
+Hekatron Vertriebs GmbH, „Gemeinsam Gas geben, Digitalisierung im 
+Brandschutz,“ GIT Sicherheit + Management, p. 78, Juni 2019.  
+[2]  
+VFDB Pressemiteilung, „vfdb Vereinigung zur Förderung des deutschen 
+Brandschutzes 
+e.V.,“ 
+[Online]. 
+Available: 
+https://www.vfdb.de/vfdb-
+ev/presse/presse-via-newslist/article/die-zukunft-gehoert-der-vernetzten-
+feuerwehr/. [Zugriff am 03 November 2019]. 
+[3]  
+Gruenderszene, „www.gruenderszene.de,“ 04 November 2019. [Online]. 
+Available: 
+https://www.gruenderszene.de/lexikon/begriffe/digitalisierung?interstitial. 
+[4]  
+C. Lange, „Feuerwehr 4.0 - auf dem Weg in die digitale Zukunft,“ Brandschutz, 
+Nr. April, pp. 278-280, 2018.  
+[5]  
+B. D. S. Foraita, Facharbeit hD, Chancen und Risiken der „Smart City“ aus 
+Sicht der Feuerwehr, Frankfurt/M., 2017.  
+[6]  
+Digitalisierung 
+im 
+Brand-, 
+Katastrophenschutz 
+und 
+Rettungswesen, 
+Diskussionspapier, „Deutscher Städtetag,“ 12 April 2019. [Online]. Available: 
+http://www.staedtetag.de/imperia/md/content/dst/veroeffentlichungen/mat/digit
+alisierung-brand-katastrophenschutz-rettungswesen-diskussionspapier-
+2019.pdf. [Zugriff am 03 November 2019]. 
+[7]  
+H. Landrock und A. Baumgärtel, Die Industriedrohne - der fliegende Roboter, 
+Wiesbaden: Springer Fachmedien, 2018.  
+[8]  
+L.-O. (LuftVO), „www.gesetzte-im-internet.de,“ 11 Juni 2017. [Online]. 
+Available: https://www.gesetze-im-internet.de/luftvo_2015/. [Zugriff am 04 
+November 2019]. 
+[9]  
+BBK, „Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,“ [Online]. 
+Available: 
+https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Bros
+chueren_Flyer/Empfehlungen_Geme_Regelungen_Drohneneinsatz_BevS.pdf
+?__blob=publicationFile. [Zugriff am 7 November 2019]. 
+[10]  Spektrum Akademischer Verlag, Heidelberg, „Spektrum.de Lexikon der 
+Biologie,“ 
+[Online]. 
+Available: 
+https://www.spektrum.de/lexikon/biologie/exoskelett/23288. [Zugriff am 05 
+November 2019]. 
+
+Literaturverzeichnis 
+ 
+ 
+25 
+[11]  „Fraunhofer 
+IPA,“ 
+08 
+12 
+2015. 
+[Online]. 
+Available: 
+https://www.ipa.fraunhofer.de/de/presse/presseinformationen/2015-12-
+08_neues-exoskelett-fuer-maximale-bewegungsfreiheit.html. [Zugriff am 08 
+November 2019]. 
+[12]  „German 
+Bionic,“ 
+[Online]. 
+Available: 
+https://www.germanbionic.com/crayx/#ueberblick. [Zugriff am 01 Dezember 
+2019]. 
+[13]  „Feuerwehr Retten-Löschen-Bergen,“ 20 Dezember 2018. [Online]. Available: 
+https://www.feuerwehr-ub.de/technik/kraftanzug-fuer-den-
+katastrophenschutz/. [Zugriff am 01 Dezember 2019]. 
+[14]  G. v. Schoenebeck, „Ingenieur. de,“ 27 Mai 2014. [Online]. Available: 
+https://www.ingenieur.de/technik/fachbereiche/robotik/mit-exoskelett-
+muehelos-90-kilogramm-tragen/. [Zugriff am 25 November 2019]. 
+[15]  A. Oldenburg, Facharbeit für den höheren feuerwehrtechnischer Dienst, 
+Exoskelette im Einsatz bei der Feuerwehr, 2016.  
+[16]  T. 
+Turner, 
+„Yanko 
+Design,“ 
+19 
+Mai 
+2014. 
+[Online]. 
+Available: 
+https://www.yankodesign.com/2014/05/19/the-iron-man-of-firefighting/. [Zugriff 
+am 25 November 2019]. 
+[17]  Gesetz über den Brandschutz, die Hilfeleistung und den Katastrophenschutz 
+Nordrhein-Westfalen, Kohlhammer Verlag, 2015.  
+[18]  F. W. V. Ö. B. Franz Humer, Interviewee, [Interview]. 6 November 2019. 
+[19]  A. F. T. S. F. Gutmann, Interviewee, [Interview]. 14 November 2019. 
+[20]  Corpo Nazionale dei Vigili del Fuoco, „Vigili del Fuoco,“ 2009. [Online]. 
+Available: http://www.vigilfuoco.it/aspx/Page.aspx?IdPage=6554. [Zugriff am 
+26 November 2019]. 
+[21]  L. F. S. Christoph Oberhollenzer, Interviewee, [Interview]. 13 November 2019. 
+[22]  S. L. d. F. H. (. Michel Bour, Interviewee, [Interview]. 12 November 2019. 
+[23]  F. V. N.-. e. O. G. Christiaan Velthausz, Interviewee, [Interview]. Oktober 24 
+2019. 
+[24]  R. (. 2. d. E. P. u. d. Rates, „eur-lex,“ 11 Dezember 2018. [Online]. Available: 
+https://eur-lex.europa.eu/legal-
+content/DE/TXT/PDF/?uri=CELEX:32018L1972&from=EN. [Zugriff am 12 
+November 2019]. 
+
+Literaturverzeichnis 
+ 
+ 
+26 
+[25]  H. 
+Lücke, 
+„Inside 
+Digital,“ 
+10 
+Oktober 
+2019. 
+[Online]. 
+Available: 
+https://www.inside-digital.de/news/aml-startet-in-deutschland-handynutzer-
+profitieren-von-neuem-notrufsystem. [Zugriff am 12 November 2019]. 
+[26]  C. Hoppe, „DFS Deutsche Flugsicherung,“ 29 Mai 2019. [Online]. Available: 
+https://www.dfs.de/dfs_homepage/de/Presse/Pressemitteilungen/2019/29.05.
+2019.-
+%20DFS%20Deutsche%20Flugsicherung%20und%20Deutsche%20Telekom
+%20gr%C3%BCnden%20Gemeinschaftsunternehmen%20f%C3%BCr%20de
+n%20Drohnenmarkt/. [Zugriff am 12 November 2019]. 
+[27]  K. Sommer, Präsentation Projektvorstellung VISION, Dortmund, 2019.  
+[28]  „SIRENE - Secure and Intelligent Road Emergency Network,“ [Online]. 
+Available: https://sirene.ifak.eu/node/1. [Zugriff am 26 November 2019]. 
+[29]  J. P. Urbach, „ADAC, Rund ums Fahrzeug,“ 10 August 2018. [Online]. 
+Available: 
+https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-
+zubehoer/autonomes-fahren/technik-vernetzung/car2x-kommunikation/. 
+[Zugriff am 12 November 2019]. 
+[30]  Stadt Kassel, „Veronika-Forschungsprojekt,“ 2019. [Online]. Available: 
+https://www.kassel.de/buerger/verkehr_und_mobilitaet/verkehrsprojekte/veron
+ika.php. [Zugriff am 05 Dezember 2019]. 
+[31]  B. f. V. u. d. Infrastruktur, „Digitale Testfelder,“ 2019. [Online]. Available: 
+https://www.bmvi.de/DE/Themen/Digitales/Digitale-Testfelder/Digitale-
+Testfelder.html. [Zugriff am 05 Dezember 2019]. 
+[32]  Feuerwehrdienstvorschrift 
+100, 
+Führung 
+und 
+Leitung 
+im 
+Einsatz 
+-
+Führungssystem-, 
+Ausschuss 
+Feuerwehrangelegenheiten, 
+Katastrophenschutz und zivile Verteidigung (AFKzV), 1999.  
+[33]  AK Forschung, AGBF NRW, „Bestandsaufnahme Forschungsbedarf,“ Februar 
+2019. 
+[Online]. 
+Available: 
+https://www.dortmund.de/media/p/feuerwehr/institut_fuer_feuerwehr__und_re
+ttungstechnologie/downloads_21/2019-05-24_AGBF_AK-
+FO_Bestandsaufnahme_ForschBedarf_4.0.pdf. [Zugriff am 18 November 
+2019]. 
+[34]  „EU-Datenschutz-Grundverordnung,“ 27 April 2016. [Online]. Available: 
+https://www.datenschutz-grundverordnung.eu/wp-
+content/uploads/2016/05/CELEX_32016R0679_DE_TXT.pdf. [Zugriff am 29 
+November 2019]. 
+
+Literaturverzeichnis 
+ 
+ 
+27 
+[35]  Feuerwehrdienstvorschrift 
+7, 
+Atemschutz, 
+Ausschuss 
+Feuerwehrangelegenheiten, Katastrophenschutz und zivile Verteidigung 
+(AFKzV), 2002 mit Änderung 2005.  
+[36]  Bundesministerium für Bildung und Forschung (BMBF), „www.sifo.de,“ 
+[Online]. 
+Available: 
+https://www.sifo.de/files/Projektumriss_CELIDON.pdf. 
+[Zugriff am 18 November 2019]. 
+[37]  D. Ahn, Präsentation Projektvorstellung CELIDON, Dortmund, 2019.  
+[38]  D. O. Grebner, „Smartphones & Tablet im Feuerwehrdienst,“ in Tagungsband 
+66. VFDB Fachtagung , Ulm, VdS Schadensverhütung GmbH, Köln, 2019, pp. 
+169 - 179. 
+[39]  S. Truthän, Interviewee, [Interview]. 29 November 2019. 
+[40]  P. Tarkowski, „Digitalisierung aktiv umsetzen: Praxistipps für die digitale 
+Transformation,“ Digital Magazin, 18 Oktober 2018. [Online]. Available: 
+https://digital-magazin.de/praxistipps-fuer-die-digitale-transformation/. [Zugriff 
+am 19 November 2019]. 
+[41]  R. S. Bundesministerium für Bildung und Forschung, „www.bmbf.de,“ 
+September 
+2018. 
+[Online]. 
+Available: 
+https://www.bmbf.de/upload_filestore/pub/Rahmenprogramm_Sicherheitsfors
+chung.pdf. [Zugriff am 19 November 2019]. 
+[42]  Bundesamt für Sicherheit in der Informationstechnik, „IT-Grundschutz,“ 
+[Online]. 
+Available: 
+https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzStandards
+/ITGrundschutzStandards_node.html. [Zugriff am 09 Dezember 2019]. 
+[43]  V. Tomaschek, „AMAGNO Digitale Workplace,“ 14 September 2016. [Online]. 
+Available: https://amagno.de/digitalisierung-im-mittelstand-funktioniert-nur-mit-
+akzeptanz-der-mitarbeiter/13606/. [Zugriff am 19 November 2019]. 
+[44]  D. A. L. Tim Wallroth, Interviewee, [Interview]. 22 Oktober 2019. 
+[45]  Feuerwehrdienstvorschrift 800, Informations- und Kommunikationstechnik im 
+Einsatz, Ausschuss Feuerwehrangelegenheiten, Katastrophenschutz und 
+zivile Verteidigung (AFKzV), 2017.  
+ 
+ 
+ 
+
+Abkürzungen 
+ 
+ 
+28 
+Abkürzungen 
+ 
+AML 
+Advanced Mobile Location 
+BBK 
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe 
+BDBOS 
+Bundesanstalt für Digitalfunk der Behörden und Organisationen mit 
+Sicherheitsaufgaben 
+BHKG 
+Gesetz über den Brandschutz, die Hilfeleistung und Katastrophen-
+schutz in Nordrhein-Westfalen  
+BMA 
+Brandmeldeanlage 
+BOS 
+Behörden und Organisationen mit Sicherheitsaufgaben 
+BSI 
+Bundesamt für Sicherheit in der Informationstechnik 
+CBRN 
+Chemisch, biologisch, radiologisch und nuklear 
+CSA  
+Chemikalienschutzanzug 
+DSGV 
+Datenschutz Grundverordnung 
+EU 
+Europäische Union 
+FSK 
+Feuerschutzkleidung 
+FwDV 
+Feuerwehr Dienstvorschrift 
+GG 
+Grundgesetz 
+GIS 
+Geoinformationssystem 
+GPS 
+Global Position System 
+ICAO 
+International Civil Aviation Organisation 
+IFR 
+Forschungsinstitut für Feuer- und Rettungstechnologie Dortmund 
+IoT 
+Internet of Things (Internet der Dinge) 
+KI 
+Künstliche Intelligenz 
+LuftVO 
+Luftverkehrs Ordnung 
+PA  
+Pressluftatmer 
+SER 
+Standard Einsatzregel 
+
+Abkürzungen 
+ 
+ 
+29 
+UAS 
+Unmanned Aerialt System 
+UAV 
+Unmanned Aerial Vehicle 
+UTM 
+UAS Traffic Management System 
+VFDB 
+Vereinigung zur Förderung des Deutschen Brandschutzes e.V. 
+VPN 
+Virtuelles Private Netzwerk 
+
+Abbildungsverzeichnis 
+ 
+ 
+30 
+Abbildungsverzeichnis 
+Abbildung 2-1 Stuttgart Exo-Jacket (Bild: Verfasser) .................................................. 4 
+Abbildung 2-2 Exoskelett Cray+ (Bild: German Bionic [13]) ........................................ 5 
+Abbildung 2-3 Designstudie Ken Chen (Bild: Yanko Design [16]) ............................... 6 
+Abbildung 2-4 Darstellung Netzwerk Feuerwehr 4.0 (C. Lange [4]) ............................ 7 
+Abbildung 5-1 Projekt VISION (Präsentation: Katrin Sommer [27]) Ablaufschema der 
+ausrückenden Kräfte mit vorrauseilender Drohne ..................................................... 14 
+Abbildung 5-2 Projekt SIRENE „Funktionsdarstellung“ (Quelle: Präsentation [28]) .. 15 
+Abbildung 5-3 Projekt CELIDON (Präsentation David Ahn [37]) Anzeige in der Maske 
+mit Darstellung der Trupps zueinander (blaue Punkte) und der vermissten Person 
+(roter Punkt) ............................................................................................................... 18 
+
+Anhang 
+ 
+ 
+31 
+Anhang  
+Anhang A: Erhebungsbogen 
+Anhang B: Aufstellung Interviewpartner 
+Anhang C: Aufstellung befragter Feuerwehren 
+Eidesstattliche Erklärung 
+
+Anhang A: Erhebungsbogen 
+ 
+ 
+32 
+Anhang A: Erhebungsbogen 
+Erhebungsbogen im Rahmen der Facharbeit zur Ausbildung für das zweite Ein-
+stiegsamt der Laufbahngruppe 2 im feuerwehrtechnischen Dienst 
+ 
+ 
+Verfasser: 
+Jürgen Gottschalk  
+Werkfeuerwehr  
+Infraserv GmbH & Co. Höchst KG 
+Industriepark Höchst, Geb. C299  
+65926 Frankfurt/M. 
+ 
+Tel. 0173/1991490 
+Mail: juergen.gottschalk@infraserv.com  
+ 
+ 
+ 
+Zu bearbeitendes Thema 
+ 
+ 
+Digitalisierung im Einsatzdienst – Drohnen, Exoskelette und Vernetzung 
+Wie ist der Stand bei den deutschen Berufsfeuerwehren, wie bei europäischen Feuer-
+wehren? Welche Entwicklungen sind sinnvoll, welche bereits einsetzbar? Erstellen Sie 
+Vorschläge dafür, wie sich eine Berufsfeuerwehr heute aufstellen muss, um die künf-
+tigen Entwicklungen umsetzen zu können. Stellen Sie dies insbesondere bei einer Ver-
+netzung von Atemschutzüberwachung, Einsatzführung und Einsatzsteuerung dar. 
+ 
+ 
+Sehr geehrte Damen und Herren, 
+ich würde mich freuen, wenn Sie mich bei der Erhebung einiger Daten zur Recherche 
+meiner Facharbeit unterstützen könnten. 
+Ich bedanke mich im Voraus für Ihre Zusammenarbeit und Unterstützung und ver-
+bleibe, 
+ 
+mit freundlichen Grüßen 
+ 
+_________________________ 
+Jürgen Gottschalk 
+
+Anhang A: Erhebungsbogen 
+ 
+ 
+33 
+Fragenkatalog 
+ 
+1. Nutzen Sie bei Ihrer Feuerwehr Drohnen und wie werden diese bezüglich der Einsatzführung, 
+z.B. bei der Lageerkundung, eingesetzt? 
+ 
+ 
+ 
+2. Wird das Einsatzmittel Drohne bei Ihnen regelmäßig eingesetzt oder nur bei Sonderla-
+gen/Großschadenslagen? Begründen Sie bitte kurz die Antwort. 
+ 
+ 
+ 
+3. Welche Art der Atemschutzüberwachung nutzen Sie?  
+- 
+Telemetrie der Atemschutzgerätehersteller 
+- 
+handelsübliche Softwareanwendungen 
+- 
+App-Anwendungen 
+- 
+Selbstgeschriebene Software oder sonstiges 
+ 
+ 
+ 
+ 
+4. Ist diese von Ihnen eingesetzte Atemschutzüberwachung eine Insellösung oder wird dieses in 
+Kombination mit einem anderen digitalen Führungsmittel eingesetzt? 
+ 
+ 
+ 
+ 
+5. Sind bei Ihnen digitale Führungsmittel im Einsatz und wenn ja, welche? 
+ 
+ 
+ 
+
+Anhang A: Erhebungsbogen 
+ 
+ 
+34 
+ 
+ 
+6. Nutzen Sie Anwendungen wie beispielsweise MoFIS, Smart Rescue, GIS oder digitale Ret-
+tungskarten zur Erkenntnisgewinnung bei einem Einsatz und wenn ja, welche? 
+ 
+ 
+ 
+ 
+7. Sind diese Anwendungen fest auf einem Tablet oder PC auf Ihrem ELW installiert? 
+ 
+ 
+ 
+ 
+8. Nutzen Sie ein digitales Navigationssystem, welches auf Verkehrsänderungen dynamisch rea-
+giert und darauf eine abgestimmte Ampelsteuerung zulässt? Wenn Sie solch ein System ein-
+setzen, welches nutzen Sie und wie zufrieden sind Sie damit? 
+ 
+ 
+ 
+9. Können Sie sich vorstellen, eine allumfassende Softwarelösung zu beschaffen, die eine Ver-
+netzung von Atemschutzüberwachung, Einsatzsteuerung und Einsatzführung zulässt? Wenn 
+ja, halten Sie solch eine Komplettlösung für Feuerwehren allgemein für sinnvoll? 
+ 
+ 
+ 
+10. Welche Anwendungsbereiche für Exoskelette bei der Feuerwehr halten Sie für möglich? 
+ 
+
+Anhang B: Aufstellung Interviewpartner 
+ 
+ 
+35 
+Anhang B: Aufstellung Interviewpartner 
+Name: 
+Organisation/Unternehmen: 
+Funktion: 
+Datum: 
+Wallroth, Tim 
+Dräger AG & Co. KGaA 
+Entwicklung 
+22.10.2019 
+Hater, Jürgen 
+Dräger AG & Co. KGaA 
+Entwicklung 
+23.10.2019 
+Kuppinger, Andreas 
+Werkfeuerwehr VoestAlpine,  
+Linz Österreich 
+Leiter der Feu-
+erwehr 
+28.10.2019 
+Ahn, David 
+IFR Dortmund 
+Forschung 
+29.10.2019 
+Sommer, Katrin 
+IFR Dortmund 
+Forschung 
+29.10.2019 
+Pahlke, Norbert 
+IFR Dortmund 
+Forschung 
+29.10.2019 
+Grebner, Dr. Olaf 
+Mobilion 
+Geschäftsfüh-
+rung 
+31.10.2019 
+Ehling, Frank 
+Feuerwehr Bochholt 
+Spezialist für 
+Drohnen 
+31.10.2019 
+Lenz, Gilbert 
+MSA 
+Entwicklung 
+06.11.2019 
+Thorns, Jochen 
+Brandschutz 
+Chefredakteur 
+07.11.2019 
+Christiaan Velthausz 
+Sicherheitsregion Nord-Ost Gelder-
+land, Niederlande 
+Offizier der 
+Feuerwehr 
+07.11.2019 
+Gutmann, Adian 
+Feuerwehrverband Schweiz 
+Fachspezialist 
+Technik 
+07.11.2019 
+Kloiber, Werner 
+Berufsfeuerwehr Salzburg,  
+Österreich 
+Stellv. Leiter 
+07.11.2019 
+Bour, Michel 
+Feuerwehrbezirk Hochrhein 
+Departement 68, Frankreich 
+Stellv. Leiter 
+12.11.2019 
+Oberhollenzer, Dr. 
+Christoph 
+Landesverband der Freiwilligen 
+Feuerwehren Südtirols 
+Direktor 
+13.11.2019 
+Humer, Franz 
+Österreichischer Bundesfeuerwehr-
+verband 
+Vizepräsident 
+18.11.2019 
+Truthän, Stefan 
+hhp Berlin 
+Geschäftsfüh-
+rung 
+29.11.2019 
+ 
+ 
+
+Anhang C: Aufstellung befragter Berufsfeuerwehren 
+ 
+ 
+36 
+Anhang C: Aufstellung befragter Berufsfeuerwehren 
+Berufsfeuerwehr Berlin 
+Berliner Feuerwehr  
+10150 Berlin 
+Berufsfeuerwehr Dortmund 
+Feuerwehr Dortmund  
+Steinstraße 25, 44147 Dortmund 
+Berufsfeuerwehr Frankfurt 
+Feuerwehr Frankfurt am Main 
+Feuerwehrstraße 1 
+60435 Frankfurt am Main 
+Berufsfeuerwehr Gießen 
+Amt für Brand- und Bevölkerungsschutz 
+Steinstraße 1 
+35390 Gießen 
+Berufsfeuerwehr Hamburg 
+Feuerwehr Hamburg 
+Westphalensweg 1, 20099 Hamburg 
+Berufsfeuerwehr Magdeburg 
+Amt für Brand- und Katastrophenschutz 
+Peter-Paul-Straße 12, 39106 Magdeburg 
+Berufsfeuerwehr Mainz 
+Landeshauptstadt Mainz 
+37-Feuerwehr 
+Jakob-Leischner-Straße 11 
+5128 Mainz 
+Berufsfeuerwehr München 
+Landeshauptstadt München 
+Hauptabteilung IV – Branddirektion 
+Katastrophenschutz, Zivilschutz 
+An der Hauptfeuerwache 8 
+80331 München 
+Berufsfeuerwehr Nürnberg 
+Stadt Nürnberg 
+Feuerwehr 
+Regenstraße 4 
+90451 Nürnberg 
+Berufsfeuerwehr Offenbach 
+Feuerwehr Offenbach 
+Rhönstraße 10 
+63071 Offenbach am Main 
+Berufsfeuerwehr Wiesbaden 
+Landeshauptstadt Wiesbaden 
+Berufsfeuerwehr 
+Kurt-Schumacher-Ring 16 
+65197 Wiesbaden 
+ 
+In der aufgeführten Liste sind nur diese Berufsfeuerwehren genannt, welche den Er-
+hebungsbogen ausgefüllt zurückgesandt haben. 
+ 
+ 
+
+Eidesstattliche Erklärung 
+ 
+Eidesstattliche Erklärung 
+Hiermit versichere ich, Jürgen Gottschalk, die vorliegende Arbeit selbständig, ohne 
+fremde Hilfe und ohne Benutzung anderer als der von mir angegebenen Quellen an-
+gefertigt zu haben. Alle aus fremden Quellen direkt oder indirekt übernommenen Ge-
+danken sind als solche gekennzeichnet.  
+Die Arbeit wurde noch keiner Prüfungsbehörde in gleicher oder ähnlicher Form vorge-
+legt. 
+ 
+Kelkheim, 19.12.2019 
+ 
+ 
+.......................................................... 
+Jürgen Gottschalk 

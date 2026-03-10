@@ -1,0 +1,1350 @@
+Amtliche Abkürzung:
+ThürKatSVO
+Ausfertigungsdatum:
+10.11.2020
+Gültig ab:
+01.12.2020
+Dokumenttyp:
+Verordnung
+Quelle:
+Fundstelle:
+GVBl. 2020, 568
+Gliederungs-Nr:
+2131-6
+Thüringer Katastrophenschutzverordnung
+(ThürKatSVO)
+Vom 10. November 2020
+Zum 25.06.2025 aktuellste verfügbare Fassung der Gesamtausgabe
+Nichtamtliches Inhaltsverzeichnis
+Titel
+Gültig ab
+Thüringer Katastrophenschutzverordnung (ThürKatSVO) vom 10. November
+2020
+01.12.2020
+Eingangsformel
+01.12.2020
+§ 1 - Organisation und Aufgaben des Katastrophenschutzes
+01.12.2020
+§ 2 - Einheiten des Katastrophenschutzes
+01.12.2020
+§ 3 - Einrichtungen des Katastrophenschutzes
+01.12.2020
+§ 4 - Führungskräfte im Katastrophenschutz
+01.12.2020
+§ 5 - Aus- und Fortbildung
+01.12.2020
+§ 6 - Übungen
+01.12.2020
+§ 7 - Einsatz
+01.12.2020
+§ 8 - Medizinische Task Force
+01.12.2020
+§ 9 - Warnung der Bevölkerung
+01.12.2020
+§ 10 - Übergangsbestimmung
+01.12.2020
+§ 11 - Gleichstellungsbestimmung
+01.12.2020
+§ 12 - Inkrafttreten, Außerkrafttreten
+01.12.2020
+Anlage 1 - Katastrophenschutz-Führungsstaffel (KatS-FüSt)
+01.12.2020
+Anlage 2 - Katastrophenschutz-Einsatzzug Retten (KatS-EZ Retten)
+01.12.2020
+Anlage 3 - Katastrophenschutz-Sanitätszug (KatS-SanZ)
+01.12.2020
+Anlage 4 - Katastrophenschutz-Betreuungszug (KatS-BetrZ)
+01.12.2020
+Anlage 5 - Katastrophenschutz-Gefahrgutzug (KatS-GGZ)
+01.12.2020
+- Seite 1 von 25 -
+
+Titel
+Gültig ab
+Anlage 6 - Katastrophenschutz-Einsatzzug Wasser (KatS-EZ Wasser)
+01.12.2020
+Anlage 7 - Katastrophenschutz-Logistikzug (KatS-LogZ)
+01.12.2020
+Anlage 8 - Katastrophenschutz-Bergrettungszug (KatS-BRZ)
+01.12.2020
+Anlage 9 - Katastrophenschutz-Wasserrettungszug (KatS-WRZ)
+01.12.2020
+Anlage 10 - Katastrophenschutz-Unterstützungseinheit Behandlungsplatz (Ka-
+tS-UE BHP)
+01.12.2020
+Anlage 11 - Katastrophenschutz-Unterstützungseinheit Wassertransport (Ka-
+tS-UE Wassertransport)
+01.12.2020
+Anlage 12 - Katastrophenschutz-Unterstützungseinheit Dekontamination
+Erstversorgung (KatS -UE Dekon EV)
+01.12.2020
+Anlage 13 - Katastrophenschutz-Unterstützungseinheit Messleitung (KatS-UE
+Messleitung)
+01.12.2020
+Anlage 14 - Katastrophenschutz-Führungsgruppe (KatS-FüGr)
+01.12.2020
+Anlage 15 - Katastrophenschutz-Unterstützungseinheit Führung „Medizi-
+nische Rettung" (KatS-UE Führung „Med. Rettung")
+01.12.2020
+Anlage 16 - Katastrophenschutz-Facheinheit Rettungshunde/Ortungstechnik
+(KatS -RHOT)
+01.12.2020
+Anlage 17 - Katastrophenschutz-Führungsstab des Landes (KatS-FüStab)
+01.12.2020
+Anlage 18 - Katastrophenschutz-Stab (KatS-Stab)
+01.12.2020
+Aufgrund des § 54 Abs. 1 Nr. 2 und Abs. 2 Satz 2 des Thüringer Brand- und Katastrophenschutzgeset-
+zes (ThürBKG) in der Fassung vom 5. Februar 2008 (GVBl. S. 22), zuletzt geändert durch Artikel 1 des
+Gesetzes vom 29. Juni 2018 (GVBl. S. 317), verordnet das Ministerium für Inneres und Kommunales im
+Einvernehmen mit dem Finanzministerium nach Anhörung des Innen- und Kommunalausschusses fe-
+derführend und des Haushalts- und Finanzausschusses:
+§ 1
+Organisation und Aufgaben des Katastrophenschutzes
+(1) Die Landkreise und kreisfreien Städte erfüllen die Aufgaben des Katastrophenschutzes nach § 2
+Abs. 2 Satz 2 ThürBKG im übertragenen Wirkungskreis. Als untere Katastrophenschutzbehörden ha-
+ben sie im Rahmen ihrer Aufgabenwahrnehmung die für den Katastrophenschutz notwendigen Maß-
+nahmen zu treffen. Hierzu zählen insbesondere
+1.
+die Aufstellung der Basis- und Sondereinheiten sowie der Einrichtungen des Katastrophenschut-
+zes für die Bereiche nach § 28 Abs. 3 ThürBKG, insbesondere die Verteilung der vom Bund und
+vom Land zur Verfügung gestellten Fahrzeuge und sonstiger Ausrüstung in Stützpunktfeuer-
+wehren, Feuerwehren mit überörtlichen Aufgaben oder anderen leistungsstarken Feuerwehren
+mit der Maßgabe, dass die Aufgabenerfüllung im örtlichen Brandschutz und in der örtlichen All-
+gemeinen Hilfe im Fall eines Katastropheneinsatzes weiter gewährleistet bleibt,
+ 
+- Seite 2 von 25 -
+
+2.
+die regelmäßige Analyse der in ihrem Zuständigkeitsbereich vorhandenen Gefahren in Form
+einer Kreisbeschreibung für die Erstellung und Fortschreibung von Katastrophenschutzplänen
+nach § 31 Abs. 1 Nr. 4 ThürBKG.
+ 
+(2) Im Rahmen der Aufgabenwahrnehmung nach § 7 Abs. 1 Nr. 5 ThürBKG ist das Landesverwaltungs-
+amt nach § 27 Abs. 2 ThürBKG als obere Katastrophenschutzbehörde für den Katastrophenschutz bei
+Anlagen und Gefahr bringenden Ereignissen zuständig, von denen Gefahren für das Gebiet mehrerer
+unterer Katastrophenschutzbehörden ausgehen und die zentrale Maßnahmen erfordern. Die obere Ka-
+tastrophenschutzbehörde führt die Kreisbeschreibungen regelmäßig zu einer Gefährdungsabschät-
+zung des Landes zusammen und erstellt auf deren Grundlage Katastrophenschutzpläne des Landes
+nach § 31 Abs. 2 ThürBKG in Verbindung mit Abs. 1 Nr. 2.
+(3) Im Rahmen der Aufgabenwahrnehmung nach § 7 Abs. 1 Nr. 5 ThürBKG ist das für den Katastro-
+phenschutz zuständige Ministerium nach § 27 Abs. 3 ThürBKG als oberste Katastrophenschutzbehörde
+für die grundsätzlichen Angelegenheiten des Katastrophenschutzes und die länderübergreifende Zu-
+sammenarbeit zuständig. Es kann insbesondere
+1.
+weitere Festlegungen zur Organisation, zur Anzahl und Ausrüstung der Einheiten und Einrich-
+tungen, zur Aus- und Fortbildung, zu Einsätzen und Übungen sowie zur Warnung der Bevölke-
+rung treffen und
+ 
+2.
+bei gemeinsamer Aufgabenerfüllung der unteren Katastrophenschutzbehörden nach § 5 Abs. 2
+ThürBKG über die Anzahl der erforderlichen Einheiten und Einrichtungen entscheiden.
+ 
+(4) Sind an der Aufstellung von Einheiten mehrere untere Katastrophenschutzbehörden beteiligt, ent-
+scheiden diese einvernehmlich über die Führung der jeweiligen Einheit (führende Katastrophenschutz-
+behörde). Kommt das Einvernehmen nach Satz 1 nicht zu Stande, bestimmt die obere Katastrophen-
+schutzbehörde die führende Katastrophenschutzbehörde. Alle weiteren Mitwirkenden haben die füh-
+rende Katastrophenschutzbehörde bei der Aufgabenerfüllung im Katastrophenschutz zu unterstützen.
+(5) Die Bundesanstalt Technisches Hilfswerk wirkt nach Maßgabe des § 1 Abs. 2 Nr. 3 des THW-Geset-
+zes vom 22. Januar 1990 (BGBl. I S. 118) in der jeweils geltenden Fassung insbesondere in den Berei-
+chen Instandsetzung, Bergung und Versorgung mit.
+§ 2
+Einheiten des Katastrophenschutzes
+(1) Folgende Basiseinheiten werden nach § 28 Abs. 3 ThürBKG und nach Maßgabe der Anlagen 1 bis 4
+insgesamt durch alle unteren Katastrophenschutzbehörden aufgestellt:
+1.
+18 Katastrophenschutz-Führungsstaffeln,
+ 
+2.
+22 Katastrophenschutz-Einsatzzüge Retten,
+ 
+3.
+22 Katastrophenschutz-Sanitätszüge,
+ 
+4.
+22 Katastrophenschutz-Betreuungszüge.
+ 
+- Seite 3 von 25 -
+
+(2) Folgende Sondereinheiten werden nach § 28 Abs. 3 ThürBKG und nach Maßgabe der Anlagen 5 bis
+16 insgesamt durch die unteren Katastrophenschutzbehörden aufgestellt:
+1.
+20 Katastrophenschutz-Gefahrgutzüge,
+ 
+2.
+16 Katastrophenschutz-Einsatzzüge Wasser,
+ 
+3.
+4 Katastrophenschutz-Logistikzüge,
+ 
+4.
+2 Katastrophenschutz-Bergrettungszüge,
+ 
+5.
+2 Katastrophenschutz-Wasserrettungszüge,
+ 
+6.
+8 Katastrophenschutz-Unterstützungseinheiten Behandlungsplatz,
+ 
+7.
+6 Katastrophenschutz-Unterstützungseinheiten Wassertransport,
+ 
+8.
+3 Katastrophenschutz-Unterstützungseinheiten Dekontamination Erstversorgung,
+ 
+9.
+4 Katastrophenschutz-Unterstützungseinheiten Messleitung,
+ 
+10.
+4 Katastrophenschutz-Führungsgruppen,
+ 
+11.
+3 Katastrophenschutz-Unterstützungseinheiten Führung „Medizinische Rettung“,
+ 
+12.
+1 Katastrophenschutz-Facheinheit Rettungshunde/Ortungstechnik.
+ 
+(3) An der Landesfeuerwehr- und Katastrophenschutzschule wird nach Maßgabe der Anlage 17 ein
+mobiler Katastrophenschutz-Führungsstab des Landes sowie nach Maßgabe der Anlage 13 eine weite-
+re Katastrophenschutz-Unterstützungseinheit Messleitung aufgestellt.
+(4) Bei der Aufstellung der Basis- und Sondereinheiten nach den Absätzen 1 und 2 sind nach § 44
+Abs. 4 Satz 3 ThürBKG gleichwertige Fahrzeuge nach den Stufen 2 und 3 der Anlage 1 zur Thüringer
+Feuerwehr-Organisationsverordnung vom 27. Januar 2009 (GVBl. S. 39) in der jeweils geltenden Fas-
+sung anzurechnen.
+(5) Die ergänzende Zivilschutzausstattung des Bundes nach § 13 Abs. 1 bis 3 des Zivilschutz- und Ka-
+tastrophenhilfegesetzes (ZSKG) vom 25. März 1997 (BGBl. I S. 726) in der jeweils geltenden Fassung
+ist in die Basis- und Sondereinheiten nach den Absätzen 1 und 2 zu integrieren.
+(6) Soweit eine Doppelnutzung möglich ist, können die ergänzende Zivilschutzausstattung des Bundes
+nach § 13 Abs. 1 bis 3 ZSKG sowie die vom Land beschafften Fahrzeuge und Ausrüstungsgegenstän-
+de des Katastrophenschutzes auch im Rahmen des Brandschutzes und der Allgemeinen Hilfe nach § 2
+Abs. 1 Nr. 1 und 2 ThürBKG, der Berg- und Wasserrettung nach § 4 des Thüringer Rettungsdienstge-
+setzes (ThürRettG) vom 16. Juli 2008 (GVBl. S. 233) in der jeweils geltenden Fassung sowie bei größe-
+ren Notfallereignissen nach § 17 ThürRettG verwendet werden.
+§ 3
+Einrichtungen des Katastrophenschutzes
+- Seite 4 von 25 -
+
+(1) Nach Maßgabe der Anlage 18 wird durch alle unteren Katastrophenschutzbehörden jeweils ein Ka-
+tastrophenschutz-Stab eingerichtet.
+(2) Das Land betreibt dezentrale Katastrophenschutzlager, um weitere Ausstattungen und Ausrüs-
+tungen für den Katastrophenschutz vorzuhalten. Das für Katastrophenschutz zuständige Ministerium
+kann nach § 55 Abs. 1 ThürBKG der oberen Katastrophenschutzbehörde die Zuständigkeit für die Kon-
+zeption und Bewirtschaftung der Katastrophenschutzlager durch Verwaltungsvorschrift übertragen.
+(3) Die Konzeptionen des Bundes zur Sanitätsmaterialbevorratung werden durch das für Gesundheit
+zuständige Ministerium in Abstimmung mit der obersten Katastrophenschutzbehörde in einem Lan-
+deskonzept umgesetzt. Das Landeskonzept ist regelmäßig zu aktualisieren und den Katastrophen-
+schutzbehörden zur Kenntnis zu geben.
+§ 4
+Führungskräfte im Katastrophenschutz
+(1) Einheitsführer von Basis- und Sondereinheiten nach § 2 Abs. 1 und 2 sowie die Leiter der Katastro-
+phenschutz-Stäbe nach § 3 Abs. 1 werden von der zuständigen unteren Katastrophenschutzbehörde
+bestellt.
+(2) Einheitsführer von Einheiten, die durch mehrere untere Katastrophenschutzbehörden aufzustellen
+sind, werden durch die führende Katastrophenschutzbehörde im Benehmen mit den weiteren beteilig-
+ten Katastrophenschutzbehörden bestellt.
+§ 5
+Aus- und Fortbildung
+(1) Die ergänzende Zivilschutzausbildung des Bundes ist in die Aus- und Fortbildung der Helfer im Ka-
+tastrophenschutz zu integrieren.
+(2) Helfer im Katastrophenschutz haben sich jährlich in einem Umfang von mindestens 40 Stunden
+fortzubilden. In die Fortbildung nach Satz 1 sind unter Berücksichtigung bereits bestehender Fortbil-
+dungsverpflichtungen nach Feuerwehr-Dienstvorschrift 2 und organisationseigenen Fortbildungen ka-
+tastrophenschutzspezifische Themen zu integrieren. Satz 1 gilt nicht für die Mitglieder der Katastro-
+phenschutz-Stäbe nach § 3 Abs. 1.
+(3) Helfern im Katastrophenschutz, die an Ausbildungen nach den Festlegungen der obersten Kata-
+strophenschutzbehörde teilnehmen, ist durch die ausbildende Stelle ein schriftlicher Nachweis zu er-
+teilen. Diese Nachweise sind der entsendenden Organisation vorzulegen. Die Organisationen haben
+die Nachweise über die Teilnahme an Lehrgängen gegenüber den unteren Katastrophenschutzbehör-
+den anzuzeigen.
+§ 6
+Übungen
+(1) Zur Erprobung der nach § 31 Abs. 1 Nr. 4 ThürBKG aufzustellenden Katastrophenschutzpläne und
+des Zusammenwirkens der Einheiten und Einrichtungen des Katastrophenschutzes sowie zur Überprü-
+fung der Einsatzbereitschaft der Einsatzkräfte hat jede untere Katastrophenschutzbehörde regelmäßig
+und aufeinander aufbauend
+1.
+Planübungen,
+ 
+- Seite 5 von 25 -
+
+2.
+Alarmierungsübungen,
+ 
+3.
+Stabsrahmenübungen und
+ 
+4.
+Vollübungen
+ 
+durchzuführen.
+(2) Jährlich sind mindestens eine Planübung sowie eine Alarmierungsübung, im Zeitraum von zwei
+Jahren mindestens eine Stabsrahmenübung sowie im Zeitraum von fünf Jahren mindestens eine Voll-
+übung durchzuführen. Die jeweils zuständige Katastrophenschutzbehörde kann dazu die Teilnahme al-
+ler zur Mitwirkung im Katastrophenschutz Verpflichteten anordnen. Die Übungstermine und -szenari-
+en sind mit Planungsbeginn der oberen Katastrophenschutzbehörde mitzuteilen. Nach Abschluss jeder
+Übung ist ein Erfahrungsbericht zu erstellen und der oberen Katastrophenschutzbehörde sowie den
+beteiligten Organisationen und Stellen zur Kenntnis zu geben.
+(3) Die obere Katastrophenschutzbehörde kann Übungen mit Szenarien von zentraler Bedeutung für
+die unteren Katastrophenschutzbehörden anordnen.
+(4) Die obere Katastrophenschutzbehörde hat mindestens einmal jährlich eine der nach Absatz 2
+durchzuführenden Übungen zu einer landkreisübergreifenden Übung zusammenzuführen, zu koordi-
+nieren und stabsmäßig zu begleiten. Dabei sollen insbesondere die Einheiten der Katastrophenschutz-
+Gefahrgutzüge nach § 2 Abs. 2 Nr. 1, der Katastrophenschutz-Bergrettungszüge und Katastrophen-
+schutz-Wasserrettungszüge nach § 2 Abs. 2 Nr. 4 und 5, der Medizinischen Task Force nach § 8 so-
+wie der Katastrophenschutz-Unterstützungseinheiten Behandlungsplatz nach § 2 Abs. 2 Nr. 6 beteiligt
+werden.
+(5) Übungen der Einheiten des Katastrophenschutzes in anderen Bundesländern, sofern diese über
+den Rahmen der gegenseitigen Hilfe benachbarter Landkreise und kreisfreier Städte hinausgehen, so-
+wie Übungen im Ausland erfolgen grundsätzlich auf Anordnung oder mit Zustimmung der obersten
+Katastrophenschutzbehörde.
+(6) Die obere Katastrophenschutzbehörde kann über die Anrechnung von realen Einsätzen im Rahmen
+des Katastrophenschutzes auf die nach Absatz 1 in Verbindung mit Absatz 2 durchzuführenden Übun-
+gen entscheiden.
+§ 7
+Einsatz
+(1) Alle Einheiten des Katastrophenschutzes können entsprechend der jeweiligen Aufgabenstellung
+einzeln, gemeinsam oder mit anderen Einheiten kombiniert eingesetzt werden.
+(2) Für Einsätze gilt § 6 Abs. 5 entsprechend.
+(3) Für die Einheiten des Katastrophenschutzes soll die Zeit für die Herstellung der Bereitschaft zum
+Abmarsch ab dem Zeitpunkt der Anforderung bei einer voraussichtlichen Einsatzdauer von
+1.
+weniger als 24 Stunden zwei Stunden oder
+ 
+2.
+mehr als 24 Stunden vier Stunden
+ 
+- Seite 6 von 25 -
+
+betragen.
+(4) Die obere Katastrophenschutzbehörde hat die landkreisübergreifende Koordinierung des Einsatzes
+der benötigten Katastrophenschutzeinheiten sicherzustellen. Dabei können die Katastrophenschutz-
+einheiten aller Landkreise und kreisfreien Städte unabhängig von ihrer territorialen Betroffenheit ein-
+gesetzt werden. Es ist darauf zu achten, dass während des Einsatzes in der Regel in allen Landkreisen
+und kreisfreien Städten der Katastrophenschutz flächendeckend, jedoch in reduzierter Form, gewähr-
+leistet bleibt.
+§ 8
+Medizinische Task Force
+(1) Die Medizinische Task Force (MTF) ist nach dem Rahmenkonzept Medizinische Task Force (MTF)
+des Bundes vom 1. August 2018 in der jeweils geltenden Fassung durch die obere Katastrophen-
+schutzbehörde in Thüringen dezentral aufzustellen.
+(2) Die Einheitsführer der Medizinischen Task Force werden durch die obere Katastrophenschutzbe-
+hörde im Benehmen mit den beteiligten unteren Katastrophenschutzbehörden und den Landesverbän-
+den der nach § 26 Abs. 1 ZSKG anerkannten Hilfsorganisationen bestellt.
+(3) Jede Medizinische Task Force hat mindestens acht Stunden gemeinsame Fortbildung je Kalender-
+jahr zu absolvieren. Dabei ist insbesondere das Zusammenwirken aller vorhandenen Teilkomponenten
+auf dem Behandlungsplatz zu üben.
+§ 9
+Warnung der Bevölkerung
+(1) Die unteren Katastrophenschutzbehörden haben die Warnung der Bevölkerung im Rahmen des
+Katastrophenschutzes innerhalb ihres Zuständigkeitsbereiches über das Modulare Warnsystem des
+Bundes sicherzustellen. Sie können sich darüber hinaus dabei auch der kommunalen Einrichtungen
+zur Übermittlung von Warnungen bedienen.
+(2) Die Warnung der Bevölkerung kann auch durch die obere oder oberste Katastrophenschutzbehör-
+de durchgeführt werden.
+§ 10
+Übergangsbestimmung
+Vorhandene Fahrzeuge mit vergleichbarem Einsatzwert, die den technischen und taktischen Stan-
+dards nicht entsprechen, können bis zur Beschaffung auf Grundlage des fortzuschreibenden Ausstat-
+tungsprogrammes für den Katastrophenschutz nach § 44 Abs. 4 Satz 2 ThürBKG für die nach den An-
+lagen 1 bis 17 erforderlichen Fahrzeuge angerechnet und weiter verwendet werden. Über die Anrech-
+nung der Fahrzeuge nach Satz 1 entscheidet die obere Katastrophenschutzbehörde im Benehmen mit
+den unteren Katastrophenschutzbehörden.
+§ 11
+Gleichstellungsbestimmung
+Status- und Funktionsbezeichnungen in dieser Verordnung gelten jeweils für alle Geschlechter.
+§ 12
+Inkrafttreten, Außerkrafttreten
+- Seite 7 von 25 -
+
+(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+(2) Gleichzeitig mit dem Inkrafttreten nach Absatz 1 tritt die Thüringer Katastrophenschutzverordnung
+vom 12. Juli 2010 (GVBl. S. 264) außer Kraft.
+Anlage 1
+(zu § 2 Abs. 1 Nr. 1)
+Katastrophenschutz-Führungsstaffel
+(KatS-FüSt)
+Mannschaftsstärke: 4/0/3/7
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Verbandsführer
+Führungseinheit
+Mannschaftstransport-
+wagen (MTW)
+Kreis
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Führungsunterstüt-
+zungstrupp
+Einsatzleitwagen
+(ELW 1 mit Raum für ei-
+ne Führungsstaffel)
+Land
+2 Führungsassistenten,
+1 Führungshilfskraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Kreis - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt bereitgestellt.
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 2
+(zu § 2 Abs. 1 Nr. 2)
+Katastrophenschutz-Einsatzzug Retten
+(KatS-EZ Retten)
+Mannschaftsstärke: 1/4/22/27
+1)
+- Seite 8 von 25 -
+
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Einsatzleitwagen 1
+(ELW 1)
+Kreis
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+1. Gruppe
+Löschgruppenfahrzeug
+Katastrophenschutz
+(LF-KatS)
+Bund
+1 Gruppenführer,
+1 Melder,
+1 Angriffstruppführer,
+1 Angriffstruppmann,
+1 Wassertruppführer,
+1 Wassertruppmann,
+1 Schlauchtruppführer,
+1 Schlauchtruppmann,
+1 Maschinist/Fahrer
+2. Gruppe
+Löschgruppenfahrzeug
+Katastrophenschutz
+(LF 20 KatS)
+Land
+1 Gruppenführer,
+1 Melder,
+1 Angriffstruppführer,
+1 Angriffstruppmann,
+1 Wassertruppführer,
+1 Wassertruppmann,
+1 Schlauchtruppführer,
+1 Schlauchtruppmann,
+1 Maschinist/Fahrer
+Rüstwagen
+(RW)
+Kreis
+1 Gruppenführer,
+1 Truppmann,
+1 Maschinist/Fahrer
+Staffel
+Mannschaftstransport-
+wagen
+(MTW)
+Kreis/Bund
+1 Truppführer,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Kreis - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt bereitgestellt.
+- Seite 9 von 25 -
+
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Kreis/Bund - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt und den Bund bereit-
+gestellt.
+Anlage 3
+(zu § 2 Abs. 1 Nr. 3)
+Katastrophenschutz-Sanitätszug
+(KatS-SanZ)
+Mannschaftsstärke: 4/6/13/23 (3 Ärzte)
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Einsatzleitwagen 1
+(ELW 1)
+Land/Bund
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Gerätewagen Sanität
+(GW-San)
+Bund
+1 Gruppenführer,
+1 Arzt,
+3 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Sanitätsgruppe
+Mannschaftstransport-
+wagen
+(MTW)
+Land/Bund
+2 Ärzte,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+1. Transporttrupp
+Krankentransportwagen
+(KTW)
+Land
+1 Truppführer,
+1 Einsatzkraft/Fahrer
+2. Transporttrupp
+Krankentransportwagen
+(KTW)
+Land
+1 Truppführer,
+1 Einsatzkraft/Fahrer
+3. Transporttrupp
+Krankentransportwagen
+(KTW)
+Bund
+1 Truppführer,
+1 Einsatzkraft/Fahrer
+4. Transporttrupp
+Krankentransportwagen
+(KTW)
+Bund
+1 Truppführer,
+1 Einsatzkraft/Fahrer
+- Seite 10 von 25 -
+
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Land/Bund - Fahrzeug wird durch das Land und den Bund bereitgestellt.
+Anlage 4
+(zu § 2 Abs. 1 Nr. 4)
+Katastrophenschutz-Betreuungszug
+(KatS-BetrZ)
+Mannschaftsstärke: 1/5/22/28
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Einsatzleitwagen 1
+(ELW 1)
+Land/Bund
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Gerätewagen Betreuung
+(GW-Betr)
+Land
+1 Gruppenführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Betreuungsgruppe
+Mannschaftstransport-
+wagen
+(MTW)
+Land/Bund
+5 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Verpflegungsstaffel
+Gerätewagen Verpfle-
+gung mit Feldkochherd
+(GW-Vpf + FKH)
+Land
+1 Gruppenführer,
+4 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Unterkunftsstaffel
+Mannschaftstransport-
+wagen
+(MTW)
+Land/Bund
+1 Gruppenführer,
+4 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+- Seite 11 von 25 -
+
+Betreuungstrupp
+Psychosoziale
+Notfallversorgung
+(PSNV)
+Mannschaftstransport-
+wagen
+(MTW)
+Land
+1 Truppführer,
+1 Einsatzkraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Land/Bund - Fahrzeug wird durch das Land und den Bund bereitgestellt.
+Anlage 5
+(zu § 2 Abs. 2 Nr. 1)
+Katastrophenschutz-Gefahrgutzug
+(KatS-GGZ)
+Mannschaftsstärke: 1/5/24/30
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Einsatzleitwagen 1
+(ELW 1)
+Kreis
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Gerätewagen Messtech-
+nik
+(GW-Mess)
+Kreis
+1 Gruppenführer,
+1 Truppführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Erkundungsgruppe
+CBRN-Erkundungs-
+wagen
+(CBRN ErkW)
+Bund
+1 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+- Seite 12 von 25 -
+
+Gerätewagen Gefahrgut
+(GW-G)
+Kreis
+1 Gruppenführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Gefahrenabwehr-
+staffel
+Gerätewagen Atem-
+schutz/Strahlenschutz
+(GW-A/S)
+Kreis
+1 Truppführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Dekontaminations-
+staffel Einsatzkräfte
+Gerätewagen Dekonta-
+mination
+(GW-Dekon)
+Kreis/Bund
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+Dekontaminations-
+staffel Personen
+Gerätewagen Dekonta-
+mination Personal
+(GW Dekon P)
+Bund
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Kreis - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Kreis/Bund - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt und den Bund bereit-
+gestellt.
+Anlage 6
+(zu § 2 Abs. 2 Nr. 2)
+Katastrophenschutz-Einsatzzug Wasser
+(KatS-EZ Wasser)
+Mannschaftsstärke: 1/4/22/27
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+Einsatzleitwagen 1
+(ELW 1)
+Kreis
+1 Zugführer
+- Seite 13 von 25 -
+
+Führungseinheit
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+1. Gruppe
+Löschgruppenfahrzeug
+Katastrophenschutz
+(LF 20 KatS)
+Land
+1 Gruppenführer,
+1 Melder,
+1 Angriffstruppführer,
+1 Angriffstruppmann,
+1 Wassertruppführer,
+1 Wassertruppmann,
+1 Schlauchtruppführer,
+1 Schlauchtruppmann,
+1 Maschinist/Fahrer
+2. Gruppe
+Löschgruppenfahrzeug
+Katastrophenschutz
+(LF 20 KatS)
+Land
+1 Gruppenführer,
+1 Melder,
+1 Angriffstruppführer,
+1 Angriffstruppmann,
+1 Wassertruppführer,
+1 Wassertruppmann,
+1 Schlauchtruppführer,
+1 Schlauchtruppmann,
+1 Maschinist/Fahrer
+Schlauchwagen
+Katastrophenschutz
+(SW-KatS)
+Bund
+1 Gruppenführer,
+1 Truppmann,
+1 Maschinist/Fahrer
+Staffel
+Mannschaftstransport-
+wagen
+(MTW)
+Kreis
+1 Truppführer,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Kreis - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt bereitgestellt.
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Anlage 7
+- Seite 14 von 25 -
+
+(zu § 2 Abs. 2 Nr. 3)
+Katastrophenschutz-Logistikzug
+(KatS-LogZ)
+Mannschaftsstärke: 1/3/13/17
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Mannschaftstransport-
+wagen
+(MTW)
+Kreis/Land
+1 Führungshilfskraft/Fahrer
+1. Logistikstaffel
+Gerätewagen Logistik 2
+(GW-L2)
+Bund
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+2. Logistikstaffel
+Gerätewagen Logistik 2
+(GW-L2)
+Bund
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+Logistiktrupp
+Wechselladerfahrzeug
+mit Abrollbehälter
+(WLF + AB)
+Land
+1 Truppführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Kreis/Land - Fahrzeug wird durch den Landkreis oder die kreisfreie Stadt und das Land bereit-
+gestellt.
+Anlage 8
+(zu § 2 Abs. 2 Nr. 4)
+Katastrophenschutz-Bergrettungszug
+- Seite 15 von 25 -
+
+(KatS-BRZ)
+Mannschaftsstärke: 1/3/18/22
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Kommandowagen mit
+Anhänger und Kleinge-
+ländefahrzeug
+(KdoW + ATV)
+Land
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Gerätewagen Bergret-
+tung mit Anhänger und
+Kleingeländefahrzeug
+(GW-Br + ATV)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+1. Bergrettungs-
+gruppe
+Krankentransportwagen
+Bergrettung
+(KTW-Br)
+Land
+1 Truppführer,
+1 Einsatzkraft,
+1 Einsatzkraft/Fahrer
+Gerätewagen Bergret-
+tung mit Anhänger und
+Kleingeländefahrzeug
+(GW-Br + ATV)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+2. Bergrettungs-
+gruppe
+Krankentransportwagen
+Bergrettung
+(KTW-Br)
+Land
+1 Truppführer,
+1 Einsatzkraft,
+1 Einsatzkraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 9
+(zu § 2 Abs. 2 Nr. 5)
+Katastrophenschutz-Wasserrettungszug
+- Seite 16 von 25 -
+
+(KatS-WRZ)
+Mannschaftsstärke: 1/5/22/28
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Kommandowagen
+(KdoW)
+Land
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+1. Wasserrettungs-
+staffel
+Gerätewagen Wasser-
+rettung mit Trailer und
+Rettungsboot
+(GW-Wr + RTB)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+2. Wasserrettungs-
+staffel
+Gerätewagen Wasser-
+rettung mit Trailer und
+Rettungsboot
+(GW-Wr + RTB)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+3. Wasserrettungs-
+staffel
+Gerätewagen Wasser-
+rettung mit Trailer und
+Rettungsboot
+(GW-Wr + RTB)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Taucherstaffel
+Gerätewagen Taucher
+mit Trailer und Ret-
+tungsboot
+(GW-T + RTB)
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 10
+(zu § 2 Abs. 2 Nr. 6)
+- Seite 17 von 25 -
+
+Katastrophenschutz-Unterstützungseinheit Behandlungsplatz
+(KatS-UE BHP)
+Mannschaftsstärke: 0/1/8/9
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Gruppenführer
+Sanitätsstaffel
+Mannschaftstransport-
+wagen
+(MTW)
+Land/Bund
+4 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Techniktrupp
+Gerätewagen Behand-
+lungsplatz
+(GW-BHP)
+Land/Bund
+2 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land/Bund - Fahrzeug wird durch das Land und den Bund bereitgestellt.
+Anlage 11
+(zu § 2 Abs. 2 Nr. 7)
+Katastrophenschutz-Unterstützungseinheit Wassertransport
+(KatS-UE Wassertransport)
+Mannschaftsstärke: 0/1/5/6
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Gruppenführer
+1. Wassertransport-
+trupp
+Tanklöschfahrzeug
+(TLF):
+-
+Tankinhalt min-
+destens 2 000 Li-
+ter,
+ 
+-
+geländegängig
+Land
+1 Truppmann,
+1 Maschinist/Fahrer
+- Seite 18 von 25 -
+
+ 
+2. Wassertransport-
+trupp
+Tanklöschfahrzeug
+(TLF):
+-
+Tankinhalt min-
+destens 4 000 Li-
+ter
+ 
+Land
+1 Truppführer,
+1 Truppmann,
+1 Maschinist/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 12
+(zu § 2 Abs. 2 Nr. 8)
+Katastrophenschutz-Unterstützungseinheit Dekontamination Erstversorgung
+(KatS-UE Dekon EV)
+Mannschaftsstärke: 1/2/12/15
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Dekontaminations-
+gruppe
+Mannschaftstransport-
+wagen
+(MTW)
+Bund
+1 Gruppenführer,
+6 Einsatzkräfte,
+1 Einsatzkraft/Fahrer
+Dekontaminati-
+onsstaffel Erstver-
+sorgung
+Gerätewagen Dekonta-
+mination Erstversorgung
+(GW Dekon EV)
+Bund
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+- Seite 19 von 25 -
+
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Anlage 13
+(zu § 2 Abs. 2 Nr. 9)
+Katastrophenschutz-Unterstützungseinheit Messleitung
+(KatS-UE Messleitung)
+Mannschaftsstärke: 1/1/2/4
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Messleitung
+Messleitkomponente
+(MLK)
+Bund
+1 Gruppenführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Anlage 14
+(zu § 2 Abs. 2 Nr. 10)
+Katastrophenschutz-Führungsgruppe
+(KatS-FüGr)
+Mannschaftsstärke: 5/0/4/9
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+Mannschaftstransport-
+wagen
+Land
+1 Verbandsführer
+- Seite 20 von 25 -
+
+Führungseinheit
+(MTW)
+3 Führungsassistenten,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Führungsunterstüt-
+zungstrupp
+Einsatzleitwagen 2
+(ELW 2)
+Land
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 15
+(zu § 2 Abs. 2 Nr. 11)
+Katastrophenschutz-Unterstützungseinheit Führung „Medizinische Rettung“
+(KatS-UE Führung „Med. Rettung“)
+Mannschaftsstärke: 2/0/1/3
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Führungsunterstüt-
+zungstrupp
+Führungskraftwagen
+Medizinische Task Force
+(FüKW-MTF)
+Bund
+2 Führungsassistenten,
+1 Führungshilfskraft/Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Bund - Fahrzeug wird durch den Bund bereitgestellt.
+Anlage 16
+(zu § 2 Abs. 2 Nr. 12)
+Katastrophenschutz-Facheinheit Rettungshunde/Ortungstechnik
+- Seite 21 von 25 -
+
+(KatS-RHOT)
+Mannschaftsstärke: 1/3/9/13
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Zugführer
+Führungseinheit
+Kommandowagen
+(KdoW)
+Land
+1 Führungsassistent,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fahrer
+Einheit Ortungs-
+technik
+Gerätewagen Ortung
+(GW-Ortung)
+Land
+1 Truppführer,
+1 Truppmann,
+1 Truppmann/Fahrer
+Einheit Rettungs-
+hunde
+Rettungshundefahrzeug
+Land
+1 Gruppenführer,
+2 Truppführer,
+2 Truppmänner,
+1 Fahrer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 17
+(zu § 2 Abs. 3)
+Katastrophenschutz-Führungsstab des Landes
+(KatS-FüStab)
+Mannschaftsstärke: 10/0/9/19
+1)
+Einheit
+Fahrzeug
+Herkunft
+2)
+Besatzung
+Einheitsführer
+1 Verbandsführer
+Führungseinheit
+Kommandowagen
+(KdoW)
+Land
+2 Führungshilfskräfte,
+- Seite 22 von 25 -
+
+1 Führungshilfskraft/Fah-
+rer
+1. Führungsstaffel
+Mannschaftstransport-
+wagen
+(MTW)
+Land
+4 Führungsassistenten,
+1 Führungshilfskraft,
+1 Führungshilfskraft/Fah-
+rer
+2. Führungsstaffel
+Mannschaftstransport-
+wagen
+(MTW)
+Land
+4 Führungsassistenten
+1 Führungshilfskraft
+1 Führungshilfskraft/Fah-
+rer
+Führungsunterstützungs-
+trupp
+Einsatzleitwagen 2
+(ELW 2 mit Raum für ei-
+nen Führungsstab)
+Land
+1 Führungsassistent
+1 Führungshilfskraft
+1 Führungshilfskraft/Fah-
+rer
+Erläuterungen:
+Fußnoten
+1)
+Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke.
+2)
+Land - Fahrzeug wird durch das Land bereitgestellt.
+Anlage 18
+(zu § 3 Abs. 1)
+Katastrophenschutz-Stab
+(KatS-Stab)
+- Seite 23 von 25 -
+
+Landrat/Oberbürgermeister
+(politisch-gesamtverantwortliche Komponente)
+ 
+ 
+   
+ 
+Leiter des Verwaltungsstabes
+(administrativ-organisatorische Komponente)
+ 
+Leiter des Führungsstabes
+(operativ-taktische Komponente)
+ereig-
+nis-
+spezi-
+fische
+Mit-
+glie-
+der
+ständige
+Mit-
+glieder
+Koordinie-
+rungsgruppe
+Stab - KGS
+ständige
+Mit-
+glieder
+ereig-
+nis-
+spezi-
+fische
+Mit-
+glieder
+ 
+Sachgebiet
+S1
+Sachgebiet
+S2
+Sachgebiet
+S3
+Sachgebiet
+S4
+Sachgebiet
+S5
+Sach-
+gebiet
+S6
+intern
+intern
+ 
+ 
+extern
+extern
+ 
+Personal/
+Innerer
+Dienst
+Lage
+Einsatz
+Versorgung
+Presse- und
+Medien-
+arbeit
+Informa-
+tions- und
+Kommu-
+nikations-
+wesen
+ 
+ 
+   
+ 
+Sichter/Botendienst/Melder/Erkunder/Fernmeldebetriebsstelle
+Fachberater/Verbindungspersonen
+- Seite 24 von 25 -
+
+ 
+- Seite 25 von 25 -

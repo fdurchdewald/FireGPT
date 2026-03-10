@@ -1,0 +1,4 @@
+# 5. Beurteilung
+
+- The location 46 47 Possibility Explanations Attack direct combat of a danger with the appropriate means and sufficient forces Save/in-security-bring endangered subject or object is removed from the immediate danger-area Protect/defend if a danger cannot be directly combated, the change can be protected from the effects of this and further spread can be prevented Retreat can be necessary: o if forces and means are not sufficient or for self-protection reasons (explosion, collapse or inclusion risk) o if the danger cannot be countered by one of the 3 above possibilities Safety zones • Safety zones are areas in which the forces are in safety without further protective measures before the fire and the fire ground does not endanger the forces • e.g. a road, a rocky area or a water body • Safety zone must be defined and announced beforehand!
+

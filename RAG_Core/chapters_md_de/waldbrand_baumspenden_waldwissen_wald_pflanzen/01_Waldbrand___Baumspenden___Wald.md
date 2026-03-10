@@ -1,0 +1,70 @@
+# Waldbrand - Baumspenden - Waldwissen - Wald pflanzen
+
+- Ursachen für Waldbrand Waldbrände entstehen unter natürlichen Bedingungen durch Blitzschlag,  vulkanische Aktivitäten und Selbstentzündung. In Deutschland spielt als  natürliche Entstehung die Selbstentzündung und Blitzeinschlag keine besondere Rolle.
+
+- In Deutschland spielt als  natürliche Entstehung die Selbstentzündung und Blitzeinschlag keine besondere Rolle. Hauptursachen für Waldbrand in Deutschland sind vor allem: Fahrlässigkeit durch Waldbesucher und der ForstwirtschaftBrandstiftungMilitärübungen Waldbrände werden in verschiedene Arten unterteilt, die auch unterschiedliche ökologische Auswirkungen haben: Erdfeuer: Schwelbrände im Boden, die vor allem bei angehäufter organischer Auflage z. B. Torf entstehen.
+
+- Hauptursachen für Waldbrand in Deutschland sind vor allem: Fahrlässigkeit durch Waldbesucher und der ForstwirtschaftBrandstiftungMilitärübungen Waldbrände werden in verschiedene Arten unterteilt, die auch unterschiedliche ökologische Auswirkungen haben: Erdfeuer: Schwelbrände im Boden, die vor allem bei angehäufter organischer Auflage z. B. Torf entstehen. Da sie unterirdische Organe (Wurzeln) der Bäume und Samen zerstören, sind sie in ihren Auswirkungen am schlimmstenBoden- oder Lauffeuer: Verbrennung der Streu und oberirdischer Teile der Pflanzen.
+
+- Da sie unterirdische Organe (Wurzeln) der Bäume und Samen zerstören, sind sie in ihren Auswirkungen am schlimmstenBoden- oder Lauffeuer: Verbrennung der Streu und oberirdischer Teile der Pflanzen. Ob auch Bäume getötet werden, hängt von deren Rindenstärke ab.
+
+- Ob auch Bäume getötet werden, hängt von deren Rindenstärke ab. Durch die Verbrennung der Streu wird der Prozess der Minaralisierung beschleunigt.
+
+- Durch die Verbrennung der Streu wird der Prozess der Minaralisierung beschleunigt. Die mineralisierten Nährstoffe unterliegen in stärkeren Maße der Auswaschung, da Pflanzenwurzeln und Ton-Humus-Komplexe zur Bindung der Nährstoffe zerstört sind.
+
+- Die mineralisierten Nährstoffe unterliegen in stärkeren Maße der Auswaschung, da Pflanzenwurzeln und Ton-Humus-Komplexe zur Bindung der Nährstoffe zerstört sind. Kronenfeuer: entstehen, wenn für Bodenfeuer genügend Material vorhanden ist, so dass diese in den Kronenbereich hochschlagen können.
+
+- Kronenfeuer: entstehen, wenn für Bodenfeuer genügend Material vorhanden ist, so dass diese in den Kronenbereich hochschlagen können. Vollfeuer: Kombination aus Boden- und Kronenfeuer haben in der Regel den Tod der betroffenen Bestände Folge, da Blatt-/Nadelmasse und Knospen zerstört werden.
+
+- Vollfeuer: Kombination aus Boden- und Kronenfeuer haben in der Regel den Tod der betroffenen Bestände Folge, da Blatt-/Nadelmasse und Knospen zerstört werden. Foto: Ylvers/pixabay.
+
+- Foto: Ylvers/pixabay. com Waldbrand, Bodenfeuer – Foto: Tilo, Wikipedia Voraussetzung für Waldbrand Waldbrände entstehen meist im trocknen Frühjahr wenn die Auflagenstreu (Nadeln, Blätter) durchgetrocknet ist oder während einer Sommerdürre wie 2019.
+
+- com Waldbrand, Bodenfeuer – Foto: Tilo, Wikipedia Voraussetzung für Waldbrand Waldbrände entstehen meist im trocknen Frühjahr wenn die Auflagenstreu (Nadeln, Blätter) durchgetrocknet ist oder während einer Sommerdürre wie 2019. Wenn noch warme Winde und eine ausgeprägte Hochducklage vorliegt, ist die Gefahr eines Waldbrandes am höchsten.
+
+- Wenn noch warme Winde und eine ausgeprägte Hochducklage vorliegt, ist die Gefahr eines Waldbrandes am höchsten. Waldbrände treten vor allem in Kiefernwäldern auf.
+
+- Waldbrände treten vor allem in Kiefernwäldern auf. Sie sind licht, stehen meist auf sehr trocknen Standorten (Sand), und haben eine dicke Nadelstreu am Boden.
+
+- Sie sind licht, stehen meist auf sehr trocknen Standorten (Sand), und haben eine dicke Nadelstreu am Boden. Auch Fichtenwälder sind betroffen.
+
+- Auch Fichtenwälder sind betroffen. Buchenwälder und Laubmischwälder sind eigentlich nie betroffen, da diese auch im  Frühjahr und Sommer meist kühl und feucht sind.
+
+- Buchenwälder und Laubmischwälder sind eigentlich nie betroffen, da diese auch im  Frühjahr und Sommer meist kühl und feucht sind. Vorbeugende Maßnahmen sind das frühzeitige Unterpflanzen von Laubbaumarten unter Nadelholzbestände und die Anlage von Anlage von Feuerschutzstreifen zur Unterbrechung großer Kiefernbestände; entweder min.
+
+- Vorbeugende Maßnahmen sind das frühzeitige Unterpflanzen von Laubbaumarten unter Nadelholzbestände und die Anlage von Anlage von Feuerschutzstreifen zur Unterbrechung großer Kiefernbestände; entweder min. 10 m breite Krautstreifen (Wildwiesen) oder ca. 50 m breite Laubholzstreifen.
+
+- 10 m breite Krautstreifen (Wildwiesen) oder ca. 50 m breite Laubholzstreifen. Ökologische Besonderheiten In den USA gibt es einige Kiefernarten, die zum dauerhaften Überleben auf Feuer angewiesen sind.
+
+- Ökologische Besonderheiten In den USA gibt es einige Kiefernarten, die zum dauerhaften Überleben auf Feuer angewiesen sind. So öffnen sich die Zapfen dieser Kiefernarten erst dann, wenn sie einer hohen Temperatur ausgesetzt wurden.
+
+- So öffnen sich die Zapfen dieser Kiefernarten erst dann, wenn sie einer hohen Temperatur ausgesetzt wurden. Dieses Phänomen lässt sich über die Lichtbedürftigkeit der Kiefer erklären.
+
+- Dieses Phänomen lässt sich über die Lichtbedürftigkeit der Kiefer erklären. Die Lichtverhältnisse in einem dichten Wald sind zum Gedeihen der Jungpflanzen nicht ausreichend.
+
+- Die Lichtverhältnisse in einem dichten Wald sind zum Gedeihen der Jungpflanzen nicht ausreichend. Nach einem Waldbrand bieten die Lichtverhältnisse den jungen Kiefernkeimlingen beste Aufwuchsbedingungen.
+
+- Nach einem Waldbrand bieten die Lichtverhältnisse den jungen Kiefernkeimlingen beste Aufwuchsbedingungen. Regeln für Waldbesucher Von März bis Oktober gilt ein generelles Rauchverbot.
+
+- Regeln für Waldbesucher Von März bis Oktober gilt ein generelles Rauchverbot. Offene Lagerfeuer und Grillen (auch mit einem mobilen Campinggrill) sind nur an den besonders gekennzeichneten Feuerstellen erlaubt (Auskunft erteilt der Förster) Flaschen und Glasscherben, auch aus Sicht des Brandschutzes, nicht im Wald liegen lassen.
+
+- Offene Lagerfeuer und Grillen (auch mit einem mobilen Campinggrill) sind nur an den besonders gekennzeichneten Feuerstellen erlaubt (Auskunft erteilt der Förster) Flaschen und Glasscherben, auch aus Sicht des Brandschutzes, nicht im Wald liegen lassen. PkW´s mit Katalysatoren dürfen nur auf Waldwegen oder gekennzeichneten Plätzen abgestellt werden.
+
+- PkW´s mit Katalysatoren dürfen nur auf Waldwegen oder gekennzeichneten Plätzen abgestellt werden. Durch die ausströmende Hitze der Katalysatoren können sich Gräser, Streu etc. entzünden.
+
+- Durch die ausströmende Hitze der Katalysatoren können sich Gräser, Streu etc. entzünden. Keine Wege zu parken Wir verwenden Cookies, um unsere Website und unseren Service zu optimieren.
+
+- Keine Wege zu parken Wir verwenden Cookies, um unsere Website und unseren Service zu optimieren. Der Zugriff oder die technische Speicherung ist unbedingt für den rechtmäßigen Zweck erforderlich, um die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Abonnenten oder Nutzer ausdrücklich angefordert wurde, oder für den alleinigen Zweck der Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz.
+
+- Der Zugriff oder die technische Speicherung ist unbedingt für den rechtmäßigen Zweck erforderlich, um die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Abonnenten oder Nutzer ausdrücklich angefordert wurde, oder für den alleinigen Zweck der Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz. Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Voreinstellungen erforderlich, die nicht vom Abonnenten oder Nutzer beantragt wurden.
+
+- Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Voreinstellungen erforderlich, die nicht vom Abonnenten oder Nutzer beantragt wurden. Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.
+
+- Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt. Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird.
+
+- Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Aufforderung, die freiwillige Zustimmung Ihres Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht zu Ihrer Identifizierung verwendet werden.
+
+- Ohne eine Aufforderung, die freiwillige Zustimmung Ihres Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht zu Ihrer Identifizierung verwendet werden. Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+
+- Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen. Optionen verwalten Dienste verwalten Verwalten Sie {vendor_count} Lieferanten Lesen Sie mehr über diese Zwecke Cookies akzeptieren Nur funktionale Cookies Einstellungen anzeigen Einstellungen speichern Einstellungen anzeigen {title} {title} {title} Zustimmung verwalten
+

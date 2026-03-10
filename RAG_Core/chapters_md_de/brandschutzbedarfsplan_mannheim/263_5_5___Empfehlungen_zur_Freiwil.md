@@ -1,0 +1,6 @@
+# 5.5   Empfehlungen zur Freiwilligen Feuerwehr
+
+- Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  156  Kapitelübersicht  Kapitel 1:  Extrakt und Zusammenfassung (Managementfassung)   4  Kapitel 2:  Ausgangssituation, Auftrag und Projektablauf  41  Kapitel 3:  Darstellung und Analyse des IST-Zustandes   46  Kapitel 4:  Bewertung des Gefahrenpotentials und Planungsgrundlagen  94  Kapitel 5:  SOLL-Konzeption zur Brandschutzbedarfsplanung   114  Kapitel 8:  Anlagenverzeichnis  182  Hinweis:  Kontaktdaten LUELF&RINKE   200  Kapitel 6:  Ermittlung des Personalbedarfs  156  Kapitel 7:  Abkürzungen und Definitionen  176   Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  157  Inhaltsübersicht   Zur Ermittlung des Personalbedarfs der Berufsfeuerwehr wurden die Personalwirtschaftlichen Parameter analysiert  und aktualisiert. Im Folgenden sind die wesentlichen Erkenntnisse zur – über die Brandschutzbedarfsplanung hinausgehende –  Betrachtung zur Personalwirtschaft zusammenfassend dargestellt.
+
+- Im Folgenden sind die wesentlichen Erkenntnisse zur – über die Brandschutzbedarfsplanung hinausgehende –  Betrachtung zur Personalwirtschaft zusammenfassend dargestellt. Das Kapitel gliedert sich in die folgenden Abschnitte:
+

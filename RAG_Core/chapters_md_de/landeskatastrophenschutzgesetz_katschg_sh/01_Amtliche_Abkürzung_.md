@@ -1,0 +1,4 @@
+# Amtliche Abkürzung:
+
+- LKatSG Ausfertigungsdatum:
+

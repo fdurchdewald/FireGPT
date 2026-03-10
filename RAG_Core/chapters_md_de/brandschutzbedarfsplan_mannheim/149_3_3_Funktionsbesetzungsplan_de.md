@@ -1,0 +1,8 @@
+# 3.3 Funktionsbesetzungsplan der Berufsfeuerwehr
+
+- Funktionsbesetzungsplan der Berufsfeuerwehr [planerischer IST-Zustand]  Zusammenfassung „Graphisch“   Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  77   Besetzung der Leitstelle im IST-Zustand:  2 ELP rund-um-die-Uhr   WAZ 41h [„Voll-Arbeitszeit“]  Dreifach-Wechsel-Schicht:  - Frühdienst   06:30 – 12:30 Uhr [6h]  - Mitteldienst  12:30 – 20:30 Uhr [8h]  - Nachtdienst  20:30 – 06:30 Uhr [10h]     A-Dienst übernimmt auch Aufgaben Lagedienstführer     Personal der Leitstelle  1 VZÄ Leiter & Systemadministration  1 VZÄ Datenpflege (und teilweise Schichtdienst)  12 VZÄ Disponenten      Verstärkung / Hochfahren der Leitstelle:  Reserve -Leitstellen-Disponent: Planerisch immer 1 Fu. im Dienst („Ziel“) [10 VZÄ der WA]  Notrufabfrage: Planerisch 2 Fu.
+
+- im Dienst („Ziel“) [10 VZÄ der WA]  Notrufabfrage: Planerisch 2 Fu. im Dienst („Ziel“) [9 VZÄ Bootsführer]     Ausblick: Integrierte Leitstelle für Mannheim, Heidelberg und Rhein-Neckar-Kreis  Hinweis:   Umfassende Untersuchung der Leitstelle nicht Auftragsbestandteil - ist  jedoch mit zu betrachten im Hinblick auf die Schnittstelle zum  Einsatzdienst / zur Funktionsbesetzung und eine mögliche Verzahnung  Einsatzdienst / Leitstelle.
+
+- im Dienst („Ziel“) [9 VZÄ Bootsführer]     Ausblick: Integrierte Leitstelle für Mannheim, Heidelberg und Rhein-Neckar-Kreis  Hinweis:   Umfassende Untersuchung der Leitstelle nicht Auftragsbestandteil - ist  jedoch mit zu betrachten im Hinblick auf die Schnittstelle zum  Einsatzdienst / zur Funktionsbesetzung und eine mögliche Verzahnung  Einsatzdienst / Leitstelle. Besetzung der Feuerwehr-Leitstelle
+

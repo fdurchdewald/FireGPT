@@ -1,0 +1,6 @@
+# 3.4 Struktur und Verfügbarkeit der Freiwilligen Feuerwehr
+
+- Freiwillige Feuerwehr   Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  80  Übersicht und Qualifikationen der Freiwilligen Kräfte  Die Tabelle zeigt den Anteil an Atemschutzgeräteträgern (AGT), Maschinisten (Ma), Gruppenführern (GF) und Zugführer (ZF),  sowie das Durchschnittsalter der Einsatzkräfte der Freiwilligen Feuerwehr Mannheim:  Einheit Anzahl  Aktive Anteil AGT absolut Anteil AGT in % Anteil MA absolut Anteil MA in % Anteil GF absolut Anteil GF in % Anteil ZF absolut Feudenheim 32 17 53% 17 53% 12 38% 4 Friedrichfeld 29 20 69% 16 55% 10 34% 4 Innenstadt 32 26 81% 14 44% 9 28% 5 Neckarau 35 27 77% 18 51% 13 37% 5 Nord 55 45 82% 32 58% 16 29% 7 Rheinau 19 17 89% 12 63% 6 32% 3 Seckenheim 25 17 68% 14 56% 7 28% 2 Wallstadt 39 33 85% 13 33% 10 26% 2 Summe 266 202 76% 136 51% 83 31% 32 Die Einsatzkräfte der Freiwilligen Feuerwehr sind gut auf die Einheiten verteilt. Ein Großteil der Aktiven sind  Atemschutzgeräteträger und es sind ausreichend Maschinisten vorhanden.
+
+- Ein Großteil der Aktiven sind  Atemschutzgeräteträger und es sind ausreichend Maschinisten vorhanden. Auch Führungskräfte sind weitestgehend in ausreichender Anzahl verfügbar, es sollte allerdings frühzeitig vor dem  Ausscheiden älterer Funktionsträger entsprechender Nachwuchs ausgebildet werden.
+

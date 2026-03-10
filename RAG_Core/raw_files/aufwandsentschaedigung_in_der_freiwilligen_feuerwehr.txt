@@ -1,0 +1,1805 @@
+ 
+ 
+ 
+Aufwandsentschädigung in 
+der Freiwilligen Feuerwehr 
+ 
+ 
+Facharbeit 
+ 
+im Rahmen der Ausbildung für das zweite Einstiegsamt der 
+Laufbahngruppe 2 im feuerwehrtechnischen Dienst 
+ 
+Dienststelle: 
+ 
+Kreisausschuss des Lahn-Dill-Kreises 
+Abteilung Brandschutz, Rettungsdienst  
+und Katastrophenschutz  
+Franz-Schubert-Straße 4 
+35578 Wetzlar 
+ 
+Verfasser: 
+Brandamtsrat 
+Harald Stürtz 
+Bingenacker 6 
+35713 Eschenburg 
+
+ 
+II 
+Aufgabenstellung 
+Für die Facharbeit im Rahmen der Ausbildung für das zweite Einstiegsamt der 
+Laufbahngruppe 2 im feuerwehrtechnischen Dienst wurde durch das Institut der 
+Feuerwehr Nordrhein-Westfalen am 27.09.2019 nachfolgende Aufgabe gestellt: 
+ 
+Aufwandsentschädigung in der Freiwilligen Feuerwehr 
+Stellen Sie anhand von ausgewählten Beispielen zusammen, welche Arten von 
+Aufwandsentschädigungen derzeit Anwendung finden. 
+Welche rechtlichen Konsequenzen resultieren hieraus? 
+Beurteilen Sie auch, wie sich die Aufwandsentschädigung mit dem Ehrenamtscha-
+rakter der Feuerwehrtätigkeit verträgt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hinweis: In dieser Arbeit wird aus Gründen der besseren Lesbarkeit das generische 
+Maskulinum verwendet. Weibliche und anderweitige Geschlechteridentitäten werden 
+dabei ausdrücklich mitgemeint, soweit es für die Aussage erforderlich ist. 
+ 
+
+ 
+III 
+Kurzfassung 
+Wie in vielen Ehrenämtern, so hat sich auch bei der Freiwilligen Feuerwehr die Zah-
+lung von Aufwandsentschädigungen für besondere Dienste bewährt. Die gesetzli-
+chen Regelungen in den Brandschutzgesetzen der Bundesländer berücksichtigen 
+überwiegend nur die Leitungsfunktionen. Durch kommunale Regelungen, wie Sat-
+zungen oder Magistratsbeschlüsse, werden diese Vorgaben nach individuellen Be-
+dürfnissen ergänzt. Mittlerweile gibt es eine Vielfalt an Finanz- und Sachleistungen, 
+die zum einen die Amtserschwernisse ausgleichen sollen aber ebenfalls zur allge-
+meinen Motivationsförderung eingesetzt werden. Neben den regelmäßigen Pauscha-
+len werden konkrete Anlässe, wie Einsatz- und Übungsdienste vergütet. Bei den 
+Sachleistungen reicht die Bandbreite vom freiem Eintritt in öffentliche Einrichtungen, 
+wie Schwimmbad, Kino oder Theater bis hin zur Bevorzugung bei der Zuteilung von 
+Bau- oder Kindergartenplätzen. Die Bemessungsgrundlage basiert überwiegend auf 
+einheitlichen Größen, wie die Einwohnerzahl der Kommune, Fahrzeuge und Mitglie-
+der der Feuerwehrabteilung. Mit dem Ziel der Gleichbehandlung haben sich zum Teil 
+sehr komplexe Berechnungsmodelle und Punktesystem entwickelt. 
+Alle diese Leistungen müssen geltendem Recht, überwiegend dem Steuerrecht, ent-
+sprechen bzw. nach diesem bewertet werden. Egal unter welcher Bezeichnung sie 
+gewährt werden, handelt es sich immer um Einnahmen, die einer grundsätzlichen 
+Steuerpflicht unterliegen und ggf. bei einem entsprechenden Freibetrag berücksich-
+tigt werden können. Auch die Sozialversicherungspflicht der Aufwandsentschädigun-
+gen rückte in den letzten Jahren mehr in den Fokus. Immer wieder geraten die 
+Kommunen und auch die Zahlungsempfänger in Grenzbereiche dieser Gesetze; mit 
+entsprechend negativen Konsequenzen. 
+Eine abschließende Bewertung der Leistungen mit den Kriterien des Ehrenamtes, 
+freiwillig, gemeinwohlorientiert und unentgeltlich, schließt einen finanziellen Ausgleich 
+der Aufwendungen für eine ehrenamtliche Tätigkeit nicht aus. Bei entsprechend ho-
+hen Beträgen stellt sich jedoch die Frage, ob die Leistung nur noch des Geldes we-
+gen erbracht wird. 
+
+ 
+IV 
+Inhalt 
+1 
+Einleitung .............................................................................................................. 1 
+1.1 
+Problemstellung ............................................................................................. 1 
+1.2 
+Zielsetzung .................................................................................................... 1 
+1.2.1 
+Abgrenzung ............................................................................................. 2 
+1.3 
+Vorgehensweise und Methoden .................................................................... 2 
+2 
+Aufwandsentschädigungen ................................................................................... 3 
+2.1 
+Gesetzliche Grundlagen ................................................................................ 3 
+2.1.1 
+Kommunalrecht ........................................................................................ 3 
+2.2 
+Übersicht ........................................................................................................ 4 
+2.2.1 
+Finanzleistungen ...................................................................................... 4 
+2.2.1.1 
+Pauschalen ...................................................................................... 5 
+2.2.1.2 
+Anlassbezogen ................................................................................ 5 
+2.2.1.3 
+Bonuszahlungen .............................................................................. 5 
+2.2.1.4 
+Feuerwehrrente ................................................................................ 5 
+2.2.2 
+Sachleistungen ........................................................................................ 6 
+2.2.2.1 
+Materielle Leistungen ....................................................................... 6 
+2.2.2.2 
+Ideelle Sachleistungen ..................................................................... 6 
+2.3 
+Beispielmodelle .............................................................................................. 7 
+2.3.1 
+Entschädigung für Einsatztätigkeit ........................................................... 7 
+2.3.2 
+Entschädigung für Alarmbereitschaftsdienst ............................................ 7 
+2.3.3 
+Brandsicherheitswache ............................................................................ 8 
+2.3.4 
+Rufbereitschaft......................................................................................... 8 
+2.3.5 
+Aufwandsentschädigung analog „Ratsmitglied“ ....................................... 9 
+2.3.6 
+Punktesystem mit Ehrenamtssparbuch ................................................... 9 
+2.3.7 
+Punktesystem nach Größe der Feuerwehr ............................................ 10 
+2.3.8 
+Ehrenamtskarte ..................................................................................... 11 
+3 
+Rechtliche Konsequenzen .................................................................................. 12 
+3.1 
+Rechtsanspruch ........................................................................................... 12 
+3.2 
+Steuerrecht .................................................................................................. 12 
+3.2.1 
+Zahlungen aus öffentlichen Kassen ....................................................... 13 
+3.2.2 
+Übungsleiterpauschale .......................................................................... 13 
+3.2.3 
+Ehrenamtspauschale ............................................................................. 14 
+3.2.4 
+Sachleistungen ...................................................................................... 14 
+3.2.5 
+Exkurs: Dienstwagen zum privaten Gebrauch ....................................... 15 
+
+ 
+V 
+3.3 
+Sozialversicherungsrecht ............................................................................. 16 
+3.3.1 
+Geringfügiges Beschäftigungsverhältnis ................................................ 17 
+3.3.2 
+Kurzfristige Beschäftigung ..................................................................... 17 
+3.4 
+Arbeitsrecht .................................................................................................. 18 
+3.5 
+Beamtenrecht .............................................................................................. 18 
+4 
+Ehrenamtlichkeit ................................................................................................. 19 
+4.1 
+Ehrenamt ..................................................................................................... 19 
+4.2 
+Bewertung .................................................................................................... 19 
+5 
+Zusammenfassung ............................................................................................. 21 
+5.1 
+Ausblick ....................................................................................................... 21 
+Abkürzungen ............................................................................................................. 23 
+Abbildungsverzeichnis ............................................................................................... 24 
+Tabellenverzeichnis ................................................................................................... 24 
+Literaturverzeichnis ................................................................................................... 25 
+Rechtsquellen ............................................................................................................ 27 
+Anhang ...................................................................................................................... 31 
+A 
+Fragebogen ........................................................................................................ 31 
+B 
+Übersicht Abfrage ............................................................................................... 32 
+C 
+Übersicht der gesetzlichen Regelungen ............................................................. 33 
+D 
+Mindmap Aufwandsentschädigung ..................................................................... 34 
+E 
+Gesprächsprotokolle ........................................................................................... 35 
+Eidesstattliche Erklärung ........................................................................................... 37 
+ 
+
+Einleitung 
+ 
+ 
+1 
+1 Einleitung 
+1.1 Problemstellung 
+Schon seit vielen Jahren ist die Gewährung von Aufwandsentschädigungen für Funk-
+tionsträger in der Freiwilligen Feuerwehr eine gängige Praxis. Steigende Einsatzzah-
+len, der technische Wandel, Veränderungen der rechtlichen Vorgaben und nicht zu-
+letzt die Personalprobleme im Ehrenamt haben zu einer kontinuierlichen Zunahme 
+der Arbeitsbelastung geführt. Um diesen Aufwand zu würdigen, haben sich über die 
+Jahre verschiedene Ansätze für eine Entschädigung des ehrenamtlichen Einsatzper-
+sonals entwickelt. 
+Bekamen früher nur die leitenden Funktionsträger eine Aufwandsentschädigung, fin-
+det man heute in den Feuerwehren ein breites Spektrum an mannigfaltigen Konzep-
+ten. Die Bundesländer regeln in den Brandschutzgesetzen, mit dazugehörigen Ver-
+ordnungen und Erlassen, die wesentlichen Rahmenbedingungen. Letztendlich ent-
+scheiden aber die Kommunen im Rahmen ihrer Selbstverwaltung1 inwieweit sie die-
+sen Rahmen nutzen oder ggf. nach örtlichen Vorgaben ergänzen. 
+Alle diese Umstände haben dazu geführt, dass die Aufwandsentschädigungen an-
+hand verschiedener Anlässe aus unterschiedlichen Motiven an die Empfänger ge-
+zahlt werden. Eine klare Abgrenzung zur Zahlung von Entgelt oder als reine Aner-
+kennung für geleistete Dienste wird immer schwieriger. Die Kommunen, in der Regel 
+als Zahler der Aufwandsentschädigung, wie auch der Zahlungsempfänger können in 
+Grenzbereiche des Steuer-, Arbeits- und Sozialversicherungsrechtes geraten. Wie 
+die Praxis zeigt, werden immer wieder die entsprechenden Freigrenzen überschrit-
+ten, weil die rechtlichen Vorgaben zu spät oder gar nicht beachtet wurden. Es drohen 
+entsprechende Nachzahlungen. Welche rechtlichen Vorgaben sind besonders rele-
+vant, um eine Nachzahlung von Steuern und Versicherungsbeiträgen, nebst Zu-
+schlägen, zu vermeiden? 
+Um den sinkenden Mitgliederzahlen entgegenzuwirken, denken viele Kommunen 
+momentan über eine finanzielle Unterstützung der ehrenamtlichen Feuerwehrange-
+hörigen nach. Betrachtet man die verschiedenen Konzepte, kommt man unweigerlich 
+zur Fragestellung, ob der Feuerwehrdienst im Ehrenamt zukünftig nur noch gegen 
+finanzielle Gegenleistung der Einsatzbereitschaft möglich ist? 
+1.2 Zielsetzung 
+Diese Facharbeit soll die aktuellen Konzepte bei der Zahlung einer Aufwandsent-
+schädigung darstellen. Neben den gesetzlichen Vorgaben aus den Brandschutzge-
+setzen werden individuelle Lösungen ausgewählter Kommunen beschrieben. In Be-
+zug auf die Aufwandsentschädigung werden die relevanten Rechtsgrundlagen be-
+trachtet. Unter Berücksichtigung der rechtlichen Konsequenzen erfolgt die Bewertung 
+der Aufwandsentschädigung anhand der Kriterien einer ehrenamtlichen Tätigkeit in 
+der Freiwilligen Feuerwehr. 
+ 
+1 Vgl. Artikel 28 Abs. 2 Grundgesetz für die Bundesrepublik Deutschland 
+
+Einleitung 
+ 
+ 
+2 
+1.2.1 Abgrenzung 
+In der Betrachtung geht es rein um Aufwandsentschädigungen im Rahmen des 
+Dienstes in der Freiwilligen Feuerwehr, deren Aufgaben im Anwendungsbereich der 
+jeweiligen Brandschutzgesetze der Bundesländer definiert sind2. Ausgenommen da-
+von wurden die Regelungen zum Lohn- bzw. Verdienstausfall sowie Abrechnungen 
+von Fahrt- und Reisekosten. Für Dienstreisen der Feuerwehrmitglieder finden die 
+Regelungen des Bundes- bzw. Landesreisekostengesetzes sowie die hierzu erlas-
+senen internen Regelungen und Dienstanweisungen der Verwaltungsbehörde An-
+wendung. Ebenso werden die Aufwandsentschädigungen für Funktionsträger der 
+Feuerwehrvereine, wie Vorsitzender, Schriftführer, Kassenwart, nicht bewertet. Es 
+handelt sich überwiegend um privatrechtliche Vereinbarungen aus dem Vereinsrecht. 
+Teilweise sind auch hierzu Regelungen der Bundesländer zu finden. Diese werden 
+aber in der abschließenden Bewertung dieser Facharbeit nicht berücksichtigt. 
+1.3 Vorgehensweise und Methoden 
+Zunächst erfolgt eine Analyse der Regelungen aus den Brandschutzgesetzen der 
+einzelnen Bundesländer, mit den entsprechenden Erlassen und Verordnungen. Dar-
+aus resultiert eine Vergleichstabelle. Ergänzt wird diese Bestandsaufnahme durch 
+Satzungen der Kommunen, die sich aus einer Stichprobenabfrage besonders her-
+ausgestellt haben. Anhand dieser Informationen findet eine logische Einordnung 
+nach der Art der Aufwandsentschädigungen statt, die anschließend detailliert be-
+schrieben werden. 
+Über die Brandschutzaufsichtsdienste der Landkreise im Land Hessen erfolgte eine 
+Abfrage über besonders innovative Konzepte zur Aufwandsentschädigung. Weitere 
+Konzepte konnten über persönliche Kontakte und Internetrecherche ermittelt werden. 
+Im persönlichen Kontakt mit dem Leiter der Feuerwehr, über E-Mail oder Telefon, 
+wurde anhand eines standardisierten Fragebogens das Konzept näher erläutert. Die 
+wesentlichen Merkmale der Konzepte werden anonymisiert erklärt; vergleichbare 
+Lösungen zusammengefasst. 
+Auf Basis dieser Ergebnisse folgte die rechtliche Betrachtung und Bewertung. Da es 
+sich überwiegend um finanzielle Leistungen handelt, liegt der Fokus auf dem Steuer-
+recht. Über ein Gespräch mit einer Steuerberaterin konnten weitere Verknüpfungen 
+zum Sozialversicherungsrecht und Arbeitsrecht identifiziert werden. In Verbindung 
+mit diesen rechtlichen Grundlagen werden die Möglichkeiten und Grenzen der Kon-
+zepte aus der Analysephase erklärt. 
+Abschließend findet eine Bewertung unter den Merkmalen des Ehrenamtes statt. 
+Insbesondere die zukünftige Entwicklung des ehrenamtlichen Personals spielt eine 
+wichtige Rolle bei der Frage, ob die Feuerwehrangehörigen den Dienst nur noch für 
+einen entsprechenden finanziellen Ausgleich verrichten. 
+ 
+ 
+ 
+2 Vgl. Brand- und Katastrophenschutzgesetzte der Länder 
+
+Aufwandsentschädigungen 
+ 
+ 
+3 
+2 Aufwandsentschädigungen 
+Der Duden beschreibt die Aufwandsentschädigung als Ausgleichszahlung für beson-
+dere im Dienst entstandene Kosten. Sie ist dazu bestimmt, die mit einer Dienstleis-
+tung verbundenen Beschwernisse und finanziellen Einbuße unverzüglich auszuglei-
+chen3. Hierzu zählen insbesondere Aufwendungen für die gelegentliche Inanspruch-
+nahme privater Räume und Einrichtungsgegenstände sowie die Nutzung privater Ar-
+beitsmittel zu dienstlichen Zwecken4. Es handelt sich um eine pauschale Vergütung. 
+Sie dient in der Regel nicht nur dazu, einen konkreten Aufwand abzugelten, sondern 
+stellt sich teilweise auch als eine Vergütung für Arbeitsleistung und Zeitversäumnis 
+dar5. Im Ehrenamt wird eine Aufwandsentschädigung oft auch mit dem Ziel als Aner-
+kennung des Engagements gezahlt. 
+Alternativ zu dieser Pauschale besteht die Möglichkeit, dass nur anfallende Kosten, 
+die in Verbindung mit der Tätigkeit entstanden sind, ersetzt werden. Dieser Ausla-
+genersatz ist durch entsprechende Belege nachzuweisen (Rechnung, Quittung, 
+Fahrtenbuch usw.). Hier hat man eine transparente und wertgenaue Darstellung. Das 
+Verfahren bringt jedoch einen hohen Verwaltungsaufwand mit sich. 
+Bei der Freiwilligen Feuerwehr hat sich das System der Aufwandsentschädigung für 
+Funktionsträger bewährt. Für die Mitglieder der Einsatzabteilung werden nachgewie-
+sene Kosten für Aufwendungen, die durch den Feuerwehrdienst entstanden sind, in 
+der Regel auf Antrag erstattet. 
+2.1 Gesetzliche Grundlagen 
+In den Brandschutzgesetzen der Länder ergeben sich die allgemeinen Anforderun-
+gen für die Gewährung von Aufwandsentschädigungen durch die Aufgabenträger6. 
+Danach können Feuerwehrangehörige, die regelmäßig über das übliche Maß hinaus 
+Feuerwehrdienst leisten, bzw. ständig zu besonderen Dienstleistungen herangezo-
+gen werden, angemessen entschädigt werden. Darunter fallen die Leitungs- und 
+Führungskräfte7 der Feuerwehr, Jugendwarte, Gerätewarte, Atemschutzgerätewarte, 
+Ausbilder aber auch Sonderfunktionen und Fachberater. Die Vertreter erhalten in der 
+Regel 50 % der Aufwandsentschädigung des Amtsträgers. Angelehnt an das jeweili-
+ge Brandschutzgesetz, regeln die Länder in Verordnungen und Erlassen die speziel-
+len Ausführungen über die Zahlungsempfänger und die Bemessungsgrundlage. Wei-
+tere Details sind in einer Tabelle im Anhang C aufgeführt. 
+2.1.1 Kommunalrecht 
+Gemäß Artikel 28 Abs. 2 GG wird den Gemeinden das Recht auf Selbstverwaltung 
+gewährleistet. Dieses umfasst auch die finanzielle Eigenverantwortung. Gemäß den 
+Landesgemeindegesetzen (Gemeindeordnung, Kommunalverfassung, u. ä.) können 
+ 
+3 Vgl. Bundesverwaltungsgericht, Urteil vom 10.03.1994, 2 C 11.93 
+4 Vgl. § 1 Abs. 3 Satz 2 Feuerwehrdienst-und Reisekostenaufwandsentschädigungsverordnung Hessen 
+5 Vgl. Verfassungsgerichtshof RP, Urteil vom 18.03.1992, VGH 3/91 - SgE Feu § 27 FSHG Nr.1 
+6 Gemäß Brandschutzrecht: Gemeinden, Landkreise/Kreisfreie Städte, Land 
+7 Wie z.B. Kommandant, Stadtbrandmeister, Stadtbrandinspektor, Wehrführer usw. 
+
+Aufwandsentschädigungen 
+ 
+ 
+4 
+die Kommunen ihre Angelegenheiten durch Satzungen regeln. Bereits hier finden 
+sich allgemeine Anforderungen an die Zahlung von Aufwandsentschädigungen an 
+ehrenamtlich engagierte Funktionsträger der Kommune, wie Stadtrat, Gemeindever-
+treter, Ortsvorsteher, o. ä. Je nach Größe der Gemeinde ergänzen spezielle Satzun-
+gen, wie Entschädigungssatzung, Feuerwehrsatzung usw., die Regelungen aus den 
+Landesgesetzen und Verordnungen. 
+Somit ergibt sich eine nahezu unüberschaubare Vielfalt an Möglichkeiten, wer eine 
+Aufwandsentschädigung für welche Tätigkeit und in welcher Höhe erhält. Im nachfol-
+genden Abschnitt wird eine logische Einteilung nach Art der Aufwandsentschädigung 
+vorgenommen. 
+2.2 Übersicht 
+Anhand der rechtlichen Grundlagen aus den Brandschutzgesetzen und den Konzep-
+ten aus der Praxis, kann man die Aufwandsentschädigung grob in Finanzleistung 
+und Sachleistung unterteilen. Dieses ist besonders bei der Beachtung von steuer-
+rechtlichen Belangen wichtig, da hier Bemessungskriterien und Freibeträge zum Tra-
+gen kommen. Eine weitere Unterteilung dient einer besseren Übersicht und hilft die 
+Arten der Aufwandsentschädigung in der Freiwilligen Feuerwehr sinnvoll zu kategori-
+sieren. 
+ 
+2.2.1 Finanzleistungen 
+Es werden konkrete Geldbeträge vom Aufgabenträger an die Feuerwehrmitglieder 
+anhand von definierten Regeln gezahlt. Dazu gehören sowohl Mitglieder und Funkti-
+onsträger der Einsatzabteilung, als auch Personen, die zur Unterstützung der Feuer-
+wehr herangezogen werden, z. B. Fachberater, Jugendbetreuung, o. ä. Soweit nicht 
+Aufwandsentschädigung 
+Freiwillige Feuerwehr
+Finanzleistung
+Anlassbezogen
+Übungs- / 
+Ausbildungsdienst
+Einsatzdienst
+Bereitschafts- / 
+Wachdienst
+Pauschal
+Sachleistung
+Materiell
+Externe
+(Händlerrabatt)
+Interne
+(Museum / Kino 
+/ Theater)
+Ideell
+Abbildung 1: Übersicht der Leistungen als Aufwandsentschädigungen 
+
+Aufwandsentschädigungen 
+ 
+ 
+5 
+durch Gesetz oder Verordnung bestimmt, empfiehlt es sich, die Höhe der Zahlung 
+vorab in einer Kommunalsatzung8 zu regeln, um eine Rechtssicherheit zu gewähr-
+leisten. In dieser müssen die Bemessungsgrundlagen transparent dargestellt werden. 
+2.2.1.1 Pauschalen 
+Eine herkömmliche Methode ist die regelmäßige Zahlung einer Pauschale als Auf-
+wandsentschädigung. In der Regel werden monatliche Beträge festgelegt. Um den 
+Verwaltungsaufwand zu reduzieren, erfolgt die Auszahlung teilweise pro Quartal oder 
+halbjährlich. Der Vorteil liegt in der Planungssicherheit, sowohl für den Aufgabenträ-
+ger, insbesondere bei der Haushaltsplanung, als auch für den Empfänger. Es kann 
+aber immer nur eine Mischkalkulation sein, die nie den tatsächlichen Aufwand konk-
+ret abbildet. Des Weiteren ist die Methode relativ starr und eine Anpassung auf dy-
+namische Situationen erfordert immer eine politische Entscheidung. 
+2.2.1.2 Anlassbezogen 
+Die Aufwandsentschädigung wird aufgrund eines konkreten Einzelfalles gezahlt. Da-
+runter fallen Zahlungen für geleitstete Einsatz-, Ausbildungs- und Arbeitsdienste. 
+Auch die Vergütung von Alarmbereitschaft9, Brandsicherheitswachdiensten oder 
+Brandwachen erfolgt nach konkretem Anlass. Die Bemessung der Zahlung erfolgt 
+über die Anzahl der Dienste oder nach Stundenaufwand. Es handelt sich, insbeson-
+dere bei Letzterem, um eine Vergütung nach Zeitaufwand, die eine besondere steu-
+errechtliche Betrachtung erfordert. 
+2.2.1.3 Bonuszahlungen 
+Ein Sonderfall sind Bonuszahlungen, oft auch regelmäßig, aufgrund einer vorher de-
+finierten Leistung. Darunter fallen Prämien für jährliche Übungs- und Einsatzbeteili-
+gungen oder auch die Tauglichkeit für den Einsatzdienst bzw. als Atemschutzgeräte-
+träger. Entweder werden diese Zahlungen als Pauschale, dann erhält jeder Feuer-
+wehrangehörige die gleiche Summe, oder nach tatsächlicher Beteiligung gezahlt. 
+Das Land Brandenburg hat in 2019 einen Zuschuss zum Aufwandsersatz von 200,- 
+Euro jährlich eingeführt10. Des Weiteren werden 500,- Euro Jubiläumsprämien nach 
+einer Dienstzeit von 20, 30, 40 und 50 Jahren gezahlt. Ein ähnliches Modell gibt es in 
+Hessen, wo eine Anerkennungsprämie nach Dienstzeit gestaffelt ausgezahlt wird11. 
+Diese Prämienkonzepte werden hier nicht weiter betrachtet, da sie keine Aufwands-
+entschädigung im eigentlichen Sinne darstellen. 
+2.2.1.4 Feuerwehrrente 
+Einige Kommunen richten für ehrenamtliche Feuerwehrangehörige eine zusätzliche 
+Altersversorgung ein. In Thüringen ist diese sogar gesetzlich festgeschrieben12. Sie 
+dient als Motivation und Anerkennung, soll aber auch den Aufwand durch den lang-
+fristigen Dienst in der Feuerwehr abgelten. Die Feuerwehrrente ist eine rein private 
+Zusatzrente, die freiwillig abgeschlossen wird; vergleichbar mit der Riester-Rente. 
+ 
+8 Vgl. Kommunalgesetze der Länder, z.B. § 7 Satz 1 Gemeindeordnung NRW oder § 24 Satz 1 Gemeindeordnung RP 
+9 Besetzung einer hauptamtlichen Feuerwache durch ehrenamtliche Kräfte 
+10 Vgl. § 12 Prämien- und Ehrenzeichengesetz Brandenburg 
+11 Vgl. Erlass Anerkennungsprämie Freiwilligen Feuerwehren in Hessen 
+12 Vgl. § 14a Thüringer Brand- und Katastrophenschutzgesetzes 
+
+Aufwandsentschädigungen 
+ 
+ 
+6 
+Trotz Initiative einiger Feuerwehrverbände mit Unterstützung der Landesminister 
+lässt sich eine Einbindung in die gesetzliche Rentenversicherung13 aufgrund unter-
+schiedlicher Gesetzgebungskompetenzen von Bund und Ländern nur sehr schwer 
+realisieren14. Die nähere Betrachtung dieses hochkomplexen Themas würde den 
+Rahmen der Facharbeit deutlich übersteigen und findet daher nicht statt. 
+2.2.2 Sachleistungen 
+Es ist keine Aufwandsentschädigung im ursprünglichen Sinne. Unter Betrachtung 
+des geldwerten Vorteils, auch wenn es sich überwiegend um geringe Beträge han-
+delt, müssen diese Sachleistungen steuerrechtlich bewertet werden. Sachleistungen 
+sind keine Vergütung von Arbeitsstunden, da ein Mindestlohnanspruch nur in Geld-
+zahlung erfüllt werden kann. 15 
+In jüngster Vergangenheit hat sich zudem ein System materieller Vergünstigungen 
+für ehrenamtliche Feuerwehrmitglieder etabliert. Diese werden zum einen durch den 
+Aufgabenträger und zum anderen auch durch Dritte gewährt. Der Grundgedanke 
+liegt hierbei in der Motivationsförderung und Anerkennung der ehrenamtlichen Tätig-
+keit. Sie werden allen Mitgliedern der Feuerwehr zur Verfügung gestellt. Über die 
+Nutzung kann jeder individuell entscheiden.  
+2.2.2.1 Materielle Leistungen 
+Für die Vergünstigung kann man einen konkreten Geldwert definieren. Es handelt 
+sich dabei bspw. um Eintrittsvergünstigungen für Schwimmbäder, Sportstätten, 
+Volkshochschulkurse, Bibliothek, Theater, Kino, kostenlose Ausstellung des Perso-
+nalausweises, o. ä. Die Kommune tritt in der Regel als Eigentümer auf oder ist zu-
+mindest an dem Betrieb beteiligt. Des Weiteren gewähren regionale Händler, nach 
+entsprechenden Rahmenverträgen, Rabatte für Feuerwehrangehörige. Man kann die 
+materiellen Leistungen in interne, durch die Gemeinde als Aufgabenträger, und ex-
+terne Leistungen durch Dritte einteilen. 
+Einige Feuerwehrverbände fordern die ermäßigte bzw. kostenlose Nutzung des 
+ÖPNV für Feuerwehrangehörige in Uniform oder durch Vorzeigen des Dienstauswei-
+ses16. 
+2.2.2.2 Ideelle Sachleistungen 
+Der Aufgabenträger gewährt den Feuerwehrangehörigen Vergünstigungen, wobei 
+ein finanzieller Gegenwert nicht oder nur schwer ermittelt werden kann. Die Band-
+breite erstreckt sich über freies Parken auf gemeindeeigenen Parkplätzen, Begünsti-
+gung bei der Vergabe von Kindergartenplätzen und Baugrundstücken, bis hin zur 
+bevorzugten Einstellung von kommunalen Bediensteten im Rahme von Stellenaus-
+schreibungen. 
+ 
+13 Vgl. § 76e Sozialgesetzbuch IV 
+14 Vgl. Strategiepapier Landesfeuerwehrverband Baden-Württemberg Auflage Juli 2015, Seite 15 
+15 Vgl. § 1 Abs. 1 Mindestlohngesetz 
+16 Vgl. Zukunftspapier des Landesfeuerwehrverbandes Rheinland-Pfalz, M 78, Seite 37 
+
+Aufwandsentschädigungen 
+ 
+ 
+7 
+2.3 Beispielmodelle 
+Durch eine Recherche, überwiegend in den Bundesländern Hessen und Nordrhein-
+Westfalen, konnten verschiedene Modelle ermittelt werden. Es handelt sich um kon-
+krete Konzepte, die bereits ihre Anwendung finden. Sofern nicht anders beschrieben, 
+basieren sie auf einer rechtskräftigen Regelung, wie Satzung oder Magistratsbe-
+schluss. Ähnliche Modelle wurden zusammengefasst. Die Konzepte wurden mit ei-
+nem Verantwortlichen der Feuerwehr besprochen und zur anonymen Darstellung 
+freigegeben. 
+2.3.1 Entschädigung für Einsatztätigkeit 
+Die Mitglieder der Einsatzabteilung erhalten eine finanzielle Entschädigung für ge-
+leistete Einsatzdienste. Diese wird nach Einsatzstunden ermittelt und ausgezahlt. Es 
+gibt auch Kommunen, die nur eine pauschale Vergütung je Einsatz zahlen. Auch die 
+Höhe der Vergütung unterliegt einer großen Bandbreite. So lehnen sich einige Kom-
+munen an den Stundenlohn nach Mindestlohngesetz (MiLoG) an, damit eine Recht-
+sicherheit über die Höhe der Zahlung schon vorab gewährleistet ist und keine Nach-
+zahlungen gefordert werden können. Eine weitere Möglichkeit ist die Bemessung der 
+Vergütung nach TVÖD, jedoch als einfacher Beschäftigter und nicht im feuerwehr-
+technischen Dienst, damit eine Abgrenzung zum hauptamtlichen Personal stattfindet. 
+Eventuelle Zuschläge für besondere Einsatztätigkeit, wie Einsatz unter Atemschutz, 
+ergänzen die Vergütung. 
+Die Zahlung soll zur Kostendeckung der Aufwendungen durch den Einsatz dienen 
+(Fahrtkosten, Verpflegung, Reinigung der Kleidung usw.). Jedoch ist eine eindeutige 
+Abgrenzung zu einer Zeitvergütung nicht immer möglich. Diese Entschädigung ist 
+sehr dynamisch und vorab nicht planbar, da sie von tatsächlichen Einsatzzahlen ab-
+hängt. Hochfrequente Feuerwehreinheiten sind im Vorteil gegenüber ruhigen. Das 
+birgt die Gefahr von Neid, innerhalb der Mannschaft und zu anderen Löschgruppen 
+bzw. Ortsteilfeuerwehren. Einige Feuerwehren haben die Zahlung von Einsatzvergü-
+tungen wieder eingestellt bzw. in andere Pauschalen integriert17. 
+2.3.2 Entschädigung für Alarmbereitschaftsdienst 
+Mittlerweile kann bei vielen Feuerwehren das hauptamtliche Einsatzpersonal nicht in 
+der benötigten Anzahl und zeitnah rekrutiert bzw. ausgebildet werden, wie es die 
+Brandschutzbedarfsplanung erfordert. Um trotzdem die vorgeschriebene Ausrück-
+stärke zu gewährleisten, werden die hauptamtlichen Kräfte zu besonderen Anlässen 
+mit ehrenamtlichen ergänzt. Das kommt bei ungeplanten Personalausfällen (Krank-
+heit, Elternzeit usw.) aber auch geplant, bei besonderen Einsatzlagen, wie Volksfest, 
+Bombenfund usw. zum Tragen. Die ehrenamtlichen Feuerwehrangehörigen sind 
+dann im Rahmen eines Dienstplanes in den Wachdienst integriert. 
+Für die Übernahme der Wach- oder Alarmdienste erhalten die ehrenamtlichen Feu-
+erwehrangehörigen eine Vergütung nach geleisteten Einsatzstunden. Sie liegen 
+ 
+17 Vgl. Ehrenamtskonzept der Feuerwehr Köln, Brandschutz 7/2019 Seite 538 ff. 
+
+Aufwandsentschädigungen 
+ 
+ 
+8 
+ebenfalls im Bereich der Vergütung nach Mindestlohngesetz bzw. TVÖD. Per eigener 
+Definition der Feuerwehr handelt es sich hierbei, ähnlich wie bei den Einsatzdiens-
+ten, jedoch nur um eine Aufwandsentschädigung für besondere Feuerwehrdienste. 
+Beispiel:  
+Eine Stadt mit ca. 75.000 Einwohner hat eine hauptamtlich besetze Wache von Mon-
+tag bis Freitag. In der Zeit von 07:00 bis 17:00 Uhr wird eine Gruppe (1/8/9) einsatz-
+bereit vorgehalten. Nach der aktuellen Bedarfsplanung wurde die Erweiterung der 
+hauptamtlichen Einsatzbereitschaft auf den Samstag in Staffelstärke (1/5/6) notwen-
+dig. Die Erweiterung des Personalbestandes ist kurzfristig nicht möglich. Daher wer-
+den die Dienste am Samstag durch ehrenamtliche Feuerwehrangehörige als Alarm-
+bereitschaft in der Feuerwache besetzt. 
+2.3.3 Brandsicherheitswache 
+Nach landesrechtlichen Vorschriften gehört die Brandsicherheitswache / der Brandsi-
+cherheitsdienst zu den Aufgaben der öffentlichen Feuerwehr. Die steigende Anzahl 
+von pflichtigen Veranstaltungen belastet das Personal der Einsatzabteilung. Damit 
+auch unbeliebte Dienste durch adäquates Personal besetzt werden können, zahlen 
+die Kommunen für ehrenamtliche Feuerwehrangehörige eine Aufwandsentschädi-
+gung als finanziellen Anreiz. Diese unterscheiden sich von den Vergütungen für Ein-
+satz- oder Alarmbereitschaftsdienst. Es sollen lediglich die Kosten für Anfahrt und 
+eigenständige Verpflegung gedeckt werden. Sie stehen in der Regel nicht in direktem 
+Zusammenhang mit den Gebühren aus der Satzung für den Brandsicherheitsdienst. 
+Beispiel: 
+Gemäß Feuerwehrentschädigungssatzung zahlt die Kommune für einen Brandsi-
+cherheitswachdienst 13,- Euro je angefangener Stunde. Damit sich auch kürzere 
+Brandsicherheitswachdienste für die Feuerwehrgehörigen lohnen, wird eine Mindest-
+vergütung von 40,- Euro gezahlt. Die Fahrtzeiten zum und vom Brandsicherheits-
+wachdienst werden pauschal mit 10,- Euro vergütet. 
+2.3.4 Rufbereitschaft 
+Im Bereich der Führungsdienste etablieren auch Freiwillige Feuerwehren Rufbereit-
+schaftsdienste. Üblicherweise betrifft es die Leiter der Feuerwehr und ihre Stellvertre-
+ter, aber auch konkrete Führungsdienste (Zugführer, Verbandsführer) werden im 
+Rahmen einer Einsatzleiterregelung über Rufbereitschaft realisiert. Die betreffenden 
+Feuerwehrangehörigen stehen in der Zeit für Einsätze oder auch telefonische Rück-
+fragen zur Verfügung. Für die Vergütung der Rufbereitschaftsdienste hat man sich an 
+die „1/8-Regelung“ aus den TVÖD angelehnt. D. h. von den geleisteten Stunden im 
+Rufbereitschaftsdienst werden 1/8 bzw. 12,5 % als Aufwandsentschädigung gezahlt. 
+Zwischen der Rufbereitschaft und dem Bereitschaftsdienst, der als Arbeitszeit zu 
+werten ist, verläuft die Grenze fließend. Es ist entscheidend, wie stark die Einschrän-
+
+Aufwandsentschädigungen 
+ 
+ 
+9 
+kungen der Freizügigkeit in der inaktiven Zeit, Wahrscheinlichkeit der Heranziehung 
+und Zeit bis zum Arbeitsantritt18 sind. 
+Beispiel: 
+Ein Feuerwehrangehöriger leistet vier Einsatzleiterdienste im Monat, jeweils zwi-
+schen 18:00 und 06:00 Uhr. In Summe sind das 48 Stunden, von denen 1/8 (also 6 
+Stunden) zu je 20,- Euro als Aufwandsentschädigung ausgezahlt werden. 
+2.3.5 Aufwandsentschädigung analog „Ratsmitglied“ 
+Im Bundesland Nordrhein-Westfalen hat sich ein Modell etabliert, welches die Auf-
+wandsentschädigung der Leitungs- und Führungsfunktionen sowie Funktionsträger 
+im Verhältnis zu den Mitgliedern kommunaler Vertretungen zahlt19. Grundlagen sind 
+die Beträge aus §1 Abs. 2 der Entschädigungsverordnung NRW (EntschVO). Die 
+monatlichen Pauschalen der Ratsmitglieder sind nach Anzahl der Einwohner gestaf-
+felt. 
+Die Aufwandsentschädigung für die Mitglieder der Feuerwehr bezieht sich auf das 
+„normale“ Ratsmitglied. Sie wird mit einem Faktor multipliziert oder erhält einen pro-
+zentualen Zu- bzw. Abschlag. 
+Beispiel (Auszug aus einer Feuerwehrsatzung): 
+Der Stadtbrandinspektor der Feuerwehr erhält als Aufwandsentschädigung 
+den 1,5-fachen Satz des Betrages der Aufwandsentschädigung für Rats-
+mitglieder. 
+Der Gerätewart des Löschzuges Stadtteil A erhält als Aufwandsentschädi-
+gung 40 % des Betrages der Aufwandsentschädigung für Ratsmitglieder. 
+Die Beträge der Aufwandsentschädigungen werden automatisch an die Veränderun-
+gen der Entschädigungsverordnung angepasst. So entfällt eine turnusmäßige An-
+passung der konkreten Beträge in der Feuerwehrsatzung. Allerdings ist es schwierig, 
+die Faktoren und prozentualen Zu- bzw. Abschläge für die Feuerwehrangehörigen 
+sachgerecht zu ermitteln und transparent darzustellen. Die Feuerwehrtätigkeit lässt 
+sich nur bedingt mit einem Ratsmitglied vergleichen, da für den Feuerwehrdienst eine 
+spezielle Qualifikation erforderlich ist und die Arbeitszeit einsatzbedingt nicht immer 
+planbar ist. 
+2.3.6 Punktesystem mit Ehrenamtssparbuch 
+Die Feuerwehr hat ein Punktesystem für geleistete Tätigkeiten im Rahmen des Feu-
+erwehrdienstes eingeführt. Darunter fallen Einsätze, Übungen, Lehrgänge, Geräte-
+dienste, JF-Betreuung, Sitzungen, Dienstsport usw. Die Mitglieder der Einsatzabtei-
+lung sammeln diese Punkte über das laufende Jahr auf einem „Ehrenamtssparbuch“. 
+ 
+18 Vgl. Europäischer Gerichtshof, Urteil vom 21.08.2018, AZ C-518/15 
+19 Vgl. Merkblatt Aufwandsentschädigung der VdF NRW 
+
+Aufwandsentschädigungen 
+ 
+ 
+10 
+Eine Erfassung, Auswertung und Dokumentation der Tätigkeit erfolgt über eine web-
+basierte Feuerwehr-Verwaltungssoftware. 
+Die Kommune stellt jährlich einen Betrag für die Vergütung dieser Punkte bereit. Am 
+Jahresende wird die Gesamtpunktezahl mit dem Haushaltstitel ins Verhältnis gesetzt. 
+Somit kann für jeden Punktwert ein Geldbetrag ermittelt werden. Auf Antrag, mit ak-
+tueller Bankverbindung, wird der Betrag dem Mitglied ausgezahlt. 
+Beispielrechnung: 
+ Haushaltsmittel: 15.000 Euro 
+ Gesamtpunkte aller Feuerwehrmitglieder: 20.000 
+ Das Feuerwehrmitglied hat 140 Punkte im Jahr geleistet 
+	 = € 15.000 /20.000  × 140  = € 105,00  
+Das Mitglied erhält 105,- Euro ausgezahlt. 
+Mit dem Sachbearbeiter der Verwaltung prüft der Leiter der Feuerwehr das ganze 
+Verfahren. Der Betrag ergänzt die Aufwandsentschädigungen, die per Verordnung 
+an die Funktionsträger gezahlt werden. 
+Das Konzept wurde vor etwa 10 Jahren eingeführt. Bis dato sind keine größeren Un-
+regelmäßigkeiten aufgetreten. Am Anfang mussten die Feuerwehrtätigkeiten genau 
+spezifiziert und bewertet werden. So wird z.B. ein Gerätedienst erst ab einer Stunde 
+erfasst. Das soll verhindern, dass kleinere Tätigkeiten, wie Akkuwechsel am Funkge-
+rät, Überhand nehmen und genauso gewertet werden, wie ein vollwertiger Übungs- 
+oder Gerätedienst. 
+In einem ähnlichen Modell werden Sachleistungen für die Punkte in Form von Rabat-
+ten oder Einkaufsgutscheinen bei lokalen Händlern gewährt. Jeder Punkt hat einen 
+Wert von 0,50 Euro. 
+2.3.7 Punktesystem nach Größe der Feuerwehr 
+Die Beträge für die monatliche Aufwandsentschädigungen eines Leiters der Feuer-
+wehr sowie der Wehrführer der Ortsteilfeuerwehren werden anhand eines Punktesys-
+tems ermittelt. Folgende Parameter werden jeweils mit einem Punktwert von 1 bis 3 
+bzw. 0, wenn nicht vorhanden, bewertet: 
+ Einwohner (bis 10.000, 10.001-15.000, über 15.000) 
+ Anzahl Einsatzkräfte inkl. JF (bis 100, 101-200, über 200) 
+ Anzahl Ortsteile (bis 5, 6-10, über 10) 
+ Anzahl Fahrzeuge (bis 5, 6-10, über 10) 
+ Anzahl Einsätze pro Jahr (50, 51-100, über 100) 
+ Risikostruktur (Bahn, BAB, Störfallbetriebe usw.) 
+ Überörtliche Aufgaben (DLK, G-ABC-Zug, ELW 2 usw.) 
+Um eine weitere Differenzierung vorzunehmen, werden die Punktwerte mit einem 
+Bewertungsfaktor multipliziert. Somit können besondere Gegebenheiten, wie Alters-
+
+Aufwandsentschädigungen 
+ 
+ 
+11 
+struktur der Einsatzkräfte, Spezialfahrzeuge oder geographische Strukturen der Ge-
+meinde Rechnung getragen werden. 
+Tabelle 1: Beispielrechnung 
+Kriterien 
+ 
+Gewichtung 
+Bewertungsfaktor 
+Wert 
+Einwohner 
+6681 
+2 
+1 
+2 
+Anzahl Aktive 
+248 
+3 
+2 
+6 
+Anzahl Ortsteile 
+6 
+2 
+1 
+2 
+Anzahl Fahrzeuge 
+9 
+2 
+1 
+2 
+Anzahl Einsätze p. a. 
+68 
+2 
+2 
+4 
+Risikostruktur 
+ 
+2 
+2 
+4 
+Überörtliche Aufgaben 
+ 
+1 
+1 
+1 
+ 
+ 
+ 
+Gesamtwert 
+21 
+Der ermittelte Gesamtwert wird mit einem Betrag von 8,- Euro multipliziert. Daraus 
+ergibt sich eine monatliche Aufwandsentschädigung von 168,- Euro. Der Betrag wur-
+de so bemessen, dass er auch im ungünstigsten Fall die gesetzliche Mindestanforde-
+rung gemäß §1 Satz 1 i. V. m. Anlage 1 der Feuerwehrdienst- und Reisekostenauf-
+wandsentschädigungsverordnung Hessen erfüllt. 
+Das Konzept berücksichtigt nahezu alle Parameter, die den Aufwand eines Leiters 
+der Feuerwehr kennzeichnen. Es ist sehr komplex und dynamisch. Somit ist eine re-
+gelmäßige Überprüfung der Bewertungskriterien und ggf. Anpassung der Aufwands-
+entschädigung erforderlich. 
+2.3.8 Ehrenamtskarte 
+Damit bürgerschaftliches Engagement eine entsprechende Anerkennung und Würdi-
+gung erfährt, haben viele Bundesländer zusammen mit Städten, Kreisen und Ge-
+meinden eine landesweit gültige Ehrenamtskarte eingeführt. Ehrenamtliche, die sich 
+durchschnittlich fünf Stunden pro Woche bzw. 250 Stunden jährlich für das Gemein-
+wohl engagieren, können Vergünstigungen auf öffentliche und private Angebote er-
+halten. Darunter fallen z.B. Besuch von öffentlichen und privaten Einrichtungen und 
+Veranstaltungen, Sportclubs, Kinos, Museen, Freizeitparks, aber auch Vergünstigun-
+gen im Einzelhandel, bei Banken und Versicherungen. Je nach Bundesland sind wei-
+tere Kriterien, wie z.B. Wohnsitz, Mindestdauer der Mitgliedschaft, Mindestalter Ju-
+gendleitercard (Juleica), abgeschlossene Grundausbildung Feuerwehr oder Kata-
+strophenschutz usw. Die Ehrenamtskarte hat i. d. R. eine Gültigkeitsdauer von drei 
+bis fünf Jahren. Für besondere Verdienste verleiht das Land Bayern eine „Goldene 
+Ehrenamtskarte“ mit unbegrenzter Gültigkeit20. 
+Man beantragt die Ehrenamtskarte bei der zuständigen Stelle der Gemeinde, der 
+Stadt oder des Landkreises. Sie wird kostenlos zur Verfügung gestellt, allerdings mit 
+der Einschränkung, dass die Mitglieder explizit keine finanzielle Zuwendung in Form 
+von pauschalen Aufwandsentschädigungen erhalten dürfen! Daher wird das Thema 
+Ehrenamtskarte nur der Vollständigkeit halber erwähnt und findet in der Facharbeit 
+keine weitere Betrachtung. 
+ 
+20 Vgl. Bayerisches Staatsministerium für Familie, Arbeit und Soziales, Ehrenamtskarte 
+
+Rechtliche Konsequenzen 
+ 
+ 
+12 
+3 Rechtliche Konsequenzen 
+Wie im Abschnitt 2.2 beschrieben, handelt es sich bei Aufwandsendschädigungen 
+überwiegend um finanzielle Leistungen durch die Aufgabenträger. Daher liegt der 
+Fokus der rechtlichen Untersuchung auf den Finanzgesetzen; also primär dem Steu-
+errecht, angelehnt daran dem Sozialversicherungsrecht und Arbeitsrecht. 
+3.1 Rechtsanspruch 
+In den meisten Brandschutzgesetzen wird der Anspruch auf Entschädigung der Aus-
+lagen klar definiert und zugesichert. Aufwandsentschädigungen sind über den Pas-
+sus „regelmäßig über das übliche Maß“ nur unbestimmt erläutert. Die Bundesländer 
+Baden-Württemberg, Brandenburg, Niedersachsen, Nordrhein-Westfalen und Sach-
+sen-Anhalt überlassen ausschließlich den Kommunen die Regelung über kommunale 
+Satzungen. In den Stadtstaaten Hamburg und Bremen ist ein Rechtsanspruch auf 
+Zahlung nur über das Haushaltsgesetz abzuleiten. Inwieweit die Aufsichtsbehörde21 
+im Rahmen der Genehmigung des Haushaltes, insbesondere bei Haushaltssiche-
+rungskonzepten, in die Höhe der Aufwandsentschädigung eingreift, lässt sich nicht 
+klar bestimmen. Auch wenn die theoretische Möglichkeit besteht, hätte dies eine sehr 
+hohe politische Brisanz und Tragweite. Aus der Vergangenheit sind vereinzelt Fälle 
+bekannt, bei denen die freiwilligen Zuwendungen an Vereine durch die Aufsichtsbe-
+hörde limitiert wurde. 
+Bis dato ist jedoch kein Fall bekannt, wo ein Funktionsträger der Feuerwehr seine 
+Aufwandsentschädigung vor Gericht eingeklagt hat. Ein entsprechendes Gerichtsur-
+teil konnte trotz intensiver Recherche nicht ermittelt werden. Lediglich gegen die Ent-
+lassung aus dem Ehrenamt als Funktionsträger wurde geklagt22, aber auf der Basis 
+anderer Tatbestände. 
+Der Anspruch auf Entschädigung entsteht in der Regel mit Beginn des Monats, in 
+dem der Funktionsträger sein Amt antritt und endet mit Ablauf des Monats bei Verlust 
+der Funktion. Üblicherweise hat sich auch eine Regelung bei Verhinderung im Amt 
+etabliert. So ruht nach einer Frist von mehr als drei Monaten der Anspruch bis zur 
+Wiederaufnahme der Funktion bzw. Verlust der Funktion, Austritt, Ausschluss o. ä. 
+3.2 Steuerrecht 
+Finanzielle Einnahmen aus ehrenamtlicher Tätigkeit, wie z.B. die Aufwandsentschä-
+digung, gehören zu den Einkünften aus nichtselbständiger Arbeit nach § 2 Abs. 1 
+Einkommensteuergesetz (EStG) und sind grundsätzlich zu versteuern. Die Einnah-
+men hat der Zahlungsempfänger in der Steuererklärung auszuweisen. Dabei spielt 
+es keine Rolle, wie die Leistung bezeichnet wird. Es ist völlig egal, ob die Leistung 
+Aufwandsentschädigung, Anerkennung, Prämie, Zuwendung o.ä. genannt wird. Hier 
+findet u.U. § 42 der Abgabenordnung (AO) Anwendung, da es sich um eine unange-
+messene rechtliche Gestaltungsmöglichkeit handelt. Maßgeblich bei der Bewertung 
+ 
+21 Vgl. Landeskommunalgesetze 
+22 Vgl. Verwaltungsgericht Gießen, Urteil vom 19.08.2002, Az. 10 E 2167/02 
+
+Rechtliche Konsequenzen 
+ 
+ 
+13 
+ist die Jahressumme aller Einkünfte aus dem Ehrenamt. Liegen die Einnahmen, ggf. 
+nach Abzug der Werbungskosten, über den tatsächlichen Aufwendungen für die Tä-
+tigkeit, hat man gemäß EStG eine Einkunftserzielungsabsicht. 
+Das EStG beschreibt in § 3 die Tatbestände für steuerfreie Ausnahmefälle. Für die 
+ehrenamtliche Tätigkeit in der Freiwilligen Feuerwehr sind die Absätze 12, 26 und 
+26a relevant, die nachfolgend näher erläutert werden. Ergänzend sei auf die ver-
+schiedenen Merkblätter und Leitfäden23 der Feuerwehrverbände hingewiesen. Diese 
+erläutern das Thema in größerer Detailtiefe und anhand verschiedener Praxisbeispie-
+le, als es in dieser Facharbeit möglich ist. Im Zweifel kann man eine Anfrage an das 
+zuständige Finanzamt stellen, ob und inwieweit im konkreten Fall die Vorschriften 
+über die Lohnsteuer anzuwenden sind; die sogenannte Anrufungsauskunft24. 
+3.2.1 Zahlungen aus öffentlichen Kassen 
+Nach § 3 Nr. 12 Satz 2 EStG sind Aufwandsentschädigung, die aus öffentlichen Kas-
+sen, u.a. der Kommunen, an öffentlich dienstleistende Personen, hier die Funktions-
+träger der Feuerwehr, gezahlt werden, steuerfrei. Es darf sich dabei nicht um einen 
+Verdienstausfall oder einen Zeitverlust handeln. Des Weiteren darf die Entschädi-
+gung die tatsächlichen Aufwendungen nicht übersteigen. Genaue Ausführungen sind 
+in den Lohnsteuerrichtlinien25 zu finden. Für ehrenamtliche Personen sind 1/3 der 
+Aufwandsentschädigung, mindestens jedoch 200,- Euro pro Monat steuerfrei. Soweit 
+der steuerfreie Monatsbetrag nicht ausgeschöpft wird, ist eine Übertragung in andere 
+Monate einer Tätigkeit im Feuerwehrdienst im selben Kalenderjahr möglich. Bei einer 
+ganzjährigen Tätigkeit gilt somit ein steuerfreier Jahreshöchstbetrag von 2.400,- Eu-
+ro26. Über diesen Höchstbetrag gezahlte Aufwandsentschädigungen sind steuer-
+pflichtig, es können aber weitere Tatbestände zur Steuerbefreiung zum Tragen 
+kommen. Für gelegentliche ehrenamtliche Tätigkeiten wird von der Finanzverwaltung 
+eine Pauschalentschädigung von 6,- Euro täglich anerkannt27. 
+3.2.2 Übungsleiterpauschale 
+Die umgangssprachlich genannte Übungsleiterpauschale oder auch Übungsleiter-
+freibetrag beschreibt nach § 3 Nr. 26 EStG die Einnahmen aus nebenberuflichen Tä-
+tigkeiten als Übungsleiter, Ausbilder oder Betreuer im Dienst oder im Auftrag einer 
+juristischen Person des öffentlichen Rechts, wie u.a. die Kommune. Der Freibetrag 
+von 2400,- Euro ist ein Jahresbetrag. Er wird nur einmal gewährt, auch wenn mehre-
+re Tätigkeiten ausgeübt werden und kann nicht zeitanteilig auf einzelne Monate auf-
+geteilt werden28. Jedoch kann die anteilige Berücksichtigung einer Tätigkeit je nach 
+Funktionsträger erfolgen. So werden per Erlass29 dem Leiter der Feuerwehr eine 
+Ausbildertätigkeit von 60% zugestanden und somit ist dieser Anteil der Aufwandsent-
+schädigung steuerfrei im Rahmen des o. g. Freibetrages. 
+ 
+23 z.B. Merkblatt „Vergütung und Aufwandsentschädigung in der Feuerwehr NRW“ 
+24 Vgl. § 42e Einkommensteuergesetz 
+25 Bundesministerium der Finanzen, Amtliches Lohnsteuer-Handbuch 2018 
+26 Vgl. R 3.12 Abs. 2 Satz 8 Lohnsteuerrichtlinien 
+27 Vgl. R 3.12 Abs. 5 Satz 1 Lohnsteuerrichtlinien 
+28 Vgl. R 3.26 Abs. 8 Lohnsteuerrichtlinien 
+29 Vgl. Erlass Finanzministerium NRW vom 03.12.2013 – S 2337 – 32 V B 3 
+
+Rechtliche Konsequenzen 
+ 
+ 
+14 
+Die Vergütungen können gleichzeitig mit den Einnahmen nach § 3 Nr. 12 Satz 2 
+(Zahlungen aus öffentlichen Kassen) begünstigt sein. In der Anwendung ist die Rei-
+henfolge anzuwenden, die für den Angehörigen der freiwilligen Feuerwehr am güns-
+tigsten ist30. 
+Für Entschädigungen von Einsätzen im Zusammenhang mit Sofortmaßnahmen ge-
+genüber Verunglückten und Verletzten, d. h. Menschenrettung im weitesten Sinne, 
+ist § 3 Nr. 26 EStG ebenfalls anzuwenden31. Ausgeschlossen sind demnach alle 
+Vergütungen von Einsätzen ohne Menschenrettung. Eine Dokumentation der Ab-
+rechnung hat gesondert, sogenannte Spitzabrechnung, zu erfolgen. 
+3.2.3 Ehrenamtspauschale 
+Bei Einnahmen nach § 3 Nr. 26a EStG aus nebenberuflicher Tätigkeit im Dienst oder 
+Auftrag einer juristischen Person des öffentlichen Rechts handelt es sich, wie bei der 
+sogenannten Übungsleiterpauschale, um einen jährlichen Steuerfreibetrag. Dabei 
+spielt jedoch die Art der Tätigkeit keine Rolle. Der Freibetrag beträgt 720,- Euro pro 
+Jahr. Die Steuerbefreiung kann nicht angewendet werden, wenn für diese konkrete 
+Tätigkeit bereits § 3 Nr. 12 EStG oder § 3 Nr. 26 EStG berücksichtigt wurden. Es 
+werden explizit die Aufwandsentschädigung für Funktionsträger und Übungslei-
+ter/Ausbilder ausgeschlossen. Unter diesem Höchstbetrag sind pauschale Vergütun-
+gen im Einsatz- oder Bereitschaftsdienst für die „normalen“ Feuerwehrangehörigen, 
+die keine Funktionsträger sind, steuerfrei. 
+3.2.4 Sachleistungen 
+Zu den Einnahmen zählen auch alle Güter, die in Geld oder Geldeswert bestehen 
+und aus einer der Einkunftsarten des EStG stammen32. Somit unterliegen die Sach-
+leistungen aus der ehrenamtlichen Tätigkeit grundsätzlich der Steuerpflicht. Der Wert 
+der Sachleistung ergibt sich daraus, was der Arbeitnehmer für die Anschaffung inves-
+tieren müsste. 
+Wie bei finanziellen Einnahmen gibt es auch hier Tatbestände für die Ausnahme der 
+Steuerpflicht, die sogenannte Freigrenze. Diese liegt für Gutscheine bei 44,- Euro 
+monatlich33. Des Weiteren können bis zu 500,- Euro pro Jahr für Gesundheitsförde-
+rung, u.a. Sport, steuerfrei gezahlt werden, um eine besondere Belastung in der Tä-
+tigkeit auszugleichen34. Eine kostenfreie Nutzung des ÖPNV lässt sich durchaus rea-
+lisieren. Allerdings wäre der Steuervorteil bei den Werbungskosten in der Entfer-
+nungspauschale zu berücksichtigen, wenn das Ticket für Fahrten zwischen Wohnung 
+und Arbeitsstätte genutzt wird35. 
+ 
+ 
+ 
+30 Vgl. R 3.26 Abs. 7 Satz 2 Lohnsteuerrichtlinien 
+31 Vgl. R 3.26 Abs. 1 Satz 4 Lohnsteuerrichtlinien 
+32 Vgl. §8 Abs. 1 Einkommensteuergesetz 
+33 Vgl. §8 Abs. 2 Satz 11 Einkommensteuergesetz i. V. m § 2 Abs. 1 Satz 1 Nummer 4 bis 7 Einkommensteuergesetz 
+34 Vgl. §3 Nr. 34 Einkommensteuergesetz 
+35 Vgl. §8 Abs. 2 Satz 1 Einkommensteuergesetz 
+
+Rechtliche Konsequenzen 
+ 
+ 
+15 
+Tabelle 2: Übersicht der relevanten Sachleistungen 
+Geschenke 
+€ 44,- monatlich 
+Eintritt Schwimmbad, 
+Eintrittsgutschein 
+(Kino/Theater/Museum) 
+Gesundheitsförderung 
+€ 500,- jährlich 
+Kurse im Fitnessstudio, 
+Massage, 
+Ernährungsberatung 
+ÖPNV 
+ 
+Jobticket 
+3.2.5 Exkurs: Dienstwagen zum privaten Gebrauch 
+Auch die private Nutzung von Dienstfahrzeugen gehört zu den Einnahmen nach § 8 
+Abs. 2 EStG und ist ein steuerpflichtiger geldwerter Vorteil. Eine Berechnung kann 
+pauschal mit der „Ein-Prozent-Methode“ erfolgen oder mit einem Fahrtenbuch für den 
+tatsächlich privat gefahrenen Anteil. 
+Diese Regel gilt allerdings nicht ausnahmslos. Ein Mitglied der TEL Rettungsdienst 
+hatte den Sachverhalt eingeklagt36. Als Lehrrettungsassistent ist er beim DRK be-
+schäftigt und übernimmt im Wechsel mit weiteren Kollegen die Funktion des OrgL 
+RD als Rufbereitschaft. Es steht ihm in dieser Zeit ein KdoW rund um die Uhr zur 
+Verfügung; mit dem auch der Transport des Leitenden Notarztes zur Einsatzstelle 
+realisiert wird. 
+Im Urteil37 wird wie folgt festgestellt: 
+Eine steuerpflichtige Einnahme liegt nach ständiger Rechtsprechung 
+des BFH dann nicht vor, wenn sie sich bei objektiver Würdigung aller 
+Umstände des Einzelfalls auch nicht im weitesten Sinne als Gegen-
+leistung für die Leistung ihres Empfängers darstellt, sondern sich le-
+diglich als notwendige Begleiterscheinung betriebsfunktionaler Ziel-
+setzungen des Aufwendenden erweist. 
+Wichtige Kriterien, die erfüllt sein müssen38: 
+ Es muss sich um ein Einsatzfahrzeug der Feuerwehr / Rettungsdienst, Ka-
+tastrophenschutz handeln (Blaulicht und akustische Warneinrichtung nach 
+§ 52 Abs.3 Nr.4, § 55 Abs.3 StVZO) 
+ Die Fahrzeugüberlassung muss im Rahmen eines geregelten Dienstes 
+vom Aufgabenträger angeordnet sein. 
+ Die Übernahme hoheitlicher Aufgaben muss Bestandteil des Dienstes sein 
+(sog. „Brandmeister vom Dienst“; Bezirksbrand-, Kreisbrand-, Stadtbrand-
+meister). 
+Unter den beschriebenen Umständen lässt sich die steuerfreie private Nutzung von 
+Dienstfahrzeugen der Feuerwehr ableiten, jedoch nur für unbedingt notwendige 
+ 
+36 Vgl. Niedersächsisches Finanzgericht, Urteil vom 24.08.2007, 1 K 11553/04 (Aus SgE Feuerwehr, 2017) 
+37 Vgl. Bundesfinanzhof, Urteile vom 22.03.1985 - VI R 170/82 - BStBl. II 1985, 529; - VI R 82/83 - BStBl. II 1985, 532; - VI R 
+26/82 - BStBl. II 1985, 641 und vom 04.06.1993 - VI R 95/92 - BStBl. II 1993, 687 
+38 Vgl. Merkblatt „Einsatzfahrzeuggestellung“ VdF NRW 
+
+Rechtliche Konsequenzen 
+ 
+ 
+16 
+Fahrten innerhalb des Einsatzgebietes. Selbstverständlich schließt sich die Nutzung 
+für reine Freizeit- und Urlaubsfahrten aus, was aber in der Regel schon in einer ent-
+sprechenden Dienstanweisung festgelegt wird. 
+3.3 Sozialversicherungsrecht 
+Nach Ansicht der Spitzenverbände der Sozialversicherungsträger sind Aufwandsent-
+schädigungen für ein Ehrenamt teilweise sozialversicherungspflichtig. Das betrifft die 
+steuerpflichtigen Einnahmen; also bei Überschreitung der Freibeträge. Eine Sozial-
+versicherungspflicht besteht demnach insbesondere für ein abhängiges Beschäfti-
+gungsverhältnis nach § 7 Sozialgesetzbuch (SGB) IV. Abzugrenzen ist ein solches 
+Beschäftigungsverhältnis von einer selbstständigen Tätigkeit mit frei gestalteter Ar-
+beitszeit und Tätigkeit. Anhaltspunkte für ein abhängiges Beschäftigungsverhältnis 
+sind somit ein Weisungsrecht des Arbeitgebers, das sich auf die Zeit, die Dauer, den 
+Ort und die Ausführung der Tätigkeit des Arbeitnehmers bezieht und eine Eingliede-
+rung in die Arbeitsorganisation des Weisungsgebers39. Die Kommune hat als Arbeit-
+geber die Beiträge zu erfassen und an den Sozialversicherungsträger abzuführen. 
+Trotzdem kommt es immer wieder zum Rechtsstreit zwischen der Kommune, Leis-
+tungsempfänger und Sozialversicherungsträger. Im Wesentlichen geht es dabei um 
+die Unterscheidung, ob die ehrenamtliche Tätigkeit eine abhängige Leistung von 
+Diensten oder eine selbständige Tätigkeit ist. So hat das Bayerische Landessozialge-
+richt der Sozialversicherungspflicht von einem Kreisbrandrat sowie den unterstellten 
+Kreisbrandmeistern und Kreisbrandinspektoren zugestimmt40. Die Versicherungsbe-
+träge von rund 30.000,- Euro für die Jahre 2000 bis 2003 waren rückwirkend zu ent-
+richten. Dementgegen stellt die Tätigkeit als Feuerwehrkommandant, also Leiter der 
+Gemeindefeuerwehr, nach Ansicht des Sozialgerichts Bayreuth kein abhängiges Be-
+schäftigungsverhältnis dar41. Diese unklare Rechtsprechung bestätigen auch Ge-
+spräche mit Leitern der Feuerwehr im Rahmen der Recherche für diese Facharbeit42. 
+Ähnliche Entscheidungen sind aus dem Rettungsdienst bekannt, wo die Beschäfti-
+gungsverhältnisse von Notärzten kritisch geprüft werden. Im Notarztdienst kommen 
+jedoch zusätzliche Bewertungskriterien43, wie Regelungen im Arbeitsvertrag, Wei-
+sungsrecht des Leistungsträgers, Arbeitszeit oder Arbeitsort, zum Tragen, da es sich 
+hier nicht um eine ehrenamtliche Tätigkeit handelt. Solche Urteile sind daher nur be-
+dingt auf die Funktionsträger der Feuerwehr übertragbar. 
+Die komplexen Regelungen der Sozialversicherung ähneln den Ausführungen des 
+Steuerrechtes. Für die Unterstützung im konkreten Einzelfall bieten die Auskunfts- 
+und Beratungsstellen der Deutschen Rentenversicherung ihre Hilfe an. Sie sind in 
+der Regel auf Landkreisebene zu finden44. 
+ 
+39 Vgl. Bundessozialgericht, Urteil vom 16.08.2017, B 12 KR 14/16 R 
+40 Vgl. Bayerische Landessozialgericht, Urteil vom 25.11.2008, L 5 KR 32/07 (Aus SgE Feuerwehr, 2017) 
+41 Vgl. Sozialgericht Bayreuth, Urteil vom 03.08.2005, S 5 KR 223/00 (Aus SgE Feuerwehr, 2017) 
+42 Vgl. Interview Geschäftsführer Landesfeuerwehrverband NRW 
+43 Vgl. Landessozialgericht Baden-Württemberg vom 29.07.2014 – L 9 U 4701/11 
+44 Vgl. Deutsche Rentenversicherung – Beratung und Kontakt 
+
+Rechtliche Konsequenzen 
+ 
+ 
+17 
+3.3.1 Geringfügiges Beschäftigungsverhältnis 
+Umgangssprachlich auch „Minijob“ genannt; kennzeichnen folgende Merkmale einer 
+geringfügigen Beschäftigung und geringfügige Tätigkeit45: 
+ Die geringfügig entlohnte Beschäftigung mit einem Monatsentgelt, das regel-
+mäßig nicht mehr als 450 Euro betragen darf. 
+ Die geringfügig entlohnte Beschäftigung in Privathaushalten als eine besonde-
+re Art der geringfügigen Beschäftigung (wird hier nicht weiter erläutert). 
+Grundsätzlich spielt die wöchentliche Arbeitszeit und die Anzahl der Arbeitseinsätze 
+keine Rolle46. Sie wird aber durch die Höhe der Entgeltzahlung begrenzt, da auch 
+hier das Mindestlohngesetz Anwendung findet. Besteht eine regulär versicherungs-
+pflichtige Hauptbeschäftigung, so kann nur ein weiteres Beschäftigungsverhältnis 
+bzw. Nebenbeschäftigung, bestehen47. Hat eine Person zwei oder mehrere geringfü-
+gig entlohnte Beschäftigungsverhältnisse und beträgt das Entgelt hieraus insgesamt 
+mehr als die Geringfügigkeitsgrenze, so ist nur die „älteste“ dieser Beschäftigungen 
+geringfügig48. 
+Geringfügig Beschäftigte sind grundsätzlich nicht versicherungspflichtig in der ge-
+setzlichen Kranken-, Pflege- und Arbeitslosenversicherung, allerdings nur im Rah-
+men dieser geringfügigen Beschäftigung49. Von der Rentenversicherungspflicht kön-
+nen sich die Beschäftigten auf Antrag befreien lassen. Der Arbeitgeber trägt einen 
+pauschalen Beitrag zur Kranken- und Rentenversicherung. 
+Ein Minijob eignet sich in der Feuerwehr für die Abgeltung regelmäßiger Tätigkeiten, 
+wie Leiter der Feuerwehr, Gerätewart oder sonstige Funktionsträger, wenn die steu-
+erfreie Pauschale überschritten wird. 
+3.3.2 Kurzfristige Beschäftigung 
+Eine kurzfristige Beschäftigung liegt vor, wenn die Beschäftigung von vornherein auf 
+nicht mehr als drei Monate oder insgesamt 70 Arbeitstage im Kalenderjahr begrenzt 
+ist und, sofern das Entgelt 450,- Euro im Monat übersteigt, nicht berufsmäßig ausge-
+übt wird. Dabei muss die Beschäftigung aber entweder vertraglich oder nach der Art 
+des Beschäftigungsverhältnisses begrenzt angelegt sein50. Es kann bei der Feuer-
+wehr für die Entlohnung besonderer Anlässe angewendet werden. Hier sei als Bei-
+spiel der Brandsicherheitswachdienst genannt, der anlässlich eines Landesfestes 
+über 14 Tage gestellt wird. 
+Für eine kurzfristige Beschäftigung sind weder vom Arbeitgeber noch vom Arbeit-
+nehmer Beiträge zur Kranken-, Pflege-, Renten- und Arbeitslosenversicherung zu 
+zahlen. Es besteht jedoch eine Umlagepflicht, die sog. Arbeitgeberversicherung der 
+ 
+45 Vgl. Geringfügige Beschäftigung, Bundesamt für Arbeit und Soziales 
+46 Vgl. Geringfügigkeits-Richtlinien B 2.2 
+47 Vgl. Geringfügigkeits-Richtlinien B 2.2.2.2 
+48 Vgl. § 8 Abs. 2 Satz 1 des Sozialgesetzbuch IV 
+49 Vgl. § 7 Sozialgesetzbuch V, § 27 Abs. 2 Sozialgesetzbuch III 
+50 Vgl. Geringfügige Beschäftigung, Bundesamt für Arbeit und Soziales 
+
+Rechtliche Konsequenzen 
+ 
+ 
+18 
+Knappschaft-Bahn-See, zur finanziellen Absicherung bei der Entgeltfortzahlung im 
+Krankheitsfall und bei Mutterschutz51. 
+Da es in der gesetzlichen Unfallversicherung keine Versicherungsfreiheit unterhalb 
+einer bestimmten Entgelthöhe gibt, sind alle kurzfristig oder geringfügig entlohnt Be-
+schäftigten gegen Arbeitsunfälle und Berufskrankheiten abgesichert. Die Beitragslast 
+trägt allein der Arbeitgeber. 
+3.4 Arbeitsrecht 
+Rein rechtlich wird eine ehrenamtlich ausgeübte Tätigkeit als unentgeltliches Auf-
+tragsverhältnis eingestuft52. Ein Arbeitsverhältnis liegt jedoch nur vor, wenn dauerhaft 
+die Erzielung von Entgelt angestrebt wird.53 Handelt es sich um eine sozialversiche-
+rungspflichtige Tätigkeit, unterliegt diese auch den allgemeinen arbeitsrechtlichen 
+Bestimmungen. Hierunter fallen u. a. Arbeitszeitreglungen, Ruhezeiten, Urlaubsan-
+spruch und Lohnfortzahlung im Krankheitsfall. D. h. auch die Anteile aus einer Rufbe-
+reitschaft sind zu berücksichtigen. Strittig ist immer die Fragestellung, ob die Kom-
+mune als Arbeitgeber der ehrenamtlichen Feuerwehrangehörigen auftritt. Durch die 
+Einzelfallbetrachtung konnte eine abschließende Regelung auch durch verschiedene 
+Gerichtsurteile nicht getroffen werden. 
+3.5 Beamtenrecht 
+Hoheitliche Aufgaben sollen i. d. R. Angehörigen des öffentlichen Dienstes übertra-
+gen werden54. Grundsätzlich stehen ehrenamtliche Mitglieder der Freiwilligen Feuer-
+wehr in einem öffentlich-rechtlichen Dienstverhältnis besonderer Art zur Kommune55. 
+Eine Ausnahme sind die ehrenamtlichen Leitungsfunktionen, die nach den Brand-
+schutzgesetzen der Länder in ein Ehrenbeamtenverhältnis auf Zeit berufen werden56 
+und somit den Regelungen der Beamtengesetze unterliegen57. Im Bezug zur Auf-
+wandsentschädigungen für Beamte sind hier die Besoldungsgesetzte der Bundes-
+länder maßgeblich, die ggf. durch Rechtsnormen der Fachministerien ergänzt wer-
+den. 
+ 
+51 Vgl. Geringfügige Beschäftigung, Bundesamt für Arbeit und Soziales 
+52 Vgl. §§ 662 ff Bürgerliches Gesetzbuch 
+53 Vgl. Sächsisches Landesarbeitsgericht, Urteil vom 20.05.2011, 3 Sa 579/10 (Aus SgE Feuerwehr, 2017) 
+54 Vgl. Art. 33 Abs.4 Grundgesetz 
+55 Vgl. Hessischer Verwaltungsgerichtshof, Urteil vom 17.01.1992, 11 EU 1567/88 (Aus SgE Feuerwehr, 2017) 
+56 Vgl. z.B. § 11 Abs. 1 Satz 3 BHKG oder § 15 Abs. 4 ThürBKG 
+57 Vgl. § 6 Abs. 5 Bundesbeamtengesetz 
+
+Ehrenamtlichkeit 
+ 
+ 
+19 
+4 Ehrenamtlichkeit 
+Unter ehrenamtlicher Tätigkeit versteht man grundsätzlich jede freiwillig erbrachte, 
+nicht auf Entgelt ausgerichtete, außerberufliche Tätigkeit, die am Gemeinwohl orien-
+tiert ist, auch wenn sie für einen Einzelnen erbracht wird58. Sie ist im Unterschied zu 
+erwerbsorientierten Beschäftigungsverhältnissen dadurch geprägt, dass sie ideelle 
+Zwecke verfolgt59. In einigen Fällen kann man dazu per Gesetz verpflichtet werden 
+(Schöffe, Wahlhelfer, Pflichtfeuerwehr usw.). 
+4.1 Ehrenamt 
+Ein ehrenamtlich Tätiger nimmt ein Amt ehrenhalber wahr60. Das Ehrenamt ist für 
+das gesellschaftliche Zusammenleben in ganz Deutschland von unschätzbarem 
+Wert. Die Bundesländer Hessen und Bayern haben diese Aufgabe als Staatsziel in 
+der Landesverfassung verankert61. Bei einem ehrenamtlichen Engagement wird typi-
+scherweise keine Gegenleistung erbracht und erwartet, sondern allenfalls eine Ent-
+schädigung gewährt, die Aufwände konkret oder pauschal abdeckt62. 
+Ehrenamtliche Angehörige der Feuerwehr üben ein sogenanntes schlichtes Ehren-
+amt aus, d. h. sie übernehmen keine Verwaltungsgeschäfte für die Kommune63. Le-
+diglich die ehrenamtlichen Leiter und Stellvertreter der Feuerwehr werden zu Ehren-
+beamten64 ernannt.  
+4.2 Bewertung 
+Die Bewertung der ehrenamtlichen Tätigkeit in der Feuerwehr erfolgt nach folgenden 
+Merkmalen: 
+1. Wird die Tätigkeit freiwillig ausgeführt? 
+2. Orientierte sich die Aufgabe am Gemeinwohl? 
+3. Besteht die Absicht auf Entgelterzielung? 
+Betrachtet man die unterschiedlichen Arten und Modelle der Aufwandsentschädigung 
+in der Freiwilligen Feuerwehr unter den Merkmalen der Ehrenamtlichkeit, so kann 
+man die Fragen eins und zwei deutlich mit „Ja“ beantworten. Wie der Name schon 
+sagt, leisten die Mitglieder ihren Dienst in der Feuerwehr freiwillig. Natürlich unterlie-
+gen sie den Rechten und Pflichten der Brandschutzgesetze und Feuerwehrdienst-
+vorschriften. Sie unterliegen grundsätzlich keinem Arbeitsverhältnis und können die 
+Mitgliedschaft in der Einsatzabteilung jederzeit auf eigenen Wunsch beenden. Die 
+Frage zwei ist obligatorisch durch die Brandschutzgesetze beantwortet65. 
+ 
+58 Vgl. Drucksache des Deutschen Bundestages 13/5674 
+59 Vgl. Bundessozialgericht, Urteil vom 16.08.2017, B 12 KR 14/16 R 
+60 Vgl. Bundessozialgericht, Urteil vom 27.06.1991, 2 RU 26/90 (Aus SgE Feuerwehr, 2017) 
+61 Vgl. Art. 26f Hessische Verfassung und Art. 121 Satz 2 Verfassung des Freistaates Bayern 
+62 Vgl. Bundessozialgericht, Urteil vom 16.08.2017, B 12 KR 14/16 R 
+63 Vgl. Kommunalgesetze der Länder 
+64 Vgl. Brandschutzgesetze der Länder 
+65 Vgl. Verwaltungsgerichtshof Baden-Württemberg, Urteil vom 08.05.1990, 10 S 343/90 (Aus SgE Feuerwehr, 2017) 
+
+Ehrenamtlichkeit 
+ 
+ 
+20 
+Sehr genau muss die Bewertung unter der Fragestellung drei betrachtet werden. Bei 
+pauschalen Aufwandsentschädigungen der Funktionsträger kann man davon ausge-
+hen, dass niemand die Tätigkeit nur mit der Absicht auf Entlohnung ausführt. Be-
+trachtet man die Höhe der Aufwandsentschädigungen im Verhältnis zu den mit dem 
+Amt verbundenen Erschwernissen, stellt man fest, dass der Aufwand nur zu einem 
+Bruchteil abgegolten wird. Die fachliche und persönliche Qualifikation66 für eine sol-
+che Funktion findet in der Regel über einen langen Zeitraum statt. Währenddessen 
+findet keine oder nur eine anteilige Aufwandsentschädigung statt. 
+Nach den Gesprächen im Rahmen der Recherche für diese Facharbeit und aufgrund 
+meiner Erfahrung in der Freiwilligen Feuerwehr, sehe ich eine zeitliche Vergütung 
+von Bereitschafts- bzw. Einsatztätigkeit oder Sicherheitswachen als besonders kri-
+tisch. Dort findet oft schon eine Vergütung deutlich über dem Mindestlohn statt. Es 
+wird keiner offen zugeben, aber viele Feuerwehranghörige haben diese Vergütung in 
+ihrem Finanzierungsbudget für einen Urlaub, ein neues Auto oder sogar ein Haus 
+eingeplant. Dementsprechend hoch ist der Anspruch, Dienste zu absolvieren. Sogar 
+Änderungen der AAO werden mit dem Gedanken auf finanzielle Einbußen äußerst 
+emotional diskutiert. Hier wird die Grenze zwischen ehrenamtlicher Tätigkeit und Ar-
+beitsverhältnis erreicht, wenn nicht sogar durch eine dauerhafte Erzielung positiver 
+Einkünfte, sprich Entlohnung, überschritten. Ein zu hoher finanzieller Vorteil wirkt sich 
+dann eher negativ und ehrenamtsschädlich aus. 
+Die Teilnahmepflicht an Einsatz-, Übungs- und Ausbildungsdiensten besteht grund-
+sätzlich für alle ehrenamtlichen Angehörigen der Freiwilligen Feuerwehr67. Bei vielen 
+Feuerwehren ist es jedoch ein offenes Geheimnis, dass gewisse Brandsicherheits-
+dienste nur durch die Bezahlung von Stundenpauschalen besetzt werden können. 
+Die notwendige Ausrückestärke bei einem unspektakulären Einsatzstichwort 
+„Brandmeldeanlage“ oder „Hilfeleistung ohne Dringlichkeit“ kann oft nur aufgrund der 
+finanziellen Anreize gesichert werden. Auch hier muss man sich der Frage stellen, ob 
+die Motivation durch entsprechende Anreize einer Einkunftserzielungsabsicht gleich-
+zusetzen ist. 
+ 
+66 Vgl. z.B. § 7 Abs. 1 Feuerwehr-Organisationsverordnung Hessen 
+67 Vgl. z.B. § 20 Abs. 1 Satz 1 BHKG NRW 
+
+Zusammenfassung 
+ 
+ 
+21 
+5 Zusammenfassung 
+In dieser Facharbeit wurde ein breites Spektrum der Aufwandsentschädigung in der 
+Freiwilligen Feuerwehr beleuchtet. Bisweilen haben sich sehr deutliche Unterschiede 
+dargestellt; etwas übertrieben kann man auch von „Wildwuchs“ reden. 
+In unserer modernen Arbeitswelt hat sich gerade unter dem Schlagwort „Work – Life 
+– Balance“ auch das Freizeitverhalten wesentlich gewandelt. Die Freiwillige Feuer-
+wehr ist durch die hohen Anforderungen schon lange deutlich mehr als ein reines 
+Hobby zu betrachten. Der oft angewandte Vergleich zu anderen „Vereinen“ hinkt er-
+heblich, da es sich bei der Feuerwehr um eine hoheitliche Aufgabe der Kommune 
+handelt und die Mitglieder an Rechte und Pflichten gebunden sind. Sicherlich ist ein 
+finanzieller Anreiz eine Möglichkeit der Motivation für die Personalgewinnung und 
+Mitgliederbindung. Es kann aber nur ein Baustein sein und darf nicht die Basis des 
+ehrenamtlichen Feuerwehrdienstes sein. Die Aufgabe der Feuerwehr lässt sich nicht 
+ausschließlich durch bezahlte, sprich hauptamtliche, Kräfte realisieren! 
+Es hat sich auch gezeigt, dass durch die Vielfalt dieser Möglichkeiten schnell eine 
+finanzielle Grenze, sprich Freibetrag, erreicht und überschritten wird. Das ursprüngli-
+che Ziel der Motivation und Anerkennung schlägt sich in Ernüchterung bis hin zur 
+Resignation nieder. Die vielen unklaren Entscheidungen der Sozialversicherung und 
+Finanzbehörden sind daran nicht ganz unbeteiligt. 
+5.1 Ausblick 
+Als wesentlicher Bestandteil der täglichen Gefahrenabwehr und des Katastrophen-
+schutzes sind die freiwilligen Feuerwehren unerlässlich. Keine andere Organisation 
+bringt in der Kürze der Zeit so viel „manpower“ zum Einsatz. In diesem bewährten 
+System gilt es, auch durch finanzielle und materielle Anreize, die Personalplanung an 
+unserer modernen Gesellschaft anzupassen. Innovative Konzepte für eine Vertei-
+lungsgerechtigkeit sind da durchaus hilfreich, aber es muss nicht immer ein kompli-
+ziertes Bewertungs- oder Punktemodell sein.  
+Nach meiner Ansicht ist eine pauschale Aufwandsentschädigung mit messbaren Kri-
+terien besonders zielführend. Dabei sollte für jede Funktion jeweils nur eine Bemes-
+sungsgrundlage angewendet werden, z.B. Leiter der Feuerwehr analog Ratsmitglied, 
+Gerätewart nach Anzahl der Fahrzeuge. Auch eine Einsatzvergütung lässt sich über 
+Pauschalen je Einsatz darstellen. Es gibt kein absolut gerechtes System im Ehren-
+amt. Je detaillierter die Bewertungskriterien sind, desto höher wird der Verwaltungs-
+aufwand bei der Erfassung und Auswertung. Und gerade dieser Aufwand wurde in 
+den letzten Jahren durch die steigenden rechtlichen Anforderungen im Feuerwehr-
+dienst vermehrt durch die Führungskräfte kritisiert. Weniger ist daher oft mehr! 
+Kurzfristig sollten einheitliche Regelungen zur Aufwandsentschädigung, zumindest 
+auf Landesebene, angestrebt werden. Insbesondere beim Thema Steuern und Sozi-
+alversicherung ist der Gesetzgeber auf Bundesebene in der Pflicht. Die rund 1 Millio-
+nen „Arbeitnehmer“ der Freiwilligen Feuerwehr sind sicherlich keine berufliche Rand-
+gruppe. Eine klare Regelung zu Steuerpflicht und Freibeträgen, ohne viel Ermessen-
+
+Zusammenfassung 
+ 
+ 
+22 
+spielraum, ist zwingend erforderlich, damit Kommunen und Feuerwehrangehörige 
+nicht die Finanz- und Sozialgerichte für Einzelfallentscheidungen bemühen müssen. 
+Bis dahin sollten die Kommunen ihre Konzepte frühzeitig einer kritischen Betrach-
+tung, ggf. mit Unterstützung eines externen Steuerfachmannes, unterziehen. 
+Eine Ergänzung der gesetzlichen Rentenversicherung für ehrenamtliche Tätigkeit ist 
+eine sehr gute Lösung. Diese sollte aber nicht nur auf die Feuerwehr beschränkt 
+sein, sondern allen ehrenamtlichen Helfern nach klaren Vorgaben, wie Dienstzeit, 
+Qualifikation, Kontinuität usw. anerkannt werden. Die Spitzenverbände haben die 
+Notwendigkeit erkannt, aber bis zur Umsetzung wird es noch ein langer Weg sein.
+
+Abkürzungen 
+ 
+ 
+23 
+Abkürzungen 
+AAO 
+Alarm- und Ausrückeordnung 
+BAB 
+Bundesautobahn 
+DRK 
+Deutsches Rotes Kreuz 
+EStG 
+Einkommensteuergesetz 
+G-ABC 
+Gefahrstoff - Atomar, Biologisch, Chemisch 
+GG 
+Grundgesetz für die Bundesrepublik Deutschland 
+JF 
+Jugendfeuerwehr 
+KdoW 
+Kommandowagen 
+NRW 
+Nordrhein-Westfalen 
+ÖPNV 
+Öffentlicher Personennahverkehr 
+OrgL RD 
+Organisatorische Leiter Rettungsdienst 
+RP 
+Rheinland-Pfalz 
+SgE 
+Sammlung gerichtlicher Entscheidungen 
+TEL 
+Technische Einsatzleitung 
+TVÖD 
+Tarifvertrag für den Öffentlichen Dienst 
+
+Abbildungsverzeichnis 
+ 
+ 
+24 
+Abbildungsverzeichnis 
+Abbildung 1: Übersicht der Leistungen als Aufwandsentschädigungen ...................... 4 
+Tabellenverzeichnis 
+Tabelle 1: Beispielrechnung ...................................................................................... 11 
+Tabelle 2: Übersicht der relevanten Sachleistungen ................................................. 15 
+
+Literaturverzeichnis 
+ 
+ 
+25 
+Literaturverzeichnis 
+Bayerisches Staatsministerium für Familie Arbeit und Soziales, „Ehrenamtskarte,“ 
+[Online]. Available: https://www.lbe.bayern.de/engagement-
+anerkennen/ehrenamtskarte/index.php. [Zugriff am 05 11 2019]. 
+Bundesamt für Arbeit und Soziales, „Geringfügige Beschäftigung,“ [Online]. 
+Available: https://www.bmas.de/DE/Themen/Soziale-Sicherung/450-Euro-Mini-
+Jobs/450-euro-mini-jobs-geringfuegige-beschaeftigung.html. [Zugriff am 06 11 2019]. 
+Bundesministerium der Finanzen, „Amtliches Lohnsteuer-Handbuch mit Lohnsteuer-
+Richtlinien 2015 (LStR 2019), Lohnsteuer-Hinweise 2019,“ 2019. [Online]. Available: 
+https://www.bmf-lsth.de/lsth/2018/home.html. [Zugriff am 06 11 2019]. 
+Deutsche Rentenversicherung Bund, „DRV - Beratung und Kontakt,“ [Online]. 
+Available: https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-
+Kontakt/beratung-und-kontakt_node.html. [Zugriff am 19 11 2019]. 
+Deutsche Rentenversicherung Bund, „Richtlinien für die versicherungsrechtliche 
+Beurteilung von geringfügigen Beschäftigungen (Geringfügigkeits-Richtlinien),“ 2018. 
+[Online]. Available: https://www.minijob-
+zentrale.de/SharedDocs/Downloads/DE/Rundschreiben/01_ag_rundschreiben_versic
+herung/Geringfuegigkeitsrichtlinien_21112018_vorlaeufige_endfassung.pdf?__blob=
+publicationFile&v=4. [Zugriff am 18 11 2019]. 
+K. Schneider, „Sammlung gerichtlicher Entscheidungen zum Feuerschutz, 
+Rettungsdienst und Katastrophenschutz,“ 2017. 
+K. Schneider, Brandschutz-, Hilfeleistungs-, Katastrophenschutzgesetz Nordrhein-
+Westfalen, 9. erweiterte und überarbeitete Auflage, Kohlhammer, 2016.  
+Landesfeuerwehrverband Baden-Württemberg e.V., „Gemeinsames Schreiben des 
+Gemeindetags, Städtetags und des Landesfeuerwehrverbands zu den gemeinsam 
+verabschiedeten Orientierungswerten zur Aufwandsentschädigung für ehrenamtliche 
+Feuerwehrangehörigefür ehrenamtliche Feuerwehrangehörige,“ 09 10 2017. [Online]. 
+Available: 
+https://www.fwvbw.de/fileadmin/Downloads/Aktuelles/Orientierungswerte_mit_Anlage
+n.pdf. [Zugriff am 17 10 2019]. 
+Landesfeuerwehrverband Baden-Württemberg e.V., „Strategiepapier FREIWIILIG. 
+stark!,“ Juli 2015. [Online]. Available: 
+https://www.fwvbw.de/fileadmin/Downloads/Brosch%C3%BCre_Strategiepapier.pdf. 
+[Zugriff am 23 10 2019]. 
+Landesfeuerwehrverband Rheinland-Pfalz, „Zukunftspapier für den 
+flächendeckenden Branschutz, die Allgemeine Hilfe und den Katastrophenschutz im 
+Land Rheinland-Pfalz,“ 2018. [Online]. Available: https://www.lfv-
+rlp.de/fileadmin/daten/lfv-rlp/unsere_themen/zukunft/zukunftspapier_2018.pdf. 
+[Zugriff am 24 10 2019]. 
+ 
+
+Literaturverzeichnis 
+ 
+ 
+26 
+P. Christen, J. Feyer, A. Kessel und M. Wehle, „Das Ehrenamtskonzept der 
+Feuerwehr Köln,“ Brandschutz, Nr. 7, p. 538 ff., 2019.  
+Verband der Feuerwehren in NRW, „Merkblatt Aufwandsentschädigungen für 
+Kreisbrandmeister und Leiter von Feuerwehren sowie deren Stellvertreter,“ 05 2016. 
+[Online]. Available: https://www.vdf-nrw.de/uploads/tx_bitloftvdfnrwdownload/2016-
+05_Merkblatt_Aufwandsentschaedigung.pdf. [Zugriff am 08 11 2019]. 
+Verband der Feuerwehren in NRW, „Merkblatt Einsatzfahrzeuggestellung in der 
+Feuerwehr,“ 2012. [Online]. Available: https://www.vdf-
+nrw.de/uploads/tx_bitloftvdfnrwdownload/REC_HIL_FahrzeuggestellungimFeuerwehr
+dienst.pdf. [Zugriff am 08 10 2019]. 
+Verband der Feuerwehren in NRW, „Merkblatt Vergütungen und 
+Aufwandsentschädigungen in der Feuerwehr,“ [Online]. Available: https://www.vdf-
+nrw.de/uploads/tx_bitloftvdfnrwdownload/VdF-
+_Merkblatt_Verguetungen_und_Aufwandsentschaedigungen.pdf. [Zugriff am 10 11 
+2019]. 
+ 
+ 
+
+Rechtsquellen 
+ 
+ 
+27 
+Rechtsquellen 
+Bayerische Landessozialgericht, Urteil vom 25.11.2008, L 5 KR 32/07.  
+Bayerische Staatskanzlei, Bayerisches Feuerwehrgesetz (BayFwG) in der in der 
+Bayerischen Rechtssammlung (BayRS 215-3-1-I) veröffentlichten bereinigten 
+Fassung, das zuletzt durch § 1 Abs. 164 der Verordnung vom 26. März 2019 
+(GVBl. S. 98) geändert worden ist.  
+Bayerische Staatskanzlei, Feuerwehrgesetzausführungsverordnung 
+(AVBayFwG) in der in der Bayerischen Rechtssammlung (BayRS 215-3-1-1-I) 
+veröffentlichten bereinigten Fassung, die zuletzt durch § 1 Abs. 165 der 
+Verordnung vom 26. März 2019 (GVBl. S. 98) geändert worden ist.  
+Bayerische Staatskanzlei, Verfassung des Freistaates Bayern in der Fassung 
+der Bekanntmachung vom 15. Dezember 1998 (GVBl. S. 991, 992, BayRS 100-
+1-I), die zuletzt durch Gesetze vom 11. November 2013 (GVBl. S. 638, 639, 640, 
+641, 642) geändert worden ist, 2013.  
+Bundesamt für Justiz, Bundesbeamtengesetz vom 5. Februar 2009 (BGBl. I S. 
+160), das zuletzt durch Artikel 2 des Gesetzes vom 29. November 2018 (BGBl. I 
+S. 2232) geändert worden ist.  
+Bundesamt für Justiz, Bürgerliches Gesetzbuch in der Fassung der 
+Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), das 
+zuletzt durch Artikel 7 des Gesetzes vom 31. Januar 2019 (BGBl. I S. 54) 
+geändert worden ist.  
+Bundesamt für Justiz, Das Dritte Buch Sozialgesetzbuch – Arbeitsförderung – 
+(Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594, 595), das zuletzt 
+durch Artikel 2 des Gesetzes vom 22. November 2019 (BGBl. I S. 1756) 
+geändert worden ist.  
+Bundesamt für Justiz, Das Fünfte Buch Sozialgesetzbuch – Gesetzliche 
+Krankenversicherung – (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I 
+S. 2477, 2482), das zuletzt durch Artikel 12 des Gesetzes vom 9. August 2019 
+(BGBl. I S. 1202) geändert worden ist.  
+Bundesamt für Justiz, Das Vierte Buch Sozialgesetzbuch – Gemeinsame 
+Vorschriften für die Sozialversicherung – in der Fassung der Bekanntmachung 
+vom 12. November 2009 (BGBl. I S. 3710, 3973; 2011 I S. 363), das zuletzt 
+durch Artikel 46 des Gesetzes vom 15. August 2019 (BGBl. I.  
+Bundesamt für Justiz, Grundgesetz für die Bundesrepublik Deutschland in der im 
+Bundesgesetzblatt Teil III, Gliederungsnummer 100-1, veröffentlichten 
+bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 15. 
+November 2019 (BGBl. I S. 1546) geändert worden ist.  
+Bundesamt für Justiz, Mindestlohngesetz vom 11. August 2014 (BGBl. I S. 
+1348), das zuletzt durch Artikel 14 des Gesetzes vom 11. Juli 2019 (BGBl. I S. 
+1066) geändert worden ist.  
+Bundesfinanzhof, Urteile vom 22.03.1985 - VI R 170/82 - BStBl. II 1985, 529; - VI 
+R 82/83 - BStBl. II 1985, 532; - VI R 26/82 - BStBl. II 1985, 641 und vom 
+04.06.1993 - VI R 95/92 - BStBl. II 1993, 687.  
+
+Rechtsquellen 
+ 
+ 
+28 
+Bundesministerium der Finanzen, Einkommensteuergesetz in der Fassung der 
+Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366, 3862), das zuletzt 
+durch Artikel 1 des Gesetzes vom 4. August 2019 (BGBl. I S. 1122) geändert 
+worden ist.  
+Bundessozialgericht, Urteil vom 27.06.1991, 2 RU 26/90.  
+Bundesverwaltungsgericht, Urteil vom 10.03.1994, 2 C 11.93.  
+Europäischer Gerichtshof, Urteil vom 21.08.2018, AZ C 518/15.  
+Hessischer Landtag, Verfassung des Landes Hessen vom 1. Dezember 1946 
+(GVBl. S. 229) zuletzt zuletzt geändert durch Gesetz vom 12. Dezember 2018 
+(GVBl. S. 752).  
+Hessischer Verwaltungsgerichtshof, Urteil vom 17.01.1992, 11 EU 1567/88.  
+Hessisches Ministerium des Inneren und für Sport, Erlass über die Verleihung 
+einer Anerkennungsprämie des Landes Hessen für langjährige Dienste in den 
+Einsatzabteilungen der Freiwilligen Feuerwehren in Hessen vom 24. November 
+2015 (StAnz. Nr. 51/2015, S. 1300).  
+Hessisches Ministerium des Inneren und für Sport, Hessisches Gesetz über den 
+Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz (HBKG) in der 
+Fassung der Bekanntmachung vom 14. Januar 2014 (GVBl. S. 26), zuletzt 
+geändert durch Gesetz vom 23. August 2018 (GVBl. S. 374).  
+Hessisches Ministerium des Inneren und für Sport, Verordnung über die 
+Organisation, Mindeststärke und Ausrüstungder öffentlichen Feuerwehren 
+(Feuerwehr-Organisationsverordnung –FwOV)(GVBl. Nr. 30 vom 23. Dezember 
+2013, Seite 693).  
+Hessisches Ministerium des Innern und für Sport, Verordnung über die Dienst- 
+und Reisekostenaufwandsentschädigung für ehrenamtliche 
+Feuerwehrangehörige, die ständig zu besonderen Dienstleistungen 
+herangezogen werden vom 18. Dezember 2012 (GVBl. 2012, 671), 2012.  
+Hessisches Ministerium des Innern und für Sport, Verordnung über die Dienst-
+und Reisekostenaufwandsentschädigung für ehrenamtliche 
+Feuerwehrangehörige, die ständig zu besonderen Dienstleistungen 
+herangezogen werden (FwDRAVO) vom 18.12.2012 (GVBl. 2012, 671).  
+Justizbehörde Hamburg, Feuerwehrgesetz vom 23. Juni 1986 , zuletzt geändert 
+druch Artikel 2 des Gesetzes vom 18. Mai 2018 (HmbGVBl. S. 182).  
+Landessozialgericht, Baden-Württemberg vom 29.07.2014 – L 9 U 4701/11.  
+Ministerium der Finanzen NRW, Erlass "Ertragsteuerliche Behandlung von 
+Vergütungen und Aufwandsentschädigungen an Mitglieder der Feuerwehren" 
+vom 03.12.2013 – S 2337 – 32 V B 3.  
+Ministerium der Justiz Rheinland Pfalz, Feuerwehr-Entschädigungsverordnung 
+vom 12. März 1991, zuletzt geändert durch Artikel 1 der Verordnung vom 
+26.01.2015 (GVBl. S. 14).  
+Ministerium der Justiz Rheinland-Pfalz, Landesgesetz über den Brandschutz, die 
+allgemeine Hilfe und den Katastrophenschutz (Brand- und 
+Katastrophenschutzgesetz - LBKG -) Vom 2. November 1981 zuletzt geändert 
+durch Artikel 15 des Gesetzes vom 19.12.2018 (GVBl. S. 448).  
+
+Rechtsquellen 
+ 
+ 
+29 
+Ministerium der Justiz und für Europa und Verbraucherschutz des Landes 
+Brandenburg, Gesetz über die Gewährung von Jubiläumsprämien und 
+pauschaliertem Aufwandsersatz, die Verleihung von Medaillen für Treue Dienste 
+und die Stiftung von Ehrenzeichen im Brand- und Katastrophenschutz vom 30. 
+April 2019 (GVBl.I/19, [Nr. 9]).  
+Ministerium des Inneren des Landes Nordrhein-Westfalen, Gesetz über den 
+Brandschutz, die Hilfeleistung und den Katastrophenschutz (BHKG) vom 17. 
+Dezember 2015 (GV. NRW. S. 886).  
+Ministerium des Inneren des Landes Nordrhein-Westfalen, Verordnung über die 
+Entschädigung der Mitglieder kommunaler Vertretungen und Ausschüsse, 2014.  
+Ministerium des Inneren, Bauen und Sport Saarland, Feuerwehr-
+Entschädigungsverordnung (FwEVO) Vom 25. Januar 2008 zuletzt geändert 
+durch die Verordnung vom 17. September 2014 (Amtsbl. I S. 384).  
+Ministerium des Inneren, Bauen und Sport Saarland, Gesetz über den 
+Brandschutz, die Technische Hilfe und den Katastrophenschutz im Saarland 
+(SBKG) Vom 29. November 2006 zuletzt geändert durch das Gesetz vom 22. 
+August 2018 (Amtsbl. I S. 674).  
+Ministerium des Innern und für Kommunales Brandenburg, Gesetz über den 
+Brandschutz, die Hilfeleistung und den Katastrophenschutz des Landes 
+Brandenburg - BbgBKG vom 24. Mai 2004, zuletzt geändert durch Artikel 2 des 
+Gesetzes vom 19. Juni 2019 (GVBl.I/19, [Nr. 43], S.25).  
+Ministerium für Inneres und Europa Mecklenburg-Vorpommern, Gesetz über den 
+Brandschutz und die Technischen Hilfeleistungen durch die Feuerwehren für 
+Mecklenburg-Vorpommern (M-V - BrSchG) in der Fassung der Bekanntmachung 
+vom 21. Dezember 2015 (GVOBl. M-V 2015, S. 612).  
+Ministerium für Inneres und Europa Mecklenburg-Vorpommern, Verordnung über 
+die Aufwands- und Verdienstausfallentschädigung für die ehrenamtlich Tätigen 
+der Freiwilligen Feuerwehren und der Pflichtfeuerwehren in Mecklenburg-
+Vorpommern (FwEntschVO M-V) Vom 28.11.2013 (GVOBl. M-V 2013, S. 667).  
+Ministerium für Inneres und Sport des Landes Sachsen-Anhalt, Brandschutz-und 
+Hilfeleistungsgesetz des Landes Sachsen-Anhalt(Brandschutzgesetz -BrSchG)in 
+der Fassung der Bekanntmachung vom 7. Juni 2001, zuletzt geändert durch § 1 
+des Gesetzes vom 12. Juli 2017 (GVBl. LSA S. 133).  
+Ministerium für Inneres und Sport des Landes Sachsen-Anhalt, Runderlass zur 
+Aufwandsentschädigung für in ein Ehrenamt oder zu sonstiger ehrenamtlicher 
+Tätigkeit Berufene RdErl. des MI vom 16. 6. 2014 – 31.21-10041 (MBl. LSA 
+2014, S. 264).  
+Ministerium für Inneres, Digitalisierung und Migration Baden-Württemberg, 
+Feuerwehrgesetz (FwG) in der Fassung vom 2. März 2010, zuletzt geändert 
+durch Artikel 12 des Gesetzes vom 21. Mai 2019 (GBl. S. 161, 185).  
+Ministerium für Inneres, ländliche Räume und Integration des Landes Schleswig-
+Holstein, Gesetz über den Brandschutz und die Hilfeleistungen der Feuerwehren 
+(Brandschutzgesetz - BrSchG) Vom 10. Februar 1996, zuletzt geändert Art. 18 
+LVO v. 16.01.2019, GVOBl. S. 30.  
+ 
+
+Rechtsquellen 
+ 
+ 
+30 
+Ministerium für Inneres, ländliche Räume und Integration des Landes Schleswig-
+Holstein, Landesverordnung über die Entschädigung der Wehrführungen der 
+freiwilligen Feuerwehren und ihrer Stellvertretungen (Entschädigungsverordnung 
+freiwillige Feuerwehren - EntschVOfF) Vom 28. März 2018.  
+Niedersächsisches Finanzgericht, Urteil vom 24.08.2007, 1 K 11553/04.  
+Niedersächsisches Ministerium für Inneres und Sport, Niedersächsisches Gesetz 
+über den Brandschutz und die Hilfeleistung der Feuerwehr (Niedersächsisches 
+Brandschutzgesetz - NBrandSchG) Vom 18. Juli 2012 zuletzt geändert durch 
+Artikel 3 § 6 des Gesetzes vom 20.05.2019 (Nds. GVBl. S. 88).  
+Sächsisches Landesarbeitsgericht, Urteil vom 20.05.2011, 3 Sa 579/10.  
+Sächsisches Staatsministerium des Innern, Feuerwehr-
+Entschädigungsverordnung vom 28. Dezember 1999 (SächsGVBl. 2000 S. 15), 
+die durch Artikel 13 der Verordnung vom 12. Dezember 2001 (SächsGVBl. 2002 
+S. 3) geändert worden ist.  
+Sächsisches Staatsministerium des Innern, Sächsisches Gesetz über den 
+Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 
+(SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 
+(SächsGVBl. S. 521) geändert worden ist.  
+Senator für Inneres, Bremisches Hilfeleistungsgesetz (BremHilfeG) vom 21. Juni 
+2016 (Brem.GBl. 2016, 348), zuletzt §§ 61, 63, 64 und 65 geändert durch Artikel 
+7 des Gesetzes vom 08. Mai 2018 (Brem.GBl. S. 149, 156).  
+Senatsverwaltung für Inneres und Sport, Gesetz über die Feuerwehren im Land 
+Berlin (Feuerwehrgesetz - FwG) Vom 23. September 2003 zuletzt geändert 
+durch Artikel 1 des Gesetzes vom 09.05.2016 (GVBl. S. 240).  
+Senatsverwaltung für Inneres und Sport, Verordnung über die Festsetzung von 
+Pauschalbeträgen als Auslagenersatz für die Angehörigen der Freiwilligen 
+Feuerwehren Berlins Vom 20. Dezember 2017 (FRFeuerwAuslEV).  
+Sozialgericht Bayreuth, Urteil vom 03.08.2005, S 5 KR 223/00.  
+Thüringer Ministerium für Inneres und Kommunales, Thüringer Feuerwehr-
+Entschädigungsverordnung (ThürFwEntschVO) Vom 21. Dezember 1993, zuletzt 
+geändert durch Artikel 15 der VO vom 11. Dezember 2001, GVBL. 2002, S. 92.  
+Thüringer Ministerium für Inneres und Kommunales, Thüringer Gesetz über den 
+Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz (Thüringer 
+Brand- und Katastrophenschutzgesetz - ThürBKG -) vom 5. Februar 2008, 
+zuletzt geändert durch Artikel 1 des Gesetzes vom 29. Juni 2018 (GVBl. S. 317).  
+Verfassungsgerichtshof Rheinland-Pfalz, Urteil vom 18.03.1992, VGH 3/91.  
+Verwaltungsgericht Gießen, Urteil vom 19.08.2002, Az. 10 E 2167/02.  
+Verwaltungsgerichtshof Baden-Württemberg, Urteil vom 08.05.1990, 10 S 
+343/90.  
+ 
+
+Anhang 
+ 
+ 
+31 
+Anhang 
+A Fragebogen 
+ 
+ 
+
+Anhang 
+ 
+ 
+32 
+B Übersicht Abfrage 
+Kommune 
+Bundesland 
+Gesprächspartner 
+Arnstadt 
+Thüringen 
+Stadtbrandinspektor 
+Bad Nauheim 
+Hessen 
+Stadtbrandinspektor 
+Bad Soden 
+Hessen 
+Stlv. Leiter der Feuerwehr 
+Bad Vilbel 
+Hessen 
+Stadtbrandinspektor 
+Bischoffen 
+Hessen 
+Gemeindebrandinspektor 
+Bremen 
+Bremen 
+Personal und Organisation FF 
+Driedorf 
+Hessen 
+Gemeindebrandinspektor 
+Ehringshausen 
+Hessen 
+Gemeindebrandinspektor 
+Fernwald 
+Hessen 
+Brandschutzaufsicht 
+Friedberg 
+Hessen 
+Leiter der Feuerwehr 
+Fulda (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Gießen (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Groß Gerau (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Gronau 
+Nordrhein-Westfalen 
+Mitglied des Stadtparlaments 
+Großenlüder 
+Hessen 
+Leiter der Feuerwehr 
+Hamburg 
+Hamburg 
+Geschäftsführer LBF 
+Herborn 
+Hessen 
+Leiter der Feuerwehr 
+Hersfeld-Rotenburg (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Hofbieber 
+Hessen 
+Leiter der Feuerwehr 
+Kassel (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Kelkheim 
+Hessen 
+Stadtbrandinspektor 
+Köln 
+Nordrhein-Westfalen 
+Grundsatzangelegenheiten FF 
+Lemgo 
+Nordrhein-Westfalen 
+Leiter der Feuerwehr 
+Ludwigsburg 
+Baden-Württemberg 
+Leiter der Feuerwehr 
+Main-Kinzig-Kreis 
+Hessen 
+Kreisbrandinspektor 
+Main-Taunus-Kreis 
+Hessen 
+Sachgebietsleiter  
+Marburg 
+Hessen 
+Leiter der Feuerwehr 
+Marburg-Biedenkopf (Landkreis) Hessen 
+Kreisbrandinspektor 
+Mücke 
+Hessen 
+Stadtbrandinspektor 
+Offenbach (Landkreis) 
+Hessen 
+Kreisbrandinspektor 
+Ratingen 
+Nordrhein-Westfalen 
+Leiter der Feuerwehr 
+Remscheid 
+Nordrhein-Westfalen 
+Sachbearbeiter FF 
+Schotten 
+Hessen 
+Stadtbrandinspektor 
+Vlotho 
+Nordrhein-Westfalen 
+Leiter der Feuerwehr 
+Vogelsbergkreis 
+Hessen 
+Kreisbrandinspektor 
+Werra-Meißner-Kreis 
+Hessen 
+Kreisbrandinspektor 
+Wetteraukreis  
+Hessen 
+Kreisbrandinspektor 
+Wetzlar 
+Hessen 
+Stlv. Leiter der Feuerwehr 
+ 
+ 
+ 
+
+Anhang 
+ 
+ 
+33 
+C Übersicht der gesetzlichen Regelungen 
+Bundesland 
+Funktionsträger 
+Ausbildung/Übung 
+Brand- und 
+Sicherheitswache 
+Einsatz / 
+Bereitschafts-
+dienst 
+Baden-
+Württemberg 
+Individuelle Regelung durch Satzung der Kommune 
+Bayern 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Ja, wenn kein 
+Lohnausfall 
+Keine Regelung 
+Berlin 
+Monatliche Pau-
+schale 
+Stundenpauschale 
+für Übung 
+Tagespauschale für 
+Lehrgänge BFRA 
+Stundenpauschale 
+Stunden-
+pauschale 
+Brandenburg 
+Individuelle Regelung durch Satzung der Kommune 
+Bremen 
+Aufwandsentschädigungen nach Maßgabe des Haushaltsplanes 
+Hamburg 
+Aufwandsentschädigungen nach Maßgabe des Haushaltsplanes 
+Hessen 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Ja, wenn kein 
+Lohnausfall 
+Keine Regelung 
+Mecklenburg-
+Vorpommern 
+Nur Leitung 
+Weitere Funktions-
+träger nach Sat-
+zung 
+Keine Regelung 
+Keine Regelung 
+Keine Regelung 
+Niedersachsen 
+Individuelle Regelung durch Satzung der Kommune 
+Nordrhein-
+Westfalen 
+Individuelle Regelung durch Satzung der Kommune 
+Rheinland-Pfalz 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Regelung in 
+Hauptsatzung der 
+Gemeinde 
+Wenn hauptamtli-
+che Aufgaben 
+übernommen wer-
+den 
+Saarland 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Keine Regelung 
+Keine Regelung 
+Sachsen 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Keine Regelung 
+Keine Regelung 
+Sachsen-Anhalt 
+Individuelle Regelung durch Satzung der Kommune 
+Schleswig-
+Holstein 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Keine Regelung 
+Keine Regelung 
+Thüringen 
+Monatliche Pau-
+schale 
+Keine Regelung 
+Keine Regelung 
+Wenn hauptamtli-
+che Aufgaben 
+übernommen wer-
+den 
+ 
+ 
+
+Anhang 
+ 
+ 
+34 
+D Mindmap Aufwandsentschädigung 
+ 
+ 
+ 
+
+Anhang 
+ 
+ 
+35 
+E Gesprächsprotokolle 
+ 
+ 
+
+Anhang 
+ 
+ 
+36 
+ 
+ 
+ 
+
+Eidesstattliche Erklärung 
+ 
+ 
+37 
+Eidesstattliche Erklärung 
+Hiermit versichere ich, Harald Stürtz, die vorliegende Arbeit selbständig, ohne fremde 
+Hilfe und ohne Benutzung anderer als der von mir angegebenen Quellen angefertigt 
+zu haben. Alle aus fremden Quellen direkt oder indirekt übernommenen Gedanken 
+sind als solche gekennzeichnet.  
+Die Arbeit wurde noch keiner Prüfungsbehörde in gleicher oder ähnlicher Form vor-
+gelegt. 
+ 
+Eschenburg, 17.12.2019 
+ 
+ 
+.......................................................... 
+Harald Stürtz 

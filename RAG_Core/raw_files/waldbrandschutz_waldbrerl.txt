@@ -1,0 +1,741 @@
+ 
+Anlage 2: Waldbrandrunderlass (10 Seiten) 
+ 
+Normgeber: 
+Ministerium für Inneres und Sport 
+Ministerium für Landwirtschaft, 
+Umwelt und Verbraucherschutz 
+Aktenzeichen: 
+VI-240a 
+Erlassdatum: 
+12.09.2016 
+Fassung vom: 
+12.09.2016 
+Gültig ab: 
+01.01.2017 
+ 
+ 
+Quelle: 
+Gliederungs-Nr: 790-5 
+Normen: 
+§ 1, § 3 - § 5, § 9, § 18, § 27 BrSchG,  
+§ 79 KomVerfG, 
+§ 3, § 11 , § 12, § 15, 
+§ 16 LKatSG M-V, 
+ § 30, § 32 LWaldG,  
+§ 5 - § 7, § 10, § 11, § 13 -18, 
+§ 20 - § 22 WaldBrSchVO 
+Fundstelle: 
+AmtsBl. M-V 2016, 947,  
+ber. 2017, S. 89 
+ 
+ 
+Zusammenarbeit bei der Vorbeugung und Bekämpfung von Waldbränden in Mecklenburg-Vorpommern 
+(Waldbrandrunderlass - WaldBrErl M-V) 
+ 
+Nichtamtliches Inhaltsverzeichnis 
+ 1 Grundlagen 
+   1.1 Rechtsgrundlagen 
+   1.2 Begriffe 
+   1.3 Zuständigkeiten 
+ 2 Maßnahmen zur Vorbeugung von Waldbränden 
+   2.1 Waldbrandschutz- technische Maßnahmen 
+   2.2 Waldbrandrisikogebiete und -gefahrenstufen 
+   2.3 Bereitschaftsdienst-, Einsatz- und Alarmunterlagen 
+   2.4 Überwachung, Alarmierung 
+     2.4.1 Waldbrandüberwachungsanlagen 
+     2.4.2 Waldbrandstreifendienste, Waldbrandbereitschaftsdienste und Waldbrandbereitschaftsdienst-
+zeiten 
+     2.4.3 Alarmierung 
+ 3 Zusammenarbeit zwischen Forstbehörden, Stadt- und Kreisverwaltungen und Feuerwehren bei der 
+Verhütung und Bekämpfung von Waldbränden 
+   3.1 Arbeitsgruppe Waldbrandschutz, Kreiswaldbrandschutzbeauftragte 
+   3.2 Einsatzpläne, Katastrophenschutzplanung 
+   3.3 Einsatzleitung 
+     3.3.1 Einsatzleitung unterhalb des Katastrophenfalles 
+     3.3.2 Einsatzleitung im Katastrophenfall 
+     3.3.3 Mitwirkung der Forstbehörden in der Einsatzleitung 
+   3.4 Hinweis auf Auslösung des Katastrophenfalles bei Waldbränden 
+   3.5 Einsatz von Luftfahrzeugen zur Waldbrandbekämpfung 
+   3.6 Waldbrandeinsatzkarten 
+   3.7 Sperrung von Waldgebieten zur Waldbrandvorsorge 
+ 4 Waldbrandnachsorge 
+ 5 Berichterstattung 
+   5.1 Sofortmeldungen 
+     5.1.1 Forstbehörden 
+     5.1.2 Integrierte Leitstellen 
+   5.2 Monatsmeldung, Waldbrandstatistik, Schadensermittlung 
+     5.2.1 Forstbehörden 
+     5.2.2 Brand- und Katastrophenschutzbehörden 
+ 6 Aus- und Fortbildung, Übungen, Belehrungen 
+   6.1 Aus- und Fortbildung 
+   6.2 Übungen zur Waldbrandbekämpfung 
+   6.3 Funk- und Alarmierungsübung 
+   6.4 Belehrungen 
+ 7 Öffentlichkeitsarbeit 
+ 8 Inkrafttreten, Außerkrafttreten 
+
+ 
+ 
+ 
+   
+Verwaltungsvorschrift des Ministeriums für Landwirtschaft, Umwelt und Verbraucherschutz 
+ und des Ministeriums für Inneres und Sport  
+Vom 12. September 2016 – VI-240a –  
+VV Meckl.-Vorp. Gl. Nr. 790 - 5 
+ 
+Aufgrund des § 22 der Waldbrandschutzverordnung vom 9. August 2016 (GVOBl. M-V S. 730) erlassen das Minis-
+terium für Landwirtschaft, Umwelt und Verbraucherschutz und das Ministerium für Inneres und Sport folgende 
+Verwaltungsvorschrift: 
+ 
+ 
+1  
+Grundlagen 
+ 
+1.1  
+Rechtsgrundlagen 
+ 
+Zur Durchsetzung von Vorbeugungs- und Abwehrmaßnahmen bei Waldbränden sind folgende Vor-
+schriften zu berücksichtigen: 
+ 
+-  
+Landeswaldgesetz in der Fassung der Bekanntmachung vom 27. Juli 2011 (GVOBl. M-V S. 870), 
+das durch Artikel 14 des Gesetzes vom 27. Mai 2016 (GVOBl. M-V S. 431, 436) geändert worden 
+ist (nachfolgend LWaldG genannt), 
+ 
+-  
+Brandschutz- und Hilfeleistungsgesetz M-V in der Fassung der Bekanntmachung vom 21. Dezem-
+ber 2015 (GVOBl. M-V S. 612; 2016 S. 20) (nachfolgend BrSchG genannt), 
+ 
+-  
+Landeskatastrophenschutzgesetz in der Fassung der Bekanntmachung vom 15. Juli 2016 (GVOBl. 
+M-V S. 611) (nachfolgend LKatSG M-V genannt), 
+ 
+-  
+Waldbrandschutzverordnung vom 9. August 2016 (GVOBl. M-V S. 730) (nachfolgend WaldBrSch-
+VO genannt). 
+ 
+Darüber hinaus wird auf die Festlegungen des Sprengstoffrechts zu pyrotechnischen Erzeugnissen und 
+die Verordnung zur Verhütung von Bränden durch die Benutzung von ballonartigen Leuchtkörpern vom 
+3. August 2009 (GVOBl. M-V S. 471) zum Verbot der so genannten Skylaternen hingewiesen. 
+ 
+ 
+ 
+
+ 
+1.2  
+Begriffe 
+ 
+Lfd. 
+Nr. 
+Begriffe 
+Erläuterung 
+1. 
+Ministerium für Landwirtschaft, 
+Umwelt und Verbraucherschutz  
+(nachfolgend LU genannt) 
+oberste Forstbehörde 
+gemäß § 32 Absatz 1 LWaldG 
+2. 
+Landesforstanstalt (nachfolgend LFoA ge-
+nannt) und 
+Nationalparkämter (nachfolgend NPÄ ge-
+nannt) 
+untere Forstbehörden 
+gemäß § 32 Absatz 3 LWaldG 
+3. 
+Forstämter (nachfolgend FoÄ genannt) 
+Dienststellen der LFoA 
+4. 
+Leitforstämter 
+  
+Dienststellen der LFoA mit Sonderaufgaben für 
+den Waldbrandschutz gemäß § 15 WaldBrSchVO 
+5. 
+Forstreviere 
+Dienststellen der LFoA und der NPÄ 
+6. 
+Ministerium für Inneres und Sport 
+(nachfolgend IM genannt) 
+oberste Katastrophenschutzbehörde 
+gemäß § 3 Absatz 1 Nummer 1 LKatSG M-V 
+  
+oberste Rechtsaufsichtsbehörde gemäß § 27 
+BrSchG in Verbindung mit § 79 der Kommunal-
+verfassung  
+7. 
+Landesamt für zentrale Aufgaben und Technik 
+der Polizei, Brand- und Katastrophenschutz 
+(nachfolgend LPBK genannt) 
+obere Katastrophenschutzbehörde 
+gemäß § 3 Absatz 1 Nummer 2 LKatSG M-V 
+8. 
+Landräte der Landkreise, Oberbürgermeister 
+der kreisfreien Städte als Kreisordnungsbe-
+hörden 
+untere Katastrophenschutzbehörde 
+gemäß § 3 Absatz 1 Nummer 3 LKatSG M-V 
+  
+9. 
+Fachamt 
+Brandschutzdienststelle für Brandschutz und 
+technische Hilfeleistung gemäß § 3 Absatz 2 
+Nummer 1 BrSchG sowie 
+zuständiges Fachamt für Katastrophenschutz 
+und Rettungswesen des Landkreises oder der 
+kreisfreien Stadt 
+10. 
+integrierte (Feuerwehreinsatz- und Rettungs-) 
+Leitstelle mehrerer Landkreise und kreisfreier 
+Städte 
+Informations- und Koordinationsstellen der 
+Landkreise und kreisfreien Städte gemäß § 3 
+Absatz 2 Nummer 4 BrSchG  
+11. 
+Lagezentrum des IM 
+(nachfolgend LZ IM genannt) 
+Informations- und Koordinationsstelle des Minis-
+teriums für Inneres und Sport 
+12. 
+Öffentliche Feuerwehr 
+(nachfolgend ÖFW genannt) 
+freiwillige Feuerwehren, Berufsfeuerwehren und 
+Pflichtfeuerwehren gemäß § 5 BrSchG 
+13. 
+Gefahrenabwehrbehörden 
+die in den §§ 1 bis 4 und 9 BrSchG genannten 
+Behörden und Einrichtungen 
+  
+ 
+1.3  
+Zuständigkeiten 
+ 
+1.3.1  
+Der vorliegende Waldbrandrunderlass gilt grundsätzlich für die Forstbehörden und Forstdienststellen 
+sowie die für Brand-, Katastrophenschutz und Rettungswesen zuständigen Behörden des Landes, der 
+Landkreise und kreisfreien Städte, Ämter und Gemeinden sowie deren Einrichtungen der öffentlichen 
+Feuerwehren. Alle Waldbesitzer beteiligen sich am Waldbrandschutz nach Maßgabe der in Nummer 
+1.1 genannten Rechtsgrundlagen. 
+ 
+1.3.2  
+Die oberste Forstbehörde und die oberste Katastrophenschutzbehörde geben dem jeweils anderen 
+Ressort weiterführende Verwaltungsvorschriften zum Waldbrandschutz zur Kenntnis. Die oberste 
+Forstbehörde regelt für die Forstbehörden durch Verwaltungsvorschrift weitere Einzelheiten zu den 
+Nummern 2.1, 2.2, 2.3, 2.4.2, 2.4.3, 3.1, 3.3.3, 3.6, 3.7, 4, 5.1.1, 5.2.1 und 6.4. 
+ 
+ 
+
+ 
+2  
+Maßnahmen zur Vorbeugung von Waldbränden 
+ 
+2.1  
+Waldbrandschutz-technische Maßnahmen 
+ 
+2.1.1  
+Die Durchführung und Finanzierung von waldbaulich-technischen Maßnahmen, wie das Anlegen von 
+Wund- und Schutzstreifen sowie Waldbrandriegeln, das Vorhalten eines für Lösch- und Rettungsfahr-
+zeuge geeigneten Wegenetzes sowie die Bereitstellung und Lagerung von Waldbrandbekämpfungsge-
+räten regeln die §§ 6 bis 10 WaldBrSchVO. Für Löschwasserentnahmestellen in Wäldern gilt § 12 und 
+für Waldbrandüberwachungsanlagen § 14 WaldBrSchVO. 
+ 
+2.1.2  
+Für den vorbeugenden Brandschutz bei und in Vorbereitung der Ernte sowie der Einlagerung brennba-
+rer pflanzlicher Erzeugnisse wird in Ergänzung von § 5 WaldBrSchVO auf die Empfehlungen zu Maß-
+nahmen des vorbeugenden Brandschutzes in Vorbereitung und Durchführung der Ernte sowie bei der 
+Einlagerung brennbarer pflanzlicher Erzeugnisse vom 6. Juni 2000 (AmtsBl. M-V S. 1005) verwiesen. 
+ 
+2.1.3  
+Die Anlage von Wund- und Schutzstreifen, deren Notwendigkeit sich aus Neubau-, Rekonstruktions- 
+und Erweiterungsvorhaben der in § 7 WaldBrSchVO genannten Gefährdungspunkte ergibt, ist als For-
+derung in Planfeststellungsverfahren aufzunehmen. Die Zustimmung zur Planfeststellung ist durch die 
+Forstbehörde zu versagen, wenn dieser Forderung nicht entsprochen wird. 
+ 
+2.1.4  
+Das vorhandene Waldbrandüberwachungssystem ist zu erhalten und erforderlichenfalls so zu erwei-
+tern, dass mindestens in Gebieten mit mittlerem und hohem Waldbrandrisiko (B und A) eine sichere 
+Ortung von Brandherden gewährleistet ist. Die Anlage, Nutzung und Unterhaltung von Waldbrand-
+überwachungsanlagen erfolgt entsprechend § 14 WaldBrSchVO. 
+ 
+2.1.5  
+Zur Sicherung der Einsatzbereitschaft der Forst sind alle Maßnahmen des vorbeugenden Waldbrand-
+schutzes, wie die Erstellung von Einsatz- und Alarmunterlagen, die Überprüfung der Waldbrandüber-
+wachungsanlagen, Löschwasserentnahmestellen und forsteigener Löschtechnik, das Anlegen und Un-
+terhalten von Wundstreifen sowie die Einweisung und Schulung der Dienstkräfte der Forstwirtschaft, 
+jährlich bis zum 1. März in Verantwortung der Forstbehörden und Waldbesitzer durchzuführen. 
+ 
+2.1.6  
+Die Sicherung der Einsatzbereitschaft der Kräfte des Brand- und Katastrophenschutzes wird auf Grund-
+lage der geltenden Rechtslage gewährleistet. Darüber hinaus erfolgt die Einweisung und Schulung der 
+Kräfte der ÖFW im Rahmen der Aus- und Fortbildung gemäß Nummer 6. Die Kreis- und Gemeinde-
+wehrführer weisen ihre Kräfte auf die Waldbrandproblematik vor Beginn der Waldbrandsaison hin. 
+ 
+ 
+2.2  
+Waldbrandrisikogebiete und -gefahrenstufen 
+ 
+2.2.1  
+Die Einteilung der Wälder in Waldbrandrisikogebiete und das Auslösen von Waldbrandgefahrenstufen 
+erfolgt nach § 16 Absatz 1 und 2 WaldBrSchVO. 
+ 
+2.2.2  
+Für das Ermitteln, Auslösen, Verändern und Aufheben der Waldbrandgefahrenstufen sind die Leitfor-
+stämter nach § 15 WaldBrSchVO verantwortlich. Die damit verbundenen Informationspflichten sind in 
+der Anlage zu § 16 Absatz 3 WaldBrSchVO enthalten. 
+ 
+ 
+2.3  
+Bereitschaftsdienst-, Einsatz- und Alarmunterlagen 
+ 
+2.3.1  
+Die Bereitschaftsdienst-, Einsatz- und Alarmunterlagen sind spätestens bis zum 1. März in der jeweils 
+aktuellen Fassung den beteiligten Behörden oder Dienststellen in geeigneter Weise zu übergeben. Er-
+geben sich innerhalb der Waldbrandsaison notwendige Veränderungen, sind diese umgehend unterei-
+nander bekannt zu geben. 
+ 
+2.3.2  
+Die Bereitschaftsdienstpläne werden entsprechend der ausgelösten Waldbrandgefahrenstufe oder der 
+Einsatzdokumente wirksam. 
+ 
+2.3.3  
+Die Bereitschaftsdienstpläne des LU und der LFoA sind durch das LU an das LPBK und das LZ IM zu 
+übergeben. Das LPBK übergibt seinen Bereitschaftsplan an das LU. 
+ 
+2.3.4  
+Die Fachämter übergeben den Leitforstämtern in ihrem Zuständigkeitsbereich jeweils zum 1. März des 
+Jahres und im Folgenden bei Veränderungen 
+
+ 
+ 
+a)  
+die Anschriften- und Telefonverzeichnisse der Gemeinde- und Amtsverwaltungen, 
+ 
+b)  
+die Anschrift und das Telefonverzeichnis des Fachamtes, 
+ 
+c)  
+die Anschrift und das Telefonverzeichnis der zugeordneten integrierten Leitstelle. 
+ 
+2.3.5  
+Das IM und das LU tauschen ebenfalls die wichtigsten Kontaktdaten zum 1. März des Jahres aus. 
+ 
+ 
+2.4  
+Überwachung, Alarmierung 
+ 
+2.4.1  
+Waldbrandüberwachungsanlagen 
+ 
+Für die Besetzung der vorhandenen Waldbrandüberwachungsanlagen ist nach Auslösung der Wald-
+brandgefahrenstufen der Leiter oder die Leiterin der Forstbehörde verantwortlich. 
+ 
+Durch das zuständige Leitforstamt sind die Zusammenarbeit und der Informationsaustausch bei Wald-
+brandmeldungen von Waldbrandüberwachungsanlagen aus mit den Bundesforstbetrieben und den 
+benachbarten Bundesländern zu sichern. 
+ 
+Im Rahmen der bestehenden Vereinbarung zwischen dem LU und der Regionaldirektion für Waldbe-
+stände Szczecin vom 25. Juli 2006 Bereich Waldschutz mit Schwerpunkt Waldbrandschutz ist darüber 
+hinaus mit der Regionaldirektion eine forstseitige länderübergreifende Alarmierung zu entwickeln. Zu-
+ständig für die Koordinierung einer länderübergreifenden Waldbrandbekämpfung sind der Landkreis 
+sowie das IM. 
+ 
+2.4.2  
+Waldbrandstreifendienste, Waldbrandbereitschaftsdienste und Waldbrandbereitschaftsdienstzeiten 
+ 
+Die Waldbrandstreifen- und Waldbrandbereitschaftsdienste sowie die Waldbrandbereitschaftsdienst-
+zeiten regelt das LU durch Verwaltungsvorschrift. 
+ 
+2.4.3  
+Alarmierung 
+ 
+Alle Alarmierungen haben eine möglichst präzise Brandherdortung und zeitnahe Aufnahme der Wald-
+brandbekämpfung zum Ziel. 
+ 
+Die Alarmierungswege im Forstbereich sind durch die Leiter und Leiterinnen der FoÄ und NPÄ, der 
+Bundesforstbetriebe und der nichtstaatlichen Forstverwaltungen im Einvernehmen mit dem jeweiligen 
+Leitforstamt, dem oder der Kreiswaldbrandschutzbeauftragten und den Gefahrenabwehrbehörden 
+festzulegen. Dabei sind die örtlichen Gegebenheiten, vor allem die Art und Weise der Brandherdor-
+tung, die zur Verfügung stehenden Kommunikationsmittel und die Waldbrandgefährdung zu berück-
+sichtigen. 
+ 
+Die Alarmierungswege bei den Gefahrenabwehrbehörden regeln sich nach den gesetzlichen Bestim-
+mungen sowie den jeweils geltenden Verwaltungsvorschriften. 
+ 
+ 
+3  
+Zusammenarbeit zwischen Forstbehörden, Stadt- und Kreisverwaltungen und Feuerwehren bei der 
+Verhütung und Bekämpfung von Waldbränden 
+ 
+3.1  
+Arbeitsgruppe Waldbrandschutz, Kreiswaldbrandschutzbeauftragte 
+ 
+3.1.1  
+Die Bildung von Arbeitsgruppen für den Waldbrandschutz (nachfolgend AG Waldbrandschutz genannt) 
+ist in § 20 Absatz 3 bis 5 WaldBrSchVO geregelt. 
+ 
+3.1.2  
+Alle Landkreise und kreisfreien Städte mit hohem und mittlerem Waldbrandrisiko (A und B) führen 
+jährlich vor Beginn der Waldbrandsaison eine Beratung der AG Waldbrandschutz durch. Dabei sind vor 
+allem das Waldbrandgeschehen des vergangenen Jahres auszuwerten sowie Maßnahmen zur Verhü-
+tung und Bekämpfung von Waldbränden, unter anderem Sondereinsatzpläne für das laufende Jahr, 
+festzulegen. Auch in Landkreisen und kreisfreien Städten mit geringem Waldbrandrisiko (C) hat sich 
+diese Vorgehensweise bewährt und sollte fortgeführt werden (§ 20 Absatz 4 WaldBrSchVO). 
+
+ 
+ 
+3.1.3  
+Die Forstbehörden werden durch die Kreiswaldbrandschutzbeauftragten in der AG Waldbrandschutz 
+vertreten. Dies gilt auch für die Bundesforstbetriebe und nichtstaatlichen Waldbesitzer, sofern kein ei-
+gener Vertreter nach § 20 Absatz 3 WaldBrSchVO berufen worden ist. 
+ 
+3.1.4  
+Der oder die Kreiswaldbrandschutzbeauftragte soll die Zusammenarbeit der Forstbehörde mit dem 
+Landkreis und der kreisfreien Stadt in der in § 20 Absatz 3 bis 5 WaldBrSchVO sowie in Nummer 3.1 
+genannten AG Waldbrandschutz koordinieren. 
+ 
+3.1.5  
+Das LU benennt die Kreiswaldbrandschutzbeauftragten und ihre Vertreter auf Vorschlag der Forstbe-
+hörden aus dem Kreis der Leiter und Leiterinnen der Leitforstämter für den Waldbrandschutz gemäß § 
+15 WaldBrSchVO. Der oder die Kreiswaldbrandschutzbeauftragte soll Mitglied des Beraterstabes der 
+unteren Katastrophenschutzbehörde sein. Der Beraterstab wird gemäß § 11 LKatSG M-V von der unte-
+ren Katastrophenschutzbehörde gebildet. 
+ 
+ 
+3.2  
+Einsatzpläne, Katastrophenschutzplanung 
+ 
+3.2.1  
+Für besonders waldbrandgefährdete Gebiete sind von der AG Waldbrandschutz Einsatzpläne zu erar-
+beiten, die eine schnelle Alarmierung und einen wirksamen Einsatz vorhandener Kräfte und Mittel ein-
+schließlich Reserven von Beginn des Brandes an gewährleisten. 
+ 
+3.2.2  
+Für kampfmittelbelastete und altlastenverseuchte Flächen sind gemäß § 20 Absatz 6 WaldBrSchVO 
+Einsatzpläne aufzustellen, in denen Besonderheiten und notwendige Einzelregelungen festzulegen 
+sind. 
+ 
+3.2.3  
+Die Einsatzpläne werden in die Katastrophenschutzplanung (§ 12 LKatSG M-V) integriert. Sie sind jähr-
+lich von der AG Waldbrandschutz bis zum 1. März zu aktualisieren und an: 
+ 
+a)  
+die Leitforstämter zur Weitergabe an die FoÄ und NPÄ sowie 
+ 
+b)  
+die Fachämter zur Weitergabe an die integrierten Leitstellen 
+ 
+zu übergeben. 
+  
+3.2.4  
+Die Fachämter informieren bei Änderungen der Einsatzpläne das LPBK, welches nach § 12 LKatSG M-V 
+einen Katastrophenschutzplan Waldbrand für Mecklenburg-Vorpommern erstellt. 
+ 
+ 
+3.3  
+Einsatzleitung 
+ 
+Die Einsatzleitung für den Brandfall ist in § 18 BrSchG und für den Katastrophenfall in § 16 LKatSG M-V 
+geregelt. Die Prinzipien der Einsatzleitung für Kräfte und Mittel der ÖFW richten sich sowohl im Brand- 
+als auch im Katastrophenfall nach der Feuerwehr-Dienstvorschrift 100 (FwDV100). Auf die „Grundsätze 
+für die Zusammenarbeit der Ministerien bei besonderen Gefährdungslagen, Katastrophen, Krisen und 
+im Verteidigungsfall" vom 16. Dezember 1994 (AmtsBl. M-V 1995 S. 5) wird verwiesen. 
+ 
+ 
+3.3.1  
+Einsatzleitung unterhalb des Katastrophenfalles 
+ 
+Sind neben den ÖFW weitere Kräfte und Mittel in die Maßnahmen der Waldbrandbekämpfung einbe-
+zogen (zum Beispiel Bundeswehr, Polizei, THW) und wird eine Koordinierung der Teilkräfte notwendig, 
+kann die Aufsichtsbehörde die Einsatzleitung übernehmen. Gemäß § 18 Absatz 4 in Verbindung mit § 
+27 BrSchG ist dies der zuständige Landrat oder Oberbürgermeister. 
+ 
+3.3.2  
+Einsatzleitung im Katastrophenfall 
+ 
+Im Katastrophenfall nach § 15 LKatSG M-V gilt § 21 Absatz 2 WaldBrSchVO in Verbindung mit § 16 Ab-
+satz 1 LKatSG M-V. Danach übernimmt die untere Katastrophenschutzbehörde die Leitung des Einsat-
+zes. 
+ 
+Der Berater- oder Verwaltungsstab der unteren Katastrophenschutzbehörde bedient sich zur Durch-
+
+ 
+führung der operativ-taktischen Einsatzmaßnahmen der technischen Einsatzleitung oder des Führungs-
+stabes, welcher aus der technischen Einsatzleitung gebildet wird. 
+ 
+Die technisch- taktischen Maßnahmen obliegen der örtlichen Einsatzleitung oder dem Einsatzleiter 
+nach § 18 BrSchG. 
+  
+Ist eine Hilfeleistung Dritter (zum Beispiel THW, Bundeswehr) zwingend geboten, ist nach § 16 Absatz 2 
+LKatSG M-V zu verfahren. 
+ 
+3.3.3  
+Mitwirkung der Forstbehörden in der Einsatzleitung 
+ 
+Die anwesende ranghöchste Vertretung der Forstbehörde unterstützt bei der Bekämpfung eines Wald-
+brandes die Einsatzleitung vor Ort nach § 21 Absatz 2 WaldBrSchVO. Durch die Forstbehörde ist im 
+Rahmen ihrer Möglichkeiten eine ausreichende Anzahl von Forstfachkräften vor Ort einzusetzen. 
+ 
+Im Katastrophenfall soll eine verantwortliche Person der Forstbehörden im Beraterstab der zuständi-
+gen Katastrophenschutzbehörde mitarbeiten. Solange die untere Katastrophenschutzbehörde den Ein-
+satz führt, sollte dies die Leitung der unteren Forstbehörde sein. Sie kann diese Aufgabe an die Kreis-
+waldbrandschutzbeauftragten oder deren Vertretung übertragen. Bis zu seinem Eintreffen am Einsatz-
+ort übernimmt diese Funktion die anwesende ranghöchste Vertretung der Forstbehörden. Sie wird un-
+terstützt von geeigneten, insbesondere ortskundigen Mitarbeitern, die sie selbst bestimmt oder vom 
+jeweiligen Waldbesitzer. Dabei muss gesichert bleiben, dass die technische Einsatzleitung vor Ort 
+ebenfalls mit geeigneten Mitarbeitern der Forstbehörde besetzt ist. Die Waldbesitzer sind in geeigne-
+ter Weise hinzuzuziehen. 
+ 
+Der Leiter oder die Leiterin der für Forstwirtschaft zuständigen Abteilung der obersten Forstbehörde 
+übernimmt diese Funktion, wenn entsprechend § 16 Absatz 2 LKatSG M-V der Minister für Inneres und 
+Sport als oberste Katastrophenschutzbehörde die Lenkung der Abwehrmaßnahmen an sich zieht oder 
+ein interministerieller Führungsstab gebildet wird. Diese Verfahrensweise gilt auch für den Fall, dass im 
+Vorfeld der Arbeitsstab im LPBK tätig wird. 
+ 
+Näheres regeln der Katastrophenschutzplan Waldbrand des LPBK und die Verwaltungsvorschriften der 
+obersten Forstbehörde. 
+ 
+ 
+3.4  
+Hinweis auf Auslösung des Katastrophenfalles bei Waldbränden 
+ 
+3.4.1  
+Nach § 15 Absatz 3 LKatSG M-V stellt die untere Katastrophenschutzbehörde Eintritt und Ende einer 
+Katastrophe fest. Wirkt die Katastrophe über den Zuständigkeitsbereich der unteren Katastrophen-
+schutzbehörde hinaus, wird auf § 16 Absatz 2 LKatSG M-V verwiesen. Die untere Katastrophenschutz-
+behörde bedient sich dabei der Fachkunde der ÖFW und der zuständigen Forstbehörde. 
+ 
+3.4.2  
+Der Leiter oder die Leiterin der betroffenen unteren Forstbehörde oder der oder die jeweils anwesen-
+de Diensthabende (nach Rücksprache mit der obersten Forstbehörde) unterrichtet die untere Kata-
+strophenschutzbehörde, wenn die Situation einem Katastrophenfall entspricht oder in Kürze entspre-
+chen kann. Folgende Bedingungen müssen gegeben sein: 
+ 
+a)  
+ein Waldbrand hat die Größe von 100 Hektar erreicht (Katastrophenwaldbrand) oder 
+ 
+b)  
+ein Großwaldbrand droht sich zu einem Katastrophenwaldbrand zu entwickeln; das ist dann der 
+Fall, wenn eine ungefähre Größenordnung von 50 Hektar bereits überschritten ist und die Aus-
+breitungsgeschwindigkeit sowie die gefährdeten Bestockungen nach Baumart und Alter einen 
+Katastrophenwaldbrand wahrscheinlich erscheinen lassen, oder 
+ 
+c)  
+bei einem Großwaldbrand besteht eine Ausbreitungstendenz und bewohntes Gebiet oder wich-
+tige Verkehrswege oder Objekte sind so gefährdet, dass deren Sicherung einen massierten Ein-
+satz von Kräften und Mitteln erfordert, die einem Katastrophenfall entsprechen. 
+ 
+ 
+
+ 
+3.4.3  
+Die Vereinbarung über die gegenseitige Hilfeleistung bei Katastrophen und schweren Unglücksfällen 
+zwischen dem Minister für Innere Angelegenheiten und Öffentliche Verwaltung der Republik Polen und 
+dem Ministerium für Inneres und Sport Mecklenburg-Vorpommern vom 18. Juli 2002 regelt die Zu-
+sammenarbeit beider Länder. Auf die Vereinbarung wird zurückgegriffen, wenn die im Hoheitsgebiet 
+der Republik Polen und des Landes Mecklenburg-Vorpommern für die Bekämpfung von Katastrophen 
+und schweren Unglücksfällen zuständigen Behörden, die Unterstützung ihrer eigenen Maßnahmen 
+durch Kräfte und Mittel aus dem Gebiet der Vertragspartei für notwendig erachten. 
+ 
+ 
+3.5  
+Einsatz von Luftfahrzeugen zur Waldbrandbekämpfung 
+ 
+3.5.1  
+Die Entscheidung über den Einsatz von Luftfahrzeugen zur Waldbrandbekämpfung trifft der zuständige 
+Landrat oder der Oberbürgermeister der kreisfreien Stadt. 
+ 
+3.5.2  
+Die Flugplätze und die materielle Einsatzsicherung vor Ort, wie zum Beispiel Löschwasserversorgung, 
+sind für den Einsatzfall zwischen den Kreis-, Stadt-, Amts- oder Gemeindeverwaltungen (Kreis-, 
+Stadtwehrführer, Leiter oder Leiterin der Berufsfeuerwehr, Amts- oder Gemeindewehrführer) und den 
+Leitern oder Leiterinnen der FoÄ oder NPÄ abzustimmen und in den Einsatzplänen für die Landkreise 
+oder kreisfreien Städte festzulegen. 
+ 
+ 
+3.6  
+Waldbrandeinsatzkarten 
+ 
+3.6.1  
+Die Erstellung und Aktualisierung der Waldbrandeinsatzkarten für den Gesamtwald des Landes erfolgt 
+nach § 18 in Verbindung mit § 6 Absatz 5 WaldBrSchVO durch die LFoA. Als Grundlage der digitalen 
+Waldbrandeinsatzkarten dienen die Geobasisdaten des amtlichen Vermessungswesens. Die Wald-
+brandeinsatzkarten werden in digitaler und analoger Form als Übersichtskarten im Maßstab 1 : 50 000 
+mit „Universaler Transversaler Mercatorprojektionsversion (UTM-Gitter)“ ausgegeben. Auf Anforde-
+rung können zusätzlich Karten in den Maßstäben 1 : 25 000 oder 1 : 10 000 von der LFoA bezogen wer-
+den. 
+ 
+3.6.2  
+Die Geobasisdaten des amtlichen Vermessungswesens werden der LFoA vom Landesamt für innere 
+Verwaltung (nachfolgen LAiV genannt) auf Grundlage der Vermessungskostenverordnung und der Vor-
+schrift Entgelte Geobasisdaten LAiV bereitgestellt. 
+ 
+3.6.3  
+Um eine einheitliche Darstellung des Waldes, des Wegenetzes, der Ortschaften und Straßen sowie der 
+waldbrandrelevanten Informationen unter Verwendung einheitlicher Symbole und taktischer Zeichen 
+zu gewährleisten, stimmt sich die LFoA vor jeder Aktualisierung mit dem LPBK ab. 
+ 
+3.6.4  
+Die LFoA übergibt die jeweils aktualisierten Daten kostenfrei an das LPBK zur Bereitstellung für die 
+Landkreise, kreisfreien Städte und Gemeinden. Weiterhin übergibt die LFoA diese Daten dem LAiV für 
+die Führung im Geoportal des Landes. Damit wird ein öffentlicher Zugang auf die digitale Ausgabe der 
+Waldbrandeinsatzkarte ermöglicht. 
+ 
+3.6.5  
+Analoge Karten erhalten die Landkreise, kreisfreien Städte und Gemeinden für Aufgaben des Wald-
+brandschutzes auf Anfrage von der LFoA gebührenfrei. Auslagen der LFoA für Druck und Beschichtung 
+werden von den Landkreisen, kreisfreien Städten und Gemeinden getragen. 
+ 
+3.6.6  
+Die LFoA kann die Karten im Auftrage und gegen Erstattung der Gebühren nach der Forstverwaltungs-
+kostenverordnung an Dritte liefern, soweit diese mit Aufgaben des Waldbrandschutzes befasst sind. 
+ 
+ 
+3.7  
+Sperrung von Waldgebieten zur Waldbrandvorsorge 
+ 
+3.7.1  
+Die Sperrung von Waldgebieten ist in § 17 WaldBrSchVO geregelt. Auf § 30 Absatz 2 und 4 LWaldG 
+wird hingewiesen. 
+ 
+3.7.2  
+Bei einer Sperrung stimmt sich die Forstbehörde, vertreten durch den zuständigen Kreiswaldbrand-
+schutzbeauftragten gemäß Nummer 3.1, mit den Gefahrenabwehrbehörden des Landkreises oder der 
+kreisfreien Stadt im Benehmen ab. Es wird die Erörterung der Sperrung innerhalb der AG Waldbrand-
+schutz empfohlen. 
+ 
+
+ 
+ 
+4  
+Waldbrandnachsorge 
+ 
+4.1  
+Gemäß § 6 Absatz 4 WaldBrSchVO ist eine gelöschte Brandstelle vom Waldbesitzer abzusichern (Wald-
+brandnachsorge). Dabei ist sicherzustellen, dass von einer gelöschten Brandstelle aus kein neuer 
+Waldbrand entsteht. Ist ein Waldbesitzer nicht zu erreichen oder unbekannt, übernimmt diese Aufga-
+be gemäß § 13 Absatz 3 WaldBrSchVO die Forstbehörde. 
+ 
+4.2  
+Mit der Übergabe der gelöschten Brandstelle von der ÖFW an den Waldbesitzer oder die Forstbehörde 
+ist zu sichern, dass die geforderte Nachsorge der gelöschten Brandstelle gemäß § 6 Absatz 4 in Verbin-
+dung mit § 13 Absatz 3 WaldBrSchVO durchgeführt wird. 
+ 
+4.3  
+Auf die Festlegungen gemäß § 20 Absatz 2 WaldBrSchVO und Nummer 5.1 bezüglich der gegenseitigen 
+Informationspflicht für die Waldbrandnachsorge wird verwiesen. 
+ 
+ 
+5  
+Berichterstattung 
+ 
+5.1  
+Sofortmeldungen 
+ 
+5.1.1  
+Forstbehörden 
+ 
+Die Sofortmeldungen der Forstbehörden regelt das LU durch Verwaltungsvorschrift. 
+ 
+5.1.2  
+Integrierte Leitstellen 
+ 
+Die integrierten Leitstellen melden nach Alarmierung der Einsatzkräfte alle Waldbrände, die nicht von 
+Waldbesitzern oder Forstdienststellen angezeigt wurden, während der Dienstzeit umgehend dem zu-
+ständigen FoA oder NPA und außerhalb der Dienstzeit dem oder der jeweiligen Bereitschaftsdienstha-
+benden. Diese Verfahrensweise ist erforderlich, um die schnelle Zuführung von Forstkräften zur Unter-
+stützung der Waldbrandbekämpfung zu sichern. Weiterhin melden die integrierten Leitstellen Wald-
+brände ab 1 Hektar unverzüglich an das LZ IM. 
+ 
+ 
+5.2  
+Monatsmeldung, Waldbrandstatistik, Schadensermittlung 
+ 
+Im Geschäftsbereich der obersten Behörden werden jeweils Statistiken zu Bränden (allgemein im IM) 
+und Waldbränden (speziell im LU) geführt. 
+ 
+5.2.1  
+Forstbehörden 
+ 
+Die statistische Auswertung des Waldbrandgeschehens erfolgt durch die LFoA auf Basis der Meldungen 
+der FoÄ und NPÄ, Bundesforstbetriebe und nichtstaatlichen Forstverwaltungen. 
+ 
+5.2.2  
+Brand- und Katastrophenschutzbehörden 
+ 
+Die Landkreise und kreisfreien Städte werten die Brandberichte der ÖFW hinsichtlich der Waldbrände 
+in der AG Waldbrandschutz aus. 
+ 
+ 
+6  
+Aus- und Fortbildung, Übungen, Belehrungen 
+ 
+6.1  
+Aus- und Fortbildung 
+ 
+Im Rahmen der Aus- und Fortbildung sind den Forstbediensteten und den Angehörigen der ÖFW die 
+neuesten Erkenntnisse zur Verhütung und Bekämpfung von Waldbränden zu vermitteln (Fachschule 
+für Agrarwirtschaft, Landesschule für Brand- und Katastrophenschutz und andere Aus- und Fortbil-
+dungsangebote). Auch sind die Sitzungen der AG Waldbrandschutz des Landkreises für den Wissens-
+transfer zu nutzen. 
+ 
+ 
+
+ 
+6.2  
+Übungen zur Waldbrandbekämpfung 
+  
+6.2.1  
+In Landkreisen mit einem überwiegenden Anteil von Wäldern mit mittlerem und hohem Waldbrandri-
+siko (B und A) ist im Rahmen der Aus- und Fortbildung in Verantwortung der Landräte mindestens alle 
+zwei Jahre eine Waldbrandübung durchzuführen. Dabei ist das Zusammenwirken mit den Forstbehör-
+den, anderen Waldbesitzern und weiteren beteiligten Kräften bei der Waldbrandbekämpfung zu prü-
+fen und zu dokumentieren. 
+ 
+6.2.2  
+In Landkreisen mit geringem Waldbrandrisiko (C) sind entsprechende Waldbrandübungen mindestens 
+alle drei Jahre durchzuführen. Die kreisfreien Städte sind jeweils entsprechend einzubeziehen. 
+ 
+6.2.3  
+Die beteiligten Behörden, Dienststellen und Gemeinden treffen vor den Übungen Festlegungen zur an-
+teiligen Kostenübernahme. 
+ 
+ 
+6.3  
+Funk- und Alarmierungsübung 
+ 
+Mindestens einmal jährlich organisieren die Leitforstämter gemeinsam mit den Fachämtern unter Ein-
+beziehung aller an der Waldbrandbekämpfung beteiligten Behörden und Dienststellen eine Funk- und 
+Alarmierungsübung. 
+ 
+ 
+6.4  
+Belehrungen 
+ 
+Die Belehrungen über brandschutzgerechtes Verhalten erfolgen nach § 10 WaldBrSchVO. 
+ 
+ 
+7  
+Öffentlichkeitsarbeit 
+ 
+Neben den Informationen der Bevölkerung durch Rundfunk, Fernsehen, Presse, Internet und ortsübli-
+che Bekanntmachung über die aktuelle Waldbrandgefährdung (Waldbrandgefahrenstufe) und die da-
+mit verbundenen Gefahren haben die Forstbehörden durch Einschaltung der örtlichen Presse und Ver-
+teilung von Aufklärungsmaterialien gezielte Öffentlichkeitsarbeit für die weitere Aufklärung der Bevöl-
+kerung entsprechend § 11 WaldBrSchVO Sorge zu tragen. Alle anderen für den (Wald-)Brandschutz zu-
+ständigen Behörden und Einrichtungen beteiligen sich daran mindestens ab Waldbrandgefahrenstufe 
+4. 
+ 
+ 
+8  
+Inkrafttreten, Außerkrafttreten 
+ 
+Diese Verwaltungsvorschrift tritt am 1. Januar 2017 in Kraft. Gleichzeitig tritt der Waldbrandrunderlass 
+vom 25. Juni 1999 (AmtsBl. M-V S. 659) außer Kraft. 
+  
+  
+AmtsBl. M-V 2016 S. 947 
+©juris GmbH 
+ 
+ 
+ 
+ 

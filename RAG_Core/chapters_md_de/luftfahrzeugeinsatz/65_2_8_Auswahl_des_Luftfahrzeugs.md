@@ -1,0 +1,8 @@
+# 2.8 Auswahl des Luftfahrzeugs
+
+- Je nach Einsatzzweck und Verfügbarkeit muss das richtige Luftfahrzeug ausge- wählt werden, soweit insbesondere bei längeren und größeren Lagen Auswahl- möglichkeiten bestehen. In entsprechenden Tabellen können diese für die eigenen Einsatzbereiche vorab  eingetragen bzw. die zu beachtenden Wege für die Anforderung abgeheftet wer- den.
+
+- In entsprechenden Tabellen können diese für die eigenen Einsatzbereiche vorab  eingetragen bzw. die zu beachtenden Wege für die Anforderung abgeheftet wer- den. Es bietet sich hier vor allem bei größeren oder komplexen Lagen an, frühzeitig  einen geeigneten Fachberater für den Luftfahrzeugeinsatz einzusetzen, der die  nötige Fachkunde hat, um den Einsatzleiter bzw. S 3 in einem Stab bei der Aus- wahl beraten zu können und später den Einsatzabschnittsleiter Luft bzw. Luftfahr- zeugeinsatz (in Bayern: Fliegerische Einsatzleitung, FliegE) darstellen zu können.
+
+- Es bietet sich hier vor allem bei größeren oder komplexen Lagen an, frühzeitig  einen geeigneten Fachberater für den Luftfahrzeugeinsatz einzusetzen, der die  nötige Fachkunde hat, um den Einsatzleiter bzw. S 3 in einem Stab bei der Aus- wahl beraten zu können und später den Einsatzabschnittsleiter Luft bzw. Luftfahr- zeugeinsatz (in Bayern: Fliegerische Einsatzleitung, FliegE) darstellen zu können. Die Entwicklung in Deutschland ist immer weiter fortschreitend, so dass die Aus- wahl unterschiedlich leistungsfähiger Luftfahrzeuge in den einzelnen Bundeslän- dern in Zukunft aufgrund der dortigen Gegebenheiten (zunehmende Ausstattung  der Landespolizeihubschrauber mit ALB) oder vorhandener mehrstufiger Kon- zepte vereinfacht bzw. vorgegeben werden könnte.
+

@@ -1,0 +1,4 @@
+# 5.5 Empfehlungen zur Freiwilligen Feuerwehr
+
+- Einleitung  5   SOLL-Konzeption zur Brandschutzbedarfsplanung    Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  116  Vorgehensweise Bedarfsplanung Differenzierte Betrachtung nach RISIKO-Verteilung (1)  Unsere Empfehlung: DIFFERENZIERTE Betrachtung und Bemessung der Ressourcen nach Risiko-Verteilung  Einfluss-Parameter und Betrachtungen:   Gefahrenpotential: Bebauungsstruktur („Gefahrenklassen“), klassisches Szenario „kritischer  Wohnungsbrand“   Gefahrenpotential: Besondere Objekte, spezifische Einsatzszenarien   Einsatzfrequenzen: Optimierung mittlere Eintreffzeit   Der Begriff „Risiko“ verbindet das Gefahrenpotential mit der Einsatzwahrscheinlichkeit. Die Empfehlung zur Wachenstruktur orientiert sich nicht nur an den Gefahrenpotentialen sondern auch an  der Verteilung der Einsatzstellen.
+

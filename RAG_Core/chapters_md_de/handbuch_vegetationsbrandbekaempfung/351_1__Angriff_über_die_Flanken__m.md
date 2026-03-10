@@ -1,0 +1,6 @@
+# 1. Angriff über die Flanken (mit dem Wind)
+
+- •	 vom Ankerpunkt aus beginnt der Angriff auf den Feuersaum durch das Aufrollen der  Flanken mit dem Wind, Ankerpunkt sichern! •	 Angriff mit Handwerkzeugen, Strahlrohen und Pump & Roll-Funktion möglich •	 Löschtrupps, Fahrzeuge oder eine Kombination aus beiden bewegen sich am Feuer­ saum entlang und löschen diesen ab •	 Möglichkeit der Ablöschung des Feuersaums aus dem grünen oder schwarzen Bereich •	 je nach Intensität oder verfügbaren Einsatzmitteln können die Löschmannschaften  oder Fahrzeuge auch hintereinander an einer Flanke zum Ablöschen und anschließend  direkten Nachlöschen oder über beide Flanken gleichzeitig eingesetzt werden Achtung!
+
+- •	 Angriff mit Handwerkzeugen, Strahlrohen und Pump & Roll-Funktion möglich •	 Löschtrupps, Fahrzeuge oder eine Kombination aus beiden bewegen sich am Feuer­ saum entlang und löschen diesen ab •	 Möglichkeit der Ablöschung des Feuersaums aus dem grünen oder schwarzen Bereich •	 je nach Intensität oder verfügbaren Einsatzmitteln können die Löschmannschaften  oder Fahrzeuge auch hintereinander an einer Flanke zum Ablöschen und anschließend  direkten Nachlöschen oder über beide Flanken gleichzeitig eingesetzt werden Achtung! Möglichkeit B Möglichkeit A Möglichkeit A Abbildung 25 Angriff über die Flanken Inhaltsverzeichnis
+

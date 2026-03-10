@@ -1,0 +1,2306 @@
+DFV-Fachempfehlung 
+Fachempfehlung Nr. DFV-FE-70-2022 vom 24. März 2022 
+ 
+Luftfahrzeugeinsatz/Aerial Firefighting Air Operations 
+für und durch die Feuerwehr 
+ 
+ 
+Vorwort  
+ 
+Die letzten fünf Jahre waren nach Medienberichten aus dem Frühjahr 2021 die 
+bisher trockensten in Mitteleuropa in den letzten etwa 2.100 Jahren1. 
+ 
+Das hat Folgen für die Wälder und für die Gefährdung durch bzw. die Gefährlich-
+keit von Feuern dort. In Deutschland machten vor allem die Waldbrandjahre 2018 
+und 2019, aber auch das trockene, warme und windige Frühjahr 2020, umfangrei-
+che und gemeinsame Einsätze von bodengebundenen Kräften mit Luftfahrzeugen 
+verschiedener Behörden und Organisationen notwendig. Auch der Sommer 2021 
+bestätigte dies mit den zahlreichen parallelen Einsätzen verschiedenster Luftfahr-
+zeuge zur Menschenrettung, Erkundung und Führungsunterstützung. 
+ 
+ 
+Quelle: Dr. Ulrich Cimolino 
+                                                 
+1 https://www.sueddeutsche.de/wissen/duerre-klimawandel-waldsterben-borkenkaefer-trockenheit-1.5235883 
+
+ 
+ 
+Seite 2 
+Bei den stark zunehmenden Einsätzen von Luftfahrzeugen (international Aerial 
+Firefighting bzw. allgemeiner Air Operations, kurz „AirOps“ genannt) wurde vor al-
+lem von Piloten immer wieder die höchst unterschiedlichen Kenntnisse und Erwar-
+tungen zum Einsatz von Luftfahrzeugen bemängelt, die den gemeinsamen Einsatz 
+unnötig erschweren bzw. den Erfolg in Frage stellen.  
+ 
+Um hier einen Ansatz zu einer für Deutschland ersten Beschreibung der taktischen 
+Rahmenbedingungen und groben technischen Möglichkeiten für den Luftfahrzeu-
+geinsatz zu ermöglichen, veranstaltete @fire im Februar 2020 bei der Feuerwehr 
+Bad Homburg einen Workshop zur Brandbekämpfung mittels „AirOps“. Der AK 
+Waldbrand, angesiedelt im Fachausschuss Einsatz, Löschmittel und Umwelt-
+schutz (kurz: FA ELU) des DFV, hatte bereits 2019 vom Präsidium des DFV den 
+Auftrag erhalten, auch hierzu tätig zu werden. Mitglieder des AK Waldbrand nah-
+men daher auch an diesem Workshop teil bzw. trugen vor. Einsatzerfahrene Re-
+ferenten und Trainer kamen darüber hinaus aus Frankreich, Spanien und den 
+USA. Die Teilnehmer setzten sich aus einer Mischung von Feuerwehren, Ministe-
+rien, Landesfeuerwehrschulen sowie unterschiedlichsten Trägern (Polizeien der 
+Länder, Bundespolizei, Bundeswehr und Private) sowie Piloten von Luftfahrzeu-
+gen zusammen. Diese Fachempfehlung wurde auf den Grundlagen der Ergeb-
+nisse dieses Workshops zur Brandbekämpfung mit „AirOps“ erstellt. 
+ 
+Er basiert dazu ergänzend auf: 
+ 
+internationalen Vereinbarungen bzw. Standards zum Beispiel  
+o der ICAO (Internationale Zivilluftfahrtorganisation der UN) zur Lösch-
+mittelbevorratung für Außenlandeplätze und 
+o zur Kategorisierung der Leistungsfähigkeit von Luftfahrzeugen 
+ 
+Erfahrungen aus vielen Einsätzen in den Ländern, die auf eine langjährige Er-
+fahrung mit laufend angepassten Standards zurückblicken, insbesondere sei 
+hier das Ausbildungszentrum der französischen  Waldbrandspezialisten  und  
+-flieger in Valabre genannt. 
+ 
+ 
+
+ 
+ 
+Seite 3 
+ 
+Unterlagen zum Umgang mit Luftfahrzeugen der Unfallversicherer bzw. der 
+Deutschen Gesetzlichen Unfallversicherung (DGUV) 
+ 
+internationaler Ausbildungsliteratur 
+ 
+ 
+ 
+Dr. Ulrich Cimolino 
+Vorsitzender AK Waldbrand 
+Düsseldorf, März 2022  
+ 
+
+ 
+ 
+Seite 4 
+Inhalt 
+Vorwort ....................................................................................................... 1 
+1. Einleitung ............................................................................................... 6 
+2. Einsatz von Luftfahrzeugen .................................................................... 7 
+2.1 Einsatzleitung ................................................................................... 7 
+2.1.1 Einweisung der Einheiten .............................................................. 9 
+2.1.2 
+Kartenkunde/Ortsangaben ......................................................... 9 
+2.1.3 Anatomie von Vegetationsbränden .............................................. 10 
+2.2 Kommunikation ............................................................................... 11 
+2.3 Sichere Zusammenarbeit im Einsatz: Luft – Boden ........................ 14 
+2.3.1 Sicherer Flugbetrieb am Boden ................................................... 14 
+2.3.2 Sicherheit am Boden beim Löscheinsatz aus der Luft ................. 18 
+2.4 Führung des Einsatzabschnittes „Luft“ ........................................... 19 
+2.5 Führung in der Luft ......................................................................... 20 
+2.6 Video-, Bild- und WBK-Daten ......................................................... 21 
+2.7 Löscheinsatz ................................................................................... 22 
+2.7.1 Direkter Löscheinsatz .................................................................. 22 
+2.7.2 Abwurfarten ................................................................................. 24 
+2.7.2.1 Einfluss der Flug- und Abwurfhöhe ........................................... 25 
+2.7.2.2 Abwurftechnik ........................................................................... 25 
+2.7.2.3 Nutzung von ALB mit verschiedenen Lastaufnahmemitteln ...... 26 
+2.7.2.4 Empfehlungen für Abwurfarten ................................................. 31 
+2.7.3 Löschmittel .................................................................................. 33 
+2.7.4 Ausbildung der Piloten und Luftfahrzeugbesatzungen ................ 36 
+2.8 Auswahl des Luftfahrzeugs............................................................. 37 
+2.9 Anforderung (Freigabe, Wege, Kosten) .......................................... 37 
+2.10 
+Einsatzabschnittsleiter Luft ...................................................... 38 
+2.11 Flugbetrieb .................................................................................... 40 
+3. Kategorisierung von Luftfahrzeugen .................................................... 42 
+3.1 Einsatzstufen im Zusammenhang mit Luftfahrzeugen .................... 42 
+3.2 Kategorisierung von Luftfahrzeugen ............................................... 44 
+3.2.1 Unbemannte Luftfahrtsysteme („Drohnen“) ................................. 45 
+3.2.2 Hubschrauber .............................................................................. 46 
+
+ 
+ 
+Seite 5 
+3.2.3 Flächenflugzeuge ........................................................................ 47 
+4. Ausblick und weitere Entwicklungen .................................................... 48 
+5. Anhang ................................................................................................. 49 
+5.1 Glossar ........................................................................................... 49 
+5.2 Vordrucke ....................................................................................... 51 
+5.2.1 Erfassung der Hubschrauber ....................................................... 52 
+5.2.2 
+Hubschrauber für den Rettungs-/Rescueeinsatz oder 
+Patiententransport ................................................................................ 53 
+6. Literaturhinweise .................................................................................. 55 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Seite 6 
+1. Einleitung 
+ 
+Insbesondere Vegetationsbrände erfordern den Einsatz verschiedener Einheiten, 
+Mittel und Organisationen im Sinne einer „Operation verbundener Kräfte“. Dies be-
+deutet auch, dass Luftfahrzeuge bei diesen Einsätzen lediglich eines von vielen 
+Einsatzmitteln sind und die Brandbekämpfung unterstützen, jedoch grundsätzlich 
+nicht alleine erfolgreich sein können. Ähnliche Einsatzlagen können aber auch bei 
+anderen naturbedingten bzw. -beeinflussten dynamischen Flächenlagen auftreten, 
+wie sie zum Beispiel für Starkregenereignisse oder Flutkatastrophen typisch sein 
+können. 
+ 
+Dafür kommen je nach Aufgabe und Verfügbarkeit 
+ 
+Drohnen 
+ 
+Hubschrauber  
+ 
+Flächenflugzeuge 
+zum Einsatz. 
+ 
+Der Luftfahrzeugeinsatz in der nicht-polizeilichen Gefahrenabwehr wird internatio-
+nal als Aerial Firefighting bzw. Air Operations, abgekürzt AirOps, bezeichnet. Er 
+umfasst weit mehr als nur die Brandbekämpfung aus der Luft. 
+ 
+Im Einsatz kann es außerdem auch zur Unterstützung bzw. Hilfe aus dem Ausland 
+oder zum Beispiel befreundeter ausländischer Truppen in Deutschland kommen. 
+Englische Fachbegriffe in diesem Kontext sollten daher bekannt sein. Im Bedarfs-
+fall müssen unter Umständen darüber hinaus ausreichend sprachkundige Einsatz-
+kräfte zur Kommunikation eingesetzt werden. Dies ist spätestens dann der Fall, 
+wenn die Anforderung auch an fremdsprachige Einheiten ergangen ist (zum Bei-
+spiel Einheiten aus dem EU-Katastrophenschutz- oder rescEU-Verfahren) oder 
+diese im grenznahen Gebiet (zum Beispiel CH 47 der niederländischen Luftwaffe) 
+bzw. aufgrund der eigenen Zuständigkeiten (zum Beispiel Blackhawk, Apache, CH 
+47 oder ähnlich bei einem Feuer auf US-genutzten Truppenübungsplätzen) bereits 
+eingesetzt werden. 
+ 
+
+ 
+ 
+Seite 7 
+Ergänzend zur Erkundung bzw. Luftbilderstellung mit Luftfahrzeugen ist die Nut-
+zung von Luftbildern zur Lageinformation aus der Fernerkundung zum Beispiel aus 
+Satelliten möglich. Die Bereitstellung dieser Daten kann bei Bedarf auf dem Dienst-
+weg über die Leitstellen durch das Zentrum für satellitengestützte Krisenkommu-
+nikation (ZKI) im Deutschen Zentrum für Luft- und Raumfahrt (DLR) erfolgen.  
+ 
+Je nach Umfang des Luftfahrzeugeinsatzes ist ein mehr oder weniger großer be-
+gleitender Aufwand zu treffen. Um dies besser planbar zu machen, erfolgt die Ein-
+teilung des Einsatzes in Abhängigkeit von der Art und Anzahl der eingesetzten 
+Luftfahrzeuge in Stufen, vgl. 3.1.  
+ 
+Um im Einsatzbetrieb einfacher und klarer planen und kommunizieren zu können, 
+müssen Luftfahrzeuge klar im Einsatzwert erkennbar sein. Dafür werden sie kate-
+gorisiert, vgl. 3.2.  
+ 
+ 
+2. Einsatz von Luftfahrzeugen 
+2.1 Einsatzleitung 
+ 
+Ein Einsatzleiter bestimmt die grundsätzliche Struktur und Benennung der Einsatz-
+abschnitte sowie die abschnittsbezogene Einsatzstellenkommunikation für die Ein-
+satzstelle. Es gelten die Grundlagen der FwDV 100 bzw. DV 100 im Katastrophen-
+fall. 
+ 
+Die Einsatzleitung bei Vegetationsbränden liegt zum Beispiel grundsätzlich bei der 
+Feuerwehr. Im Katastrophenfall geht die Einsatzleitung auf die in den Katastro-
+phenschutzgesetzen der Länder definierte Stelle über (zum Beispiel den Landrat). 
+Die taktisch operative Führung von Einheiten im Einsatz sollte jedoch immer von 
+fachkundigen Führungskräften der Feuerwehr erfolgen. 
+ 
+Die fliegerische Verantwortung obliegt immer dem jeweiligen verantwortlichen Luft-
+fahrzeugführer (Pilot in Command = PIC) jeden Luftfahrzeugs. 
+ 
+
+ 
+ 
+Seite 8 
+Konkret bedeutet dies, dass der Einsatzleiter alles fordern, der Pilot den Einsatz 
+aber aus fliegerischen Aspekten ablehnen darf. 
+ 
+Piloten handeln grundsätzlich auf Anweisung der Einsatzleitung der Feuerwehr 
+bzw. nach Absprache mit den bodengebundenen Feuerwehrkräften. Bei Gefahr im 
+Verzuge können die Piloten unaufschiebbare Sofortmaßnahmen durchführen, die 
+unmittelbar im Anschluss der Einsatzleitung mitgeteilt werden. 
+ 
+Bei größeren bzw. komplexeren (fliegerischen) Lagen kann der Einsatzabschnitts-
+leiter (EAL) Luft in Abstimmung mit dem Einsatzleiter über die Deutsche Flugsi-
+cherung (DFS) ein Flugbeschränkungsgebiet (ED-R) über der Einsatzstelle ein-
+richten lassen. 
+ 
+Hierbei ist zu beachten: 
+ 
+Die Anforderung erfolgt über die Leitstelle der Feuerwehr zunächst telefonisch 
+und bei längerer Dauer anschließend schriftlich beim zuständigen Wachleiter 
+der Deutschen Flugsicherung (DFS). 
+ 
+Die Vorlaufzeit wird regelmäßig mit vier Stunden angenommen. Die ED-R wird 
+zwar unverzüglich eingerichtet, jedoch müssen die Luftfahrzeugführer über die 
+„Notices to Airmen“ (NOTAMs) über die Einrichtung in Kenntnis gesetzt wer-
+den. Erst dann können sie für Verstöße gegen das Flugbeschränkungsgebiet 
+belangt werden. 
+ 
+Die Dimensionen (Radius und Höhe) der ED-R können in Absprache mit der 
+DFS durch die anfordernde Stelle festgelegt werden. 
+ 
+Eine Benennung von Luftfahrzeugen, die dort eingesetzt werden sollen, kann 
+vorab erfolgen. Der Einflug von behördlichen Luftfahrzeugen aufgrund von 
+Sonderregelungen oder Sonderrechten gem. § 30 LuftVG bleibt hiervon unbe-
+rührt. 
+ 
+Die zuständige Landesluftfahrtbehörde bzw. gegebenenfalls die zuständige 
+Polizei verfolgt Verstöße gegen die Bestimmungen zum jeweiligen ED-R. 
+ 
+Die Information der entsprechenden Luftsportclubs in der Nähe der Einsatz-
+stelle kann hilfreich sein, Überflüge sehr zeitnah zu verhindern. Trotzdem muss 
+
+ 
+ 
+Seite 9 
+mit einzeln fliegenden Hobbypiloten und vor allem im bergigen Gebiet mit Gleit-
+schirmfliegern etc. gerechnet werden. 
+ 
+ 
+2.1.1 Einweisung der Einheiten  
+ 
+Insbesondere für den Einsatz von Luftfahrzeugen ist neben der allgemeinen Ein-
+weisung (Auftrag, Landeplatz, Wasserentnahmestelle etc.) auch eine Sicherheits-
+einweisung (Risiken wie Hochspannungsleitungen, Windenergieanlagen, Seilbah-
+nen etc.) notwendig! 
+ 
+Internationaler Sprachgebrauch dafür ist das so genannte „Safety Briefing“. 
+ 
+Dies sollte bei kleineren Lagen durch die erstanfliegenden Piloten erfolgen. Bei 
+größeren Lagen muss es dann durch den Einsatzleiter bzw. Einsatzabschnittsleiter 
+Luftfahrzeugeinsatz (kurz: EAL Luft) in Zusammenarbeit mit den weiteren Einsatz-
+abschnitten und Luftfahrzeugführern fortgeführt werden. 
+ 
+Der Luftfahrzeugeinsatz kann umfassen 
+ 
+Erkundung 
+ 
+Führungsunterstützung 
+ 
+Löschen 
+ 
+Transport 
+ 
+Einheiten am Boden sind über eingesetzte Luftfahrzeuge ebenfalls zu informieren. 
+Dies ist zwingend notwendig für alle Einheiten in den Abwurfbereichen bzw. zum 
+Beispiel für Außenlandungen vorgesehenen Flächen . 
+ 
+ 
+2.1.2 Kartenkunde/Ortsangaben 
+ 
+Die Piloten arbeiten heute durchgehend mit GPS-Koordinaten auf Basis des World 
+Geodetic System 1984 - WGS 84.  
+
+ 
+ 
+Seite 10 
+Um Fehler zu vermeiden, sollen in der Kommunikation mit den Luftfahrzeu-
+gen nur WGS-84-Koordinaten verwendet werden. Andere Koordinatenfor-
+mate wie zum Beispiel UTM sind vorher umzurechnen. 
+ 
+Beispiel 
+UTM:  
+32U PD 02529 17187 
+Richtig: 
+GPS: N 52° 29,709  
+E 010° 30,615 
+Falsch:  
+N 52,49517 
+ 
+ 
+E 10,51025 („Google-Format“) 
+ 
+Sofern doch andere Koordinatenformate verwendet werden, müssen diese 
+alle in diesem Einsatz beteiligten Luftfahrzeuge verwenden können, um 
+Missverständnisse zu vermeiden. 
+ 
+Die Nordrichtung und Einordnung von Karten oder Lageskizzen sind klar zu be-
+stimmen und immer verfügbar zu halten, um auf Lageänderungen (zum Beispiel 
+Wind ändert Richtung und Stärke) eindeutig reagieren zu können. 
+ 
+Die Benennung der Seiten des Feuers ist eindeutig und in der Regel entsprechend 
+der Ausbreitung beispielsweise nach der Windrichtung vorzunehmen, vgl. Abb. 
+2.1.3/1. 
+ 
+ 
+2.1.3 Anatomie von Vegetationsbränden 
+ 
+Zur Kommunikation zwischen den Einheiten, vor allem aber zwischen Boden- und 
+Luft-Einheiten, muss eine gemeinsame Sprache zur Orientierung um das Feuer 
+gesprochen werden. 
+ 
+Basis dafür ist immer Ausbreitungsrichtung des Feuers, weil sich die Lage 
+im Kartensystem mit geänderten Windrichtungen ändern kann! 
+
+ 
+ 
+Seite 11 
+ 
+Abb. 2.1.3/1: Standardisierte Benennung der Anatomie von Vegetationsbränden. (Grafik: @fire) 
+ 
+ 
+2.2 Kommunikation 
+ 
+Für die Kommunikation stehen grundsätzlich die folgenden technischen Möglich-
+keiten zur Verfügung, die meist an den jeweiligen Betreiber gebunden sind. Grund-
+sätzlich gilt dabei natürlich, dass der BOS-Funk nur in Luftfahrzeugen der folgen-
+den Behörden sicher zur Verfügung steht: 
+ 
+Polizeien der Länder 
+ 
+Bundespolizei  
+ 
+Rettungs- und Zivilschutzhubschrauber 
+ 
+Bundeswehr (Achtung: nicht alle, sondern nur wenige Typen, wie zum Beispiel 
+die im Rettungsdienst- bzw. SAR-Einsatz (mit) eingesetzten!) 
+ 
+Dies ist in der Kommunikationsplanung je nach den beteiligten Einheiten zwingend 
+zu beachten. 
+ 
+Im Zweifel sind rechtzeitig geeignete Kommunikationsschnittstellen einzuplanen 
+und zu organisieren! 
+1. BOS-Digitalfunk im TMO- (Netz-) oder DMO- (Direkt-)Betrieb: Der Vorteil 
+des Digitalfunks liegt, neben der angestrebten flächendeckenden Verbreitung 
+bei den Feuerwehren und vielen BOS-Betreibern, in der größeren Reichweite 
+
+ 
+ 
+Seite 12 
+auf Grund des Netzbetriebes. Der Nachteil liegt beim TMO-Modus in den gro-
+ßen Latenzzeiten, die bei sicherheitskritischen Einsprachen (zum Beispiel 
+Höhe der Last über Grund) zu groß sind. Im DMO-Betrieb ist das Latenzzeiten-
+problem reduziert, sodass der DMO-Betrieb zwar besser geeignet ist als der  
+TMO-Betrieb, jedoch nicht optimal ist. Zusätzlich ist hier die Reichweite in Bo-
+dennähe auf wenige Kilometer begrenzt. Bei den Luftfahrzeugen kann die 
+Reichweite allerdings auch viele Kilometer betragen und damit andere Funk-
+kreise stören! 
+Private Betreiber verfügen in der Regel nicht über diese Funkgeräte (Anerken-
+nung im Katastrophenschutz nötig) und dürfen sie auch nicht benutzen. 
+In überörtlichen Einsätzen über Bundeslandgrenzen hinaus kann es zu Prob-
+lemen mit den verfügbaren Digitalfunk-Gruppen kommen. 
+2. Analoger BOS-Funk: Dieser ist mit Stand 2021 in den meisten Luftfahrzeugen 
+durch digitalen BOS-Funk abgelöst. Es ist aber zu beachten, dass immer noch 
+nicht bei allen Bodeneinheiten (auch nicht bei allen Führungsfahrzeugen) über-
+all in Deutschland digitaler BOS-Funk zur Verfügung steht. 
+3. Flugfunk: Der Vorteil des Flugfunks liegt in der minimalen Latenzzeit und der 
+generellen Verfügbarkeit in Luftfahrzeugen mit dem Nachteil der geringen 
+Reichweite sowie der sehr seltenen Verfügbarkeit bei den Feuerwehren (der-
+zeit praktisch nur bei den bayerischen Flughelfereinheiten) sowie den Voraus-
+setzungen zum Betrieb solcher Funkgeräte, die bei der Bundesnetzagentur re-
+gistriert und zugelassen sein müssen. Ferner sind beim Betrieb die gesonder-
+ten Rechtsvorschriften zu beachten und notwendige Aus- und Fortbildungen 
+durchzuführen. 
+4. Betriebsfunk: Private Luftfahrzeugbetreiber verfügen neben dem Flugfunk in 
+der Regel über eigenen Betriebsfunk, der eine Kommunikation mit dem Boden 
+erlaubt, sofern dort entsprechende Geräte zum Beispiel durch Flughelfer der 
+Betreiber verfügbar sind. 
+ 
+Die Kommunikation zwischen Luftfahrzeugen und Bodenkräften muss technisch 
+und organisatorisch jederzeit sichergestellt sein. Die nutzbaren bzw. verfügbaren 
+Gruppen im Digitalfunk sollten im Vorfeld festgelegt werden. Das Fleetmapping 
+
+ 
+ 
+Seite 13 
+muss entsprechend angepasst werden. In Bayern stehen für den Einsatz der Flug-
+helfergruppen zum Beispiel im TMO die Digitalfunkgruppen „Luft Bayern Nord“ und 
+„Luft Bayern Süd“ zur Verfügung. Die Funkgeräte der anderen BOS-Teilnehmer 
+(hier vor allem die Luftfahrzeuge) sollten entsprechend programmiert werden. Ist 
+das nicht möglich, so muss im Digitalfunk auf TBZ-Gruppen, auf andere Funkge-
+räte (zum Beispiel Flugfunk) bzw. Schnittstellen zwischen den beteiligten Organi-
+sationen ausgewichen werden. 
+ 
+Verfügen die Luftfahrzeuge über keine BOS-FuG (wie zum Beispiel der größere 
+Teil Bundeswehr-Luftfahrzeuge, Luftfahrzeuge privater Betreiber sowie ausländi-
+scher Truppen), oder verfügen die Bodenkräfte nicht über Digitalfunk, der mit dem 
+der BOS-Hubschrauber kompatibel (Gruppenbildung) ist, dann muss auf Flugfunk 
+ausgewichen werden. Dieser muss in diesem Fall an der Einsatzstelle auch am 
+Boden verfügbar sein und bedient werden können und dürfen. Ist dies durch die 
+anfordernde Einheit nicht sichergestellt, sollte es über die (oder eine) fliegende 
+Organisation sichergestellt werden. 
+ 
+Es kann daher aktuell beim Luftfahrzeugeinsatz noch eine Mehrkanal- bzw. -Grup-
+penkommunikation mit verschiedenen Funkgeräten bzw. Funkgerätetypen geben. 
+Mit der konzeptionellen Einbindung der Hubschrauber der Länderpolizeien sowie 
+der Bundespolizei in die Vegetationsbrandkonzepte der Länder nimmt der Einsatz 
+des Digitalfunks einen immer höheren Stellenwert ein. 
+ 
+Bayern nutzt zusätzlich für die Kommunikation zwischen den Flughelfern Funkge-
+räte mit PTT2-Kommunikation über spezielle Funkgeräte bei den Flughelfern (in 
+der Regel auch mit speziellen Helmen). Werden diese Einheiten in anderen Bun-
+desländern eingesetzt, so ist die Schnittstelle über den Führer der Flughelferein-
+heit gewährleistet. 
+ 
+Die Vorplanung der Kommunikationswege ist sinnvoll und kann mit den heute 
+meist in den Bundesländern bzw. Feuerwehrschulen vorhandenen tabellenartigen 
+                                                 
+2 PTT = Push-to-talk 
+
+ 
+ 
+Seite 14 
+Übersichten einfach vorbereitet und dann im Einsatz leicht ausgefüllt werden, vgl. 
+Anhang. 
+ 
+Je weniger Vorplanung vorhanden ist, desto mehr Aufwand ist für die spontane 
+Planung im Einsatz nötig. Hierfür bietet sich die S6-Funktion im Führungsstab an. 
+Es bietet sich an, entsprechende Kommunikations- und Ablaufpläne bereits im 
+Vorfeld festzulegen. 
+ 
+ 
+2.3 Sichere Zusammenarbeit im Einsatz: Luft – Boden 
+2.3.1 Sicherer Flugbetrieb am Boden 
+ 
+Im Gegensatz zum Betrieb auf Flughäfen steht im Gelände keine Infrastruktur zur 
+Verfügung, dafür können zum Beispiel herumliegende lose Gegenstände (Tüten, 
+Planen, Äste) landende bzw. startende Luftfahrzeuge oder auch Einsatzkräfte am 
+Boden gefährden. 
+ 
+Für den Betrieb von Außenlandeplätzen stellt die Einsatzleitung zum Beispiel in 
+Anlehnung an DGUV-Information 214-911 daher Folgendes sicher: 
+ 
+Lande- und Startbereiche von Luftfahrzeugen sind frei zu halten und möglichst 
+gegen unbefugtes Betreten zu sichern. 
+ 
+Für das Annähern an die Luftfahrzeuge sind Sicherheitsbereiche sowie ein-
+deutige Verfahren mit den Piloten zu vereinbaren. 
+ 
+Loses Material ist zu beseitigen oder zu befestigen. 
+ 
+Staubiger Untergrund ist zu vermeiden, zu beseitigen bzw. mit Wasser zu be-
+netzen. 
+ 
+Die Aufsetzfläche muss möglichst eben sein. 
+ 
+Die Außenlandeplätze sind ausreichend weit von Wohnbebauung und anderen 
+Hindernissen (Brücken, Freileitungen) zu legen. 
+ 
+Es soll eine gut erkennbare Einrichtung zur Erkennung der Windrichtung an-
+gebracht werden (zum Beispiel Windsack auf Stange). 
+ 
+Ein absolutes Rauchverbot ist zu verhängen und durchzusetzen. 
+
+ 
+ 
+Seite 15 
+ 
+Zum Eigenschutz ist geeigneter Brandschutz sowie ausreichend Ausrüstung 
+zur Ersten Hilfe vor Ort bereit zu stellen. Die entsprechenden Einsatzkräfte 
+müssen dafür in der Regel über PSA 14 nach DGUV Information 205-016 
+(Überbekleidung für den Innenangriff) verfügen können. Nachfolgend ist bei-
+spielhaft angegeben, wie dies auch im Einsatzgebiet leicht und mit genormten 
+Fahrzeugen der Feuerwehren umsetzbar ist. 
+ 
+Hinweis: Die sinnvolle Ausrüstung zur Brandbekämpfung bzw. technischen Hilfe-
+leistung richtet sich nach den eingesetzten bzw. landenden Luftfahrzeugen3. In der 
+folgenden Tabelle 1 sind bezogen auf die Hubschrauberkategorie (bzw. -klasse) 
+nach ICAO4 beispielhaft sinnvolle genormte Fahrzeuge angegeben, die den ICAO-
+Richtwerten grob entsprechen.  
+ 
+Natürlich ist dazu auch eine Hilfeleistungskomponente – zum Beispiel ein HLF – 
+sinnvoll. 
+Soweit nur einzelne Landungen – und diese auch noch an verschiedenen Stellen 
+– im Einsatzgebiet geplant sind bzw. durchgeführt werden, um zum Beispiel einen 
+Luftbeobachter aufzunehmen, handelt es sich nicht um beplante Außenlande-
+plätze.  
+ 
+                                                 
+3 Bisher sind das hier in Deutschland immer Hubschrauber, weil nur diese an Außenlandeplätzen landen bzw. 
+starten werden. 
+4 ICAO = International Civil Aviation Organisation – Internationale Zivilluftfahrtorganisation. Ihre Regularien gel-
+ten bis heute und finden sich i.d.R. in den derzeit gültigen EU-Vorschriften sowie nationalen Gesetzen und Ver-
+ordnungen wieder. 
+5 Die Bezeichnung und Definition der Kategorien der ICAO zur Löschmittelvorhaltung an Landeplätzen unter-
+scheiden sich diametral von der Einteilung der Hubschrauberklassen, wie sie üblicherweise im internationalen 
+Umfeld bei der Brandbekämpfung aus der Luft verwendet wird, vgl. 3.2.2. Dies ist zu beachten, damit es nicht 
+zu Verwechslungen kommt. 
+6 Die Definition der Hubschraubergrößen findet sich im weiteren Verlauf des Dokumentes. 
+7 Die Kombination mehrerer Pulverlöscher ist hier die schlechtere Lösung, weil deren Wurfweite deutlich gerin-
+ger ist! 
+Kategorie nach ICAO5 
+Bemerkung 
+Löschmittelvorhaltung 
+H1 (klein) 
+Einzeln landende, kleine Hub-
+schrauber6 
+≥ 2.500 L Wasser, Möglichkeit, 
+Schaum mit mind. 250 L/min abge-
+ben zu können (zum Beispiel S4-
+Schaumrohr); 
+P 507 oder ähnlich sollte vorhanden 
+sein. 
+Zum Beispiel HLF 10 und TLF 2000  
+
+ 
+ 
+Seite 16 
+Tabelle 1: Übersicht über Hubschraubertypen auf Außenlandeplätzen und vorgeschlagene Löschmittelvorhaltung 
+basierend auf Normfahrzeugen angenähert an ICAO-Empfehlungen. 
+ 
+Für den Betrieb von Lastaufnahme und -absetzplätzen stellt die Einsatzleitung 
+in Anlehnung an DGUV-Information 214-911 zum Beispiel Folgendes sicher: 
+ 
+Die ausgewählten Plätze müssen inklusive der notwendigen An- und Abflug-
+bereiche ausreichend groß und frei sein. 
+ 
+Für das Annähern an und unter die Maschinen sind Sicherheitsbereiche sowie 
+eindeutige Verfahren mit den Piloten zu vereinbaren. 
+ 
+Der Lastaufnahme- und -absetzplatz ist getrennt vom Außenlandeplatz zu ge-
+stalten! Ein Mindestabstand ist in Absprache mit den Piloten und in Abhängig-
+keit von den eingesetzten Luftfahrzeugen zu definieren und im Bedarfsfall an-
+zupassen. 
+ 
+In der Annahmezone von Lasten soll sich nur entsprechend ausgebildetes oder 
+eingewiesenes Personal aufhalten. 
+ 
+Loses Material ist möglichst zu beseitigen oder zu befestigen. 
+ 
+Staubiger Untergrund ist zu vermeiden. 
+ 
+Erforderliche Verkehrssicherungsmaßnahmen betroffener öffentlicher Ver-
+kehrswegenetze sind zu treffen.   
+ 
+Dies gilt natürlich auch für das Absetzen von Lasten über Winde oder Lasthaken 
+mit Seilen.  
+H2 (mittel) 
+Einzeln landende, mittlere Hub-
+schraubertypen oder mehrere 
+kleinere in gleichzeitigen Operati-
+onen  
+≥ 4.000 L Wasser, Möglichkeit 
+Schaum mit mind. 500 L/min (zum 
+Beispiel Schaumwasserwerfer) ab-
+geben zu können;  
+P 50 oder ähnlich sollte vorhanden 
+sein. 
+Zum Beispiel HLF 10 und (P)TLF 
+4000 
+H3 (groß) 
+Einzeln landende, große Hub-
+schraubertypen oder mehrere 
+mittlere in gleichzeitigen Operati-
+onen 
+≥ 8.000 L Wasser, Möglichkeit 
+Schaum mit mind. 500 L/min (zum 
+Beispiel 
+Schaumwasserwerfer)  
+abgeben zu können; 
+P 50 oder ähnlich sollte vorhanden 
+sein. 
+Zum Beispiel HLF 20, (P)TLF 4000 
+und TLF 3000 
+
+ 
+ 
+Seite 17 
+Bei größeren bzw. komplexeren Einsätzen mit Luftfahrzeugen sind nach Möglich-
+keit im Vorfeld, spätestens aber im Rahmen der Sicherheitseinweisung der Piloten 
+in Absprache mit den Besatzungen zu definieren: 
+ 
+Plätze bzw. Zonen für Notabwurf von Außenlasten 
+ 
+Notlandeplatz (zum Beispiel am Berg) bzw. -möglichkeiten (zum Beispiel in 
+ausgedehnten Waldgebieten) 
+ 
+Diese sind in der allgemeinen Einweisung zu besprechen und frei von anderen 
+Einsatzkräften zu halten. Insbesondere den für den vorbereiteten Brand- und Hil-
+feleistungseinsatz um und in den Außenladeplätzen vorgesehenen bzw. verant-
+wortlichen Einsatzkräften müssen diese Flächen bekannt sein. Notabwurfzonen 
+und Notlandeplätze müssen aber auch allen anderen Einsatzkräften bekannt ge-
+macht werden. Sie sind auch in den Lagekarten zu vermerken. Bei Lageverände-
+rungen müssen sie ggf. verlegt und die Informationen bzw. Lagekarten entspre-
+chend angepasst werden. 
+ 
+Bei größeren bzw. längeren Einsätzen ist durch den EAL Luft in Absprache mit den 
+Betreibern der Luftfahrzeuge zu überprüfen, ob durch die Einrichtung eines Feld-
+betankungsplatzes der Flugbetrieb effizienter gestaltet werden kann. 
+ 
+Dies ist immer dann der Fall, wenn der nächste geeignete Flughafen mit regulären 
+Betankungsmöglichkeiten zu weit entfernt ist, um in wenigen Minuten Flugzeit er-
+reicht werden zu können. 
+ 
+Für die Einrichtung eines Feldbetankungsplatzes gilt: 
+ 
+Sicherheitsabstand von > 10 m zwischen Bebauung und Tankanlage. 
+ 
+Sicherheitsabstand > 5 m zwischen Rotoraußenseite oder Heck des Hub-
+schraubers und der Tankanlage. 
+ 
+Zum Eigenschutz muss geeigneter Brandschutz sowie ausreichend Ausrüs-
+tung zur ersten Hilfe vor Ort sein (Hinweis: Ein [Tank-] Löschfahrzeug mit min-
+destens 4.000 L Wasser und Schaummittel ist dafür ausreichend, ideal ist ein 
+PTLF 4000 oder vergleichbar). Ist der Feldbetankungsplatz identisch bzw. in 
+
+ 
+ 
+Seite 18 
+unmittelbarer Nähe des eingerichteten Außenlandeplatzes, so können die da-
+für vorgesehenen Löschfahrzeuge mit dafür vorgeplant werden. Der Führer 
+dieser Komponente ist entsprechend zu unterrichten und hat dann für die Be-
+gleitung der Feldbetankung zu sorgen. Je nach Untergrund bzw. Erreichbarkeit 
+ist eine etwaigerweise erforderliche Geländefähig- oder -gängigkeit der Ein-
+satzfahrzeuge vorab zu prüfen und über die Auswahl geeigneter Fahrzeuge 
+abzudecken. 
+ 
+Auffangbehälter/Tropfmatten sowie Aufnahme- und Bindemöglichkeiten für ge-
+ringe Mengen Kraftstoff sollen vorhanden sein. 
+ 
+ 
+2.3.2 Sicherheit am Boden beim Löscheinsatz aus der Luft 
+ 
+An- und Abflugbereiche mit Außenlastbehältern sollten nicht über bewohntem Ge-
+biet erfolgen, das verringert Risiken und erleichtert Notabwürfe. 
+ 
+Insbesondere landende und startende Hubschrauber erzeugen einen kräftigen 
+Luftstrom (Down- und Sidewash). Dies kann lose Teile aufwirbeln, durch die Luft 
+schleudern und zu Verletzungen oder Schäden am Boden sowie sogar zu Gefähr-
+dungen des Hubschraubers führen. Offene Türen (Fahrzeuge) oder Tore (Ge-
+bäude) können schlagartig und mit Wucht bewegt werden. 
+ 
+Auch deshalb gelten im unmittelbaren Umfeld der Hubschrauber besondere Hin-
+weise für die PSA, vgl. SCHMID, 2020. 
+ 
+Kurz vor dem Abwurf ist der Abwurfbereich grundsätzlich von Menschen zu räu-
+men. Besonders in Waldgebieten muss jederzeit mit Astbruch und dadurch um-
+herfliegenden Holzsplittern durch das abgeworfene Wasser gerechnet werden.  
+ 
+Bei geradem Anflug reicht dafür ein Bereich von 20 bis 30 m zu beiden Seiten der 
+Flugachse. Im Detail hängt der Sicherheitsabstand ab von  
+ 
+Fluggeschwindigkeit (hier vor allem Hubschrauber – Flugzeug) 
+
+ 
+ 
+Seite 19 
+ 
+gegebenenfalls Kurvenflug, um zum Beispiel am Hang die Abwurfzone noch 
+erreichen zu können 
+ 
+Behälterart und -öffnung 
+ 
+Umgebung (Bäume/Äste, die durch den Abwurf brechen können) 
+ 
+Einsatzfahrzeuge können einen sicheren Rückzugsort bieten, aber von einem 
+Wasserabwurf aus Luftfahrzeugen schwer beschädigt werden. Bei Abwürfen mit-
+tels Außenlastbehälter (ALB) aus Hubschraubern ist die Gefahr eher gering, je-
+doch insbesondere bei Luftfahrzeugen der großen Kategorien mit Wassermengen 
+von weit über 2.000 L nicht ausgeschlossen. Es ist in jedem Fall auf herabfal-
+lende Äste oder sonstigen Bruch im Wald zu achten. Im Notfall kann ein Abwurf 
+(„Emergency Drop") auf oder in unmittelbare Nähe des Fahrzeuges/der Einheiten 
+erfolgen, um diesen eine letzte Chance zum Rückzug aus dem Gefahrenbereich 
+zu ermöglichen. 
+ 
+Unmittelbar nach dem Abwurf oder nach den gegebenenfalls mehreren Abwürfen 
+(in Kette, Reihe, oder versetzt) muss der Löschangriff am Boden fortgesetzt wer-
+den!  
+ 
+Hierbei kommt dem in der Abwurfzone befindlichen Einweiser am Boden als takti-
+schem Abwurfkoordinator eine weitere wichtige Bedeutung zu, da er weitere An-
+flüge anfordert und koordiniert bzw. den Bodenkräften die Freigabe zum Betreten 
+sowie die Aufforderung zum Verlassen der Abwurfzone gibt. Der taktische Abwurf-
+koordinator (Abwurfbeobachter und -einweiser) muss eine gesicherte und jederzeit 
+funktionierende Funkverbindung zum EAL Luft haben.  
+ 
+ 
+2.4 Führung des Einsatzabschnittes „Luft“  
+ 
+Taktische Führung für den Einsatz aus der Luft bedeutet:  
+ 
+Rechtzeitige Anforderung (auf Grundlage einer Brandentwicklungsprognose, 
+zum Beispiel der einfachen taktischen Waldbrandprognose nach CAMPBELL, 
+
+ 
+ 
+Seite 20 
+2005) der richtigen Luftfahrzeuge (vgl. Einteilung der Luftfahrzeuge in Klas-
+sen). 
+ 
+Einsatz der Luftfahrzeuge in der jeweils richtigen Weise (Strategie und Taktik). 
+ 
+Ausreichend Luftfahrzeuge in der Luft (Umlaufzeiten, inklusive Beachtung von 
+Wasserfüllungen am Boden, Tankstopps, gegebenenfalls Crewwechsel etc.). 
+ 
+Planung der Wasseraufnahme, Zugabe von Netzmitteln und später gegebe-
+nenfalls Flammschutzmittel, sogenannte Retardants – Optimierung der Flug-
+strecken und Wasseraufnahmestellen, um schnellen Umlauf zu erreichen. 
+ 
+Es muss im Einsatz umgehend eine Unterbrechung des privaten Luftfahrzeugver-
+kehrs (inklusive Drohnen, Drachenfliegern, Fallschirmspringern oder ähnlich) im 
+Einsatz- und allen Lande-, An- und Abflugbereichen erfolgen. Dies erfolgt am ein-
+fachsten durch die Anforderung und -verhängung eines Flugbeschränkungsge-
+biets (ED-R).  
+ 
+ 
+2.5 Führung in der Luft 
+ 
+Bei verschiedenen Luftfahrzeugtypen setzen die meisten Staaten international ein 
+Führungsluftfahrzeug in der Regel oberhalb der abwerfenden Luftfahrzeuge ein. In 
+Portugal und Spanien ist das ab drei Luftfahrzeugen verpflichtend vorgeschrieben. 
+Frankreich nutzt das auch in speziellen Bereichen bei gleichen Typen von Luftfahr-
+zeugen, zum Beispiel bei Feuern an Landesgrenzen oder in der Nähe zu Städten. 
+ 
+Bis zum Vorliegen und Umsetzen eindeutiger Ausbildungsvorgaben für alle Luft-
+fahrzeugbetreiber bzw. Piloten gilt für den Luftfahrzeugeinsatz durch die Feuer-
+wehr Folgendes: 
+ 
+Keine Hubschrauber und Flächenflugzeuge zum gleichen Zeitpunkt im 
+gleichen Einsatzabschnitt/am gleichen Einsatzort für den gleichen Ein-
+satzauftrag oder in gleicher Höhe! 
+ 
+Mehrere Luftfahrzeuge gleichen Typs können in einem Einsatzabschnitt 
+eingesetzt werden, wenn 
+o der Einsatz koordiniert und  
+
+ 
+ 
+Seite 21 
+o im Einrichtungsverkehr erfolgt (Abb. 2.7.1/1) 
+ 
+Eindeutig geklärt werden muss dafür über den Einsatzabschnitt Luftfahrzeugein-
+satz unter anderem: 
+ 
+Nutzung des Luftraums (Abstände, Flugflächen) 
+ 
+An- und Abflugbereiche 
+ 
+Wartebereiche vor dem Abwurf („Holdings“) 
+ 
+Ansprache der Luftfahrzeuge 
+ 
+ 
+2.6 Video-, Bild- und WBK-Daten 
+ 
+Die Verfügbarkeit von diesen Daten ist für die Führung am Boden (den Einsatz- 
+bzw. auch den Abschnittsleiter) sehr wichtig, um die richtigen Entscheidungen tref-
+fen zu können. 
+ 
+Bilddaten (die viele Polizeihubschrauber erzeugen können) sollten schnell und ein-
+fach zur Verfügung gestellt werden können.  
+ 
+Besondere Absprachen sind mit dem Einsatz von Drohnen (oder Unbemannte 
+Luftfahrzeug = ULS bzw. Unmanned Aircraft Vehicles = UAV bzw. Unmanned Air-
+craft System = UAS) – auch der Feuerwehr – verbunden, wenn andere Luftfahr-
+zeuge in dem Bereich sind.  
+ 
+Drohnen sind derzeit im direkten, zeitgleichen Einsatzbereich bei Flugbetrieb an-
+derer Luftfahrzeuge auch für die Feuerwehr (oder andere) nicht zulässig! 
+ 
+Drohnen können durch den EAL Luft eingesetzt werden, um zum Beispiel 
+einen Löscheinsatz zu kontrollieren oder Luftbilder zu fertigen, wenn die 
+Luftfahrzeuge zum Beispiel einen Tankstopp einlegen müssen. 
+ 
+ 
+
+ 
+ 
+Seite 22 
+2.7 Löscheinsatz 
+ 
+Luftfahrzeuge können wie folgt im Löscheinsatz eingesetzt werden: 
+a) Direkter Löscheinsatz (mit und ohne Netzmittel oder Gelbildnern) 
+b) Indirekter Löscheinsatz (mit Retardant, derzeit in Deutschland nicht über die 
+BOS verfügbar, aber aus der EU über das Gemeinschaftsverfahren bzw. 
+rescEU erhältlich, oder Gelbildnern) 
+c) Wassertransport (nur mit Helikoptern!) zu einem Behälter in zum Beispiel 
+schwer zu erreichendem Gebiet und von dort Entnahme mit kleinen Pumpen 
+und konventioneller Löscheinsatz über D- und C-Schläuche. 
+ 
+Es gelten die Hinweise für den sicheren Löscheinsatz aus Punkt 2.3.2! 
+ 
+ 
+2.7.1 Direkter Löscheinsatz  
+ 
+Der Abwurf erfolgt mit der Ausbreitung des Feuers, also grundsätzlich mit dem 
+Wind. Ein Löscheinsatz gegen den Wind ist nur möglich, wenn der Brandrauch und 
+die Thermik dies zulassen. Dies muss immer erst erkundet werden und der Ein-
+richtungsverkehr besonders beachtet werden. Dabei ist neben der allgemeinen 
+Lageentwicklung insbesondere die Wetterlage und -entwicklung mit zu beachten. 
+ 
+Im Gebirge bzw. an Steilhängen erfolgen die Anflüge hangaufwärts oder quer zum 
+Hang. Der direkte Angriff auf eine Feuerfront ist oft wegen der Rauchentwicklung 
+und Thermik nicht möglich und grundsätzlich nicht effektiv, wenn durch Einsatz-
+kräfte am Boden nicht sofort nachgearbeitet werden kann.  
+ 
+Daher wird hier in der Regel auch die „AFFE“-Taktik angewandt:  
+1. A nker: Der Abwurf beginnt mit einem Ankerpunkt (natürliche oder taktische 
+Haltelinie), wird dann über die 
+2. F lanken mit überlappenden Abwürfen an den Flanken zur  
+3. F ront hin fortgesetzt und endet mit einem  
+4. E ingrenzen bzw. Zuschnüren der Front. 
+
+ 
+ 
+Seite 23 
+ 
+Abb. 2.7.1/1: Direkter Löschangriff (Grafik: @fire) 
+ 
+Normalerweise wird die Brandbekämpfung somit in einer kettenartigen Linie von 
+Abwürfen erfolgen können. Ergeben sich aber breitere Feuerfronten/-linien, kann 
+es auch erforderlich sein, nebeneinander überlappende Abwürfe zu setzen. 
+ 
+Dies gilt unabhängig davon, ob mit einem oder mehreren Luftfahrzeugen gearbei-
+tet wird. 
+ 
+Der Mindestabstand für den Abwurf in Reihe mit mehreren Luftfahrzeugen ist ab-
+hängig von den eingesetzten Typen und geflogenen Geschwindigkeiten!  
+ 
+Der EAL Luft legt den Mindestabstand in Abstimmung mit den Piloten im Rahmen 
+der Sicherheitseinweisung fest. 
+ 
+Die Löschwirkung ist in der Regel erstickend und abkühlend. Sie wirkt aufgrund 
+der Glutbrandbildung und relativ geringen Wassermengen auf relativ große Flä-
+chen und Brandlasten nur kurzzeitig unterdrückend. Es ist –  wenn immer mög-
+
+ 
+ 
+Seite 24 
+lich – ein sofortiges Nachsetzen von Löschmannschaften erforderlich. Nur in ab-
+soluten Ausnahmefällen kann das Luftfahrzeug das einzig über längere Zeit mög-
+liche Mittel darstellen (zum Beispiel in schlecht erreichbaren Gebieten, wie in Moo-
+ren oder an Steilhängen). Auch hier muss schnellstmöglich ein leistungsfähiger 
+Angriff am Boden aufgebaut werden, auch wenn dies aufwendig ist! 
+ 
+Die Koordination zwischen Wasserabwurf und Angriff am Boden kann nur zielge-
+richtet erfolgen, wenn vor Ort ein taktischer Abwurfkoordinator als Bindeglied zwi-
+schen den Einsatzkräften am Boden und dem EAL Luft zur Verfügung steht. 
+ 
+Löschwasserabwürfe werden derzeit in Deutschland immer in Form eines direkten 
+Angriffs durchgeführt. Für indirekte (zum Beispiel Abwerfen von Retardants als 
+Haltelinien) oder kombinierte Taktiken (Haltelinien, taktischer Nutzfeuereinsatz in 
+Kombination mit einem Löscheinsatz) fehlen derzeit in Deutschland die entspre-
+chenden taktischen und technischen Voraussetzungen. 
+ 
+Der vorbeugende Abwurf von Löschwasser (auch mit Netzmitteln) auf „grüne“ Be-
+reiche zum Bewässern oder Benetzen der Fläche bzw. des Bewuchses mit Luft-
+fahrzeugen ist unwirtschaftlich und sollte unterbleiben. 
+ 
+ 
+2.7.2 Abwurfarten 
+ 
+Helikopter bieten mehr Variationsmöglichkeiten im Abwurf mit der eigenen Ge-
+schwindigkeit als andere Luftfahrzeuge. 
+ 
+Einflüsse haben 
+ 
+Luftfahrzeug 
+o -art 
+o -geschwindigkeit 
+o -höhe über Grund 
+ 
+Wind 
+o -geschwindigkeit 
+
+ 
+ 
+Seite 25 
+o -stärke 
+ 
+Trainingsstand des Piloten 
+ 
+Abwurfbehältertyp (ALB, Ausrüstsatz) sowie gegebenenfalls Variationsmög-
+lichkeiten für die Öffnung (zum Beispiel Semat). 
+ 
+Durch Variation der Länge des ALB-Lastaufnahmemittels kann die Abwurfhöhe 
+trotz gleichbleibender Flughöhe verändert werden. 
+ 
+ 
+2.7.2.1 Einfluss der Flug- und Abwurfhöhe 
+ 
+Die Flughöhe (Abstand des Luftfahrzeugs zum Boden) bestimmt die Auswirkungen 
+des Down- bzw. Sidewashs auf die Einsatzkräfte, die Vegetation (Abbruch von 
+Ästen) und das Feuer.  
+ 
+Die Abwurfhöhe (Abstand Unterkante ALB zu Boden) bestimmt dabei die Zerset-
+zung des Wasserstrahls und damit die Löschwirkung am Boden. 
+ 
+Eine niedrige Abwurfhöhe sorgt für einen kompakteren Strahl und bietet sich daher 
+bei dichter Vegetation an. Allerdings ist darauf zu achten, dass dadurch auch ein 
+Anfachen des Feuers sowie gegebenenfalls eine größere Gefahr für Einsatzkräfte 
+und Geräte am Boden entstehen können. 
+ 
+Eine größere Abwurfhöhe sorgt für eine feinere Verteilung des Löschwassers und 
+bietet sich bei Buschwerk oder Grasland an. Eine zu große Abwurfhöhe (zum Bei-
+spiel wegen Munitionsverdacht größer 500 m) ist insbesondere im Hochsommer 
+wirkungslos, weil durch die feinste Verteilung und Verdunstung kein signifikanter 
+Löscheffekt mehr erzeugt werden kann. 
+ 
+ 
+2.7.2.2 Abwurftechnik 
+ 
+Das Luftfahrzeug sollte beim Abwurf im Überflug etwa ⅓ ins „Schwarze“ und ⅔ 
+ins „Grüne“ abwerfen, um die Brandausbreitung nicht zu beschleunigen. Zudem 
+
+ 
+ 
+Seite 26 
+benetzt ein Fehlwurf ins Grüne die Vegetation und entfaltet so noch eine (kurzzei-
+tige) brandhemmende Wirkung, während der Fehlwurf ins Schwarze keine die 
+Ausbreitung hemmende Wirkung zeigt.  
+ 
+Folgeabwürfe müssen überlappend erfolgen, da sich andernfalls das Feuer durch 
+die entstandene Lücke weiterentwickeln und voranschreiten kann.  
+Begonnen wird auch aus der Luft immer an einem Ankerpunkt, in der Regel an der 
+Basis (Rückseite) des Feuers (siehe Abb. 2.7.1/1). 
+ 
+Nur bei kleinen Feuern mit Bodeneinheiten kann der Kopf des Feuers direkt ange-
+griffen werden. 
+ 
+Abwürfe auf Vollfeuer (Bäume im Vollbrand, Flammenhöhe größer 20 m) mit lang-
+sam fliegenden Hubschraubern sind aus wirksamen Höhen in der Regel zu gefähr-
+lich und aufgrund der Brandintensität oft nicht effektiv. 
+ 
+Abwürfe auf Munitionsverdachtsflächen sind aufgrund der geforderten Sicherheits-
+abstände = Flughöhe (meist größer als 500 m) in der Regel wirkungslos. Die ge-
+naue Festlegung der nötigen Abstände (= Abwurfhöhen) erfolgt über den zustän-
+digen Kampfmittelexperten und muss immer eingehalten werden! 
+ 
+ 
+2.7.2.3 Nutzung von ALB mit verschiedenen Lastaufnahmemitteln  
+ 
+Es gibt je nach Luftfahrzeug und deren Betreiber höchst unterschiedliche Vorga-
+ben, wie mit Außenlasten zu fliegen ist. Auch die Art des verwendeten Lastaufnah-
+memittels (LAM = „Leinen“) zwischen Primärlasthaken am Hubschrauber zur Au-
+ßenlast (kurz oder lang) unterscheidet sich von Betreiber zu Betreiber. Insbeson-
+dere bei mehreren eingesetzten Luftfahrzeugen müssen die Besonderheiten der 
+einzelnen Verfahren abgestimmt werden, da unterschiedliche Längen der LAM 
+zum Beispiel auch unterschiedliche Höchstgeschwindigkeiten zulassen und in der 
+Regel die Entnahme aus bestimmten Wasseraufnahmestellen (zum Beispiel 
+Flextanks) nicht oder nur begrenzt möglich ist.  
+
+ 
+ 
+Seite 27 
+Behälter am Hubschrauber ein-/angebaut („Belly-Tank“): 
+Einige Hubschraubertypen zur Brandbekämpfung haben heute einen Löschwas-
+sertank unmittelbar unter dem Rumpf (zwischen den Kufen/Fahrwerk). Der Abwurf 
+erfolgt über Klappen, die Löschwasseraufnahme entweder über eine eingebaute 
+Pumpe mit einem mitgeführten Saugschlauch oder durch Befüllen an einem Au-
+ßenlandeplatz durch die Feuerwehr. Derzeit steht in Deutschland noch kein derar-
+tiger Hubschrauber planbar zur Verfügung. In Europa sind diese aber schon in 
+Betrieb, zum Beispiel in Italien. Ein Einsatz über die EU wäre damit grundsätzlich 
+möglich. 
+Diese Art des Wasserabwurfs erzeugt viel Downwash in der Abwurfzone, vor allem 
+bei langsameren Fluggeschwindigkeiten, da Flug- und Abwurfhöhe gleich sind. Ist 
+der Anflug zu tief, kann der Downwash das Feuer anfachen. Andererseits erhöht 
+diese Art die Flugsicherheit, da keine langen LAM unterhalb des Hubschraubers 
+hängen. 
+ 
+Behälter direkt am Hubschrauber eingehängt („Belly-Hook“): 
+Der ALB wird direkt am Hubschrauber eingehängt und befindet sich daher wenige 
+Meter unter dem Hubschrauber. Je nach Länge des am Behälter befestigten Ge-
+hänges variiert dies um einige Meter.  
+Der Pilot sieht den Behälter nur über seine Spiegel, eine Außenlastkamera oder 
+bekommt die Position von einem Besatzungsmitglied oder Flughelfer eingespro-
+chen.  
+Es ist nahezu unmöglich, dass der Behälter nach hinten in den Bereich des Heck-
+rotors kommt, was bei längeren LAM bei schneller Entleerung und einem be-
+schleunigten Abflug grundsätzlich möglich ist. Im Flug treten hierbei geringere 
+Pendelbewegungen auf. Dies ist daher auch bei der Befüllung von Wasserbehäl-
+tern mittels Hubschrauber von Vorteil. 
+Bei starker Neigung des Helikopters besteht die Gefahr, dass der Heckausleger 
+bei der Wasseraufnahme mit getauchtem Behälter das Wasser oder den Boden 
+berührt, was zu schweren Schäden am Luftfahrzeug führen kann! 
+Diese Art des Wasserabwurfs erzeugt viel Downwash in der Abwurfzone, vor allem 
+bei langsameren Fluggeschwindigkeiten, da Flug- und Abwurfhöhe nahezu gleich 
+sind. Ist der Anflug zu tief, kann der starke Downwash daher das Feuer anfachen. 
+
+ 
+ 
+Seite 28 
+Andererseits erhöht diese Art die Flugsicherheit, da keine langen LAM unterhalb 
+des Hubschraubers hängen. 
+ 
+ 
+Abb. 2.7.2.3/1: „ Belly-Hook” am Smokey. (Foto: Feuerwehrschule Würzburg) 
+ 
+ 
+Abb. 2.7.2.3/2: „ Belly-Hook” am Bambi-Bucket. (Foto: FF München) 
+ 
+
+ 
+ 
+Seite 29 
+12 bis 20 Fuß Tag-Line („Shortline“) 
+Dies entspricht einem LAM mit etwa 4 m bis 7 m Länge und wird vor allem auch 
+zur Aufnahme über Salzwasser als Ersatz für Belly-Hook genutzt, um weniger 
+Salzwasserkontamination zu bekommen.  
+Zu beachten ist hierbei, dass sich die Außenlast dann nicht im Bereich des 1,5-
+fachen Rotordurchmessers und somit außerhalb des maximalen Downwashs be-
+findet.  
+ 
+50 Fuß Line („Longline“): 
+Dies entspricht einem LAM mit etwa 18 m Länge.  
+Der Vorteil dieser Variante ist, dass der Behälter tiefer unter dem Hubschrauber 
+hängt und dadurch eine geringere Gefahr besteht, dass der Heckausleger bei der 
+Wasseraufnahme mit getauchtem Behälter das Wasser oder den Boden berührt. 
+Ebenso führt dies zu weniger Downwash am Boden, aber dafür zu mehr Pendel-
+bewegungen.  
+Bei Wasserentnahmestellen wie kleinen Pools, AB-Mulde oder Flex-Tanks ist die 
+Wasserentnahme jedoch aufgrund der höheren Pendelwirkung erschwert bzw. 
+nicht möglich. Dies gilt natürlich auch für die Wasserabgabe in Behälter, vgl. Ab-
+bildung 2.7.2.3/3. Diese Problematik nimmt mit zunehmender Seillänge zu. Es soll-
+ten daher hier immer Flughelfer als Einweiser am Boden zur Verfügung stehen, 
+um den Piloten einsprechen zu können. 
+
+ 
+ 
+Seite 30 
+ 
+Abb. 2.7.2.3/3: Long-Line an Bambi-Bucket bei einer Übung zur Befüllung eines Behälters am Boden. (Foto: FF 
+München) 
+ 
+ 
+Abb. 2.7.2.3/4: Long-Line am Semat bei der Wasseraufnahme. (Foto: FF München) 
+
+ 
+ 
+Seite 31 
+größer/gleich 100 Fuß Line 
+Dies entspricht einem LAM mit mehr als 40 m Länge. Normalerweise ist der ALB 
+über die Spiegel für den Piloten nicht mehr erkennbar, daher ist entweder für den 
+Piloten ein „Bubble-Window“ (besonders ausgewölbte Seitenscheibe), eine spezi-
+elle Außenlastkamera oder ein Beobachter im Helikopter erforderlich. Dazu sollte 
+deshalb jemand am Boden die Höhe über Boden mitteilen, um nicht mit dem ALB 
+den Boden zu streifen. Je länger das LAM ist, umso größer werden die Pendelbe-
+wegungen im Flug. 
+ 
+ 
+2.7.2.4 Empfehlungen für Abwurfarten 
+ 
+Für die nachfolgenden Näherungswerte8 gilt grundsätzlich: 
+1. 
+Aussagen bzgl. der Flughöhe (in Kombination mit der Geschwindigkeit) 
+sind unabhängig vom Behältertyp, da sie primär die Auswirkungen des 
+Downwashs am Boden minimieren sollen. 
+2. 
+Aussagen bzgl. der Abwurfhöhe (in Kombination mit der Geschwindigkeit) 
+sind natürlich vom Behältertyp abhängig, da der initiale Wasserstrahl sowie 
+seine Zersetzung sehr stark vom Behältertyp wie auch der gewählten Öff-
+nungsart (zum Beispiel beim Semat Voll- bzw. Sprühstrahl und Zentralab-
+wurf) abhängen. 
+ 
+Gras- und Schilffeuer 
+Geringere Löschintensität, weil geringe Brandlast, aber hohe Brandausbreitungs-
+geschwindigkeit, daher breiter und längerer Abwurf (hohe Geschwindigkeit (etwa 
+50 bis 70 kt = 90 bis 130 km/h), normale Abwurfhöhe (etwa 75 bis 100 ft = 23 bis 
+30 m) mit weniger Wasser je qm (etwa 0,6 bis 1 l/m²). 
+ 
+Busch- und Heidefeuer 
+Höhere Löschintensität erforderlich, daher geringere Fluggeschwindigkeit, daher 
+kleinere Auftrefffläche mit mehr Wasser je m² (etwa 1,5 bis 1,8 l/m²) (geringere 
+                                                 
+8 Die Werte beziehen sich primär auf eine Airbus AS332 SuperPuma mit einem Bambi-Bucket 2.000 Liter. Ihre 
+Übertragung auf andere Luftfahrzeuge und Behälter muss im Einzelfall evaluiert werden. 
+
+ 
+ 
+Seite 32 
+Geschwindigkeit (etwa 30 bis 40 kt = 55 bis 75 km/h, niedrigste sichere Abwurf- 
+bzw. Flughöhe). 
+ 
+Punktfeuer 
+(zum Beispiel einzelner Baum nach Blitzschlag in unwegsamen Gelände oder 
+neue Brandstelle als Punkt- oder Spotfeuer vor der Feuerfront durch Funkenflug), 
+daher Abwurf mit niedriger Geschwindigkeit mit höherer Höhe. Es empfiehlt sich 
+eine Geschwindigkeit von ≥15kt / ~30km/h und eine Flughöhe, die dem dreifachen 
+Rotordurchmesser (3xD) entspricht. Dadurch entsteht nahezu keine Einwirkung 
+des Rotorabstrahls (Downwash) mehr am Boden, was die Gefahr reduziert, dass 
+das Feuer dadurch angefacht oder gar vorangetrieben wird.  
+ 
+Punktabwürfe aus dem Schwebeflug oder tiefe und langsame Anflüge sind grund-
+sätzlich zu vermeiden. Sie führen zum Anfachen des Feuers und zum Aufwirbeln 
+von Funken / brennendem Material, welches erhebliche Folgen haben kann.  
+ 
+Punktabwürfe über größeren Feuern können aufgrund der Thermik, der 
+Schadstoff9- und Rußbelastung sowie möglicherweise auch weniger Sauer-
+stoff gefährlich sein. Das kann zu schweren (Folge-)Schäden oder sogar zum 
+Ausfallen der Triebwerke von Luftfahrzeugen führen! 
+ 
+Lediglich an Steilhängen mit einzelnen brennenden Vegetationsinseln können 
+Punktabwürfe das geeignete Mittel der Wahl sein. Hier wird aber in der Regel 
+schon wegen der Lage am Hang ein Bogenwurf (Luftfahrzeug fliegt an, dreht vor 
+Hang steil ab und der ALB an der Leine schwingt zum Hang, dabei wird der Abwurf 
+ausgelöst) die bessere Wahl sein. Dies setzt aber einen in der Gebirgsfliegerei mit 
+Löschwasseraußenlastbehältern (und damit wechselnden Lasten während des 
+Fluges!) sehr erfahrenen und in der Region fliegerisch ortskundigen Piloten vo-
+raus. 
+ 
+                                                 
+9 Löscheinsätze mit Hubschraubern über Objekten (Gebäuden, Müllhalden etc.) sind schon wegen der Schad-
+stoffbelastung v.a. im Schwebeflug nicht unproblematisch. Risiko & Aufwand und Nutzen stehen in der Regel in 
+keinem Verhältnis! 
+
+ 
+ 
+Seite 33 
+Behälterbefüllung 
+Zum Zweck des Wassertransportes in abgelegene Gebiete kann mit Hilfe des Hub-
+schraubers eine Befüllung von Behältern erfolgen. Dies erfolgt im Schwebeflug 
+oberhalb des Behälters. Ein Einweiser wie auch Einsprache am Boden sind zwin-
+gend notwendig. Ebenso müssen ALB und Bodenbehälter für diese Operation ge-
+eignet und kompatibel sein, zum Beispiel muss der Bodenbehälter ausreichend 
+stabil und am Boden gesichert sein.  
+ 
+ 
+2.7.3 Löschmittel 
+ 
+Am häufigsten wird Wasser aus offenen Gewässern eingesetzt. Eine Zumischung 
+von Netzmittel (Class-A-Foam) kann hier nur erfolgen, wenn der Behälter am Luft-
+fahrzeug über eine separate Zumischeinheit verfügt. Diese ist zum Beispiel für die 
+Bambi-Buckets verfügbar, wird aber aktuell in Deutschland (noch) nicht eingesetzt. 
+ 
+Wird über Außenlandeplätze mittels Schlauchbefüllung, Behälterwechselverfahren 
+oder aus speziellen Behältern Wasser aufgenommen, kann dies auch mit 0,1 bis 
+0,3 Prozent Netzmittel (Class-A-Foam) versehen werden. Dies bietet sich insbe-
+sondere dann an, wenn das Feuer bereits in die oberen Bodenschichten einge-
+drungen ist, oder es sich um Brände dicht liegenden Totholzes (zum Beispiel 
+Schlagabraum) handelt. Auch hierbei ist wieder zu beachten, dass Einsatzkräfte 
+im Gefahrenbereich des Hubschraubers arbeiten müssen. Daher ist dafür eine ent-
+sprechende Persönliche Schutzausrüstung, Kommunikationsausstattung wie auch 
+Ausbildung notwendig. 
+ 
+Die Wasseraufnahme ist grundsätzlich möglichst nahe an der zugeteilten Abwurf-
+stelle einzurichten. Sofern entsprechendes Material sowie gegebenenfalls Perso-
+nal (für Schlauchbefüllung und Behälterwechselverfahren) verfügbar sind, ist eine 
+Wasseraufnahme durch diese Verfahren der Entnahme aus offenem Gewässer 
+vorzuziehen, sofern sich dadurch die Flugzeit pro Zyklus um mindestens ein bis 
+zwei Minuten reduzieren lässt. 
+ 
+
+ 
+ 
+Seite 34 
+Bei der Nutzung natürlicher offener Gewässer, aber noch mehr künstlicher Seen 
+(zum Beispiel ehemalige oder aktive Kiesgruben), sind besondere Anforderungen 
+an die Wasserentnahmestellen gestellt. Grundsätzlich eignen sich zur offenen 
+Wasserentnahme: 
+ 
+Seen und Stauseen (sofern keine Trinkwasserreservoire, die Nutzung dieser 
+sollte im Bedarfsfall vorher immer mit den zuständigen Behörden bzw. Betrei-
+bern abgestimmt werden) 
+ 
+größere Kanäle (sofern sie für die Schifffahrt gesperrt wurden) 
+ 
+größere und tiefe Flüsse mit mäßigen Fließgeschwindigkeiten (zum Beispiel 
+Elbe, Weser) 
+ 
+Freibäder (sofern freigegeben und geräumt) 
+ 
+künstlich angelegte Regenauffangbecken oder ähnliches 
+ 
+Die Wasserentnahme aus extra von der Feuerwehr aufgestellten Behältern ist 
+ebenfalls möglich. Dies ist für den wirtschaftlichen Flug- und Löscheinsatz insbe-
+sondere dort sinnvoll, wo es in der Nähe keine anderen geeigneten offenen Was-
+serstellen für die direkte Wasserentnahme, dafür aber zum Beispiel Löschwass-
+erzisternen oder -entnahmestellen an Bächen gibt, aus denen dieser Behälter von 
+der Feuerwehr laufend nachbefüllt werden kann. Dabei ist zu beachten: 
+- 
+Behälter mit flexiblen Wänden (alle „selbstaufrichtenden“) und solche mit 
+Wänden mit Stützen reagieren höchst empfindlich auf  
+o Kontakte mit spitzen Steinen (Untergrund muss vorher gesäubert, 
+oder abgedeckt bzw. begradigt werden!) 
+o Berührungen mit dem LAM oder ALB. 
+- 
+Behälter mit festen Wänden (zum Beispiel entsprechend große, hohe und 
+nach oben offene Abrollbehälter) dürfen keine Vorsprünge oder Ecken ha-
+ben, an denen das LAM oder der ALB hängen bleiben oder beschädigt 
+werden kann. 
+Die Einweisung des Luftfahrzeugführers im Anflug für jede Wasserentnahme an 
+diese kleinen Löschwasserentnahmestellen ist in der Regel notwendig! 
+ 
+
+ 
+ 
+Seite 35 
+Die abschließende Entscheidung über die Geeignetheit oder Nicht-Geeignetheit 
+einer (vorgeschlagenen/geplanten) Löschwasserentnahmestelle trifft ausschließ-
+lich die Hubschrauberbesatzung. 
+ 
+Diese Auswahlkriterien für offene Wasserentnahmestellen gliedern sich wie folgt: 
+ 
+Entfernung zum Einsatzort 
+ 
+Größe und Tiefe des Gewässers 
+ 
+Bewuchs des Gewässers 
+ 
+Gefahren und Hindernisse im Wasser (Gegenstände im und unter Wasser, 
+Stahlseile, Wassersport- und Spielanlagen, Buhnen sowie Stege, aber auch 
+Wasserfahrzeuge und Schwimmer etc.) 
+ 
+Gefahren und Hindernisse um und über das Gewässer (Bebauung, Hoch-
+spannungsleitungen, Windräder, Badestellen, Verkehrswege, Brücken, etc.) 
+ 
+Notlandeflächen in unmittelbarer Gewässernähe 
+ 
+Freigaben zur Wasserentnahme erforderlich? 
+ 
+Zuwegungen zum Gewässer und zu den Notlandeflächen 
+ 
+Die Wasserentnahmestellen sowie das Umfeld müssen gegen Betreten/Befahren 
+Unberechtigter abgesperrt sein. Ferner sollten wasserseitige Rettungsmittel (Boot) 
+vorgehalten werden, da Wasseraufnahme- und Abwurf die gefahrenträchtigsten 
+Flugzustände darstellen. 
+ 
+ 
+ 
+Abb. 2.7.3/1 und 2: Gefahren um Wasserentnahmestellen (zum Beispiel Autobahn, Campingplatz, Leitungen). 
+(Foto: Otte) 
+ 
+
+ 
+ 
+Seite 36 
+Die meisten „Waldbrandländer“ (Südeuropa, USA, Australien etc.) nutzen mit gro-
+ßem Erfolg (mit wenigen Ausnahmen in extrem geschützten Bereichen der Natur) 
+Retardants als weiteres Werkzeug zur Brandbekämpfung bzw. hier Verhinderung 
+der weiteren Ausbreitung. Dieses Mittel kann bei sehr großen Bränden bei Bedarf 
+über das Gemeinschaftsverfahren der EU bzw. rescEU angefordert werden. Aktu-
+ell wird unter anderem in den USA der Einsatz von Gelbildnern erprobt, da diese 
+im Gegensatz zu Retardants umweltfreundlich und nicht gewässerschädlich, kos-
+tengünstiger und vielseitiger einsetzbar sind.  
+ 
+ 
+2.7.4 Ausbildung der Piloten und Luftfahrzeugbesatzungen 
+ 
+Die Piloten und Luftfahrzeugbesatzungen sollten in die Taktiken und Techniken für 
+den jeweiligen Einsatz ausgebildet und eingewiesen werden. Auch Grundlagen 
+über das Brandverhalten von Vegetationsbränden sowie die einfache taktische 
+Waldbrandprognose sollten geschult werden. 
+ 
+Soweit eine entsprechende taktische Ausbildung der Luftfahrzeugbesatzungen in 
+der Brandbekämpfung nicht vorhanden ist, muss entsprechend ausgebildetes Per-
+sonal (zum Beispiel Luftbeobachter, Flughelfer) von den Feuerwehren zur Fach-
+beratung – gegebenenfalls an Bord der Luftfahrzeuge – eingesetzt werden.  
+ 
+Die Zusammenarbeit im Einsatz mit der Feuerwehr sollte – unter Berücksichtigung 
+der jeweiligen Zuständigkeiten – und nach Verfügbarkeit von Luftfahrzeug-Kapa-
+zitäten regelmäßig geübt werden. 
+ 
+Ähnlich den anderen Ländern (zum Beispiel Australien10) ist es empfehlenswert, 
+dazu gemeinsame Mindestvereinbarungen zu treffen, um einen sicheren und effi-
+zienten Einsatz zu ermöglichen. Eine einheitliche europaweite bzw. deutschland-
+weite gesetzliche Regelung über die Anforderungen an die Luftfahrzeugbesatzun-
+gen in der Vegetationsbrandbekämpfung existiert aktuell nicht.  
+                                                 
+10 Australian Government – Civil Aviation Safety Authority (CASA) - CASA 57/18 — Flight Training (Helicopter 
+Firefighting Endorsement) Approval, 2018 
+
+ 
+ 
+Seite 37 
+2.8 Auswahl des Luftfahrzeugs 
+ 
+Je nach Einsatzzweck und Verfügbarkeit muss das richtige Luftfahrzeug ausge-
+wählt werden, soweit insbesondere bei längeren und größeren Lagen Auswahl-
+möglichkeiten bestehen.  
+ 
+In entsprechenden Tabellen können diese für die eigenen Einsatzbereiche vorab 
+eingetragen bzw. die zu beachtenden Wege für die Anforderung abgeheftet wer-
+den. 
+ 
+Es bietet sich hier vor allem bei größeren oder komplexen Lagen an, frühzeitig 
+einen geeigneten Fachberater für den Luftfahrzeugeinsatz einzusetzen, der die 
+nötige Fachkunde hat, um den Einsatzleiter bzw. S 3 in einem Stab bei der Aus-
+wahl beraten zu können und später den Einsatzabschnittsleiter Luft bzw. Luftfahr-
+zeugeinsatz (in Bayern: Fliegerische Einsatzleitung, FliegE) darstellen zu können. 
+ 
+Die Entwicklung in Deutschland ist immer weiter fortschreitend, so dass die Aus-
+wahl unterschiedlich leistungsfähiger Luftfahrzeuge in den einzelnen Bundeslän-
+dern in Zukunft aufgrund der dortigen Gegebenheiten (zunehmende Ausstattung 
+der Landespolizeihubschrauber mit ALB) oder vorhandener mehrstufiger Kon-
+zepte vereinfacht bzw. vorgegeben werden könnte.   
+ 
+ 
+2.9 Anforderung (Freigabe, Wege, Kosten) 
+ 
+Die Anforderung von Luftfahrzeugen ist in den Bundesländern völlig unterschied-
+lich geregelt und muss jeweils beachtet werden, weil schon ein falscher Anforde-
+rungsweg oder der unabgestimmte Zugriff auf Dritte erhebliche Auswirkungen auf 
+die Kosten bzw. deren Trägerschaft sowie die Anforderungszeiten haben kann! 
+Eine rechtzeitige Anforderung unter Berücksichtigung der zu erwartenden Brand-
+ausbreitung sichert den Einsatzerfolg. 
+ 
+
+ 
+ 
+Seite 38 
+Hinweis: Behörden untereinander dürfen sich, soweit nichts anderes geregelt ist, 
+für Amtshilfen nur die durch den Einsatz entstandenen amtshilfebedingten Mehr-
+kosten gegenseitig in Rechnung stellen11. 
+ 
+ 
+2.10 Einsatzabschnittsleiter Luft 
+ 
+Sobald an einer Einsatzstelle ein geplanter und regelmäßiger Flugbetrieb vorge-
+sehen ist bzw. durchgeführt wird, sollte entsprechend der Aufgabengliederung der 
+FwDV 100 ein Einsatzabschnittsleiter Luft (EAL Luft) bestimmt werden. 
+Die Aufgaben und Verantwortlichkeiten des EAL Luft betreffen insbesondere: 
+ 
+Festlegung der Einsatzstufe bzw. vorausschauende Planung in Bezug auf die 
+weitere Entwicklung. 
+ 
+Strukturierung des Luftraumes und Festlegung von Anflug und Wartearealen 
+(Holdings) auch unter Berücksichtigung der Eigenschaften der Luftfahrzeuge.  
+ 
+Zuteilung von Aufträgen an die Luftfahrzeuge.  
+ 
+(Weitere) Beratung des Einsatzleiters oder bei sehr großen Einsätzen gegebe-
+nenfalls auch einen (Einsatz-)Abschnittsleiters oder einer FEL oder TEL  
+o In der Auswahl und  
+o für den Einsatz der Luftfahrzeuge. 
+ 
+Insbesondere für die Einsatzbereiche: 
+o Löschwassertransport  
+o Löschwasserabwurf 
+o Personaltransport 
+o Materialtransport (in abgelegene und schlecht oder nicht mit Fahrzeu-
+gen erreichbare Einsatzgebiete),  
+o Rettung aus Gefahrenlagen. 
+ 
+Aufbau und Betrieb des Einsatzabschnittes Luft in der Regel auch mit Personal 
+mit fliegerischem Hintergrund (zum Beispiel aus dem Kreis von Piloten, Flug-
+lotsen, Luftfahrzeugbetreibern) für den Funkbetrieb im Flugfunk, wenn keine 
+eigenen Kräfte und Mittel dafür zur Verfügung stehen. 
+                                                 
+11 BVerwG, Urteil vom 27.06.2018 - 6 C 10.17 – RN 18 
+
+ 
+ 
+Seite 39 
+ 
+Sicherstellung der Kommunikationsmittel und -wege dafür. 
+ 
+Zusammenarbeit mit den Luftfahrzeugpiloten bzw. -betreibern für den Flugbe-
+trieb. 
+ 
+Vorbereitung und Aufbau eines Außenlandeplatzes als Hubschrauberlande-
+platz: 
+o Auswahl in Absprache mit den Piloten 
+o Freihalten von Dritten 
+o Aufbau des Betriebs  
+o Gegebenenfalls Aufbau und brandschutztechnische Absicherung Au-
+ßentankstelle. 
+ 
+Recherche zu geeigneten (Not-)Landeplätzen möglichst an Flughäfen für tech-
+nische Defekte oder Wartungsaufgaben. 
+ 
+Die Unterstützung des EAL Luft durch weiteres Personal in der Einsatzabschnitts-
+leitung kann notwendig werden. Es hat sich gezeigt, dass eine Aufteilung in einen 
+Führungsassistenten (FüAss) für die Zusammenarbeit mit den Luftfahrzeugen 
+(FüAss Luft) und den Unterstützungskräften am Boden (FüAss Boden) sinnvoll ist. 
+Hierbei ist es notwendig, dass der FüAss Luft über eine entsprechende Ausbildung 
+zur Koordination von Luftfahrzeugen (zum Beispiel Fluglotse, Flug(einsatz)leiter, 
+Pilot) verfügt. Steht dies aus den Reihen der Feuerwehr nicht zur Verfügung, ist 
+hierfür entsprechendes Personal der Luftfahrzeugbetreiber einzusetzen. 
+ 
+Mindestens bei größeren, längeren bzw. komplexeren Einsätzen mit Luftfahrzeu-
+gen ist vor Ort im jeweiligen Abschnitt am Boden ein taktischer Abwurfkoordinator 
+als Bindeglied zwischen EAL Luft und den Bodenkräften einzusetzen. Dieser sorgt 
+vor allem für die Sicherheit der Einsatzkräfte am Boden, durch rechtzeitige Räu-
+mung der Abwurfzone (etwa 25 bis 30 m seitlich der Abwurflinie sind ausreichend!), 
+aber auch wieder zur frühzeitigen Wiederaufnahme der Löschtätigkeiten nach den 
+Abwürfen und über Rückmeldungen zur Löschwirksamkeit gegebenenfalls für eine 
+Anpassung der Löschwasserabwürfe. Im folgenden Organigramm ist beispielhaft 
+eine Gliederung eines Einsatzes mit Beteiligung von Luftfahrzeugen in der Einsatz-
+stufe 2 oder 3 gezeigt. 
+
+ 
+ 
+Seite 40 
+ 
+Abb. 2.10/1: Taktischer Grundaufbau. Farblich unterlegt sind alle Bereiche des Luftfahrzeugeinsatzes. (Grafik: 
+Dr. Schmid) 
+ 
+ 
+2.11 Flugbetrieb 
+ 
+Für den Flugbetrieb ist zu erkunden, dar- bzw. sicherzustellen: 
+ 
+Wetter 
+o Darstellung regionale Wetterlage und -entwicklung 
+o Insbesondere Windrichtung und -stärke am/im  
+ 
+außenliegender Hubschrauberlandeplatz 
+ 
+Abwurf- bzw. Absetzgebiet 
+ 
+Behelfslandeplätze (zum Beispiel Segelflugplätze) 
+ 
+Kommunikationsplan  
+o Luft – Luft (zwischen verschiedenen Luftfahrzeugen und zur lokal zu-
+ständigen Flugsicherungsstelle) 
+o Boden – Boden (zwischen den verschiedenen Beteiligten im EA Luft, 
+zum Beispiel EAL Luft, Landeplatz, Abwurfzonen … ) 
+o Luft – Boden (zwischen eingesetzten Luftfahrzeugen und Einsatzkräf-
+ten am Boden, insbesondere wenn es hier zu verschiedenen direkten 
+Kommunikationsnotwendigkeiten zum Beispiel bei der Aufnahme von 
+
+ 
+ 
+Seite 41 
+Außenlasten sowie beim Abwurf bzw. Absetzen von Lasten im Einsatz-
+gebiet kommt.) 
+o Es bietet sich hier an, die Luftfahrzeuge (hier vor allem die Hubschrau-
+ber) klar zu kennzeichnen, um sie leichter erkennen und ansprechen 
+zu können. Dies ist umso wichtiger, je mehr gleiche oder ähnliche Hub-
+schrauber an einer Einsatzstelle zum Einsatz kommen. Empfehlens-
+wert ist eine Kennzeichnung mit einstelligen arabischen Ziffern. Dies 
+muss in Absprache mit den Piloten bzw. Luftfahrzeugbetreibern erfol-
+gen. 
+o Eine zusätzliche Zuordnung aufgrund der ALB ist ebenfalls sinnvoll, 
+falls dies möglich ist. In Bayern zum Beispiel 9/11 ist der 11. Behälter 
+mit einem Fassungsvermögen von 900 Liter. 50/01 wäre der erste 5000 
+Liter Behälter in Bayern. Somit hat der Abwurfkoordinator eine gute 
+Möglichkeit, Luftfahrzeug und ALB bei einem Abwurf in Einklang zu 
+bringen. 
+ 
+Einsatzplan 
+o Welche Luftfahrzeuge werden wann, wie und wofür benötigt? 
+o Mittel- und langfristige Planung insbesondere unter Berücksichtigung 
+der Einsatzziele der Einsatzleitung. 
+o Ausfallzeitenvorplanung für insbesondere geplante Maßnahmen wie: 
+ 
+Mögliche Flugzeiten (Tageslicht, Nebel, Wetter etc.) 
+ 
+Notwendige Pausenzeiten (zum Beispiel nicht mehr als 2 h 
+Flugzeit/Besatzungsmitglied, danach 40 min Pause, vgl. ge-
+setzliche Regelung Spanien). Die Details sind im Rahmen des 
+Briefings vor dem Einsatz mit den jeweiligen Luftfahrzeugfüh-
+rern abzustimmen. 
+ 
+Notwendige Wartungszeiten der Technik 
+ 
+Anforderung und Einsatz von Unterstützungseinheiten mit Personal und Mate-
+rial für zum Beispiel 
+o Aufbau und Absicherung eines außenliegenden Hubschrauberlande-
+platzes sowie in dessen Nähe gegebenenfalls 
+o Aufbau und Betrieb eines Lastaufnahme- und -ablageplatzes. 
+
+ 
+ 
+Seite 42 
+o Dort ergänzend gegebenenfalls auch für einen Feldbetankungsplatz 
+zur Hubschrauberbetankung. Hinweis: Dies ist nur in Zusammenarbeit 
+mit den Luftfahrzeugbetreibern möglich, weil nur diese über geeignete 
+Tankfahrzeuge verfügen. 
+o Löschwassertransport mit Außenlastbehälter 
+ 
+In die Abwurfzone (gegebenenfalls Einweiser mit direkten Kom-
+munikationsmitteln zum Luftfahrzeug dort notwendig) 
+ 
+Von einem ausreichend großen und stabilen und gegen den 
+Downwash gesicherten Faltbehälter oder offenem Tank (was-
+serdichter Abrollbehälter, zum Beispiel AB Mulde mit mindes-
+tens 2 m hohen Seitenwänden.) Die Wasserhöhe sollte dem 
+1,5-fachen der ALB-Höhe entsprechen. 
+ 
+In einen ausreichend großen und stabilen und gegen den Down-
+wash gesicherten Faltbehälter im Einsatzgebiet, um von dort mit 
+kleiner TS und D-Schläuchen im Gebiet mit Bodenkräften arbei-
+ten zu können. 
+ 
+Einweisung der im Umfeld der Luftfahrzeuge eingesetzten Einsatzkräfte  
+ 
+Absicherung der Landeplätze und Wasseraufnahmestellen mit entsprechend 
+ausgestattetem Personal und Material, auch für die Rettung im Gelände, inklu-
+sive Wasserrettungseinheiten. 
+ 
+ 
+3. Kategorisierung von Luftfahrzeugen 
+3.1 Einsatzstufen im Zusammenhang mit Luftfahrzeugen 
+ 
+Der Einsatz von Luftfahrzeugen erfolgt in mehreren Stufen abhängig von der Kom-
+plexität der Lage sowie der Anzahl und Varianten der Luftfahrzeuge im Einsatz. 
+ 
+In der Regel werden in Stufe 1 aufgrund der schnelleren Verfügbarkeit nur Luft-
+fahrzeuge mit BOS-Funk (Polizei, gegebenenfalls bereits Bundespolizei) einge-
+setzt werden. 
+ 
+
+ 
+ 
+Seite 43 
+Ab Stufe 2 werden Luftfahrzeuge der Bundespolizei eingesetzt und es muss damit 
+gerechnet werden, dass Luftfahrzeuge, zum Beispiel der Bundeswehr oder von 
+Privaten, beteiligt sein können, die über keine BOS-Funkausstattung verfügen. 
+ 
+Ab Stufe 3 wird das die Regel sein. 
+ 
+Die Stufe 4 kommt in Deutschland nur zum Einsatz, wenn parallel zu Hub-
+schraubern auch Flächenflugzeuge (zum Beispiel über rescEU) zum Lö-
+schen eingesetzt werden sollen. Das hat dann erhebliche Konsequenzen für 
+den Flugbetrieb (räumlich bzw. zeitlich) und muss sorgfältig geplant werden!  
+ 
+Einsätze bei Nacht und schlechter Sicht 
+Einsätze bei schlechter Sicht und bei Nacht finden aus Sicherheitsgründen nur 
+sehr selten statt. Sie können nur umgesetzt werden, wenn die Luftfahrzeuge die 
+entsprechende Ausrüstung für den Nachtflug haben, die Piloten entsprechend aus-
+gebildet sind, das Einsatzgebiet das erlaubt und die Lage das zwingend erfordert 
+(konkrete Gefahr für Leib, Leben oder bedeutende Sachwerte). 
+ 
+Stufe 
+Anzahl und Art 
+Luftfahrzeuge 
+Kommunikation 
+Luft-Boden 
+Außen-Lande-
+platz erforder-
+lich 
+Auswahl durch 
+Landeplatzbe-
+trieb erforder-
+lich? 
+1 
+Zum Beispiel ein 
+bis zwei meist 
+ähnliche Hub-
+schrauber  
+BOS-Funk 
+Meist ja, ALB ein-
+hängen 
+Absprache mit 
+EL 
+Pilot 
+Nein 
+2 
+Zum Beispiel 
+mehr als zwei 
+meist ähnlich 
+leistungsfähige 
+HS, zum Teil be-
+reits sehr unter-
+schiedliche Ty-
+pen 
+BOS-Funk 
+Zusätzlich immer 
+Flugfunk (VHF) 
+erforderlich 
+Ja 
+EL bzw. EAL Luft 
+Ja 
+Zum Teil mit Au-
+ßentankstelle, 
+wenn längerer 
+Einsatz 
+3 
+- 
+Viele Typva-
+rianten, 
+- 
+verschie-
+dene Betrei-
+ber, 
+In der Regel nur 
+Flugfunk 
+ja 
+EL bzw. EAL Luft 
+Ja 
+Meist mit Außen-
+tankstelle 
+
+ 
+ 
+Seite 44 
+Tabelle 2: Einsatzstufen beim Luftfahrzeugeinsatz 
+ 
+Bei der Stufe „Lastarbeit“ werden nicht mehr nur vordefinierte Außenlasten, wie sie 
+Außenlastbehälter darstellen, sondern individuell vorzubereitende Lasten verflo-
+gen. Hierbei findet im Speziellen die DGUV 214-911 Anwendung. Dabei ist auf 
+eine entsprechende Aus- und Fortbildung sowie Ausstattung des beteiligten Per-
+sonals zu achten. Diese Einsatzstufe kann parallel zu den anderen Stufen ange-
+wendet werden. 
+ 
+ 
+3.2 Kategorisierung von Luftfahrzeugen  
+ 
+Um im Einsatzbetrieb einfacher und klarer planen und kommunizieren zu können, 
+müssen Luftfahrzeuge klar im Einsatzwert erkennbar sein. 
+ 
+Dafür werden sie seit langem international kategorisiert.  
+ 
+Die Einteilung in die Kategorien sollte spätestens am Hubschrauberlandeplatz (in 
+der Regel hier immer ein Außenlandeplatz) erfolgen. 
+ 
+Eine enge Zusammenarbeit mit den Luftfahrzeugbesatzungen über geeignete 
+Kommunikationswege ist immer notwendig! 
+ 
+ 
+                                                 
+12 Ein Flächenflugzeug an einer Einsatzstelle für Erkundungs-, Beobachtungs- oder Führungsaufgaben in deutlich 
+separierter (größerer) Flughöhe führt nicht zur Stufe 4, muss aber trotzdem deutlich zu allen Luftfahrzeugen kom-
+muniziert und sorgfältig geplant werden! 
+ 
+- 
+komplexe 
+Lage 
+4 
+Hubschrauber 
+und Flächenflug-
+zeuge12 
+Nur Flugfunk 
+Ja (für Hub-
+schrauber) 
+Flugplatz für Flä-
+chenflugzeuge 
+EL bzw. EAL Luft 
+Ja 
+Meist mit Außen-
+tankstelle 
+L 
+Lastarbeit 
+BOS & Flugfunk 
+ja 
+ EAL Luft 
+ja  
+
+ 
+ 
+Seite 45 
+3.2.1 Unbemannte Luftfahrtsysteme („Drohnen“) 
+ 
+Auf die umfangreichen gemeinsamen Empfehlungen der Einsatzorganisationen 
+zum Drohneneinsatz (BBK, 2020) sei hier ausdrücklich verwiesen! 
+ 
+UAS (unmanned aircraft system) bzw. UAV (unmanned aircraft vehicle) werden 
+heute umfassend genutzt von 
+ 
+privaten Nutzern, eine Nutzung durch die Einsatzkräfte ist über die einschlägi-
+gen gesetzlichen Regeln zur Inanspruchnahme von Sachen im Einsatz ermög-
+licht. 
+ 
+BOS-Organisationen. 
+ 
+UAS gibt es als 
+ 
+Drehflügler (Arbeiten an einer Stelle ist möglich) 
+ 
+Flächenflieger (in der Regel nur bei kommerziellen Nutzern und der Bundes-
+wehr in Verwendung) 
+ 
+Bei der Nutzung von UAS ist unter anderem zu achten auf 
+ 
+Funkreichweite bzw. -abschattungen für die Fernsteuerung und die in der Re-
+gel davon unabhängige Bilddatenübertragung. 
+ 
+Störungen durch elektromagnetische Felder 
+ 
+Sobald in einem Einsatzgebiet der Einsatz von bemannten Luftfahrzeugen 
+durchgeführt wird, ist deren Einsatz (auch „BOS-Drohnen“) in dem Gebiet zu 
+unterbinden! 
+ 
+Die private Nutzung von Drohnen ist in diesem Bereich gemäß der Drohnen-
+verordnung untersagt!  
+ 
+Das muss über die Medien und Social Media kommuniziert und gegebenen-
+falls vor Ort überwacht werden! 
+ 
+ 
+
+ 
+ 
+Seite 46 
+3.2.2 Hubschrauber 
+ 
+Hubschrauber können eingesetzt werden für 
+ 
+Waldbrandfrüherkennungs-/Überwachungs-/Beobachtungsflüge 
+ 
+Erkundung, Luftbildfertigung und Bildübertragung aus der Luft 
+ 
+Führung von mehreren Luftfahrzeugen im Einsatzgebiet. Dies erfolgt immer 
+auf einer Flugebene deutlich oberhalb der anderen eingesetzten Luftfahr-
+zeuge. Sie sind dann besetzt durch einen Piloten und mit entsprechend ge-
+schultem Personal zur Führung der anderen Luftfahrzeuge. Der Funkverkehr 
+ist in der Regel auf Flugfunk zu führen. 
+ 
+Löschen mit Außenlastbehältern 
+o Direkter Löscheinsatz 
+o Indirekter Löscheinsatz bzw. Wassertransport in einen Behälter 
+ 
+Transport von Material 
+ 
+Transport von Gerät (in der Maschine oder als Außenlast) 
+ 
+Einteilung der Hubschrauber für den Löscheinsatz in Klassen bzw. Typen: 
+                                                 
+13 Achtung: Je nach Baujahr, konkretem Typ und konkreter Motorisierung bzw. Ausrüstung kann es hier auch zu 
+Verschiebungen kommen! Private Hubschrauber für den professionellen Außenlasttransport können hier meist 
+mehr Last transportieren, weil weniger andere Ausrüstung fest eingerüstet ist. Es kann daher zur Einteilung an 
+sich baugleicher Hubschrauber in verschiedene Typen kommen! 
+Typ 
+international 
+Deutsche  
+Beschreibung 
+Löschwasser-
+menge  (Liter) 
+Beispiele13 
+I 
+Groß 
+ >2.000 
+Airbus AS332 SuperPuma 
+Airbus AS330 Puma 
+Airbus AS532 Cougar 
+Kaman K-12 
+NH 90 
+Sikorsky S-61 SeaKing (auslaufend) 
+Sikorski S-64 (CH 54) SkyCrane 
+Sikorski S-65 (CH 53)  
+Sikorski S-70 (UH 60) BlackHawk oder FireHawk 
+Airbus H215/225 
+II 
+Mittel 
+800 – 2.000 
+Airbus AS 350 
+Airbus EC 145, H 145 
+Airbus EC 155, H 155 
+Bell UH-1D 205 (einmotorig) 
+Bell UH-1D 212 bzw. 412 (zweimotorig) 
+PZL W-3A Sokol 
+
+ 
+ 
+Seite 47 
+Tabelle 3: Hubschraubertypen 
+ 
+Einteilung der Hubschrauber für den Rettungseinsatz: 
+Für den vorgeplanten Hubschraubereinsatz zur Rettung auch aus schwierigem 
+Gelände, dynamischen Lagen (zum Beispiel Starkregen, Flut, schnelle Brandent-
+wicklung) sind in der Regel nur leistungsfähige Rettungshubschrauber mit Winde 
+geeignet. 
+ 
+Hubschrauber ohne Winde können nur eingesetzt werden, wenn eine Landung im 
+Gebiet möglich ist. Dies ist in der Regel bei solchen Lagen gar nicht bzw. nicht 
+mehr möglich. 
+ 
+Ein Rettungsverfahren mittels Tau ist evtl. sinnvoll, da mehrere Personen gleich-
+zeitig gerettet werden können. Das Taurettungsverfahren ist in der Regel schneller 
+als ein Winchverfahren zur Rettung. 
+ 
+Für die Rettung können daher folgende Hubschrauber vorgeplant werden: 
+ 
+mit Winde  
+ 
+mit Hakensystem für Personentransport am Bergetau an zwei Lasthaken 
+ 
+ohne Winde mit entsprechender Ausstattung für die Personenaufnahme als 
+Innenlast 
+ 
+ 
+3.2.3 Flächenflugzeuge 
+ 
+Flächenflugzeuge können eingesetzt werden für 
+ 
+Waldbrandfrüherkennungs-/Überwachungs-/Beobachtungsflüge 
+ 
+Erkundung aus der Luft 
+Augusta AW169M 
+III 
+Klein 
+< 800 
+Airbus EC 135 
+Augusta A-119 Koala  
+Bell 206 
+Bell 407 
+Robinson R66 
+
+ 
+ 
+Seite 48 
+ 
+Führung von mehreren Luftfahrzeugen im Einsatzgebiet. Dies erfolgt immer 
+auf einer Flugebene deutlich oberhalb der anderen eingesetzten Luftfahr-
+zeuge. Sie sind dann besetzt durch einen Piloten und mit entsprechend ge-
+schultem Personal zur Führung der anderen Luftfahrzeuge. Der Funkverkehr 
+ist in der Regel auf Flugfunk zu führen. 
+ 
+Löschflugzeuge (nur die, die auch in der EU verfügbar wären, sind anzufordern 
+über die jeweils in den Bundesländern geltenden Melde- und Alarmierungs-
+wege zum Beispiel für das rescEU-Verfahren): 
+ 
+Tabelle 4: Flächenflugzeugtypen 
+ 
+ 
+4. Ausblick und weitere Entwicklungen 
+ 
+Entsprechend der Erfahrungen der Nationen mit häufigem Luftfahrzeugeinsatz zur 
+Brandbekämpfung ist darauf hinzuarbeiten, dass die Erfahrungen über einen „Les-
+sons-Learned14-Prozess“ und einem regelmäßigen Austausch in Aus- und Fortbil-
+dungsveranstaltungen gesammelt und ausgetauscht werden. 
+ 
+Je mehr sich diese einsatztaktischen Optionen in Deutschland und international 
+etablieren, umso besser muss hier auch der internationale Austausch werden. 
+ 
+                                                 
+14 Bzw. Lessons Learned für amerikanisches Englisch. 
+Typ  
+international 
+Deutsche  
+Beschreibung  
+Löschwasser-
+menge (Liter) 
+Beispiele 
+I 
+Sehr groß 
+ >10.000 
+Beriev Be 200 Altair 
+Bombardier Dash 8 Q400-MR 
+Lockheed C-130 Hercules 
+II 
+Groß 
+5.000 – 10.000 
+Bombardier 415 
+Canadair CL 215 
+Canadair CL 215T 
+III 
+Mittel 
+3.000 – 5.000 
+Air Tractor AT 802F/AF 
+Air Tractor AT 802F/Fire Boss 
+Conair Firecat/Turbo Firecat (Grumman S2-
+Tracker) 
+IV 
+Klein 
+<3.000 
+PZL Mielec M-18 Dromedar 
+
+ 
+ 
+Seite 49 
+Die sich abzeichnenden Entwicklungen zum Beispiel für die frühzeitige Standardi-
+sierung der Verfahren zum Luftfahrzeugeinsatz aus den USA (Organisation einer 
+„FTA“ = Fire Traffic Area über Regeln zur Heranführung von Luftfahrzeugen, zur 
+Kommunikation und Steuerung im Einsatz derselben; vgl. NWCG, 2020) sind inte-
+ressant und zu etablieren, sobald dies über eine einheitliche Taktik und Ausbildung 
+dazu möglich wird. 
+ 
+ 
+5. Anhang 
+ 
+Mustervorlagen für Vordrucke zum Einsatz von Luftfahrzeugen werden unter an-
+derem von der Staatlichen Feuerwehrschule Würzburg bereitgestellt. 
+ 
+ 
+5.1 Glossar 
+ 
+AirOps  
+Air Operations = Aerial Operations: Luftfahr-
+zeugeinsätze 
+ 
+Außenlast 
+Alles, was außen an einem Luftfahrzeug 
+transportiert wird.  
+In der Regel sind dies unterschiedliche Las-
+ten an Seilen unter Hubschraubern, es gibt 
+aber auch feste Transportbehälter an den Au-
+ßenseiten aller Luftfahrzeugtypen. 
+ 
+Außenlastbehälter (ALB) 
+Jede Form eines Behälters als Außenlast, 
+häufig aber als Löschwasseraußenlastbehäl-
+ter ausgeführt. 
+ 
+Downwash 
+Durch Hubschrauberrotor verursachter Luft-
+strom nach unten (Abwind) und in Bodennähe 
+auch umgelenkt zur Seite ( Sidewash).  
+ 
+
+ 
+ 
+Seite 50 
+Je nach (abgeforderter) Leistung und Hub-
+schraubertyp bzw. verbauten Rotoren unter-
+schiedlich, kann aber bei schweren Hub-
+schraubern mit voller Leistung auch bis Wind-
+stärke 3 (schwache Brise) erreichen.  
+ 
+Flugbeschränkungsgebiet (ED-R) 
+Gebiete mit Einschränkungen für den (zivilen) 
+Luftverkehr durch die Flugsicherung – auch 
+ED-R.  
+ 
+FTA 
+Fire Traffic Area – Entwicklung aus den USA 
+zur eindeutigen Organisation des Luftraumes 
+oberhalb eines Einsatzgebietes bzw. dessen 
+definierten Umfelds. 
+ 
+Lastaufnahmemittel (LAM) 
+Verbindungselemente zwischen Last und Pri-
+märlasthaken am Hubschrauber, zum Bei-
+spiel Anschlagmittel, Seile, Leinen. 
+ 
+Löschwasser-Außenlastbehälter  
+auch kurz L-ALB – ALB für Löschwasser, gibt 
+es formstabil (tonnenförmig, zum Beispiel SE-
+MAT, Smokey) oder flexibel (meist schirmar-
+tig, zum Beispiel Bambi-Bucket) 
+ 
+Safety Briefing 
+Sicherheitseinweisung der Luftfahrzeugbe-
+satzungen und der damit am Boden zusam-
+men arbeitenden Einheiten. 
+ 
+Notices to Airmen (NOTAM) 
+Hinweise der Flugsicherung an die Luftfahr-
+zeugbesatzungen zum Beispiel über  Flug-
+beschränkungsgebiete.  
+ 
+
+ 
+ 
+Seite 51 
+Sidewash 
+Durch Hubschrauberrotor in Bodennähe ver-
+ursachter Luftstrom zuerst nach unten 
+( Downwash) und dann zur Seite.  
+Je nach (abgeforderter) Leistung und Hub-
+schraubertyp bzw. verbauten Rotoren unter-
+schiedlich, kann aber bei schweren Hub-
+schraubern mit voller Leistung auch bis über 
+Windstärke 5 (steife Brise) erreichen.  
+ 
+UAS (unmanned aircraft system) 
+Drohnen, unbemannte Luftfahrzeugsysteme, 
+gibt es als Flächen- oder Drehflügler (häufig 
+Multikopter, also mit mehreren Rotoren für die 
+Flugbewegungen). 
+ 
+UAV (unmanned aircraft vehicle) 
+siehe UAS bzw. Drohne. 
+ 
+WAP (Wasseraufnahmepunkt) 
+Wasseraufnahmepunkt für Luftfahrzeuge aus 
+offenem Gewässer, mobilem Behälter oder 
+mittels Schlauchbefüllung. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.2 Vordrucke 
+ 
+
+DFV-Fachempfehlung 
+ 
+ 
+5.2.1 Erfassung der Hubschrauber 
+Hubschrauber für den Lösch- bzw. Außenlasteinsatz oder Personentransport (Paxe) 
+Heli-
+Nr. 
+Hubschrauberbeschreibung 
+Fabrikat, Bezeichnung 
+Inter-
+nat. 
+I 
+II 
+III 
+Dt. 
+Groß 
+Mittel 
+Klein 
+Außenlast in 
+kg 
+Max. LW-
+Menge 
+in L 
+Behältertyp 
+Max. 
+Paxe 
+im Hub. 
+Betreiber und Bemerkungen 
+Pol = Landespolizei 
+BPol = Bundespolizei 
+Bw = Bundeswehr 
+Pr = Privat 
+Gegebenenfalls weitere Betreiber 
+Weitere Ausstattung (zum Beispiel FLIR, Winde) hier ergänzen: 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Seite 53 
+ 
+ 
+ 
+5.2.2 Hubschrauber für den Rettungs-/Rescueeinsatz oder Patiententransport 
+ 
+W = mit Winde 
+ 
+ 
+Es hat sich als praktikabel herausgestellt, die Fähigkeiten eines Hubschraubers auf einer Seite darzustellen, damit man je Hub-
+schrauber die Eckpunkte klar ersichtlich auf der Lage im Abschnitt Luft darstellen kann. Weiterhin ist das Formular geeignet, um 
+bei einem Briefing alle wichtigen Informationen abzufragen. 
+Heli-
+Nr. 
+Hubschrauber-beschreibung 
+Fabrikat, Bezeichnung 
+Inter-
+nat. 
+I 
+II 
+III 
+Dt. 
+Groß 
+Mittel 
+Klein 
+Außenlast in 
+kg 
+Max. LW-
+Menge 
+in L 
+Behälter-typ 
+Max. Pat im 
+Hub. 
+Betreiber und Bemerkungen 
+Pol = Landespolizei 
+BPol = Bundespolizei 
+Bw = Bundeswehr 
+Pr = Privat 
+Gegebenenfalls weitere 
+R1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DFV-Fachempfehlung 
+ 
+
+ 
+ 
+Seite 55 
+6. Literaturhinweise 
+  
+ 
+@fire: Workshop AirOperations, Tagungsunterlagen und -ergebnisse, Bad 
+Homburg, 2020 
+ 
+Australian Government – Civil Aviation Safety Authority (CASA) – CASA 57/18 
+— Flight Training (Helicopter Firefighting Endorsement) Approval, 2018 
+ 
+Azcarate, Juan Caamano: Operaciones Aéreas en Incendios Forestales, PAU 
+COSTA FOUNDATION, Tivissa (Esp), 2014 
+ 
+BBK: Empfehlungen für gemeinsame Regelungen zum Drohneneinsatz im Ka-
+tastrophenschutz, Bonn, 2020, https://www.feuerwehrverband.de/muster-
+dienstvorschrift-fuer-drohneneinsatz-online/, abgerufen am 28.02.2020 
+Campbell, Dough: Campbell Prediction System, 2005, http://cps.emxsys.com/, 
+abgerufen am 16.03.2021  
+ 
+Cimolino, Dr. Ulrich: Luftfahrzeuge – Einsatz/Kategorisierung, in: Einsatzleiter-
+handbuch, ecomed, Landsberg, 2020 
+ 
+DFV: Fachempfehlung Sicherheit und Taktik im Vegetationsbrandeinsatz, Ber-
+lin, 
+2020, 
+https://www.feuerwehrverband.de/fachempfehlung-vegetations-
+brand-aktualisiert/, abgerufen am 09.11.2020 
+ 
+NWCG (National Wildfire Coordination Group): FTA-Diagramm, January 2020, 
+https://www.nwcg.gov/sites/default/files/publications/PMS_505d.pdf,  
+abgerufen am 18.12.2020 
+ 
+Schmid, Dr. Martin: Persönliche Schutzausrüstung bei der Luftarbeit, in: 
+BRANDSchutz - Online Jahrgang 2020, bzw. Heft 12/2020, Verlag W. Kohl-
+hammer, Stuttgart, 2020  
+ 
+Staatliche Feuerwehrschule Würzburg: Ausbildungsunterlagen zur Wald-
+brandbekämpfung aus der Luft, Würzburg 
+ 
+ 
+ 
+Erstellt durch den Arbeitskreis Waldbrand im Fachausschuss Einsatz, Löschmittel 
+und Umweltschutz des Deutschen Feuerwehrverbandes unter Federführung von 
+Dr. Ulrich Cimolino (BF Düsseldorf), Stephan Brust (Staatliche Feuerwehrschule 
+
+ 
+ 
+Seite 56 
+Würzburg), Dr. Martin Schmid (Freiwillige Feuerwehr München) und Jan Südmer-
+sen (@fire) mit fachlicher Unterstützung durch @fire, der Staatlichen Feuerwehr-
+schule Würzburg sowie Alexander Otte (Einsatzpilot auf Airbus Helicopters AS 332 
+„Super Puma“). 
+ 
+Ihr Kontakt: Carsten-Michael Pix / Telefon (030) 288 848 8-28 / E-Mail pix@dfv.org 
+ 
+Haftungsausschluss: Die Fachempfehlung „Luftfahrzeugeinsatz – Aerial Fire-
+fighting – Air Operations (FE AirOps) für und durch die Feuerwehr“ wurde nach 
+bestem Wissen und unter größter Sorgfalt durch unsere Experten erstellt und 
+durch die zuständigen Fachbereiche und das DFV-Präsidium geprüft. Eine Haf-
+tung der Autoren oder des Deutschen Feuerwehrverbandes ist jedoch grundsätz-
+lich ausgeschlossen.  

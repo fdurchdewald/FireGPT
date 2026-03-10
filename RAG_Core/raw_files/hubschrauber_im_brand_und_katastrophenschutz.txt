@@ -1,0 +1,717 @@
+Institut der Feuerwehr 
+Nordrhein-Westfalen 
+Dr.-lng. Dominik Meffert 
+Brandreferendar 
+Institut der Feuerwehr NRW, Münster 
+Fachartikel 
+Hubschrauber im Brand- und 
+Katastrophenschutz 
+Facharbeit gemäß§ 20 Abs. 1 VAP2.2-Feu NRW 
+Gramberg, den 31.05.2024 
+
+ 
+II 
+ 
+Aufgabenstellung 
+Die großen Schadenereignisse der vergangenen Jahre haben gezeigt, wie wichtig Hubschrauber in der 
+Schadensbekämpfung im Brand- und Katastrophenschutz sein können. Hubschrauber wurden hierbei ins-
+besondere zur Rettung von eingeschlossenen Personen mittels Winde, zur Brandbekämpfung mittels Au-
+ßenlastbehälter und zum Transport von Einsatzkräften in unwegsam es Gelände genutzt. Würde die Auf-
+stellung eigener Brand- und Katastrophenschutz-Hubschrauber durch die Länder in der Zukunft sinnvoll 
+sein? 
+Diskutieren Sie mögliche Einsatzoptionen und schätzen Sie den Aufwand und die Folgen ab. 
+ 
+ 
+
+Kurzzusammenfassung 
+III 
+ 
+Kurzzusammenfassung 
+Die zunehmende Anzahl an Großschadenslagen in Folge von Naturkatastrophen wie Flächenbränden oder 
+ausgedehnten Überflutungen verändert das Einsatzspektrum der Brand- und Katastrophenschutz-Einhei-
+ten in den letzten Jahren sehr. Gerade der Einsatz von Hubschraubern in der nichtpolizeilichen Gefahren-
+abwehr gewinnt dabei stetig an Bedeutung zur Aufklärung der Lage aus der Luft, der Rettung von Men-
+schen sowie dem Material- und Löschwassertransport. 
+Die Länder als Träger des Katastrophenschutzes halten derzeit keine eigens für diesen Verwendungs-
+zweck vorgesehenen Hubschrauberkapazität vor, der Bund tut dies nur indirekt durch die Bereitstellung 
+von Zivilschutzhubschraubern, welche primär in der Notfallrettung eingesetzt werden, dem Katastrophen-
+schutz jedoch zur Verfügung stehen. Unterstützt werden die Brand- und Katastrophenschutzeinheiten 
+durch die Polizeihubschrauberstaffeln der Länder, die in Form von Amtshilfe die Bearbeitung der Lagen 
+unterstützen. Hierfür stehen häufig neben der Ausrüstung zur polizeilichen Tätigkeit auch ergänzende Ein-
+richtungen zur Verfügung. Ergänzt werden die Flugkapazitäten durch die Bundespolizei, die Bundeswehr 
+und private Anbieter (Luftrettung, Unternehmer), welche herangezogen werden können. 
+Derzeit beträgt der Anteil der Einsätze im Brand- und Katastrophenschutz der Hubschrauberstaffeln (Poli-
+zeien der Länder sowie Bundespolizei) lediglich 2,3% des Gesamteinsatzvolumens. Zur Errichtung einer 
+parallelen, von den Polizeien unabhängigen Hubschrauberstaffel für die nichtpolizeiliche Gefahrenabwehr 
+sind hohe zweistellige Millionenbeträge aufzuwenden, die durch teure Anschaffungen von Hubschraubern, 
+spezieller Ausrüstung sowie Ersatzteilvorhaltung resultieren. Zudem sind zur Sicherstellung einer durch-
+gängigen Alarmierbarkeit zusätzliche Personalstellen zu schaffen, die mit höheren Personalfaktoren als für 
+feuerwehrtechnische Stellen üblich kalkuliert werden müssen. 
+Der Vergleich von Kosten und Nutzen eigener Hubschrauberstaffeln der Länder für den Brand- und Kata-
+strophenschutz rechtfertigt nicht den Aufbau eigener Staffeln. Vielmehr ist die Nutzung von Synergien mit 
+den Polizeistaffeln in Form von Ertüchtigung vorhandener Strukturen durch ergänzende Ausrüstung und 
+Schulung von Feuerwehrpersonal von Vorteil. Die Einbindung von landes-externen Einheiten wie Bundes-
+wehr und Bundespolizei reduziert den Bedarf an eigenen Hubschraubern. 
+ 
+ 
+
+Kurzzusammenfassung 
+IV 
+ 
+Abkürzungsverzeichnis 
+ 
+Abk. 
+Abkürzung 
+BBK 
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe 
+BfS 
+Bundesamt für Strahlenschutz 
+BHKG NRW 
+Gesetz über den Brandschutz, die Hilfeleistung und den Katastrophen-
+schutz, Nordrhein-Westfalen 
+BKS 
+Brand- und Katastrophenschutz 
+BOS 
+Behörden und Organisationen mit Sicherheitsaufgaben 
+BPol 
+Bundespolizei 
+BPolG 
+Bundespolizeigesetz 
+FFD 
+Feuerwehr-Flugdienst 
+GG 
+Grundgesetz 
+KatS 
+Katastrophenschutz 
+LBKG RLP 
+Landesgesetz über den Brandschutz, die allgemeine Hilfe und den Kata-
+strophenschutz, Rheinland-Pfalz 
+LWAB 
+Löschwasser-Außenlastbehälter 
+PHuSt 
+Polizeihubschrauberstaffel 
+StrlSchG 
+Strahlenschutzgesetz 
+TC-HEMS 
+Technical Crew Member - Helicopter Emergency Medical Services  
+ZSH 
+Zivilschutz-Hubschrauber 
+
+Kurzzusammenfassung 
+V 
+ 
+Abbildungsverzeichnis 
+Abbildung 1: Bildschirmaufnahme der schriftlichen Anfrage per E-Mail „Kooperation mit 
+Hubschraubern der Höhenretter KL“ vom 08.03.2024 ......................................................... 21 
+Abbildung 2: Bildschirmaufnahme der Antwort auf die schriftlichen Anfrage per E-Mail 
+„Kooperation mit Hubschraubern der Höhenretter KL“ vom 11.03.2024 .............................. 22 
+ 
+Tabellenverzeichnis 
+Tabelle 1: Vorhaltung der Polizeihubschrauberstaffeln der Länder und der Bundespolizei inkl. 
+Ausrüstung für den Brand- und Katastrophenschutz-Einsatz (Länderkürzel nach 
+(Bundesministerium für Bildung und Forschung, 2024)) ........................................................ 5 
+Tabelle 2: Auswahl von Such-/Schlüsselbegriffen inkl. Suchergebnisanzahl der Google-
+Recherche ............................................................................................................................. 11 
+Tabelle 3: Auswahl von Such-/Schlüsselbegriffen inkl. Suchergebnisanzahl in der 
+BRANDSchutz-Datenbank .................................................................................................... 12 
+Tabelle 4: Auflistung Personalvorhalt der Fliegerstaffeln (Frage 2 in A.1) ................................................. 16 
+Tabelle 5: Auflistung Einsatzzahlen der Fliegerstaffeln (Frage 3 in A.1) ................................................... 17 
+Tabelle 6: Auflistung Einsatzstichworte im BKS-Einsatz der Fliegerstaffeln (Frage 4 in A.1) ................... 18 
+Tabelle 7: Angaben zur Ausbildungsdauer der Fliegerstaffeln (Frage 6 in A.1) ........................................ 18 
+Tabelle 8: Angaben zu Flugstundenkosten der Fliegerstaffeln (Frage 7 in A.1) ........................................ 19 
+Tabelle 9: Angaben zu Mitteln für Anschaffung eines Hubschraubers (Frage 8 in A.1) ............................ 19 
+Tabelle 10: Personalfaktoren für kontinuierlichen Betrieb einer Hubschrauberstaffel (Frage 9 in 
+A.1) ........................................................................................................................................ 19 
+ 
+ 
+
+ 
+VI 
+ 
+Inhalt 
+Teil I: Fachartikel ........................................................................................................................................ 1 
+Kurzzusammenfassung ............................................................................................................................ III 
+1 Einleitung ................................................................................................................................................. 2 
+2 Darstellung der Problemstellung ........................................................................................................... 2 
+3 Herangehensweise .................................................................................................................................. 3 
+4 Ergebnisse ............................................................................................................................................... 3 
+4.1 Grundlagen ......................................................................................................................................... 3 
+4.2 Historie ................................................................................................................................................ 3 
+4.3 Einsatzmöglichkeiten .......................................................................................................................... 4 
+4.3.1 Erkundung/Aufklärung .................................................................................................................. 4 
+4.3.2 Transport ...................................................................................................................................... 4 
+4.3.3 Menschenrettung ......................................................................................................................... 4 
+4.3.4 Brandbekämpfung mittels Löschwasser-Außenlastbehälter ........................................................ 4 
+4.3.5 Mess-/Spür-Einsätze .................................................................................................................... 5 
+4.4 Hubschraubervorhaltung und Ausstattung der Länder und des Bundes ............................................ 5 
+4.4.1 Polizei-Hubschrauber ................................................................................................................... 5 
+4.4.2 Transport-Hubschrauber der Bundeswehr ................................................................................... 6 
+4.4.3 Auslastung der Hubschrauber...................................................................................................... 6 
+4.4.4 Aufwand und Kosten .................................................................................................................... 6 
+5 Diskussion ............................................................................................................................................... 7 
+6 Fazit ........................................................................................................................................................... 8 
+Teil II: Methoden-, Literatur- und Quellendokumentation ...................................................................... 9 
+1 Beschreibung der Methodik ................................................................................................................... 9 
+1.1 Literaturarbeit ...................................................................................................................................... 9 
+1.2 Befragung ........................................................................................................................................... 9 
+2 Begründung ............................................................................................................................................. 9 
+3 Literatur- und Quellendokumentation ................................................................................................. 10 
+3.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken ............................................ 10 
+3.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation ........................................ 10 
+3.2.1 Ergebnisse der freien Suche mittels Google .............................................................................. 11 
+3.2.2 Ergebnisse der gezielten Artikel-/Autorensuche mittels Google Scholar .................................. 11 
+3.2.3 Ergebnisse der Suche in der BRANDSchutz-Datenbank .......................................................... 11 
+3.3 Kriterien der Literatur- und Quellenauswahl ..................................................................................... 12 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen .................................. 12 
+Literaturverzeichnis ................................................................................................................................. 13 
+A. Anhänge ................................................................................................................................................ 16 
+B. Eigenständigkeitserklärung ................................................................................................................ 23 
+
+ 
+1 
+ 
+Teil I: Fachartikel 
+ 
+ 
+
+Einleitung 
+2 
+ 
+1 Einleitung 
+Klimatische Veränderungen in Mitteleuropa verändern durch lange Trockenphasen sowie extreme, lokal 
+konzentrierte Niederschlagsmengen nicht nur die Entwicklung der Vegetation und der Wetterlage, sekun-
+där beeinflussen diese Wandlungen auch das Einsatzgeschehen im Bereich Feuerwehr und Katastrophen-
+schutz (KatS) (Arbeitskreis Waldbrand des Deutschen Feuerwehrverbands, 2022). Durch ausgedehnte 
+Brände in Wald- und anderweitigen Vegetationsgebieten rückt die Unterstützung der bodengebundenen 
+Kräfte durch Luftfahrzeuge in den Fokus der Einsatzplanung. Während die Feuerwehren für viele Einsatz-
+lagen, auch spezielle Lagen mit niedriger Einsatzwahrscheinlichkeit wie beispielsweise im Umgang mit 
+radioaktiven Gefahrenstoffen, Material selbst vorhält, ist dies bei der Ausrüstung für den Einsatz von Luft-
+fahrzeugen kaum der Fall. Einzelne Bundesländer wie der Freistaat Bayern folgen diesem Wandel und 
+statten ihre Feuerwehren mit Ausrüstung der Brandbekämpfung aus der Luft aus und entwickeln detaillierte 
+Ausbildungs- und Strukturunterlagen (Staatliche Feuerwehrschule Würzburg, 2017). Andere Bundesländer 
+setzen auf die Ertüchtigung der durch die Länder vorgehaltenen Polizeihubschrauberstaffeln (PHuSt), de-
+ren Hubschrauber und Mannschaften zur Unterstützung der Feuerwehren angefordert werden können 
+(Hessisches Ministerium des Innern und für Sport, 2019; Lehmkuhl et al., 2020; Ständigen Konferenz der 
+Innenminister und Senatoren der Länder [IMK], 2019). 
+Motiviert durch die steigende Anzahl Vegetationsbrände großer Ausmaße und die dramatischen Ereignisse 
+der Flutkatastrophe in Rheinland-Pfalz und Nordrhein-Westfalen im Juli 2022, in deren Kontext bundesweit 
+ca. 180 Menschen ums Leben kamen (Bundesministerium des Innern und für Heimat, 2022), entwickeln 
+sich Forderungen nach speziell für den Brand- und Katastrophenschutz (BKS) vorgehaltenen Hubschrau-
+bern (Merz et al., 2022). Im Rahmen dieser Ausarbeitung wird über die zweckbezogene Vorhaltung von 
+Hubschraubern für den BKS-Einsatz durch die Länder diskutiert. 
+2 Darstellung der Problemstellung 
+Als Grundlage für die Struktur des BKS in der Bundesrepublik Deutschland dienen die Bundes- und Lan-
+desgesetze. Durch Art. 73 Abs. 1 GG obliegt dem Bund die Pflicht zur Einrichtung des Zivilschutzes, Auf-
+gaben im BKS sind davon nicht betroffen. Diese fallen nach Art. 30 und 70 GG in den Zuständigkeitsbereich 
+der Bundesländer (vgl. exemplarisch §1 Abs. 1 BHKG NRW). Somit sind diese als Träger dieser Aufgabe 
+für die Aufstellung leistungsfähiger Feuerwehren und KatS-Einheiten verantwortlich. 
+Über das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) hält der Bund eigene Hub-
+schrauber für den Zivilschutz vor. Diese an zwölf Standorten verteilten Zivilschutz-Hubschrauber (ZSH) 
+werden primär in der Luftrettung mit medizinischer Besatzung (Retten und Bergen) oder auch zu Erkun-
+dungsaufgaben eingesetzt (Schug, 2023). Zusätzlich stehen diese Hubschrauber dem KatS auch für Füh-
+rungs-, Transport- und Strahlenmessaufgaben zur Verfügung (Bundesamt für Bevölkerungsschutz und Ka-
+tastrophenhilfe, 2021). In Hessen beispielsweise ist der in Frankfurt stationierte ZSH mittels Sonderschutz-
+plan fest in den KatS des Landes eingebunden (Mühlenhof, 2021). 
+Durch die Veränderungen der Einsatzspektren im BKS durch das häufigere Eintreten von Großschaden-
+sereignissen und Katastrophen in jüngerer Vergangenheit sind die Länder nun gefordert, sich in ihrer Aus-
+richtung und Ausstattung des BKS entsprechend anzupassen, um ihrer Pflichtaufgabe nachzukommen. 
+Während für Großschadensereignisse und Katastrophen bereits Konzepte und bodengebundene Fahr-
+zeugvorhaltungen vorhanden sind, beispielsweise durch die Einheiten in den KatS-Konzepten des Landes 
+Nordrhein-Westfalen (Institut der Feuerwehr NRW, 2022), werden Flugfahrzeuge nicht explizit für den BKS-
+Einsatz vorgehalten. Hier greifen die Länder auf die PHuSt der Landespolizeien sowie die der Bundespoli-
+zei (BPol) zurück. Zusätzlich stehen die ZSH an zwölf Standorten zur Verfügung, welche durch ihre Betei-
+ligung an der Luftrettung hohe Einsatzzahlen vorweisen (Schug, 2023). Erkundungsaufgaben aus der Luft 
+mittels Drohnen gehören heute hingegen schon zu Standardaufgaben einer Feuerwehr (Feyrer, 2022), 
+wodurch die Feuerwehr- und KatS-Einheiten unabhängiger von der Aufklärungsarbeit zur Lageerfassung 
+durch die PHuSt werden. Bei Transportaufgaben oder auch Löschangriffen aus der Luft wird standardisiert 
+auf die Hubschrauber der Polizeien oder auch der Bundeswehr zurückgegriffen. Diese sind allerdings nicht 
+originär für diese Aufgaben vorgesehen und dienen vorrangig der polizeilichen Gefahrenabwehr und Er-
+mittlungsarbeit (Bayerischen Staatsministeriums des Innern, 2002; IMK, 2019). Entsprechend stehen der-
+zeit keine Hubschrauber im vollen Umfang dem BKS in den Ländern zur Verfügung, obwohl deren Einbin-
+dung in Einsätze verstärkt mit zunehmender Tendenz erfolgt. 
+
+Herangehensweise 
+3 
+ 
+3 Herangehensweise 
+Im Fokus dieser Ausarbeitung steht die Frage, ob die Länder eigene Hubschrauber für den Einsatz im BKS 
+vorhalten sollen. Hierzu werden Einsatzmöglichkeiten aufgeführt und diese dem Aufwand zum Erhalt einer 
+Hubschrauberfliegerstaffel gegenübergestellt. Als Datengrundlage wird auf die PHuSt der Länder, der Bun-
+despolizei sowie Hubschrauber des Heeres der Bundeswehr zurückgegriffen. Die ZSH des BBK werden in 
+dieser Datenerfassung nicht explizit mit aufgeführt, sondern werden aufgrund der Unterhaltung durch den 
+Bund und der Besetzung mit Flugpersonal der BPol auch dieser zugeordnet. Der Fokus der Analyse soll 
+auf den Ländern als Trägern des BKS liegen. Die Hubschrauberstaffeln der BPol spielen hier jedoch eine 
+Sonderrolle, da es durch Kooperationen von einzelnen Länder-PHuSt die Landesvorhaltung beeinflusst. 
+Zudem stellt die BPol die Grundinfrastruktur zur Ausbildung aller Piloten der Länder-PHuSt und ist entspre-
+chend für den Ausbildungsaufwand mit zu berücksichtigen. Die Transport-Hubschrauber der Bundeswehr 
+(Hubschraubergeschwader 64) werden exemplarisch für die Möglichkeiten einer Anforderung durch die 
+Länder betrachtet, da diese Hubschrauberstaffeln sich vom Einsatzspektrum und den technischen Mög-
+lichkeiten von den Polizei-Hubschraubern unterscheiden. Private Flugdienstleister wie die ADAC- oder die 
+DRF Luftrettung, die für die Flugrettung als Dritte durch Vergabeverfahren in das System integriert sind, 
+werden aufgrund ihrer originären Aufgaben im Rettungsdienst und keiner direkten Vorhaltung durch die 
+Länder ebenfalls nicht betrachtet. 
+Aufbauend auf eine Einordnung in den gesetzlichen Rahmen sowie den historischen Einsatz von Hub-
+schraubern im BKS in Deutschland wird eine Datenabfrage aller durch die Länder unterhaltenen PHuSt 
+sowie der BPol durchgeführt. Daraus wird die aktuelle Vorhaltung an Hubschraubern durch die Bundeslän-
+der samt der für den BKS-Einsatz tauglichen Ausrüstung abgeleitet. Anhand der finanziellen Aufwendun-
+gen für die Beschaffung, den Unterhalt sowie die Flugkosten sollen die Einsatzmöglichkeiten sowie die 
+durch die PHuSt unterstützten BKS-Einsatzzahlen der letzten Jahre bewertet und gegenübergestellt wer-
+den. Ziel ist die Analyse, ob die Möglichkeiten und Einsatzwahrscheinlichkeit im BKS den großen Vorhal-
+tungs- und Ausbildungsaufwand rechtfertigen. 
+4 Ergebnisse 
+4.1 Grundlagen 
+Wie in 2 erwähnt obliegen die Aufgaben des BKS den Bundeländern als Pflichtaufgabe nach Gesetz. In 
+den Landesgesetzen, hier BHKG NRW und LBKG RLP, werden diese Aufgaben meist auf die Gemeinden 
+(Brandschutz und allgemeine Hilfe/Hilfeleistung) sowie die Kreise und kreisfreien Städte (KatS und überört-
+licher Bedarf bei Brandschutz und Hilfeleistung) delegiert. Die Länder selbst behalten sich zentrale Aufga-
+ben vor. Aus den zugrundeliegenden Gesetzen geht die Zuständigkeit der Länder für eine mögliche Hub-
+schrauber-Vorhaltung hervor. 
+In 13 von 16 Bundesländern betreiben die Landespolizeien eigene PHuSt. Diese werden wie der BKS vom 
+Land getragen. Die Vorhaltungen von Fliegerstaffeln werden häufig durch Erlasse oder Verordnungen de-
+finiert. Somit werden durch die BKS-Träger bereits Hubschrauber unterhalten. In den Rettungsdienstge-
+setzen werden die zum Luftrettungsdienst vorgesehenen Flugfahrzeuge bestimmt, die in der Regel von 
+externen Dritten betrieben werden (Kapp, 2024).  
+Zusätzlich zu den Landesvorhalten hat die BPol auf Grundlage des §60 BPolG die Pflicht, Hubschrauber 
+in einem mit der Haushaltslage vereinbaren Umfang zu betreiben. Mit den in 2 genannten ZSH und jenen 
+der BPol unterhält der Bund somit auch nicht-militärische Hubschrauber neben denen der Bundeswehr. 
+4.2 Historie 
+Bereits in den 1960er Jahren forderten erste Pioniere wie Prof. Ernst Achilles, Direktor der Branddirektion 
+Frankfurt am Main, die Einführung von Hubschraubern bei den Feuerwehren. Zuerst mit dem Fokus auf 
+Patientenversorgung und medizinischer Ausrüstung folgten später dann Erkundungs- und Führungsaufga-
+ben. Aus diesem System entwickelte sich die Flugrettung in ihrer heutigen Form. Jedoch schon im Jahr 
+1969 stellte das Land Niedersachsen mit dem Feuerwehr-Flugdienst (FFD) in Kooperation mit der Bundes-
+wehr eigene Hubschrauber in Dienst, die für originäre Feuerwehraufgaben zur Verfügung standen. Hierzu 
+zählten primär die Früherkennung und Luftbeobachtung von Vegetationsbränden. Nach nur zehn Flugjah-
+ren endete 1979 die Ära der Feuerwehr-Hubschrauber, die aufgrund hoher Kosten für Beschaffung, War-
+tung und Betrieb durch Kleinflugzeuge ersetzt wurden. Diese Flugzeuge des FFD werden bis heute durch 
+den Landesfeuerwehrverband Niedersachsen unterhalten. Eine Vorhaltung eigener Hubschrauber wurde 
+
+Ergebnisse 
+4 
+ 
+durch erfolgreiche Kooperationen mit BPol- und Bundeswehr-Hubschraubern eingestellt. Ergänzt wird die 
+Flotte durch externe Unternehmer, die mit ihren Miet-Hubschraubern zur Einsatzunterstützung beauftragt 
+wurden. (Niedersächsisches Ministerium für Inneres und Sport, 2023; Schütte, 2024) 
+4.3 Einsatzmöglichkeiten 
+4.3.1 Erkundung/Aufklärung 
+Die Bereitstellung von Video- und Bildmaterial aus der Luftperspektive ist für die Einsatzleitung bei Groß-
+schadenslagen wie ausgedehnten Vegetationsbränden oder Überflutungen von großer Bedeutung. Aus 
+den Daten lassen sich Ausdehnungsgröße, -richtung und -geschwindigkeit konkreter einschätzen, als dies 
+vom Boden aus möglich ist. Durch die Einbindung der PHuSt in solche Einsatzlagen stehen hochauflö-
+sende Kamerasysteme, präzise Wärmebildkameras und Live-Datenübertragungen aus den Hubschrau-
+bern zur Einsatz- oder Abschnittsleitung zur Verfügung. Diese Form der Erkundung und Aufklärung wird 
+zunehmend und ergänzend mit Drohnenflügen durchgeführt. (@fire - Internationaler Katastrophenschutz, 
+2021; Fallbrock, 2013; Ministerium des Inneren, für Digitalisierung und Kommunen Baden-Württemberg, 
+2020) 
+4.3.2 Transport 
+Entlegene oder aufgrund der Topografie schwer erreichbare Areale, wie z.B. Berghütten, sind in der Ge-
+fahrenabwehr häufig auf den Material- und Personaltransport via Hubschrauber angewiesen (Brandl, 
+2023). Dies beinhaltet neben dem Bereitstellen von Einsatzgerät wie Schlauchmaterial oder tragbaren 
+Pumpen auch den Transport von Sandsäcken oder Deichbaumaterial. Doch auch die Versorgung der Be-
+völkerung mit Lebensmitteln und Trinkwasser ist so möglich. Voraussetzung ist hierfür die technische Aus-
+stattung der Hubschrauber (z.B. Außenlasthaken) sowie die Beachtung deren Belastungsgrenzen (Deut-
+scher Feuerwehrverband & Vereinigung zur Förderung des Deutschen Brandschutzes e.V., 2022; Schütte, 
+2024; Staatliche Feuerwehrschule Würzburg, 2017).  
+4.3.3 Menschenrettung 
+Primäre Aufgabe in der Gefahrenabwehr ist die Rettung von Menschenleben, wie auch die vorrangige 
+Aufzählung in der Feuerwehrdienstvorschrift 3 verdeutlicht (Ausschuss für Feuerwehrangelegenheiten, Ka-
+tastrophenschutz und zivile Verteidigung [AFKzV], 2008). Hier kommen Hubschrauber verstärkt mit mon-
+tierten Rettungswinden zum Einsatz. Über diese Winden gelangen zum einen Einsatzkräfte zu den Patien-
+ten oder zu rettenden Personen, zum anderen können diese Personen auch so in den Hubschrauber auf-
+genommen werden (z.B. von Hochwasser eingeschlossene Personen, treibende Personen im Wasser oder 
+bei Unfällen im unwegsamen Gelände). (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, 2021; 
+Deutscher Feuerwehrverband & Vereinigung zur Förderung des Deutschen Brandschutzes e.V., 2022; 
+DRF Luftrettung, 2021; Staatliche Feuerwehrschule Würzburg, 2017) 
+Gesondert betrachtet wird der Einsatz von Hubschraubern in der Notfallrettung. Diese Hubschrauber sind 
+mit medizinischem Personal, also einem Notarzt sowie einem mit fliegerischer Einweisung versehener Not-
+fallsanitäter, kurz TC-HEMS, und entsprechendem Equipment ausgestattet (Bundesamt für Bevölkerungs-
+schutz und Katastrophenhilfe, 2021). Als großer Vorteil im Vergleich zu bodengebundenen Fahrzeugen 
+wird der Zeitgewinn zwischen Unfall und Eintreffen qualifizierter Hilfe sowie der reduzierten Transportdauer 
+in ein Versorgungszentrum genannt (Technisch-Wissenschaftlicher Beirat (TWB) der Vereinigung zur För-
+derung des Deutschen Brandschutzes e.V., 2014). 
+4.3.4 Brandbekämpfung mittels Löschwasser-Außenlastbehälter 
+Im Kontext des BKS rückt die Brandbekämpfung aus der Luft deutlich in den Vordergrund. Unbefahrbare 
+oder auch durch Munition belastete Gebiete können häufig nur durch das Abwerfen von Löschwasser mit-
+tels Helikopter effektiv versorgt werden. Hierzu werden Löschwasser-Außenlastbehälter (LWAB) an den 
+Lasthaken der Hubschrauber montiert. Bekannte Typen dieser Behälter sind Bambi-Bucket oder Smokey, 
+die in verschiedenen Größen und Ausführungen vorgehalten werden. Diese Behälter werden entweder 
+selbstständig durch Eintauchen in große stationäre Behälter sowie Gewässer oder durch Einspeisen via 
+Schlauchleitungen von Boden aus befüllt. Ähnlich wie bei Transportflügen mit Außenlast sind hier die tech-
+nische Ausrüstung (Außenlasthaken, Lastverbindungsmittel, Betätigung des Behälterventils) sowie die 
+Leistungsgrenzen der Hubschrauber (Abfluggewicht, Tragfähigkeit, max. Flugdauer) zu beachten. (Arbeits-
+kreis Waldbrand des Deutschen Feuerwehrverbands, 2022; Deutscher Feuerwehrverband & Vereinigung 
+zur Förderung des Deutschen Brandschutzes e.V., 2022; Ruchser, 2021; Schröder, 2023; Staatliche Feu-
+erwehrschule Würzburg, 2017) 
+
+
+Ergebnisse 
+6 
+ 
+auch Gebiete zwischen zwei benachbarten PHuSt aufgeteilt (siehe Rheinland-Pfalz und Hessen) und über 
+die eigene Landesgrenze hinweg zusammengearbeitet (Hessisches Bereitschaftspolizeipräsidium, 2021). 
+Die Ausstattung der einzelnen PHuSt hinsichtlich der BKS-Ausrüstung der Hubschrauber unterscheidet 
+sich doch stark. Während die Kamerasysteme (auch mit Wärmebildkamera) bei allen Hubschraubern als 
+Ausrüstungsmerkmal der Polizeiarbeit vorausgesetzt werden kann, halten nicht alle PHuSt die gleiche Aus-
+rüstung vor. Hier ist die Fähigkeit, Lasten außerhalb des Hubschraubers zu transportieren, nicht überall 
+gewährleistet. Jedoch ist ein Aufrüsten zu erkennen, wie die geplanten Anschaffungen von Rettungswinden 
+durch die Länder Rheinland-Pfalz und Sachsen zeigen. 
+4.4.2 Transport-Hubschrauber der Bundeswehr 
+Neben den PHuSt stehen im Katastrophenfall laut Art. 35 Abs. 2 GG auch die Hubschrauber der Bundes-
+wehr zur Verfügung (Cimolino, 2023). Die Bundeswehr verfügt zudem, ähnlich wie die BPol, über Hub-
+schrauber mit einer deutlich größeren Außenlast-Fähigkeit als die Polizeihubschrauber der Länder 
+(Schröder, 2023). Diese Hubschrauber samt Personal werden zwar nicht für den BKS vorgehalten, jedoch 
+verfügt die Bundeswehr über entsprechende Ausrüstung für den BKS-Einsatz. An verschiedenen Standor-
+ten im Bundesgebiet verteilt werden Hubschrauber der Muster Sikorsky CH-53 als schwerer Transporthub-
+schrauber sowie H145M als Verbringungsmittel für Spezialkräfte vorgehalten (Hubschraubergeschwader 
+64, 2021). So leistet das Hubschraubergeschwader 64 in Holzdorf auf Anfrage bis zu 250 Flugstunden pro 
+Jahr als Amtshilfe zur Unterstützung der originären Aufgabenträger im BKS. Die erhöhte Leistungsfähigkeit 
+im Transport zeigt sich auch an der Vorhaltung von LWAB mit Fassungsvolumina von bis zu 5000 l (Typ 
+Smokey) (Starkloff, 2024). Beim Einsatz von Bundeswehr-Hubschraubern in Kombination mit Einheiten der 
+Behörden und Organisationen mit Sicherheitsaufgaben (BOS) ist zu beachten, dass nicht alle Hubschrau-
+ber der Bundeswehr auf die Infrastruktur des BOS-Digitalfunk zurückgreifen können. Somit ergibt sich hier 
+zusätzlicher koordinativer Aufwand. (Arbeitskreis Waldbrand des Deutschen Feuerwehrverbands, 2022) 
+4.4.3 Auslastung der Hubschrauber 
+Im Rahmen der Datenerhebung für diese Ausarbeitung wurden ebenfalls die Einsatzzahlen (Summe aller 
+Einsätze und BKS-Einsätze explizit) der PHuSt der Länder sowie der BPol erhoben. Diese unterscheiden 
+sich für die einzelnen PHuSt aufgrund der Anzahl betriebener Hubschrauber sowie deren technischen Aus-
+rüstung stark. Im Weiteren werden die Einsatzzahlen und Flugstunden zur Vergleichbarkeit auf einen Hub-
+schrauber normiert. Die erfassten Rohdaten der einzelnen PHuSt sind (auf Bitten der PHuSt anonymisiert) 
+im Anhang A.2 zu finden. 
+Die Anzahl der pro Kalenderjahr und Hubschrauber durchgeführten Flüge unterscheidet sich zwischen den 
+einzelnen Fliegerstaffeln stark. Während im Mittel jeder Hubschrauber für ca. 351,5 Flüge genutzt wird, 
+reicht das Flugspektrum von mindestens 137 bis hin zu 792 Flüge pro Hubschrauber im Jahr. Ein Zusam-
+menhang zur Anzahl der vorgehaltenen Hubschrauber ist nicht ersichtlich. Für die PHuSt, welche die Ein-
+satzzahlen in Form von Flugstunden angaben, kommt ein Hubschrauber im Jahr im Durchschnitt auf 
+381,25 h Flugzeit (Min: 343,75 h; Max: 425 h). Von diesen Flugzeiten bzw. Einsatzzahlen entfällt im Schnitt 
+nur ein Anteil von 2,3% auf Flüge für den BKS. In Jahren mit herausragenden, ausgedehnten BKS-Einsät-
+zen kann dieser Wert auch bis zu 10% des Gesamtflugvolumens betragen, da bei großen Einsatzlagen bis 
+zu 30 Flüge bzw. 40 Flugstunden mit mehreren Hubschraubern in der Vergangenheit stattfanden. 
+Somit wird die Auslastung der PHuSt durch Einsätze im Rahmen des BKS nur gering beeinflusst. Spitzen-
+aufkommen bei konzentrierten Lagen können zu besonderen Belastungen für die regional verantwortliche 
+Staffel führen. Eine Überschneidung von Einsätzen zur polizeilichen und nicht-polizeilichen Gefahrenab-
+wehr in der Vergangenheit wurde im Rahmen der Datenerhebung nicht genannt. Im Vergleich zu den Flug-
+zahlen der ZSH sind die Hubschraubereinsätze im BKS sehr selten. Die ZSH wurden im Jahr 2022 bei-
+spielsweise zu 16.087 Flügen (bzw. 5.425 Flugstunden) im Einsatz, was pro Hubschrauber im Durchschnitt 
+ca. 1340,6 Flügen pro Jahr entspricht. Größter Unterschied zu den Flügen der PHuSt ist die durchschnitt-
+liche Dauer eines Fluges. Während die ZSH pro Einsatz nur ca. 20,2 min in der Luft sind, fliegen die Poli-
+zeihubschrauber mit ca. 65,1 min mehr als dreimal so lange pro Einsatz. Hier zeigt sich das unterschiedli-
+che Einsatzspektrum (Luftrettung: Transport von Verletzten, Zubringen von medizinischem Personal; Poli-
+zei: Aufklärung, Erkundung, Führung über einen längeren Zeitraum und oft stationär). 
+4.4.4 Aufwand und Kosten 
+Die Einrichtung sowie die Unterhaltung einer Einsatzeinheit ist stets mit Aufwänden verbunden, die sich 
+durch die Bereitstellung von Material und Personal, den Betrieb und die Ausbildung des Personals ergeben. 
+
+Diskussion 
+7 
+ 
+Zur Einrichtung einer Hubschrauberstaffel wird im Folgenden die Struktur einer PHuSt als Basis angenom-
+men und die Daten aus der in 3 beschriebenen Erhebung ausgewertet.  
+Für den Betrieb einer Hubschrauberstaffel für den BKS fallen sehr große Kosten an. So kostet ein Hub-
+schrauber mit einer maximalen Abflugmasse von ca. 4.000 kg (Baumuster H145) bereits über 16 Mio. €. 
+Zusätzliche Ausrüstung für den BKS (z.B. Rettungswinden, Außenlasthaken, LWAB) sowie eine Ersatzteil-
+vorhaltung steigern die Anschaffungskosten auf Werte zwischen 18 und 20 Mio. €. Wird die Staffel nicht in 
+Kooperation mit anderen Behörden oder Einrichtungen betrieben, ist als technische Reserve ein zweiter 
+baugleicher Hubschrauber notwendig, woraus entsprechend ein doppelter finanzieller Aufwand resultiert. 
+Schwerlasthubschrauber mit Transportfähigkeiten von über 5.000 kg, wie sie die Bundeswehr vorhält, kos-
+ten in Abhängigkeit des Baumusters zwischen 50,8 Mio. € für den NH90 (Seliger, 2013) und 118 Mio. € für 
+einen Sikorsky CH-53 (Both, 2022). Zusätzliche Infrastruktur wie ein Flugplatz oder die Treibstoffversor-
+gung sind hier noch nicht betrachtet. Die personelle Vorhaltung der PHuSt wird in das Flug- und Boden-
+personal unterteilt. Pro eingesetzten Hubschrauber halten die Staffeln im Durchschnitt 4,61 PilotInnen, 3,75 
+FlugtechnikerInnen und 3,07 OperatorInnen vor. Diese drei Funktionen bilden die Basis einer Besatzung. 
+Der Operator ist für die Arbeiten mit der Sonderausrüstung wie Kamerasystemen oder Winden ausgebildet, 
+verfügt aber oft auch über die flugtechnische Ausbildung. Der durchschnittliche Personalfaktor der PHuSt, 
+die einen durchgehenden Flugbetrieb (24/7) gewährleisten, liegt bei 7,22 und somit deutlich über dem bei 
+Feuerwehren üblichen Niveau von 5-5,35 (Feuerwehr Frankfurt am Main, 2024). Für das Bodenpersonal 
+werden pro Hubschrauber durchschnittlich 2,17 Arbeitskräfte für administrative und organisatorische Auf-
+gaben sowie 2,13 Arbeitskräfte in der Wartung und Instandhaltung eingesetzt. 
+Die für den Flugbetrieb anfallen Kosten werden in Form der Flugstundenkosten betrachtet. Diese hängen 
+stark vom Hubschraubermuster und der Verrechnung von Personalkosten ab. Für ein bei den PHuSt der 
+Länder eingesetztes Flugmuster (EC135 oder H145) wird ein Mehrkostenpreis, also die reinen Betriebs-
+kosten, von durchschnittlich 1.467 € pro Flugstunde kalkuliert. Bezieht man alle Aufwände wie Personal 
+und Infrastruktur mit ein (Vollkosten), erhöht sich der Betrag auf ca. 4.548 €. Die Flugstundenkosten für 
+größere Baumuster wie die AS332 Super Puma der BPol liegen mit ca. 2.700 € (Mehrkosten) bzw. ca. 
+10.160 € (Vollkosten) deutlich darüber (Bundesregierung, 2016). Bei den Schwerlasthubschraubern der 
+Bundeswehr fallen Kosten von 20.000-26.000 € pro Flugstunde an (Seliger, 2013; Tasler, 2022). 
+Die Ausbildung des Flugpersonals der PHuSt ist sehr zeitintensiv und kann aufgrund von knappen Ausbil-
+dungsressourcen mit langen Wartezeiten von bis zu vier Jahren stark verzögert werden. Die durchschnitt-
+liche Ausbildungsdauer der PilotInnen-Grundausbildung beträgt ca. 24 Monate. Hinzu kommen Spezial-
+ausbildungen für Funktionen, wie z.B. die OperatorInnen, oder Ausrüstungen, die zwischen drei und 60 
+Monaten in Anspruch nehmen können. Die vollständige Ausbildung des Flugpersonales der PHuSt wird 
+durchschnittlich nach 53 Monaten erreicht. In dieser Zeit steht das Personal nicht für andere Aufgaben zur 
+Verfügung, was die Ausbildungskosten durch reine Personalkosten für Auszubildende neben den Aufwän-
+den für Lehrpersonal (durchschnittlich 0,92 Lehrkräfte pro Hubschrauber und Staffel) weiter steigert. 
+5 Diskussion 
+Die Etablierung eigens für den BKS vorgehaltener Hubschrauber wurde in Form des FFD in Niedersachen 
+in der Vergangenheit umgesetzt, jedoch aufgrund von hohen Kosten wieder eingestellt (Schütte, 2024). 
+Politische Forderungen nach einem Ausbau der Fähigkeiten im BKS mit dem Fokus auf Vegetationsbrand-
+bekämpfung fachen nun Diskussionen um die Einführung von BKS-Hubschraubern erneut an (Merz et al., 
+2022). Die derzeit durch die Zivilschutz- und KatS-Träger, also Bund und Länder, in Betrieb befindlichen 
+Hubschrauber kommen in Form von Amtshilfe für Aufgaben im BKS in den Kommunen zum Einsatz. Aller-
+dings ist dies nicht die originäre Aufgabe dieser Einheiten, somit werden eigentliche Pflichtaufgaben in der 
+polizeilichen Gefahrenabwehr unter Umständen nicht bedient. Ebenso werden die ZSH des BBK inkl. des 
+dafür ausgebildeten Personals primär in der Luftrettung eingesetzt und dienen so als wichtige Stütze in der 
+Notfallrettung. Die Abhängigkeiten von Verfügbarkeit für den BKS einsetzbarer Hubschrauber sowie deren 
+technischer Ausrüstung stellen Unsicherheiten in der Vorplanung von Großschadenslagen oder KatS-Kon-
+zepten dar. Eigens eingeführte, zweckgebundene Einheiten für den BKS stünden im Bedarfsfall vollum-
+fänglich zur Verfügung und verfügten auch über die Ausrüstung für die nichtpolizeiliche Gefahrenabwehr. 
+Die durch die PHuSt durchgeführten Einsätze im Rahmen des BKS belaufen sich im mehrjährigen Mittel 
+auf niedrige zweistellige Werte. Dabei decken diese BKS-externen Einheiten ein vergleichsweise großes 
+
+Fazit 
+8 
+ 
+Aufgabenspektrum ab (siehe 4.3) und sind durch Informationsgewinnung oder aktive Gefahrenabwehr von 
+großer Bedeutung für den Einsatzerfolg. Somit haben Hubschrauber im Gesamtkontext BKS eine berech-
+tigte Stellung eingenommen. Eine Erweiterung der genannten Kompetenzen z.B. in der CBRN-Gefahren-
+abwehr durch Messaufgaben zusätzlich zu atomaren Gefahren sind durch die bauartbedingte Luftverwir-
+belung der Rotorblätter nicht zielführend, da die Stoffe so mit der Umgebungsluft verdünnt oder gar von 
+den Messinstrumenten ferngehalten werden. 
+Die Integration von Hubschraubern in Wasserrettungskonzepte findet sich in vereinzelten Fällen schon 
+wieder. Das Retten von Personen aus (fließenden) Gewässern oder das Zubringen von speziell ausgebil-
+deten Kräften der Wasserrettung via Winde zeigt großes Potenzial für weitere Einsatzmöglichkeiten von 
+Hubschraubern im BKS. Hierfür ist die Interaktion mehrerer durch die BKS-Träger vorgehaltener Kompe-
+tenzen notwendig, da oftmals unterschiedliche BOS-Einheiten interagieren. 
+Die genannten Einsatzmöglichkeiten und deren Etablierung im BKS-Einsatz zeigen eine ausgeprägte Le-
+gitimation und vor allem Notwendigkeit von Hubschraubern in diesem Kontext. Hubschrauber bieten im 
+Vergleich zu Flugzeugen, welche in Deutschland ausschließlich in Niedersachsen vorgehalten werden 
+(Niedersächsisches Ministerium für Inneres und Sport, 2023), große Vorteile durch eine flexiblere Nutzung. 
+Hier sind vor allem die Möglichkeiten stationär in der Luft zu arbeiten (z.B. zur Aufklärung) sowie die Un-
+abhängigkeit von Landebahnen oder Flugplätzen (z.B. für Ladevorgänge bei Transportflügen) zu nennen. 
+Die großen Einsatzmöglichkeiten und die Etablierung im BKS legen eine Aufstellung eigener Hubschrau-
+berstaffeln nahe. Wie bereits bei der Einstellung des FFD aufgeführt sind die Aufwände zum Aufbau und 
+Unterhalt einer Fliegerstaffel sehr ausgeprägt. Die geringen Einsatzzahlen der Hubschrauber im BKS recht-
+fertigen die hohen Anschaffungs- und Wartungskosten von Hubschraubern des Baumusters H145, welche 
+bei den PHuSt weit verbreitet sind, nicht. Zudem ist ein enormer Personalaufwand zu verzeichnen, der 
+neben der reinen Anschaffung geleistet werden muss. Durch intensive Aus- und Fortbildungen ist außer-
+dem eine hohe Wartezeit einzuplanen, bis eine von Grund auf neu installierte Fliegerstaffel ihren Dienst 
+aufnehmen könnte. Lange Wartezeiten auf freie Ausbildungskapazitäten verstärken diesen Effekt. 
+6 Fazit 
+Im BKS etabliert sich ein vielfältiges Einsatzspektrum von Hubschraubern. Die Abarbeitung von Großscha-
+denslagen in der Vergangenheit konnte durch den Einsatz von Hubschraubern enorm unterstützt werden. 
+Allerdings können die zur Unterhaltung einer Hubschrauberstaffel, strukturell analog zu denen der Poli-
+zeien, erforderlichen Aufwände nur schwer durch die seltene Alarmierung infolge von kleinem Einsatzauf-
+kommen gerechtfertigt werden. Der Anteil an BKS-Einsätze am generellen Einsatzaufkommen der PHuSt 
+wiegt mit durchschnittlich 2,3% nicht so schwer, dass es die Gründung einer BKS-Flugstaffel begründet. 
+Der Neuaufbau einer Hubschrauberstaffel durch ein Land als KatS-Träger scheint durch eine parallele 
+Vorhaltung zusätzlich zur PHuSt als ineffizient. Anstatt doppelte Strukturen wie zusätzliches Personal für 
+Administration und Organisation oder technische Infrastruktur (z.B. mobile Tankstellen und Flugplätze) auf-
+zubauen, ist die Stärkung und Ertüchtigung bzw. Ergänzung von bestehenden Strukturen für den Einsatz 
+im BKS vorteilhaft. Als Beispiel dient die Ausbildung von Feuerwehrkräften im Umgang mit Hubschraubern 
+zu schulen, wie es einzelne Länder schon für das Bodenpersonal sowie Führungskräfte der Feuerwehren 
+tun (Barth & Ludewig, 2024). Darunter lassen sich auch landeseigene Einheiten in den Feuerwehren wie 
+Höhenrettungsgruppen fassen, die bspw. in Rheinland-Pfalz speziell für das Arbeiten mit Hubschrauber-
+winden ausgebildet werden (Gugel, 2024). Die erweiternde Ausrüstung der vorhandenen PHuSt hinsicht-
+lich den BKS-Einsatzspektren mit Winde oder Transporthaken steigert den Einsatzwert der Staffeln, so 
+dass diese noch effektiver in die BKS-Einsätze eingebunden werden können. 
+Die organisationsübergreifende Zusammenarbeit durch Nutzung vorhandener Strukturen, auch Länder-
+grenzen übergreifend, hilft bei der Vermeidung von doppelter Vorhaltung. Die engere Zusammenarbeit der 
+Länder-PHuSt vermeidet eine große dezentrale Vorhaltung in den Ländern durch kooperative Reserven 
+und Einsatzbearbeitung. Eine gezieltere Einbindung von Bundesorganisationen wie BPol oder Bundeswehr 
+in die Konzepte der Länder ist rechtskonform und ermöglicht die Bildung gut ausgerüsteter Einheiten. Eine 
+Beteiligung der KatS-Träger an den Kosten einer solchen Ertüchtigung oder Erweiterung ist eine Möglich-
+keit, um die Pflichtaufgabe zur Aufstellung eines leistungsfähigen KatS durch die Länder umzusetzen. An-
+passungen von Polizei- und KatS-Gesetzen in den Ländern zur stärkeren Einbindung der PHuSt in den 
+BKS unterstützt dies und fördert die Kooperation.
+
+Literaturverzeichnis 
+13 
+ 
+Literaturverzeichnis 
+@fire - Internationaler Katastrophenschutz. (2021). Einsatzoptionen Air Operations. https://at-fire.de/wp-
+content/uploads/2021/03/Einsatzoptionen_AirOps.pdf  
+Arbeitskreis Waldbrand des Deutschen Feuerwehrverbands. (2022, 24. März). Luftfahrzeugeinsatz/Aerial 
+Firefighting Air Operations für und durch die Feuerwehr: Fachempfehlung (DFV-FE-70-2022).  
+Ausschuss für Feuerwehrangelegenheiten, Katastrophenschutz und zivile Verteidigung. (2008). Einheiten 
+im Lösch- und Hilfeleistungseinsatz (Stand: Februar 2008). Feuerwehr-Dienstvorschrift: Bd. 3. 
+Kohlhammer; Dt. Gemeindeverl.  
+Barth, N. & Ludewig, S. (2024). Brandenburg: Lehrgang "Luftkoordinator": Fachberater oder Einsatzab-
+schnittsleiter bei Einsätzen mit Luftfahrzeugen. Brandschutz: Deutsche Feuerwehr-Zeitung, 
+78(78), 167–172. 
+Bayerischen Staatsministeriums des Innern. (2002, 12. April). Richtlinie über den Einsatz von Luftfahr-
+zeugen für polizeiliche Zwecke (963-I).  
+Bigus, J. (2024). Leitfaden für die Anfertigung von Seminar und Abschlussarbeiten. Freie Universität Ber-
+lin. https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/bigus/Doku-
+mente/Lehre/Abschlussarbeiten/Leitfaden_FU-Berlin-alt.pdf 
+Both, M. (9. April 2022). Kampf der Rüstungskonzerne: 5,2 Milliarden für neue Hubschrauber. Berliner 
+Zeitung. https://www.berliner-zeitung.de/wirtschaft-verantwortung/kampf-der-ruestungskonzerne-
+52-milliarden-fuer-deutschlands-neue-hubschrauber-li.221313 
+Brandl, B. (2023). Schwaz: Brand durch Blitzschlag auf 2237 Meter Seehöhe: Einsatz mit Hubschrau-
+bern. Brandschutz: Deutsche Feuerwehr-Zeitung, 77(02/2023), 131–132. 
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (Hrsg.). (2021). 50 Jahre Zivilschutz-Hub-
+schrauber [Sonderheft]. Bevölkerungsschutz, 2021(3). Bundesamt für Bevölkerungsschutz und 
+Katastrophenhilfe. https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikatio-
+nen/BSMAG/bsmag-21-03.pdf?__blob=publicationFile&v=7 
+Bundesamt für Strahlenschutz (2013). Notfallvorsorge durch das Bundesamt für Strahlenschutz (BfS). 
+Strahlenthemen, 2013. https://www.bfs.de/SharedDocs/Downloads/BfS/DE/broschueren/ion/stth-
+notfallvorsorge.pdf?__blob=publicationFile&v=5 
+Bundesministerium des Innern und für Heimat. (2022, 29. März). Bericht zur Hochwasserkatastrophe 
+2021: Katastrophenhilfe, Wiederaufbau und Evaluierungsprozesse. 
+https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2022/abschlussbericht-
+hochwasserkatastrophe.pdf?__blob=publicationFile&v=1  
+Bundesministerium für Bildung und Forschung. (2024). Länderkürzel (Bundesländer): Begriffe A-Z. 
+https://www.datenportal.bmbf.de/portal/de/G122.html 
+Bundesregierung. (2016, 6. Oktober). Antwort der Bundesregierung: auf die Kleine Anfrage der Abgeord-
+neten Frank Tempel, Ulla Jelpke, Jan Korte, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+– Drucksache 18/9656 –. Bekämpfung von Cannabisplantagen durch Fliegerstaffeln der Bundes-
+polizei (Drucksache 18/9925). Deutscher Bundestag.  
+Cimolino, U. (2023, 7. April). Öffentliche Anhörung im Innenausschuss Antrag der Fraktion der CDU/CSU 
+"Nationale Kraftanstrengung für einen besseren Waldbrandschutz" - BT-Drucksache 20/3693 so-
+wie zum Antrag der Fraktion DIE LINKE. "Beschaffung von Löschflugzeugen für die Waldbrand-
+bekämpfung" - BT-Drucksache 20/4418 (Ausschussdrucksache 20(4)201 A).  
+Deutsche Forschungsgemeinschaft. (2022). Guidelines for Safeguarding Good Research Practice. Code 
+of Conduct. Zenodo. https://doi.org/10.5281/zenodo.6472827 
+Deutscher Feuerwehrverband & Vereinigung zur Förderung des Deutschen Brandschutzes e.V. (2022, 
+26. Juli). Einsatz von Luftfahrzeugen in der Gefahrenabwehr: Positionspapier.  
+DRF Luftrettung. (2021, 2. Oktober). Schnelle Hilfe der DRF Luftrettung im Katastrophenfall: Hubschrau-
+ber stehen in Bautzen und Rheinmünster bereit [Pressemitteilung]. 
+Fallbrock, M. (2013). Konzept zur Waldbrandbekämpfung aus der Luft für das Land NRW [Facharbeit im 
+Rahmen des Vorbereitungsdienstes zum höheren feuerwehrtechnischen Dienst]. Institut der Feu-
+erwehr NRW, Münster.  
+Feuerwehr Frankfurt am Main. (2024). Das taktische Feuerwehrkonzept für Frankfurt am Main. 
+https://www.feuerwehr-frankfurt.de/ueber-uns/taktik 
+
+Literaturverzeichnis 
+14 
+ 
+Feyrer, J. (2022). Entwicklungssprünge bei Drohnen. Brandschutz: Deutsche Feuerwehr-Zeitung, 
+76(08/2022), 694–696. 
+Gugel, M. (2024). schriftliche Anfrage per E-Mail "Kooperation mit Hubschraubern der Höhenretter KL". 
+Feuerwehr Kaiserslautern. 
+Helbig, A. (2021). Aero-Gammaspektrometrie: Die hubschraubergestützte Messung ionisierender Strah-
+lung. Bevölkerungsschutz, 21(3), 10–11. 
+Hessisches Bereitschaftspolizeipräsidium. (2021, 22. März). Chronik der Polizeifliegerstaffel Hessen: Das 
+zweite Jahrzehnt. https://www.polizei.hessen.de/icc/hbpp/sub/317/broker.jsp?uCon=31711e4b-
+c5d6-8712-6bda-13300b9ef7c4&uBasVariant=11111111-1111-1111-1111-111111111111&u-
+Tem=bff71055-bb1d-50f1-2860-72700266cb59&_ic_print=true&nocache=true  
+Hessisches Ministerium des Innern und für Sport. (2019, 27. Juni). Anlage 1 zum Sonderschutzplan 
+Waldbrand: Merkblatt: Anforderung Hubschrauber und Sondereinsatzmittel Waldbrand.  
+Hubschraubergeschwader 64. (2021). Hubschraubergeschwader 64: Der größte fliegende Verband der 
+Luftwaffe [Informationsbroschüre]. Bundeswehr, Hubschraubergeschwader 64. 
+Institut der Feuerwehr NRW. (2022). Zusammenfassung der Katastrophenschutzkonzepte NRW (Lernun-
+terlage B3-410).  
+Kapp, S. (2024, 2. Februar). Bewährt und nachhaltig in Schleswig-Holstein: DRF Luftrettung setzt Arbeit 
+in Rendsburg und Niebüll für weitere 20 Jahre fort. DRF Luftrettung. https://www.drf-luftret-
+tung.de/hubfs/2024%20Ausschreibung%20Schleswig-Holstein.pdf 
+Lehmkuhl, A., Schürholt, B. & Tennhoff, N. (2020, 5. August). Empfehlungen für den Einsatz von Luftfahr-
+zeugen der Landespolizei NRW bei der Vegetationsbrandüberwachung und -bekämpfung: Ge-
+meinsames Papier des Instituts der Feuerwehr NRW (IdF NRW), der Polizeifliegerstaffel NRW 
+und des Landesbetriebs Wald und Holz NRW (Version 1.1).  
+Merz, F., Dobrindt, A. & Fraktion. (2022, 27. September). Antrag der Fraktion der CDU/CSU: Nationale 
+Kraftanstrengung für einen besseren Waldbrandschutz (Drucksache 20/3693).  
+Ministerium des Inneren, für Digitalisierung und Kommunen Baden-Württemberg. (2020, 11. September). 
+Brandbekämpfung aus der Luft. https://im.baden-wuerttemberg.de/de/service/presse-und-oeffent-
+lichkeitsarbeit/pressemitteilung/pid/brandbekaempfung-aus-der-luft 
+Mühlenhof, M. (2021). Einsatz der ZSH im Katastrophenschutz des Landes Hessen. Bevölkerungsschutz, 
+2021(3), 12–13. 
+Niedersächsisches Ministerium für Inneres und Sport. (2023, 28. Juni). Portfolio des niedersächsischen 
+Brand- und Katastrophenschutzes: Anlage zu "Bekämpfung von Vegetationsbränden: Nieder-
+sachsens Innenministerin Behrens und Bundesinnenministerin Faeser stellen niedersächsische 
+Löschflugzeugstaffel und Portfolio des Brand- und Katastrophenschutzes vor" vom 28.06.2023 
+[Pressemitteilung]. https://www.mi.niedersachsen.de/download/196566/Hintergrundinforma-
+tion_zum_Portfolio_des_niedersaechsischen_Brand-_und_Katastrophenschutzes.pdf 
+Ruchser, L. (2021). Übertragung einsatztaktischer Erkenntnisse aus dem internationalen Bereich auf die 
+Unterstützung bodengebundener Einsatzmittel mit luftgebundenen Mitteln bei der (Vegetations-) 
+Brandbekämpfung in Baden-Württemberg [Masterthesis]. Hochschule Furtwangen, Furtwangen.  
+Schröder, H. (2023, 17. April). Waldbrandschutz: Öffentliche Anhörung am Montag, 17. April 2023 im 
+Ausschuss für Inneres und Heimat des Deutschen Bundestages (Aussschussdrucksache 
+20(4)201C).  
+Schug, S. (2023, 27. Februar). Einsatzbilanz 2022: Zivilschutz-Hubschrauber leisteten 16.087 Mal 
+schnelle Hilfe aus der Luft. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe [Pressemit-
+teilung]. 
+Schütte, H. (2024). Flugpioniere im Ruhestand. Feuerwehr-Magazin(3), 14–20. 
+Schütz, R., Mameghani, R., Stuchels, R. & Hummel, L. (2015). Weiterentwicklung der aero-gammaspekt-
+rometrischen Messsysteme des BfS und Anpassung der Mess- und Auswerteverfahren an die 
+Anforderungen des Notfallschutzes: Abschlussbericht (urn:nbn:de:0221-2015080713158).  
+Seliger, M. (26. Oktober 2013). Hubschrauber NH90 - Der flügellahme Seelöwe. FAZ.net, 2013. 
+https://www.faz.net/aktuell/politik/inland/hubschrauber-nh90-der-fluegellahme-seeloewe-
+12635329.html 
+Staatliche Feuerwehrschule Würzburg. (2017). Leitfaden für die Zusammenarbeit von Feuerwehr und 
+Luftfahrzeugbetreibern in Bayern (Merkblatt für die Feuerwehren Bayerns Nr. 6.010).  
+
+Literaturverzeichnis 
+15 
+ 
+Ständigen Konferenz der Innenminister und Senatoren der Länder. (2019, 26. September). Nationale Ve-
+getationsbrandstrategie: Entwurf zur 97. AK V-Sitzung.  
+Starkloff, K. (2024, 4. Januar). beantworteter Fragenkatalog per E-Mail: Helikopter im Brand- und Kata-
+strophenschutzeinsatz. Bundeswehr, Hubschraubergeschwader 64.  
+Tasler, T. (2022, 5. Juli). Waldbrände: Feuerwehren wollen bessere Hilfe aus der Luft. 
+https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/harz/waldbrand-feuerwehr-fordert-
+hilfe-aus-der-luft-100.html  
+Technisch-Wissenschaftlicher Beirat (TWB) der Vereinigung zur Förderung des Deutschen Brandschut-
+zes e.V. (2014). Zusammenarbeit Feuerwehr - Luftrettung. Merkblatt, 
+ 
+
+
+
+
+
+Anhänge 
+20 
+ 
+A.3: Beantworteter Fragenkatalog (A.1) per E-Mail durch Hauptmann K. Starkloff, Leiter Gefecht-
+stand, Hubschraubergeschwader 64 Lufttransportgruppe der Bundeswehr (Starkloff, 2024) 
+Hinweis: Die aufgeführten Aussagen wurden gänzlich unverändert aus dem Antwortdokument kopiert. 
+1. Es werden keine Hubschrauber für ein Katastrophenfall vorgehalten  
+2. Es wird kein Personal für ein Katastrophenfall vorgehalten. 
+3. Eine pauschale Antwort ist leider nicht möglich. Es gibt Jahre in denen nicht für den Brand-/ Katastro-
+phenschutz geflogen wurde. Davon abgesehen gibt es Jahre indem bis zu 250 Flugstunden für den Brand-
+/Katastrophenschutz geflogen wurden. 
+4. Durch Beauftragung vom Territoriale Führungskommando der Bundeswehr. Nachdem der Katastrophen-
+fall ausgesprochen- und die Bundeswehr um Hilfe gebeten wurde.  
+5. Für den Brand/Katastrophenschutz wird seitens der Luftwaffe (Hubschrauber) der „Smokey“ vorgehal-
+ten. Das ist ein Außenlastbehälter mit einem Fassungsvermögen von ca. 5000 Liter. Weitere Ausrüstung 
+wird nicht explizit vorgehalten. 
+6. Je nach Laufbahn kann die Ausbildungsdauer unterschiedlich sein. Als Truppendienstoffizier startet die 
+Ausbildung mit der Grundausbildung gefolgt vom Offizierslehrgang (insgesamt 1 Jahr). Danach folgt in den 
+meisten Fällen ein Studium von 3-4 Jahren. Anschließend beginnt die fliegerische Ausbildung. Die Hub-
+schraubergrundausbildung (HGA) dauert mit diverser Theorie und Praxisanteilen, zwischen 1-1,5 Jahren. 
+Nach erfolgreichem Abschluss der HGA beginnt die Ausbildung auf das Einsatzmuster (Luftwaffe: H135, 
+H145, CH53, Cougar). Bis zum vollausgebildeten Einsatzpiloten vergehen dann nochmal ca. 2 Jahre. 
+(Durch Wartezeiten zwischen den Lehrgängen können auch Verzögerungen in der Ausbildung eintreten). 
+Als Fachdienstoffizier fällt das Studium weg.  
+7. Kosten für eine Flugstunde müssen im BMVg abgefragt werden.  
+8. Ist Pauschal nicht zu beantworten. Am Beispiel CH47 beträgt das Gesamtvolumen für die Beschaffung 
+von insgesamt 60 Hubschraubern 6,98 Milliarden Euro. (Quelle: Chinooks, Flottendienstboote und Luftlan-
+defahrzeuge (bmvg.de)  
+9. Ein kontinuierlicher Betrieb der Hubschrauber ist seitens der Luftwaffe nicht vorgesehen.  
+Beispiel: Für das Feuerlöschen aus der Luft mit der CH 53 werden insgesamt 5 Crew-Mitglieder benötigt. 
+(2x Pilot 2x Bordtechniker 1x Observer). Diese dürfen grundsätzlich eine maximale Flugdienstzeit von 13 
+Stunden haben. Nach 7 Tagen muss eine zusammenhängende Ruhezeit von 36 Stunden gewährt werden. 
+
+Anhänge 
+21 
+ 
+A.4: Schriftliche Anfrage per E-Mail an M. Gugel, Abteilungsleiter Bevölkerungs-, Zivil- und Kata-
+strophenschutz, Feuerwehr Kaiserslautern (Gugel, 2024) 
+ 
+Abbildung 1: Bildschirmaufnahme der schriftlichen Anfrage per E-Mail „Kooperation mit Hubschraubern der Höhenret-
+ter KL“ vom 08.03.2024 
+
+Anhänge 
+22 
+ 
+ 
+Abbildung 2: Bildschirmaufnahme der Antwort auf die schriftlichen Anfrage per E-Mail „Kooperation mit Hubschraubern 
+der Höhenretter KL“ vom 11.03.2024 
+ 
+
+www.idf.nrw.de 
+Ausbildung für das zweite Einstiegsamt der Laufbahngruppe 2 des feuerwehrtech-
+nischen Dienstes 
+Eidesstattliche Eigenständigkeitserklärung 
+Datum: 
+Name: 
+Thema der Facharbeit: 
+Hiermit erkläre ich, dass ich die vorliegende Facharbeit selbständig an-
+gefertigt habe. Es wurden nur die in der Arbeit explizit benannten Quel-
+len und Hilfsmittel benutzt. Wörtlich oder sinngemäß übernommenes 
+Gedankengut habe ich als solches kenntlich gemacht. Diese Arbeit hat in 
+gleicher oder ähnlicher Form ganz oder teilweise noch keiner Prüfungs-
+behörde vorgelegen. 
+_____________________ 
+Ort, Datum   
+Hubschrauber im Brand- und Katastrophenschutz
+Cramberg, 31.05.2024
+31.05.2024
+Dr.-Ing. Dominik Meffert

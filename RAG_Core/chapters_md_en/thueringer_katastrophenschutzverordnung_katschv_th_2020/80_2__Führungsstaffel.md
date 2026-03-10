@@ -1,0 +1,6 @@
+# 2. Führungsstaffel
+
+- Team Transport Cars (MTW) Country 4 Executive Assistants 1 Executive Assistants 1 Executive Assistants 1 Executive Assistants/Fah- rer Executive Support Team Operations Guide Cars 2 (ELW 2 with room for a management staff) Country 1 Executive Assistants 1 Executive Assistants 1 Executive Assistants/Fah- r Remarks: footnote 1) Team strength in figures for: Leaders/Underleaders/Teams/Total Strength. 2) Country - Vehicle is provided by the country.
+
+- 2) Land - vehicle is provided by the country. Annex 18 (to § 3 para. 1) Civil protection staff (KatS-Stab) - page 23 of 25 - Land Council/Oberbürgermeister (politically-generally responsible component) Head of the administrative staff (administrative-organizational component) Head of the management staff (operative-tactical component) Ereig- specific members of the permanent members of the coordination group Staff - KGS permanent members of the supervisory group S1 subject area S2 subject area S3 subject area S4 subject area S5 subject area S6 internal external personnel/internal services Situation of use supply Press and media work Information and communication services Sighter/community services/reporter/explainant/explainant/responsible officer/responsible person - page 24 of 25 - page 25 of 25 - page 25 -
+

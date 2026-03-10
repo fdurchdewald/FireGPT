@@ -1,0 +1,4 @@
+# 5.5   Empfehlungen zur Freiwilligen Feuerwehr
+
+- Fire safety requirements plan of the city of Mannheim, as of: 04.04.2013 154 In Fr Ne Wa Fe Se Rh N scale 0 1.5 km Downtown LF 10/6 LF KatS TSF DLK Feudenheim LF 10/6 TLF 16/24 LF KatS TSF Nord LF 10/6 TLF 16/24 LF KatS TSF DLK Neckarau LF 10/6 LF KatS WSW Wallstadt LF 10/6 LF KatS Friedrichsfeld LF 10/6 TLF 16/24 TSF Rheinau LF 10/6 LF KatS Seckenheim LF 10/6 LF KatS WSW Locations FF = Division Feudenheim = Division Friedrichsfeld = Division Downtown = Division Neckarau = Division North = Division Rheinau = Division Seckenheim = Division Wallstadt N Wa Fe Se Fr Rh Ne In Locations FF = Division Feudenheim = Division Friedrichsfeld = Division Downtown = Division Neckarau = Division North = Division Rheinau = Division Rheinau = Division Wallstadt N Wa Wa Division Fe Se Fr Rh Ne In Locations FF Se
+

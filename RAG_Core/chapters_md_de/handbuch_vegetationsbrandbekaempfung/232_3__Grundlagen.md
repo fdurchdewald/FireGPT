@@ -1,0 +1,6 @@
+# 3. Grundlagen
+
+- der VegBbk  34 35 Für die Brandbekämpfung und die Landemöglichkeiten werden folgende Anforderungen an die  gewählten Flächen gestellt: Wasserentnahmestellen •	 mögliche Wasserentnahmemöglichkeiten sollten im Rahmen der Lageerkundung be­ kannt sein, z. B. o	 Teich oder See o	 direkte Befüllung durch Feuerwehr o	 mobile Löschwasserfaltbehälter (siehe Kapitel 3.8) •	 Wassertiefe mindestens 1,5 bis 3,0 m (je nach Behältergröße),  •	 frei von Schlamm, Fremdkörpern, Hindernissen, Bewuchs und Strömung Die Wasserentnahmestellen oder Aufnahmestellen für die Hubschrauber sollten möglichst nah  am jeweiligen Einsatzgebiet liegen. Nur so kann eine möglichst große Anzahl an Abwürfen und  ein effektiver und wirtschaftlicher Einsatz der Hubschrauber gewährleistet werden.
+
+- Nur so kann eine möglichst große Anzahl an Abwürfen und  ein effektiver und wirtschaftlicher Einsatz der Hubschrauber gewährleistet werden. Landemöglichkeiten •	 Größe der Landemöglichkeit: mindestens 35 x 35 m für Außenlastbehälter bis 900 l,  darüber hinaus mindestens 50 x 50 m •	 ebenes Gelände •	 keine Senken •	 Bewuchs nicht höher als 30 cm •	 Landemöglichkeit und nächste Umgebung frei von losem Material •	 mit Fahrzeugen gut erreichbar •	 keine Freileitungen in der Nähe
+

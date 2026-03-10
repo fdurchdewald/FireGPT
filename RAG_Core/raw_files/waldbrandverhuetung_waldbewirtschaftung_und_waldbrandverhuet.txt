@@ -1,0 +1,582 @@
+Deutscher Bundestag 
+ 
+ 
+ 
+ 
+WD 5 - 3000 - 007/25 
+Wissenschaftliche Dienste 
+© 2025 Deutscher Bundestag 
+Dokumententyp: Fachbereich WD 5 
+Waldbewirtschaftung und Waldbrandverhütung 
+ 
+Fachbereich WD 5 
+Wissenschaftliche Dienste 
+
+ 
+ 
+ 
+ 
+Die Wissenschaftlichen Dienste des Deutschen Bundestages unterstützen die Mitglieder des Deutschen Bundestages 
+bei ihrer mandatsbezogenen Tätigkeit. Ihre Arbeiten geben nicht die Auffassung des Deutschen Bundestages, eines sei­
+ner Organe oder der Bundestagsverwaltung wieder. Vielmehr liegen sie in der fachlichen Verantwortung der Verfasse­
+rinnen und Verfasser sowie der Fachbereichsleitung. Arbeiten der Wissenschaftlichen Dienste geben nur den zum Zeit­
+punkt der Erstellung des Textes aktuellen Stand wieder und stellen eine individuelle Auftragsarbeit für einen Abge­
+ordneten des Bundestages dar. Die Arbeiten können der Geheimschutzordnung des Bundestages unterliegende, ge­
+schützte oder andere nicht zur Veröffentlichung geeignete Informationen enthalten. Eine beabsichtigte Weitergabe oder 
+Veröffentlichung ist vorab dem jeweiligen Fachbereich anzuzeigen und nur mit Angabe der Quelle zulässig. Der Fach­
+bereich berät über die dabei zu berücksichtigenden Fragen. 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 2
+ 
+Waldbewirtschaftung und Waldbrandverhütung 
+ 
+Aktenzeichen: 
+WD 5 - 3000 - 007/25 
+Abschluss der Arbeit: 
+25.02.2025 
+Fachbereich: 
+WD 5: Wirtschaft, Energie und Umwelt 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 3 
+Inhaltsverzeichnis 
+1. 
+Einleitung 
+4 
+2. 
+Rechtliche Grundlagen und Zuständigkeiten bei 
+Waldbewirtschaftung, Waldbrandschutz und -
+bekämpfung 
+5 
+3. 
+Beispiel: Land Brandburg 
+6 
+4. 
+Waldbrandgefahrenindex (WBI) des DWD 
+7 
+5. 
+Waldbrandmanagementprojekte unterstützt durch den 
+Waldklimafonds 
+8 
+5.1. 
+Brennpunkt Wald 
+8 
+5.2. 
+Waldbrand-Klima-Resilienz (WKR) 
+8 
+5.3. 
+ErWiN (Erweiterung des ökologischen, waldbaulichen und 
+technischen Wissens zu WaldbrändeN) 
+9 
+5.4. 
+Waldbrandschutzprojekt THOR 
+9 
+5.5. 
+PYROPHOB 
+10 
+6. 
+Bund-Länder-Arbeitsgruppe „Nationaler 
+Waldbrandschutz“ − Nationale Strategie 
+Vegetationsbrandbekämpfung 
+10 
+7. 
+Waldstrategie 2050 
+11 
+8. 
+Förderprogramm klimaangepasstes Waldmanagement 
+11 
+9. 
+Klimaangepasstes Waldmanagement PLUS 
+12 
+10. 
+Öffentliche Anhörung zur Waldbrandbekämpfung im 
+Deutschen Bundestag (2023) 
+12 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 4 
+1. 
+Einleitung  
+Die Waldbrandgefahr in Deutschland ist aufgrund der unterschiedlichen klimatischen und hyd­
+rologischen Bedingungen sowie der Walddichte und Bestockung (Laub-, Nadel-, Mischwälder) 
+regional unterschiedlich. In Brandenburg beispielsweise begünstigen ausgedehnte Kiefernwälder 
+auf trockenen Sandböden und häufig noch vorhandene militärische Altlasten die Brandgefahr.1 
+Laubmischwälder in Mittelgebirgslagen wie in Hessen oder Baden-Württemberg sind dagegen 
+weniger betroffen.2 Die Klimaerwärmung macht die Wälder aber insgesamt anfälliger.3 Die fol­
+gende Grafik des Thünen-Instituts und des Karlsruher Instituts für Technologie (KIT) gibt einen 
+Überblick über die Waldbrandhistorie in Deutschland in den Jahren 2002 bis 2021. Das Land 
+Brandenburg (dunkelrot) ist demnach von Waldbränden am häufigsten betroffen: 4 
+ 
+ 
+1 
+Sources: 
+Fachagentur Nachwachsende Rohstoffe (FNR): Themendossier Waldbrand; 
+Gnilke, Anne; Sanders, Tanja (2024), Forest fires and the role of military contaminated sites on forest and succes­
+sion areas in Brandenburg. 
+Wissenschaftlicher Beirat für Waldpolitik: Die Anpassung von Wäldern und Waldwirtschaft an den Klimawandel, 
+S. 27: „Am häufigsten sind die Kiefernregionen Nordostdeutschlands, des östlichen Nordwestdeutschlands und 
+des Oberrheinischen Tieflands betroffen.“. 
+2 
+Kompetenz und Informationszentrum Wald und Holz: Wissenswertes – Waldbrandgefahrenindex. 
+3 
+Klimawirkungs- und Risikoanalyse 2021 für Deutschland, Kurzfassung. 
+4 
+Sanders, Tanja et al. (2023), Risikomanagement im Wald Stellschrauben und Potentiale zur Reduktion der 
+Waldbrandvulnerabilität. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 5 
+2. 
+Rechtliche Grundlagen und Zuständigkeiten bei Waldbewirtschaftung, Waldbrandschutz 
+und -bekämpfung 
+Auf nationaler Ebene setzt das Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirt­
+schaft (Bundeswaldgesetz) den Rahmen für forstliche Planungen und Maßnahmen, für die Erhal­
+tung und Bewirtschaftung der Wälder sowie für die Waldgesetze der Länder. 
+Die rechtlichen Grundlagen für den Waldbrandschutz und die Waldbrandbekämpfung basieren 
+sowohl auf Bundes- und Landesgesetzen als auch auf Vorgaben der Europäischen Union. Letztere 
+regelt in verschiedenen Verordnungen insbesondere den Bereich des vorbeugenden Waldbrand­
+schutzes. Sie klassifiziert Gebiete mit hohem, mittlerem und niedrigem Waldbrandrisiko (A bis 
+C) und finanziert u. a. Projekte zur Waldbrandvorbeugung.5 
+Die Waldbrandvorbeugung und -bekämpfung liegt in der Gesetzgebungskompetenz der Bundes­
+länder.6 Je nach Gefährdungslage in den einzelnen Bundesländern ist die Regelungstiefe der Ge­
+setze und Verordnungen in diesen Bereichen unterschiedlich. Für den vorbeugenden Waldbrand­
+schutz und die Waldbrandbekämpfung gelten neben den Landeswald- und Landesforstgesetzen 
+und -verordnungen, die sich auf vorbeugende Maßnahmen wie z. B. Rauchverbot im Wald, Um­
+gang mit offenem Feuer und Betreten des Waldes beziehen, auch die Feuerwehr-, Brand- und Ka­
+tastrophenschutzgesetze.7 Der vorbeugende Brandschutz ist Aufgabe der Waldbesitzer.8 „Die 
+Forstbehörden üben diesbezüglich nur die Forstaufsicht aus. Unter bestimmten Bedingungen 
+können vorbeugende Maßnahmen im Privatwald durch die Forstbehörden unternommen werden. 
+Ebenso ist der Waldbesitzer im Falle eines Waldbrandes zur Absicherung der gelöschten Brand­
+stelle verpflichtet, damit kein neuer Waldbrand daraus entstehen kann.“9  
+Das Bundesministerium für Ernährung und Landwirtschaft (BMEL) unterstützt forstwirtschaftli­
+che Maßnahmen zur Prävention von Waldbränden im Rahmen der Gemeinschaftsaufgabe „Ver­
+besserung der Agrarstruktur und des Küstenschutzes“ (GAK), die unter anderem in der Anlage 
+von Waldbrandschutzstreifen, der Errichtung und Unterhaltung von Brandschutzschneisen sowie 
+der Anlage von Löschwasserentnahmestellen bestehen.10 Zur Zuständigkeit des Bundes bei Wald­
+bränden äußerte die Bundesregierung, der Bund ergänze lediglich für den Zivilschutzfall die 
+Ausstattung der Länder mit Fahrzeugen, die diese auch im Katastrophenfall nutzen dürften.11 Der 
+Katastrophenschutz sei Teil der allgemeinen Gefahrenabwehr, damit Aufgabe und Verantwortung 
+der Länder (Art. 70 Abs.1 i. V. m. Art. 30 Grundgesetz (GG)). Präventive und vorsorgende Maß­
+nahmen des Brandschutzes würden von den Ländern, Kommunen und Landkreisen durch-
+ 
+5 
+FVA (2020), Gesetzliche Grundlagen bei der Waldbrandvorbeugung. 
+6 
+Vgl. Art. 70 Abs.1 i. V. m. Artikel 30 Grundgesetz (GG). 
+7 
+FVA (2020), Gesetzliche Grundlagen bei der Waldbrandvorbeugung. 
+8 
+Siehe hierzu auch § 20 Abs. 1 Waldgesetz des Landes Brandenburg (LWaldG). 
+9 
+FVA (2020), Gesetzliche Grundlagen bei der Waldbrandvorbeugung. 
+10 
+BT-Drs. 20/6259, Antwort der Parlamentarischen Staatssekretärin Claudia Müller vom 27.03.2023 auf die 
+Schriftliche Frage 72 (S. 55). 
+11 
+BT-Drs. 19/10990, Antwort der Bundesregierung auf die Kleine Anfrage, Waldbrandgefahren in Deutschland, 
+vom 19.06.2019. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 6 
+geführt.12 Im Katastrophenfall können die Länder die Bundesbehörden, z. B. die Bundeswehr, die 
+Bundespolizei oder das Technische Hilfswerk (THW), um Amtshilfe ersuchen, Art. 35 GG.13 
+3. 
+Beispiel: Land Brandburg 
+Da das Land Brandenburg auch nach eigenen Angaben bundesweit das Land mit der höchsten 
+Waldbrandgefährdung ist, spielt für die Landesforstverwaltung der vorbeugende Waldbrand­
+schutz eine wichtige Rolle. Das Waldgesetz des Landes Brandenburg (LWaldG) enthält in den 
+§§ 20 bis 23 Regelungen zum vorbeugenden Waldbrandschutz, zur Entschädigung von Wald­
+brandschäden, Regelungen zu den Waldbrandgefahrenklassen und -stufen sowie zum Umgang 
+mit Feuer im Wald.14 
+Mit Beginn der Waldbrandsaison wird auf der Grundlage des Waldbranderlasses zum 1. März ei­
+nes jeden Jahres durch die untere Forstbehörde ein Waldbrandalarmplan erstellt. Er ist Bestand­
+teil der Katastrophenschutzpläne und enthält Angaben zu Zuständigkeiten und Erreichbarkeiten. 
+Er wird den Integrierten Regionalleitstellen für Brand- und Katastrophenschutz sowie den Ret­
+tungsdiensten im Land Brandenburg, den Landkreisen und kreisfreien Städten sowie den Lan­
+desministerien (dem Ministerium für Landwirtschaft, Umwelt und Klimaschutz (MLUK) und 
+dem Ministerium des Innern und für Kommunales (MIK)) zur Verfügung gestellt.15 
+Neben der Früherkennung investiert das Land in den Umbau von reinen Kiefernwäldern in 
+Mischwälder.16 Das Anlegen von Löschwasserentnahmestellen, Waldbrandriegel und Instandhal­
+tung der Wege für die Brandbekämpfung liegt im Aufgabenbereich der Waldbesitzer.17  
+Das neu gegründete sogenannte Waldbrandkompetenzzentrum (WBZZ) soll wesentliche Grund­
+satzarbeit im Bereich des vorbeugenden und abwehrenden Waldbrandschutzes wahrnehmen.18 
+Zudem unterhält das Land Brandenburg in gefährdeten Waldgebieten ein Überwachungssystem 
+zur Waldbrandfrüherkennung (§ 20 Abs. 3 LWaldG19). 
+ 
+12 
+BT-Drs. 19/11515, Antwort des Staatssekretärs Dr. Helmut Teichmann vom 08.07.2019 auf die Schriftliche Frage 20. 
+13 
+BA für Bevölkerungsschutz und Katastrophenhilfe, Bevölkerungsschutz 3(2024), S.4. 
+14 
+https://bravors.brandenburg.de/gesetze/lwaldg. Alle 16 Bundesländer verfügen über eigene Waldgesetze. 
+15 
+Gemeinsamer Erlass des Ministeriums des Innern und für Kommunales und des Ministeriums für Landwirt­
+schaft, Umwelt und Klimaschutz zur Vorbeugung und Abwehr von Waldbränden (Waldbranderlass). 
+16 
+Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz (2025), 
+Waldschutz – Schäden rechtzeitig abwenden. 
+17 
+Vgl. § 20 Abs. 1 Waldgesetz des Landes Brandenburg (LWaldG). 
+18 
+Landesschule und Technischen Einrichtung für Brand- und Katastrophenschutz (2024), 
+https://lste.brandenburg.de/lste/de/service/aktuelle-informationen/detail/~03-12-2024-errichtung-wbzz, 
+03.12.2024. 
+19 
+Waldgesetz des Landes Brandenburg (LWaldG), § 20 Vorbeugender Waldbrandschutz; § 21 Zuschuss bei Wald­
+brandschäden; § 22 Waldbrandgefahrenklassen und Waldbrandgefahrenstufen, § 23 Umgang mit Feuer. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 7 
+Die Waldbrandzentralen der unteren Forstbehörde sind ab Waldbrandgefahrenstufe 3 zu besetzen.20 
+Brandenburg verfügt wie die Bundesländer Mecklenburg-Vorpommern, Niedersachsen, Sachsen 
+und Sachsen-Anhalt über Waldbrandzentralen: „In Baden-Württemberg, Bayern, Berlin, Bremen, 
+Hessen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, im Saarland und in Thürin­
+gen gibt es keine Waldbrandzentralen. Selbst wenn keine Waldbrandzentrale eingerichtet wurde, 
+kann gleichwohl eine Waldbrandvorsorge erfolgen. Beispielsweise berichtet Bayern: Bei hoher 
+bzw. sehr hoher Waldbrandgefahr (Stufen 4 bzw. 5 der Waldbrandgefährdung des Deutschen 
+Wetterdienstes) werden in den betroffenen Gebieten in Zusammenarbeit mit dem Deutschen 
+Flugbeobachtungsdienst, Luftrettungsstaffel Bayern e. V., Überwachungsflüge zur Früherkennung 
+von Waldbränden durchgeführt. Hierbei werden von den Katastrophenschutzbehörden, den Äm­
+tern für Ernährung, Landwirtschaft und Forsten und den Forstbetrieben der Bayerischen Staats­
+forsten benannte, ausgebildete Personen zur Luftbeobachtung eingesetzt. Die Flüge werden von 
+den Katastrophenschutzbehörden auf Anregung und unter fachlicher Beratung der Bayerischen 
+Forstverwaltung (durch die dafür zuständigen Ämter für Ernährung, Landwirtschaft und Forsten) 
+veranlasst. Der Bundesregierung liegen keine Informationen aus Hamburg vor.“21 
+Neben der Früherkennung investiert das Land in den Umbau von reinen Kiefernwäldern in 
+Mischwälder.22 Das Anlegen von Löschwasserentnahmestellen, Waldbrandriegel und Instandhal­
+tung der Wege für die Brandbekämpfung liegt im Aufgabenbereich der Waldbesitzer.23  
+Auf der Tagung der Fachagentur Nachwachsende Rohstoffe e. V. (FNR) im Mai 2023 im Auftrag 
+des BMEL und des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Ver­
+braucherschutz (BMUV) betonten die Experten, dass das Waldbrandmanagement und die Wald­
+brandvorbeugung künftig länderübergreifend einheitlich strukturiert und gesteuert werden soll­
+ten. Dies könnte durch eine bundesweit und dauerhaft agierende Institution oder Plattform erfol­
+gen.24 
+4. 
+Waldbrandgefahrenindex (WBI) des DWD 
+Seit 2014 informiert der Waldbrandgefahrenindex (WBI) des Deutschen Wetterdienstes (DWD) 
+in Deutschland während der Waldbrandsaison von März bis Oktober auf Basis amtlicher Klima­
+daten tagesaktuell über die Gefährdungssituation des jeweiligen Waldes. Sie wird in fünf Wald­
+brandgefährdungsstufen (1 "sehr gering" bis 5 "sehr hoch") in regionaler Auflösung dargestellt. Er 
+dient den „hoheitlich zuständigen Forsteinrichtungen der Bundesländer als Grundlage für die 
+ 
+20 
+Gemeinsamer Erlass des Ministeriums des Innern und für Kommunales und des Ministeriums für Landwirt­
+schaft, Umwelt und Klimaschutz zur Vorbeugung und Abwehr von Waldbränden (Waldbranderlass). 
+Siehe auch Großwaldbrände im Land Brandenburg, Bericht zur Waldbrandsaison 2022. 
+21 
+Antwort der Bundesregierung auf die Kleine Anfrage, Waldbrandgefahren in Deutschland, BT-Drs. 19/10990. 
+19.06.2019. 
+22 
+https://mluk.brandenburg.de/mluk/de/umwelt/forst/waldschutz/. 
+23 
+Vgl. § 20 Abs. 1 LWaldG. 
+24 
+FNR (2023) Waldbrandprävention überregional managen. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 8 
+Einschätzung der Waldbrand-Gefährdung vor Ort“25. Auf Grundlage des WBI können Forst- und 
+Brandschutzbehörden sowie der Katastrophenschutz Maßnahmen zur Verhütung von Waldbrän­
+den veranlassen.26 In der Saison 2025 soll der WBI stündlich aktualisiert werden und über eine 
+räumlich höhere Auflösung verfügen. Neben internen Modelloptimierungen sollen ganzjährige 
+Berechnungen durchgeführt und der Einfluss des Geländes auf das Wetter berücksichtigt werden. 
+Eine kontinuierliche Weiterentwicklung ist geplant.27 Der WBI ist unter diesem Link abrufbar: 
+  
+https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html. 
+5. 
+Waldbrandmanagementprojekte unterstützt durch den Waldklimafonds 
+Der Waldklimafonds − im Juni 2013 als Bestandteil des Energie- und Klimafonds gemeinsam von 
+BMEL und BMUV aufgelegt28 − unterstützt Forschungs- und Demonstrationsprojekte, um das 
+Waldbrandmanagement in Deutschland zu optimieren, da sich infolge des Klimawandels die 
+Waldbrandgefahr erhöht.29 Zu den Waldklimafonds-Projekten zum Thema Waldbrand gehören 
+neben dem WBI des DWD und dem daran beteiligten Projekt BrandSat auch folgende Projekte:30 
+5.1. Brennpunkt Wald 
+Das Projekt „Brennpunkt Wald“, das von Mai 2020 bis Ende April 2023 durchgeführt wurde, 
+richtete sich über Instagram und YouTube an Jugendliche (12 bis 16 Jahre), um sich mit Wald­
+bränden und deren Prävention auseinanderzusetzen und die zunehmende Waldbrandgefahr in 
+den Kontext von Klimawandel und abnehmender Biodiversität einordnen zu können. Adressaten 
+sollten für die Ursachen von Waldbränden sensibilisiert und für die Waldbrandabwehr aktiviert 
+werden.31 
+5.2. Waldbrand-Klima-Resilienz (WKR) 
+Das Ziel des Projekts „Waldbrand-Klima-Resilienz“ (WKR) von Mai 2020 bis Ende April 2023 
+war die Entwicklung von innovativen Handlungsempfehlungen für die Waldbrandprävention 
+und -bewältigung in Deutschland:32 
+ 
+25 
+https://www.dwd.de/DE/leistungen/waldbrandgef/wbx_erlaeuterungen.html. 
+Es ist möglich, dass die örtliche Einschätzung der Waldbrandgefahr vom WBI abweichen kann: 
+https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html. 
+26 
+FVA (2020), Vorhersage der Waldbrandgefährdungslage (Prognose). 
+27 
+FNR (2024), Innovation im Waldbrandschutz; 
+siehe auch Landtag Niedersachsen (2024), Antwort des Niedersächsischen Ministeriums für Ernährung, Land­
+wirtschaft und Verbraucherschutz auf die Kleine Anfrage, Wie bereitet sich die Landesregierung auf die anste­
+hende Waldbrandsaison vor? 28.03.2024, LT-Drs. 19/3937. 
+28 
+https://wald.fnr.de/wissen/themendossiers/waldbrand/details/waldbrandpraevention-ueberregional-managen. 
+29 
+Waldklimafonds, Waldbrand, Förderung von Waldbrandmanagement. 
+30 
+Ebd. 
+31 
+Ebd. 
+32 
+FNR (2024), Waldbrandresilienz im Fokus, 11.12.2024. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 9 
+  
+„Waldbrandmanagement soll als ganzheitliche Aufgabe betrachtet werden. Neben waldbauli­
+cher Prävention, wie z. B. dem Anbau schwer brennbarer Baumarten oder das Anlegen von 
+Schutzstreifen, sind auch gesamtgesellschaftliche Kommunikationsmaßnahmen wichtige Eck­
+pfeiler einer erfolgreichen Brandvorsorge. Schulungen und praktische Übungen, die inner­
+halb des Projektes durchgeführt werden, sollen Forstbeschäftigten und Feuerwehren adäquat 
+auf die Bekämpfung von Waldbränden vorbereiten.“33 
+5.3. ErWiN (Erweiterung des ökologischen, waldbaulichen und technischen Wissens zu Wald­
+brändeN) 
+Mit dem Projekt ErWiN34 des Thünen-Instituts für Waldökosysteme, des Karlsruher Instituts für 
+Technologie und weiterer Beteiligte, das am 30.09.2023 endete, konnte nachgewiesen werden, 
+dass vielfältig zusammengesetzte Baumbestände das Risiko von Waldbränden deutlich verringern 
+und die Regeneration nach einem Feuer beschleunigen. Insbesondere Kiefernmonokulturen seien 
+auf Grund ihrer Struktur und des Brandverhaltens der Kiefernstreu, die eine extrem hohe Wär­
+mefreisetzungsrate habe, stark brandgefährdet. Hier senke eine Beimischung von Laubbäumen 
+das Waldbrandrisiko bereits kurzfristig. Die Streu von Laubbaumarten wie Buche oder Eiche ver­
+brenne mit geringeren Temperaturen und nicht vollständig. Die Beimischung zur Kiefer senke 
+daher die Brandtemperaturen. Ein gezieltes Waldmanagement wie die Anlage von Brandschnei­
+sen, regelmäßige Kontrollen und gegebenenfalls das Entfernen von Brennmaterial oder Totholz 
+ohne Bodenkontakt trügen dazu bei, dass sich Brände langsamer ausbreiteten und Wege während 
+eines Feuers befahrbar blieben. Ein Großteil der Waldbrände entstünde durch menschliche Akti­
+vitäten: Funkenflug vom Grill, offenes Feuer, weggeworfene Zigaretten oder vorsätzliche Brand­
+stiftung.35 Ein Abschlussbericht kann heruntergeladen werden. 
+5.4. Waldbrandschutzprojekt THOR 
+Auch THOR, das Verbundvorhaben: Erarbeitung, Optimierung und Umsetzung von Präventions- 
+und Nachsorgestrategien zum Schutz der Wälder gegen Waldbrände, wird von Mai 2020 bis Ap­
+ril 2025 über den Waldklimafonds bei der Fachagentur Nachwachsende Rohstoffe e. V. (FNR) 
+gefördert.36 Eine PowerPoint-Präsentation zum Waldbrandschutzprojekt THOR ist abrufbar. 
+ 
+ 
+ 
+33 
+https://www.waldklimafonds.de/themen/waldbrand; siehe auch Waldbrand-Klima-Resilienz (WKR). 
+34 
+Projekt, Erweiterung des ökologischen, waldbaulichen und technischen Wissens zu WaldbrändeN (ErWiN), 
+Ende des Projekts 30.09.2023. 
+35 
+Sanders,Tanja; Gnilke, Anne (2023), Eine wachsende Herausforderung: Waldbrände und effektive Gegenmaß­
+nahmen. 
+36 
+Waldbrandschutzprojekt THOR, https://www.thor-waldbrandschutz.de/. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 10 
+5.5. PYROPHOB 
+Zu einem der Leuchtturmprojekte zur Forschung der Waldbrandfolgen in Brandenburg gehört 
+das Verbundvorhaben: Strategien zur Entwicklung von pyrophoben und klimawandelresilienten 
+Wäldern auf Waldbrandflächen (PYROPHOB) − Wege zum widerstandsfähigen Wald.37 Das Pro­
+jekt endet am 30.04.2025. Acht Verbundpartner des Projektes arbeiten „an den Fragen, wie ein 
+feuerabweisender Wald aussieht und wie Waldökosysteme im Klimawandel widerstandsfähig 
+bleiben. Geforscht wird dazu auf Flächen in einem Untersuchungsgebiet im Süden Brandenburgs 
+mit einer Größe von insgesamt 65 Hektar. Dabei handelt es sich um teils verbrannte Flächen, die 
+innerhalb des Projektes unterschiedliche Behandlungen (z. B. Kahlschlag, Naturverjüngung oder 
+Bodenbearbeitung) erfahren und dahingehend untersucht werden. Begutachtet werden Boden 
+und Wasserhaushalt, Bewuchs und Fauna sowie das Baumwachstum und die Entwicklung des 
+Mikroklimas. Dadurch können die Auswirkungen verschiedener Managementvarianten auf die 
+Entwicklung von Waldbrandflächen analysiert und Handlungsempfehlungen zur Entwicklung 
+von klimawandelresilienten und schwer brennbaren Wäldern abgeleitet werden.“38  
+Weitere Informationen zum Thema Waldschutz und Waldbrand (Zahlen, Grafiken, Hintergrund­
+informationen und Forschungsprojekte) finden sich im Themendossier. 
+6. 
+Bund-Länder-Arbeitsgruppe „Nationaler Waldbrandschutz“ − Nationale Strategie 
+Vegetationsbrandbekämpfung 
+Im Fachmagazin des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) erklärt 
+die Bund-Länder-Arbeitsgruppe „Nationaler Waldbrandschutz“, die Hauptziele eines vorbeugen­
+den und abwehrenden Waldbrandschutzes bestünden darin, Vegetationsbrände zu verhindern 
+oder frühzeitig zu bekämpfen. Die Arbeitsgruppe „Nationaler Waldbrandschutz“, die 2018 ge­
+gründet wurde, hat eine „Nationale Strategie Vegetationsbrandbekämpfung“ entwickelt, die sich 
+inhaltlich eng an die Arbeitsergebnisse des Deutschen Feuerwehrverbandes anlehnt. Die Ergeb­
+nisse dienen als Vorlage für die Entwicklung eigener Länderstrategien.39 
+Verwiesen wird weiterhin auf den Zwischenbericht der länderoffenen Arbeitsgruppe „Nationaler 
+Waldbrandschutz” (Mai 2023) und die Nationale Vegetationsbrandbekämpfungsstrategie der 
+Ständigen Konferenz der Innenminister und -senatoren der Länder (IMK). 
+Die Ergebnisse der Unterarbeitsgruppe (UAG) „Präventive Maßnahmen im vorbeugenden Wald­
+brandschutz“ (Kontaktgruppe Forst)40 zur Löschwasserversorgung, zur Erschließung der Waldge­
+biete, zu waldbaulichen Maßnahmen und Waldbrandschutzstreifen, zur Waldbrandfrüherken­
+nung, zur Aufklärung der Bevölkerung, zu Informationen zum Einsatzgebiet sowie zur Aus- und 
+Fortbildung der Mitarbeitenden von Kommunen, Feuerwehren, Forstverwaltungen und Waldbe­
+sitzerinnen und Waldbesitzern finden sich auf den Seiten 8f in dem Beitrag von Engel 
+ 
+37 
+Die Wildnisstiftung (2025), Abschlussveranstaltung PYROPHOB am 27.02.2025. 
+38 
+https://www.waldklimafonds.de/themen/waldbrand. 
+39 
+Vgl. BA für Bevölkerungsschutz und Katastrophenhilfe, Bevölkerungsschutz 3(2024), S. 2f. 
+40 
+Unterarbeitsgruppe (UAG) der AG Nationaler Waldbrandschutz. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 11 
+„Teamwork ist der Schlüssel zum Erfolg! Wie Forst und Feuerwehr effektiv zusammenarbeiten“ 
+in BA für Bevölkerungsschutz und Katastrophenhilfe, Bevölkerungsschutz 3(2024). 
+7. 
+Waldstrategie 2050 
+Die Waldstrategie 2050 des BMEL41 beinhaltet zehn Handlungsfelder des Bundes, um den Wald 
+in Zeiten des Klimawandels zu erhalten und zu entwickeln.42 Sie basiert auf einer wissenschaftli­
+chen Evaluation der Waldstrategie 2020 durch das Thünen-Institut. Beteiligt waren auch der Wis­
+senschaftliche Beirat für Waldpolitik (WBW)43 sowie Länder und Verbände. Die Waldstrategie 
+2050 umfasst die Anpassung der Wälder an den Klimawandel, den Schutz der Biodiversität, die 
+nachhaltige Waldbewirtschaftung, die Erhaltung des Waldes als Erholungsraum für die Bevölke­
+rung und die Sensibilisierung für den Wert des Waldes.44 Ebenfalls dazu gehört auch die Ent­
+wicklung einer funktionellen Infrastruktur zur Waldbrandbekämpfung und von Instrumenten des 
+Risiko- und Krisenmanagements.45 
+8. 
+Förderprogramm klimaangepasstes Waldmanagement 
+Das Förderprogramm „Klimaangepasstes Waldmanagement“46, dessen Finanzierung seit 2024 aus 
+dem Aktionsprogramm Natürlicher Klimaschutz (ANK) des BMUV erfolgt, wird seitdem in ge­
+meinsamer Verantwortung von BMUV und BMEL fortgeführt.47 Es ermöglicht privaten und kom­
+munalen Waldbesitzern sowie Forstbetriebsgemeinschaften eine Förderung, wenn sie sich ver­
+pflichten, je nach Größe der Waldfläche 11 bzw. 12 Kriterien für ein klimaangepasstes Waldma­
+nagement gemäß der Förderrichtlinie über einen Zeitraum von 10 bzw. 20 Jahre einzuhalten. Es 
+unterliegt einem extra entwickelten und anerkannten Zertifizierungssystem.48 Ziel der Förderung 
+ist die Erhaltung, Entwicklung und Bewirtschaftung von klimaresilienten Wäldern. Nur an das 
+Klima angepasste Wälder sind „dauerhaft in der Lage, neben der CO2-Bindung in Wäldern und 
+Holz auch die anderen Ökosystemleistungen (z. B. Schutz der Biodiversität, Erholung der Bevöl­
+kerung, Erbringung von weiteren Gemeinwohlleistungen sowie die Rohholzbereitstellung) zu er­
+füllen.“49 
+ 
+41 
+siehe auch Wissenschaftlicher Beirat Waldpolitik beim BMEL (Hrsg.) (2020): Eckpunkte der Waldstrategie 2050. 
+Stellungnahme des Wissenschaftlichen Beirates Waldpolitik. 
+42 
+BMEL (2022), Waldstrategie, Strategische Ausrichtung der nationalen Waldpolitik in Zeiten des Klimawandels, 
+27.10.2022. 
+43 
+Siehe auch das Gutachten des Wissenschaftlichen Beirates für Waldpolitik beim Bundesministerium für Ernährung 
+und Landwirtschaft (2021), Die Anpassung von Wäldern und Waldwirtschaft an den Klimawandel, Oktober 2021. 
+44 
+BMEL (2021), Bundesministerin Klöckner stellt Waldstrategie 2050 vor, Wälder an den Klimawandel anpassen 
+– Waldumbau verstetigen, 07.09.2021. 
+45 
+BMEL (2021), Waldstrategie 2050, Nachhaltige Waldbewirtschaftung – Herausforderungen und Chancen für 
+Mensch, Natur und Klima, S. 23. 
+46 
+Richtlinie für Zuwendungen zu einem klimaangepassten Waldmanagement vom 28. Oktober 2022 (geändert am 
+15. Mai 2023; BAnz AT 15.05.2023 B3). 
+47 
+FNR, Förderprogramm klimaangepasstes Waldmanagement. 
+48 
+BMEL (2025), Förderprogramm klimaangepasstes Waldmanagement, 30.01.2025. 
+49 
+FNR, Förderprogramm klimaangepasstes Waldmanagement. 
+
+ 
+ 
+ 
+ 
+ 
+Wissenschaftliche Dienste 
+Fachbereich WD 5 
+WD 5 - 3000 - 007/25 
+Seite 12 
+Die 11 bzw. 12 Kriterien für ein klimaangepasstes Waldmanagement finden sich ausführlich un­
+ter Nr. 2.2 der Richtlinie für Zuwendungen zu einem Klimaangepassten Waldmanagement – Kri­
+terien des Klimaangepassten Waldmanagements. 
+9. 
+Klimaangepasstes Waldmanagement PLUS 
+Ab dem zweiten Quartal 2025 werden private und kommunale Waldbesitzer mit Unterstützung 
+des BMUV im Rahmen des Aktionsprogramms Natürlicher Klimaschutz (ANK) beim Waldumbau 
+durch das Programm „Klimafreundliche Waldwirtschaft PLUS" gefördert. Es honoriert Ökosys­
+temleistungen naturnaher Wälder. Es soll den Waldumbau hin zu stabilen, artenreichen und kli­
+maangepassten Laubmischwäldern fördern und zusätzlich zum bestehenden Förderprogramm 
+„Klimaangepasstes Waldmanagement" finanzielle Anreize für die Erbringung zusätzlicher Bio­
+diversitäts- und Klimaschutzleistungen setzen, wie die Ausweisung von Habitatbäumen50, das 
+Belassen von Totholz im Wald oder die natürliche Waldentwicklung in Teilbereichen eines Wal­
+des.51 
+10. 
+Öffentliche Anhörung zur Waldbrandbekämpfung im Deutschen Bundestag (2023) 
+Am 17.04.2023 forderten Experten in einer Öffentlichen Anhörung im Deutschen Bundestag eine 
+bessere Waldbrandbekämpfung. Die Beiträge der Sachverständigen sind unter dem folgenden 
+Link abrufbar: 
+https://www.bundestag.de/dokumente/textarchiv/2023/kw16-pa-inneres-waldbrandschutz-941606. 
+*** 
+ 
+50 
+„Habitat- oder Biotopbäume sind sehr große, sehr alte, sowohl tote als auch lebende Bäume, die Kleinstlebens­
+räume (Mikrohabitate) beherbergen. Sie sind von zentraler Bedeutung für spezialisierte Tier- und Pflanzenarten 
+des Waldes.“, 
+https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/buetler/pdf/Habitatbaume_KapitelRBR.pdf. 
+51 
+Pressemitteilung BMUV (2024), Bundesumweltministerium unterstützt Waldbesitzende mit neuem Förderpro­
+gramm für Ökosystemleistungen des Waldes. 

@@ -1,0 +1,8 @@
+# 3.4 Struktur und Verfügbarkeit der Freiwilligen Feuerwehr
+
+- Datenerhebung: März 2011   Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  81  Die Tabelle zeigt die Einordnung des Arbeitsplatzes und die Verfügbarkeit zur Arbeitszeit (ZB 1) der Freiwilligen Kräfte:  38% der Aktiven haben einen Arbeitsplatz außerhalb des Mannheimer Stadtgebiets und pendeln aus. Viele der Auspendler sind für Einsätze zwar abkömmlich, haben aber eine lange Anfahrt zum Gerätehaus [Alarmierung für  große und langwierige Einsätze].
+
+- Viele der Auspendler sind für Einsätze zwar abkömmlich, haben aber eine lange Anfahrt zum Gerätehaus [Alarmierung für  große und langwierige Einsätze]. Insgesamt ist die Verfügbarkeit der Freiwilligen Feuerwehr werktags tagsüber eingeschränkt.
+
+- Insgesamt ist die Verfügbarkeit der Freiwilligen Feuerwehr werktags tagsüber eingeschränkt. Datenerhebung: März 2011  FF-Einheit Anzahl Aktive Arbeitsort im  Ausrücke-  bereich der Einheit in % Arbeitsort im  Ausrückebe-  reich einer  anderen Einheit in % wechselnder  Arbeitsort  innerhalb  von  Mannheim in % Arbeitsort in  Mannheim  aber nicht  abkömmlich in % Arbeitsort  außerhalb  von Ma und  abkömmlich in % Arbeitsort  außerhalb  von Ma aber  nicht  abkömmlich in % Feudenheim 32 1 3% 11 34% 0 0% 8 25% 10 31% 2 6% Friedrichfeld 29 4 14% 13 45% 0 0% 2 7% 5 17% 5 17% Innenstadt 32 8 25% 0 0% 2 6% 8 25% 5 16% 8 25% Neckarau 35 3 9% 8 23% 0 0% 7 20% 5 14% 12 34% Nord 55 7 13% 10 18% 2 4% 15 27% 4 7% 17 31% Rheinau 19 2 11% 4 21% 2 11% 5 26% 2 11% 4 21% Seckenheim 25 0 0% 5 20% 0 0% 13 52% 2 8% 5 20% Wallstadt 39 0 0% 14 36% 3 8% 8 21% 6 15% 7 18% Summe 266 25 9% 65 24% 9 3% 66 25% 39 15% 60 23%
+

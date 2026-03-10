@@ -1,0 +1,44 @@
+# 7.2	 Gerätefahrzeuge (Gerätewagen)
+
+- Gerätewagen (GW) sind Feuerwehrfahrzeuge für  eine Besatzung von 1/1 oder 1/2, die zum Bereit­ stellen von Geräten für technische Hilfeleistungen  eingesetzt werden. Es gibt verschiedene (nicht genormte) Geräte- wagen für besondere Aufgaben, z. B.: •	 GW-A (Atemschutz) •	 GW-Öl (Ölschadenbekämpfung) •	 GW-S (Strahlenschutz) •	 GW-W (Wasserrettung) Abb. 18 GW-AS Quelle: FF Geldersheim Abb. 17 GW-W Quelle:  Maximilian Kunkel  BOS-Fahrzeuge.
+
+- Es gibt verschiedene (nicht genormte) Geräte- wagen für besondere Aufgaben, z. B.: •	 GW-A (Atemschutz) •	 GW-Öl (Ölschadenbekämpfung) •	 GW-S (Strahlenschutz) •	 GW-W (Wasserrettung) Abb. 18 GW-AS Quelle: FF Geldersheim Abb. 17 GW-W Quelle:  Maximilian Kunkel  BOS-Fahrzeuge. info  28  Krankenkraftwagen der Feuerwehr sind Kraftfahr­ zeuge, die den Anforderungen von DIN EN 1789  entsprechen, von Feuerwehrpersonal betrieben  werden und für die Versorgung sowie für den  Transport von Patienten konstruiert sind.
+
+- info  28  Krankenkraftwagen der Feuerwehr sind Kraftfahr­ zeuge, die den Anforderungen von DIN EN 1789  entsprechen, von Feuerwehrpersonal betrieben  werden und für die Versorgung sowie für den  Transport von Patienten konstruiert sind. Sie dürfen auch andere Einrichtungen für den spe­ ziellen Gebrauch durch die Feuerwehr einschlie­ ßen.
+
+- Sie dürfen auch andere Einrichtungen für den spe­ ziellen Gebrauch durch die Feuerwehr einschlie­ ßen. Ihre Besatzung besteht aus dem Personal im  Rettungsdienst und ggf. aus einem Notarzt.
+
+- Ihre Besatzung besteht aus dem Personal im  Rettungsdienst und ggf. aus einem Notarzt. Die DIN EN 1789 unterscheidet folgende vier Kategorien von Krankenkraftwagen: 	 z Typ A1:  geeignet für den Transport eines  einzelnen Patienten 	 z 	Typ A2:  geeignet für den Transport eines oder  mehrerer Patienten auf Krankentragen  oder -sesseln (KTW in Bayern) 	 z Typ B:  Notfallkrankenwagen 	 z 	Typ C:  Rettungswagen (RTW) Die Kategorien A1 und A2 entsprechen in etwa  dem bisherigen Krankentransportwagen (KTW,  Funkrufkennzahl 72), der grundsätzlich für den  Transport und nicht für notfallmedizinische Erst­ versorgung von Patienten vorgesehen ist.
+
+- Die DIN EN 1789 unterscheidet folgende vier Kategorien von Krankenkraftwagen: 	 z Typ A1:  geeignet für den Transport eines  einzelnen Patienten 	 z 	Typ A2:  geeignet für den Transport eines oder  mehrerer Patienten auf Krankentragen  oder -sesseln (KTW in Bayern) 	 z Typ B:  Notfallkrankenwagen 	 z 	Typ C:  Rettungswagen (RTW) Die Kategorien A1 und A2 entsprechen in etwa  dem bisherigen Krankentransportwagen (KTW,  Funkrufkennzahl 72), der grundsätzlich für den  Transport und nicht für notfallmedizinische Erst­ versorgung von Patienten vorgesehen ist. 8	 KRANKENKRAFTWAGEN DER FEUERWEHR Die Kategorie B entspricht in etwa dem bisheri­ gen Rettungswagen (RTW, Funkrufkennzahl 71),  der für den Transport, die Erstversorgung und  die Überwachung von Patienten konstruiert und  ausgerüstet ist.
+
+- 8	 KRANKENKRAFTWAGEN DER FEUERWEHR Die Kategorie B entspricht in etwa dem bisheri­ gen Rettungswagen (RTW, Funkrufkennzahl 71),  der für den Transport, die Erstversorgung und  die Überwachung von Patienten konstruiert und  ausgerüstet ist. Die Kategorie C entspricht in etwa dem bisheri­ gen Notarztwagen (NAW, Funkrufkennzahl 70),  der für den Transport, die erweiterte Behandlung  und Überwachung von Patienten konstruiert und  ausgerüstet ist.
+
+- Die Kategorie C entspricht in etwa dem bisheri­ gen Notarztwagen (NAW, Funkrufkennzahl 70),  der für den Transport, die erweiterte Behandlung  und Überwachung von Patienten konstruiert und  ausgerüstet ist. Der NAW ist mit einem Notarzt  besetzt.
+
+- Der NAW ist mit einem Notarzt  besetzt. In DIN 75079 ist das Notarzt-Einsatzfahrzeug (NEF,  Funkrufkennzahl 76) genormt.
+
+- In DIN 75079 ist das Notarzt-Einsatzfahrzeug (NEF,  Funkrufkennzahl 76) genormt. Das NEF ist ein be­ sonders ausgerüsteter PKW zum Transport eines  Notarztes.
+
+- Das NEF ist ein be­ sonders ausgerüsteter PKW zum Transport eines  Notarztes. Außerdem gibt es: 	 z 	Großraum-Rettungswagen GRTW,  Funkrufkennzahl: 75 	 z 	Großraum-Krankentransportwagen GKTW,  Funkrufkennzahl 75 Abb. 19 RTW Quelle:  Maximilian Kunkel  BOS-Fahrzeuge.
+
+- Außerdem gibt es: 	 z 	Großraum-Rettungswagen GRTW,  Funkrufkennzahl: 75 	 z 	Großraum-Krankentransportwagen GKTW,  Funkrufkennzahl 75 Abb. 19 RTW Quelle:  Maximilian Kunkel  BOS-Fahrzeuge. info  29  Der Gerätewagen Gefahrgut (GW-G) nach DIN 14  555-12 dient dem Transport der Ausrüstung für  übliche ABC-Lagen.
+
+- info  29  Der Gerätewagen Gefahrgut (GW-G) nach DIN 14  555-12 dient dem Transport der Ausrüstung für  übliche ABC-Lagen. Die Besatzung besteht aus  einem Trupp (1/2), mindestens aber aus einem  Fahrzeugführer und einem Maschinisten und dient  im Allgemeinen nur zur Ausgabe und Bereitstel­ lung der Ausrüstung.
+
+- Die Besatzung besteht aus  einem Trupp (1/2), mindestens aber aus einem  Fahrzeugführer und einem Maschinisten und dient  im Allgemeinen nur zur Ausgabe und Bereitstel­ lung der Ausrüstung. 9	 GERÄTEFAHRZEUGE GEFAHRGUT Abb. 20 GW-G In der Regel ist ein Fahrgestell mit Straßenantrieb  mit Differentialsperre ausreichend.
+
+- 9	 GERÄTEFAHRZEUGE GEFAHRGUT Abb. 20 GW-G In der Regel ist ein Fahrgestell mit Straßenantrieb  mit Differentialsperre ausreichend. Es können  Aufbauten auf einem Fahrgestell oder als Abroll­ behälter verwendet werden.
+
+- Es können  Aufbauten auf einem Fahrgestell oder als Abroll­ behälter verwendet werden. Funkrufkennzahl: 	52 1 Auf das Mitführen  der sechs Atem­ schutzgeräte darf  verzichtet werden,  wenn sichergestellt  ist, dass diese bei  Bedarf rechtzeitig an  der Einsatzstelle zur  Verfügung stehen.
+
+- Funkrufkennzahl: 	52 1 Auf das Mitführen  der sechs Atem­ schutzgeräte darf  verzichtet werden,  wenn sichergestellt  ist, dass diese bei  Bedarf rechtzeitig an  der Einsatzstelle zur  Verfügung stehen. 2 In Abhängigkeit  von Raum- und  Massenreserve  (Beladung „auf  Wunsch des  Bestellers“) TABELLE 4: GERÄTEFAHRZEUG GEFAHRGUT Typ GW-G Funkrufkennzahl 52 Antriebsart Straße Besatzung 1/2 Atemschutzgeräte 6¹ Sonstige Ausrüstung 9 CSA Form 3 Typ 1a-ET, 12 CSA Form 2 Typ 3, 12 Flammschutz-Unterziehoverall,  12 Ersatzbekleidungen (Overall oder Trainingsanzug), 2 Flutlichtstrahler,  Fasspumpe, Handmembranpumpe, Gefahrstoff-Umfüllpumpe (Verdränger­ pumpe), Gefahrstoff-Umfüllpumpe (Kreiselpumpe), Druckluftmembranpumpe,  Stromerzeuger, Prüfröhrchen, Ex- / Ox-Messgerät, CBRN-Probenahmesatz, che­ mikalienbeständige Saug- und Druckschläuche, Übergangsstücke, Auffang- und  Abdichtmaterial, Auffangwannen, Faltbehälter, Erdungsmaterial,  Leckdicht- und Rohrdichtkissen, Bindemittel, Dekonmaterial, 10 HRT, Hydro­ schild / Düsenschlauch, Photoionisationsdetektor (PID), Fernthermometer,  Aufenthalts- und Umkleidezelt, Fasskarre Zusatzbeladung nach  einsatztaktischen  Erfordernissen² Ex-geschütztes Belüftungsgerät mit der Möglichkeit Wasser zu zerstäuben,  Gefahrgutliteratur, Wärmebildkamera, 12 Helme für technische Rettung, 18 Aufbewahrungsbehältnisse für Atemanschluss Länge max.
+
+- 2 In Abhängigkeit  von Raum- und  Massenreserve  (Beladung „auf  Wunsch des  Bestellers“) TABELLE 4: GERÄTEFAHRZEUG GEFAHRGUT Typ GW-G Funkrufkennzahl 52 Antriebsart Straße Besatzung 1/2 Atemschutzgeräte 6¹ Sonstige Ausrüstung 9 CSA Form 3 Typ 1a-ET, 12 CSA Form 2 Typ 3, 12 Flammschutz-Unterziehoverall,  12 Ersatzbekleidungen (Overall oder Trainingsanzug), 2 Flutlichtstrahler,  Fasspumpe, Handmembranpumpe, Gefahrstoff-Umfüllpumpe (Verdränger­ pumpe), Gefahrstoff-Umfüllpumpe (Kreiselpumpe), Druckluftmembranpumpe,  Stromerzeuger, Prüfröhrchen, Ex- / Ox-Messgerät, CBRN-Probenahmesatz, che­ mikalienbeständige Saug- und Druckschläuche, Übergangsstücke, Auffang- und  Abdichtmaterial, Auffangwannen, Faltbehälter, Erdungsmaterial,  Leckdicht- und Rohrdichtkissen, Bindemittel, Dekonmaterial, 10 HRT, Hydro­ schild / Düsenschlauch, Photoionisationsdetektor (PID), Fernthermometer,  Aufenthalts- und Umkleidezelt, Fasskarre Zusatzbeladung nach  einsatztaktischen  Erfordernissen² Ex-geschütztes Belüftungsgerät mit der Möglichkeit Wasser zu zerstäuben,  Gefahrgutliteratur, Wärmebildkamera, 12 Helme für technische Rettung, 18 Aufbewahrungsbehältnisse für Atemanschluss Länge max. 8,60 m Breite max.
+
+- 8,60 m Breite max. 2,55 m Höhe max.
+
+- 2,55 m Höhe max. 3,30 m Massenklasse MII oder MIII  30  Einsatzleitfahrzeuge sind Feuerwehrfahrzeuge,  die mit Kommunikationsmitteln und anderer  Ausrüstung zur Führung taktischer Einheiten  ausgestattet sind.
+
+- 3,30 m Massenklasse MII oder MIII  30  Einsatzleitfahrzeuge sind Feuerwehrfahrzeuge,  die mit Kommunikationsmitteln und anderer  Ausrüstung zur Führung taktischer Einheiten  ausgestattet sind. 10	 EINSATZLEITFAHRZEUGE Abb. 21 KdoW Hinweis: Die Definition des Einsatzleitwagens  (ELW) ist identisch mit der Definition des Einsatz­ leitfahrzeuges.
+

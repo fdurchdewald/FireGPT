@@ -1,0 +1,6 @@
+# 3. Grundlagen
+
+- the VegBbk 34 35 For fire fighting and landing possibilities, the following requirements are placed on the selected areas: water sampling points • possible water extraction possibilities should be possible within the framework of the layer detection, e.g. o pond or lake o direct filling by fire brigade o mobile extinguishing water folding containers (see Chapter 3.8) • water depth at least 1.5 to 3.0 m (depending on the container size), • free of sludge, foreign bodies, obstacles, vegetation and flow The water sampling points or reception points for the helicopters should be as close to the respective area of application as possible. Only in this way can a large number of discards and an effective and economical use of the helicopters be ensured.
+
+- Only in this way can a large number of discards and an effective and economical use of the helicopters be guaranteed. Landing possibilities • Size of landing possibility: at least 35 x 35 m for external load containers up to 900 l, at least 50 x 50 m • level terrain • no sinks • No growth higher than 30 cm • Landing possibility and immediate vicinity free of loose material • easily accessible with vehicles • no overhead lines nearby
+

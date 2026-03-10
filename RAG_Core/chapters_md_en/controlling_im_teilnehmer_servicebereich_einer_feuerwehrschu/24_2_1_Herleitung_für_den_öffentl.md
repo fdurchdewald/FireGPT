@@ -1,0 +1,92 @@
+# 2.1 Herleitung für den öffentlichen Bereich
+
+- The term controlling is often used as a companion to modern economic governance, but its history goes back several centuries, perhaps even several millennia, in which it becomes clear that this concept originally served the state and its more efficient leadership.
+
+- Its history, however, goes back several centuries, perhaps even several millennia, in which it becomes clear that this concept originally served the state and its more efficient leadership. (Lingnau, 1999, p. 74) In the period of the economic upswing of the 19th century.
+
+- (Lingnau, 1999, p. 74) In the period of the economic upswing of the 19th and 20th centuries, this idea was mainly used and expanded in rising American large corporations.
+
+- And in the 20th century, this idea was mainly used and expanded in rising American large corporations.The free market economy recognized the importance of this self-evaluating tool of resource and information control for itself.
+
+- The free market economy recognized the importance of this self-evaluating tool of resource and information control for itself. At that time, the concept of controlling had only one goal: to separate the acquisition of information from the decision and its execution and to gain the information centralized and thus to be able to coordinate again.
+
+- At that time, the concept of controlling had only one goal: to separate information from decision-making and its execution, and to gain the information centralized and thus to be able to coordinate again. (Gerlich, 1999, pp. 3–4) Only in the 1980s did controlling find its way back into state organisations in the context of internationally conducted debates on the reform of public administrations and the introduction of a "New Public Management" (NPM) as a reform model.
+
+- (Gerlich, 1999, pp. 3–4) It was only in the 1980s that controlling found its way back into state organisations in the context of internationally conducted debates on the reform of public administrations and the introduction of a "New Public Management (NPM) as a reform model. The system of public administrations, which had hitherto been inflexible and thus inefficient, should be made more flexible with the help of new control elements.
+
+- The system of public administrations, which has hitherto been inflexible and thus inefficient, should be made more flexible with the help of new control elements. (Sander, 2010, p. 1) At the beginning of the 1990s, a variant of the "New Governance Model" (NSM) was introduced by the Kommunale Gemeinschaftsstelle für Verwaltungsmanagement (KGSt) which was adapted to German administrations and which should primarily enable municipal administrations to provide their services as service-oriented authorities.
+
+- (Sander, 2010, p. 1) At the beginning of the 1990s, the Kommunales Gemeinschaftsstelle für Verwaltungsmanagement (KGSt) introduced a variant of the "Neue Steuerungsmodell" (NSM), which should primarily enable municipal administrations to perform their services as service-oriented authorities. (Sander, 2010, p. 1) This necessary change from the previous bureaucracy model to the NSM or NPM is currently taking place in many countries.
+
+- (Sander, 2010, p. 1) This necessary change from the existing bureaucracy model to the NSM or NPM is currently taking place in many countries. (Lamers, 2018, p. 159); (Budäus, 1998, p. 1–10); (Bürsch, 1996); (Brüggemeier, 1998, 138 et seq.); (Busch, 2004, 28 et seq.); (De- ckert, 2006, 40 et seq.); (Dincher et al., 2017, 145 et seq.); (KGSt, 1993, 1 et seq.); (Krüger, 2017, 127 et seq.); (Meixner, 1995, 1 et seq.); (Mundhenke, 2003, 1 et seq.); (Krems, 2010); (Reinermann, 1996, 15 et seq.); (Reinermann, 2000, 5 et seq.) According to Lamers (2018, p. 160), the NPM is an international, integrated approach to modernising the public sector, which complements political and judicial control with more efficiency.
+
+- (Lamers, 2018, p. 159); (Budäus, 1998, p. 1–10); (Bürsch, 1996); (Brüggemeier, 1998, 138 ff.); (Budäus, 2004, 28 ff.); (De- ckert, 2006, 40 ff.); (Dincher et al., 2017, 145 ff.); (KGSt, 1993, 1 ff.); (Krüger, 2017, 127 ff.); (Meixner, 1995, 1 ff.); (Mundhenke, 2003, 1 ff.); (Krems, 2010); (Reinermann, 1996, 15 ff.); (Reinermann, 2000, 5 ff.) According to Lamers (2018, p. 160), the NPM is an international, integrated concept for modernising the public sector, which combines political and judicial governance with a more effective and efficient regulatory component.
+
+- The bureaucracy model of Max Weber (Kieser und Walgenbach, 2016, 35 et seq.), which has been used in the past, is characterised by systematised and formal law and by controlling as a management tool 4 bureaucratic administrations with a clear concept such as division of labour, hierarchy of duties, filefulness and written communication. The characteristic of this up-to-date system is also an input control in the form of a control system, which took place through the provision of financial resources (budget resources).
+
+- A characteristic of this system is also an input control in the form of a control system, which took place through the provision of financial resources (household funds). This control led to partly negative economic and psychological effects, such as the so-called so-called
+
+- This control led to some negative economic and psychological effects, such as the so-called December fever and severe hierarchical pressure.
+
+- December fever and strong hierarchical pressure. As a result, control deficits were countered with even stronger regulations.
+
+- As a result, control deficits were countered with even stronger regulations. Due to the system, this often led to a mismanagement or over-control.
+
+- Due to the system, this often led to a mismanagement or over-control. In the self-image, this system has seen employees as subordinates or as a production factor, by which costs arise.
+
+- In its self-image, this system has seen employees as subordinates or as a production factor, which results in costs. (Lamers, 2018, p. 160) The NPM concept aims at a system change towards result and incentive control.
+
+- (Lamers, 2018, p. 160) With the NPM concept, a system change to result and incentive control is to be carried out in the core. The path to achieving goals or results lies in the ownership of the subordinated units or employees.
+
+- The path to achieving goals or results lies in the ownership of the subordinated units or employees. This decentralises the decisions and shifts them to the subordinate or subordinated authorities or employees.
+
+- This will decentralise the decisions and move them to the subordinate or subordinate authorities or employees, but the objectives which have been transferred to the company's own responsibility must first be described (operational) and the responsible body must be provided with the resources necessary to meet the objectives within the framework of a contract management.
+
+- However, the objectives assigned to them must first be described in a measurable way (operational training) and the responsible body must be provided with the resources necessary for the achievement of the objectives within the framework of a contract management. The NPM understands the employees as "human capital" and thus as the most valuable asset of the company in its own understanding.
+
+- The NPM sees the employees as "human capital" and thus as the most valuable asset of the company in its self-understanding. (Lamers, 2018, p. 160) Income management i.e. NPM means a maximum of self-control ("control instead of rowing"), a minimum of central control ("results instead of rules"), ownership instead of hierarchy, competition instead of monopoly and motivation instead of alimination.
+
+- (Lamers, 2018, p. 160) Management of earnings in the sense of NPM means a maximum of self-control ("control instead of rowing"), a minimum of central control ("results instead of rules"), ownership instead of hierarchy, competition instead of monopoly and motivation instead of alimination. The goals of the NPM are: economic efficiency and financial result, better quality (performance, internal processes), citizen orientation (addressee satisfaction) and employee orientation (employee satisfaction).
+
+- The goals of the NPM are: economic efficiency and financial result, better quality (performance, internal processes), citizen orientation (addressee satisfaction) and employee orientation (employee satisfaction). The framework conditions of the new management are legal or legal as well as the quality of the services provided.
+
+- The framework conditions for the new control system are law and/or legality as well as the quality of the services provided. (Lamers, 2018, pp. 160-161) The main concepts of the new control system are effectiveness and efficiency.
+
+- (Lamers, 2018, pp. 160-161) The main concepts of the new control are effectiveness and efficiency. (Budaeus, 1999); (Budaeus, 2012); (Buschor, 1993, 236 ff.); (Deckert, 2006, 52 ff.); (Mund henke, 2003, p. 7) These terms form the basis of Budaeus' so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called so-called "so-called so-called so-called so-called so-called so-called so-called "so-called so-called "so-called so-called "so-called "so-called "so-called "so-called so-called so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called "so-called
+
+- (Budaeus, 1999); (Budaeus, 2012); (Buschor, 1993, 236 ff.); (Deckert, 2006, 52 ff.); (Mund henke, 2003, p. 7) These terms form the basis of the so-called "three-level concept" that Budaeus has made known, which is presented in Figure 1 in a form modified in relation to the literature templates.
+
+- "Three-level concept, which is presented in Figure 1 in a form modified in relation to the literature templates. (Lamers, 2018, p. 161) Based on the concept, input or use of funds is determined.
+
+- (Lamers, 2018, p. 161) Based on the concept, input or use is determined based on the objectives. Output, in turn, depends on process efficiency (efficiency of administrative action).
+
+- The output, in turn, depends on process efficiency (efficiency of administrative action), but after the NPM, the effects (outcome) on the citizen (customers) are seen as decisive.
+
+- However, according to the NPM, the effects ("outcome") of the citizen ("customers") are seen as decisive. If the desired effects are not achieved, an adjustment or change of the political objectives is required and the process must be re-examined.
+
+- If the desired effects are not achieved, it is necessary to adapt or change the political objectives and the process must be re-examined. (Lamers, 2018, p. 161) One of the core principles of the NPM is the following: Controlling as a management tool 5 "It is not only important to do things right, but above all it is important to do the right things.
+
+- (Lamers, 2018, p. 161) One of the core principles of the NPM is the following: Controlling as a management tool 5 "It is not only important to do things right, but above all it is important to do the right things. Therefore, costs and services should always be weighed (efficiency) and the effectiveness of the recipient of the performance regularly checked (effectivity). A mere optimization of the structure and process organization and the economic use of resources alone is therefore not objective, because "if wrong things are done efficiently, waste of money is reduced but not avoided." (Lamers, 2018, p. 161) As a link between the determination of the goal and the implementation of the budget process, in which the performance of the resources to be provided is agreed.
+
+- A mere optimization of the structure and process organization and the economic use of resources alone is therefore not objective, because "if wrong things are done efficiently, waste of money is reduced, but not avoided." (Lamers, 2018, p. 161) As a link of a measure in the sense of contract management, there is between the determination of objectives and the implementation of the budget process, in which the performance to be achieved is agreed as a contribution to the resources provided. Subsequently, the analysis of the effects achieved, which may have repercussions on the targets, is carried out.
+
+- This is followed by an analysis of the effects achieved, which may have repercussions on the targets. New control models can therefore also be presented as a cycle ("regulatory cycle" – PDCA cycle) (Mundhenke, 1996, p. 5).
+
+- New control models can therefore also be presented as a cycle (Mundhenke, 1996, p. 5). All steps are accompanied by a control-ling process, as shown in Figure 2.
+
+- All steps are accompanied by a controlling process, as shown in Figure 2. (Lamers, 2018, pp. 162–163) Figure 2: Control circuit – PDCA cycle – Based on (Mundhenke, 1996) Figure 1: Three-E concept – based on (Mundhenke, 2003, p. 7) after (Budäus, 1999) Controlling as a management tool 6 The approach of the new control models works with a number of instruments that are necessary for the introduction, implementation and further development.
+
+- (Lamers, 2018, pp. 162–163) Figure 2: Control cycle – PDCA cycle – Based on (Mundhenke, 1996) Figure 1: Three-E concept – based on (Mundhenke, 2003, p. 7) according to (Budäus, 1999) Controlling as a management tool 6 The approach of the new control models works with a number of instruments required for the introduction, implementation and further development. (Busch, 2004, p. 111), (Lamers, 2018, p. 163) These instruments include: - mission statement – for identification with the common task, - target agreement – as a binding definition of the framework conditions, - budgeting – self-responsible use of resources by the authority, - decentralisation – decision decentralised, in the subordinated area, - reform of the accounting system – i.e.
+
+- (Busch, 2004, p. 111), (Lamers, 2018, p. 163) These instruments include: - mission statement – for identification with the common task, - target agreement – as a binding definition of the framework conditions, - budgeting – self-responsible use of resources by the authority, - decentralisation – decision decentralised, in the subordinate area, - reform of accounting – usually introduction Doppik, - cost and performance calculation (KLR) – creation of product catalogues, - controlling – provides information for forward-looking decisions, - quality management – introduction of QM system for quality assurance, - continuous improvement process – e.g. suggestions for improvement, - customer citizen surveys – evaluation of performance, - employee surveys – provide information on the "business climate" –.
+
+- R. Introduction Doppik, - Cost and Performance Accounting (KLR) – Creation of product catalogs, - Controlling – Brings information for forward-looking decisions, - Quality Management – Introduction QM system for quality assurance, - Continuous improvement process – e.g. suggestions for improvement, - Customer citizen surveys – Evaluation of performance, - Employee surveys – provide information on the "operational climate". (Lamers, 2018, pp. 163–167) Meanwhile, the approaches of the NSM/NPM have also established themselves in federal and state administrations.
+
+- (Lamers, 2018, pp. 163–167) In the meantime, the approaches of the NSM/NPM have also established themselves in federal and state administrations. While in some cases only certain instruments, such as the formation of product budgets, evaluation and quality management, are used, an overall concept was introduced in the federal state of Hesse, which is comparatively consistent with the concept of modern and impact-oriented management based on the model of Switzerland.
+
+- While in some cases only certain instruments, such as the formation of product budgets, evaluation and quality management are being used, an overall concept was introduced in the federal state of Hesse, which corresponds comparatively consistently to the concept of modern and impact-oriented management according to the model of Switzerland. (Krems, 2014) Analogous to private law-organised companies, certifications according to the quality management standards of DIN EN ISO 9001 are gradually carried out in the public sector.
+
+- (Krems, 2014) Similar to companies organised under private law, certifications according to the quality management standards of DIN EN ISO 9001 are gradually being carried out in the public sector. (DIN EN ISO 9001:2015-11:2015) In the field of education and training, some of the certifications already take place in state institutions on the basis of DIN ISO 29990, which defines the "basic requirements for learning services" and, in contrast to DIN EN ISO 9001, aims at quality management of educational services in terms of content itself and thus considers aspects such as quality of service and sustainable benefits for the customer and client (employer).
+
+- (DIN EN ISO 9001:2015-11:2015) In the field of education and training, some of the certifications already take place in state institutions on the basis of DIN ISO 29990, which defines the "basic requirements for learning services" and, in contrast to DIN EN ISO 9001, aims at quality management of education services itself and thus considers aspects such as quality of service and sustainable benefits for the customer and client (employer). (DIN ISO 29990:2010-12:2010)
+

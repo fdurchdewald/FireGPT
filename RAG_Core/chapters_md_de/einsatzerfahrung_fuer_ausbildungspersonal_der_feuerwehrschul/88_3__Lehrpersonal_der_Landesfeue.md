@@ -1,0 +1,8 @@
+# 3. Lehrpersonal der Landesfeuerwehrschulen - Autodidakten oder Fachlehrer? (Markus Arich, 2019)
+
+- Die Datenbanken/Suchdienste 2 bis 5 nach der Liste aus Kapitel 3.1 des Teil II dieser Facharbeit wurden  auf folgende Begriffe sowie Kombinationen dieser Begriffe durchsucht:  •  Erfahrung  •  Einsatzerfahrung  •  Praxis  •  Ausbilder  •  Lehrkraft  •  Lehrpersonal  •  Lehrer  •  Ausbildungspersonal  •  Feuerwehrschule  •  Landesfeuerwehrschule  •  Austausch  •  Kooperation  •  Abordnung  Je nach Datenbank/Suchdienst und Begriff bzw. Kombination der Begriffe wurden mehrere  Suchergebnisse gefunden. Nach einer ausführlichen Durchsicht der Suchergebnisse konnte jedoch  festgestellt werden, dass keines der Ergebnisse direkten Bezug zu den Forschungsfragen und dem  Arbeitsauftrag dieser Facharbeit hatte.
+
+- Nach einer ausführlichen Durchsicht der Suchergebnisse konnte jedoch  festgestellt werden, dass keines der Ergebnisse direkten Bezug zu den Forschungsfragen und dem  Arbeitsauftrag dieser Facharbeit hatte. Zusätzlich wurde über den Suchdienst „Google Scholar“ das Buch von Herrn Porst aufgefunden, dessen  Inhalt für den Autor die wesentliche Grundlage für die Erstellung der Umfrage darstellte.
+
+- Zusätzlich wurde über den Suchdienst „Google Scholar“ das Buch von Herrn Porst aufgefunden, dessen  Inhalt für den Autor die wesentliche Grundlage für die Erstellung der Umfrage darstellte. Die Literaturrecherche in den juristischen Kommentaren zu den Besoldungsgesetzen der Bundesländer in  Beck-Online führte zum Auffinden der Literatur von Schwegmann et al., welche zur Definition des  Ausdruckes „Tätigkeit im Einsatzdienst“ herangezogen wurde.
+

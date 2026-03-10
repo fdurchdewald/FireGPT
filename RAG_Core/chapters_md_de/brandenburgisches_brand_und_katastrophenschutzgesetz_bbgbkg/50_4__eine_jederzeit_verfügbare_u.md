@@ -1,0 +1,18 @@
+# 4. eine jederzeit verfügbare und gegen Missbrauch geschützte Verbindung zur zuständigen
+
+- Leitstelle einzurichten und zu unterhalten. (2) Die Herstellung, Verarbeitung und Lagerung von Sachen und Stoffen mit einer besonderen Gefährlichkeit im Sinne von Absatz 1 Satz 1 und das Erfordernis, im Falle von Bränden besondere Löschmittel einzusetzen, sind dem Träger des örtlichen Brandschutzes unverzüglich anzuzeigen.
+
+- (2) Die Herstellung, Verarbeitung und Lagerung von Sachen und Stoffen mit einer besonderen Gefährlichkeit im Sinne von Absatz 1 Satz 1 und das Erfordernis, im Falle von Bränden besondere Löschmittel einzusetzen, sind dem Träger des örtlichen Brandschutzes unverzüglich anzuzeigen. § 15 Unterstützungspflichten der Eigentümer und Besitzer von Grundstücken (1) Eigentümer, Besitzer oder sonstige Nutzungsberechtigte von Grundstücken und baulichen Anlagen sind verpflichtet, im Gefahrenfalle den Einsatzkräften der Feuerwehr und des Katastrophenschutzes den Zutritt zu gestatten, soweit andere Rechtsvorschriften dem nicht entgegenstehen.
+
+- § 15 Unterstützungspflichten der Eigentümer und Besitzer von Grundstücken (1) Eigentümer, Besitzer oder sonstige Nutzungsberechtigte von Grundstücken und baulichen Anlagen sind verpflichtet, im Gefahrenfalle den Einsatzkräften der Feuerwehr und des Katastrophenschutzes den Zutritt zu gestatten, soweit andere Rechtsvorschriften dem nicht entgegenstehen. Sie haben Löschmittelvorräte, die sich in ihrem Besitz befinden oder auf ihrem Grundstück gewonnen werden können, für den Einsatz zur Verfügung zu stellen.
+
+- Sie haben Löschmittelvorräte, die sich in ihrem Besitz befinden oder auf ihrem Grundstück gewonnen werden können, für den Einsatz zur Verfügung zu stellen. Sie haben die von der Gesamtführung oder der Einsatzleitung angeordneten Maßnahmen zu dulden, insbesondere die Räumung des Grundstückes, die Beseitigung von Gebäuden, Gebäudeteilen, Anlagen, Einfriedungen und Pflanzen oder die Errichtung von baulichen Anlagen, die für die Gefahrenabwehr erforderlich sind.
+
+- Sie haben die von der Gesamtführung oder der Einsatzleitung angeordneten Maßnahmen zu dulden, insbesondere die Räumung des Grundstückes, die Beseitigung von Gebäuden, Gebäudeteilen, Anlagen, Einfriedungen und Pflanzen oder die Errichtung von baulichen Anlagen, die für die Gefahrenabwehr erforderlich sind. (2) Die Verpflichtungen nach Absatz 1 obliegen auch den Eigentümern, Besitzern oder sonstigen Nutzungsberechtigten der in der Nähe der Einsatzstelle gelegenen Grundstücke und baulichen Anlagen.
+
+- (2) Die Verpflichtungen nach Absatz 1 obliegen auch den Eigentümern, Besitzern oder sonstigen Nutzungsberechtigten der in der Nähe der Einsatzstelle gelegenen Grundstücke und baulichen Anlagen. (3) Maßnahmen nach den Absätzen 1 und 2 dürfen nicht zu Schäden führen, die erkennbar außer Verhältnis zu dem beabsichtigten Erfolg stehen.
+
+- (3) Maßnahmen nach den Absätzen 1 und 2 dürfen nicht zu Schäden führen, die erkennbar außer Verhältnis zu dem beabsichtigten Erfolg stehen. (4) Eigentümer, Besitzer oder sonstige Nutzungsberechtigte von Grundstücken und baulichen Anlagen sind verpflichtet, das Anbringen von Alarm- und Warneinrichtungen sowie Hinweisschildern für Zwecke des Brandschutzes, der Hilfeleistung und des Katastrophenschutzes entschädigungslos zu dulden.
+
+- (4) Eigentümer, Besitzer oder sonstige Nutzungsberechtigte von Grundstücken und baulichen Anlagen sind verpflichtet, das Anbringen von Alarm- und Warneinrichtungen sowie Hinweisschildern für Zwecke des Brandschutzes, der Hilfeleistung und des Katastrophenschutzes entschädigungslos zu dulden. § 16 Einschränkung von Grundrechten Durch den Vollzug dieses Gesetzes können die Grundrechte auf
+

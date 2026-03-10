@@ -1,0 +1,18 @@
+# 6.4  Einsatztaktik
+
+- Fig. 6.12: Wound strips in the forest [2] If necessary, post-processing with hand tools is necessary. Basically, the combination of the use of different equipment (machine-operated equipment and hand tools) must be taken into account during the planning process.
+
+- In principle, the combination of the use of various equipment (machine-operated equipment and hand tools) must be taken into account in the planning process. The following approach has proven to be successful in the creation of wound strips:9 , creating a line (guidance and wound strips) which is gradually broadened , creating a wall, whereby the delayed, flammable material is located on the side turned away from the fire , establishing a temporary road behind the suspended wall for the removal of the fire snow , selecting suitable vehicles (off-road) for driving the makeshift road with self-help equipment (e.g. towing rope, motor chain saw) In order to support the creation of snow and wound strips, the authorities/organisations can also be consulted on the basis of the forest and vegetation fire fighting equipment (e.g. towing rope, motor chain saw).
+
+- The following procedure has proven itself in the creation of wound strips:9 , creating a line (line and wound strips), which is gradually widened , creating a wall, whereby the delayed, flammable material lies on the side turned away from the fire , establishing a temporary road behind the pushed wall to reduce the fire snow , selecting suitable vehicles (off-road) to drive the temporary road with equipment for self-help (e.g. towing rope, chain saw) To support the creation of snowcuts and wound strips, the authorities/organisations can also be consulted, such as: 9 Vgl. [11] 6 Basics of forest and vegetation fire fighting 49 , THW units with e.g. clearing machine , forest or agricultural equipment from land owners or forest owners , such as: 9 Vgl. [11] 6 Basics of forest and vegetation fire fighting 49 , THW units with e.g. clearing device , or agricultural equipment of land or forest owners , respectively, mountain and space tanks of the Bundeswehr , machines of external companies (e. B. Harvester or Planier) are not able to clarify the legal questions in this case.
+
+- Usually the companies and their insurance companies will not pay for any damage to the equipment. For this also a cost assumption by the municipality or the district is required.
+
+- 6.4.1.3 Protective strips In contrast to the previously mentioned snowcuts and wound strips, the vegetation remains untouched in protective strips.
+
+- 6.4.1.3 Protective strips In contrast to the previously mentioned cut irons and wound strips, the vegetation remains untouched in protective strips. By continuous watering or foaming, the vegetation is moistened so strongly that it is only flammable.
+
+- The vegetation is moistened to such an extent that it is not flammable. For protective strips, the following must be observed: - Effective to prevent the spread of a ground fire - At least 50 cm wide barrier (medium foam) - Keep in mind!
+
+- For protective strips the following must be observed: - Effective to prevent the spread of a ground fire - Minimum 50 cm wide barrier (medium foam) - Stand by! - Surfaces in wind direction should be monitored (deletion readiness) - Fires can spread in the ground (moor), constant control behind the foam barrier is necessary - Use of foam as a netting agent is to be clarified with the forest authority (and the Lower Water Authority), ideally already in the context of the application preparation - Do not underestimate the corresponding need for wetting agents, the measure is only effective with sufficient foam supply
+

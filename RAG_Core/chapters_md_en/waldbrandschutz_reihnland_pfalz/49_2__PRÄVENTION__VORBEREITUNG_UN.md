@@ -1,0 +1,30 @@
+# 2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+
+- i. Preventive measures in the event of rising forest fire-risk During the professional exchange at a fixed annual date – in the spring and even before the forest fire-time – the annual journey inventory, the topicality of the rescue points, the need for barrier keys, the identification of particularly fire-promoting forest parts or endangered installations on or in the forest (e.g. residential buildings, managed huts, industrial plants, drinking-water protected areas), the examination of the installation of hardwood bars or fires, known water collection points and repairs or new installations and, if necessary, their inclusion in maps or the accessibility at high forest fire-risks can be addressed.
+
+- Preventive measures in the event of rising forest fire-risk During the professional exchange at a fixed annual date – in spring and even before the forest fire-time – the annual inventory of paths, the topicality of the rescue points, the need for barrier keys, the identification of particularly fire-promoting forest parts or endangered installations on or in the forest (e.g. residential buildings, managed huts, industrial plants, drinking-water protected areas), the examination of the installation of hardwood bars or fires, known water sampling points and repairs or new installations and, if necessary, their inclusion in map-maternal or the accessibility at high forest fire-level are addressed.
+
+- As a general rule, location dates are necessary. As forest fire risks increase, the importance of preventive measures increases.
+
+- As forest fire risks increase, the importance of preventive measures increases. Some building blocks of the classic forest fire prevention are mentioned in the following: • Updating of the forest fire prevention strategy in the context of a service meeting (e.g. alarm-chain, alarm-plan, maps, approach, extinguishing water) • Contacting the rescue forces, sen-sitization for possibly.
+
+- Some building blocks of the classic forest fire prevention are mentioned in the following: • Updating of the forest fire prevention strategy in the context of a service meeting (e.g. alarm-chain, alarm-plan, maps, movement, extinguishing water) • Contacting the rescue forces, sen-sitization for possible forest fire operations, clarification of logistical questions • Organization of an alarm-plan and testing of the strategy within the framework of the exercises on the forest rescue chain • Information and education of the population plus targeted public relations work as soon as the forest-brand-hazard stage 4 is achieved for the first time (website forest fire risk.
+
+- Forest fire operations, clarification of logistical questions • Organization of an alarm plan and testing of the strategy within the framework of the forest rescue chain exercises • Information and education of the population plus targeted public relations work as soon as the forest fire hazard level 4 is reached for the first time (website waldbranddrand. wald.
+
+- Forest.
+
+- • Awareness-raising of private pilots to report forest fires from the air at an early stage • If necessary, ensure accessibility at weekends.
+
+- • Awareness-raising of private pilots to report forest fires from the air at an early stage • If necessary, ensure accessibility at the weekend. This regulation and design is the responsibility of the forest authorities.
+
+- This regulation and design is the responsibility of the forest authorities. • Regular control of particularly fire-prone facilities (grilling stations, rest areas), if necessary repair • From stage 4 closing of barbecue areas/no fire permit (forest office in association with regulatory authorities and fire brigade) • Ensuring a free path system and access to forests • Examination of the state of the water collection points (e.g. number, water quantity, approachability) • Intensified monitoring of forest areas • Increased exchange between forest and fire protection services, if applicable other competent authorities In exceptional cases: • Control courses/fire-guard towers, e.g. with a view to compliance and control of the regulations on fire/smoking in the forest or close to forest, in particular.
+
+- • Regular monitoring of particularly fire-prone facilities (grilling stations, rest areas), if necessary repair • From stage 4 closing of barbecue areas/no fire permit (forest office in association with regulatory authorities and fire brigade) • Ensuring a free system of roads and access to forests • Examination of the state of the water collection points (e.g. number, water quantity, approachability) • Intensified monitoring of forest areas • Increased exchange between forest and fire protection services, if applicable other competent authorities In exceptional cases: • Control corridors/fire-guard towers, e.g. with a view to compliance and control of the regulations on fire/smoking in the forest or near to forest, in particular on weekends and holidays in endangered forest complexes and weather conditions.
+
+- on weekends and holidays in endangered forest complexes and weather conditions. Forest properties not managed by state forests Rhineland-Palatinate are advised to do the same.
+
+- The same approach is advised not by state foresters in Rhineland-Palatinate. • Attaching information boards, signs or similar to selected forest sites (e.g. information panel on forest) • In consultation with regulatory authorities, share the blocking of facilities, paths or forests (Note: no legal basis for blocking according to LWaldG) • Air monitoring in individual cases and in justified exceptional situations (Contact via ZdF Ref.
+
+- • Installation of information boards, signs, etc. at selected forest sites (e.g. information panel on forest) • In consultation with regulatory authorities, share the blocking of facilities, paths or forests (Note: no legal basis for blocking according to LWaldG) • Air monitoring in individual cases and in justified exceptional situations (Contact via ZdF Ref. 4.2 Forest Protection) • Contact with the Bundeswehr and allier-en Armed Forces by MKUEM 37
+

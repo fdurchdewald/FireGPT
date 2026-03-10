@@ -1,0 +1,6 @@
+# 2. Führungsstaffel
+
+- Mannschaftstransport- wagen (MTW) Land 4 Führungsassistenten 1 Führungshilfskraft 1 Führungshilfskraft/Fah- rer Führungsunterstützungs- trupp Einsatzleitwagen 2 (ELW 2 mit Raum für ei- nen Führungsstab) Land 1 Führungsassistent 1 Führungshilfskraft 1 Führungshilfskraft/Fah- rer Erläuterungen: Fußnoten 1) Mannschaftsstärke in Zahlen für: Führer/Unterführer/Mannschaft/Gesamtstärke. 2) Land - Fahrzeug wird durch das Land bereitgestellt.
+
+- 2) Land - Fahrzeug wird durch das Land bereitgestellt. Anlage 18 (zu § 3 Abs. 1) Katastrophenschutz-Stab (KatS-Stab) - Seite 23 von 25 -  Landrat/Oberbürgermeister (politisch-gesamtverantwortliche Komponente)           Leiter des Verwaltungsstabes (administrativ-organisatorische Komponente)   Leiter des Führungsstabes (operativ-taktische Komponente) ereig- nis- spezi- fische Mit- glie- der ständige Mit- glieder Koordinie- rungsgruppe Stab - KGS ständige Mit- glieder ereig- nis- spezi- fische Mit- glieder   Sachgebiet S1 Sachgebiet S2 Sachgebiet S3 Sachgebiet S4 Sachgebiet S5 Sach- gebiet S6 intern intern     extern extern   Personal/ Innerer Dienst Lage Einsatz Versorgung Presse- und Medien- arbeit Informa- tions- und Kommu- nikations- wesen           Sichter/Botendienst/Melder/Erkunder/Fernmeldebetriebsstelle Fachberater/Verbindungspersonen - Seite 24 von 25 -    - Seite 25 von 25 -
+

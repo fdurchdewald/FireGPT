@@ -1,0 +1,720 @@
+# 1. September zurück nach Deutschland verlegt.
+
+- Tätigkeit Zeit in Stunden Vorbereitung 28:22 Flugzeit im Einsatzgebiet 47:00 Kontingentführung 345:40 Backoffice 77:25 Fahrdienst 35:18 Sonstiges 15:23 Summe 502:08 Tabelle: Der Einsatz der Löschflugzeugstaffel in Zahlen. (Quelle: Wickboldt) Klaus Wickboldt leitet das Referat Brandschutz im Niedersächsi­ schen Ministerium für Inneres und Sport stellvertretend.
+
+- (Quelle: Wickboldt) Klaus Wickboldt leitet das Referat Brandschutz im Niedersächsi­ schen Ministerium für Inneres und Sport stellvertretend. Abbildung 2: Einweisung der Einsatzkräfte in die Betankung am Boden.
+
+- Abbildung 2: Einweisung der Einsatzkräfte in die Betankung am Boden. (Quelle: NLBK)  13 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Wie internationale Hilfe  gelingen kann!
+
+- (Quelle: NLBK)  13 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Wie internationale Hilfe  gelingen kann! Internationale Aktivitäten hinsichtlich der Aufstellung eines Moduls  gemäß dem europäischen Katastrophenschutzverfahren Klaus Block Nach dem Moorbrand in Meppen (Niedersachsen) im Jahr  2018 und den Waldbränden im Land Brandenburg in den  Jahren 2018 und 2019 wurde im Arbeitskreis V der Innenmi­ nisterkonferenz die Arbeitsgruppe Nationaler Waldbrand­ schutz eingerichtet.
+
+- Internationale Aktivitäten hinsichtlich der Aufstellung eines Moduls  gemäß dem europäischen Katastrophenschutzverfahren Klaus Block Nach dem Moorbrand in Meppen (Niedersachsen) im Jahr  2018 und den Waldbränden im Land Brandenburg in den  Jahren 2018 und 2019 wurde im Arbeitskreis V der Innenmi­ nisterkonferenz die Arbeitsgruppe Nationaler Waldbrand­ schutz eingerichtet. In dieser Arbeitsgruppe wurden Maß­ nahmen zur Verbesserung der Vegetationsbrandbekämp­ fung erarbeitet.
+
+- In dieser Arbeitsgruppe wurden Maß­ nahmen zur Verbesserung der Vegetationsbrandbekämp­ fung erarbeitet. Diese umfassen nicht ausschließlich Belan­ ge der Gefahrenabwehr, sondern auch  der Prävention und des Umgangs mit  kampfmittelbelasteten Flächen.
+
+- Diese umfassen nicht ausschließlich Belan­ ge der Gefahrenabwehr, sondern auch  der Prävention und des Umgangs mit  kampfmittelbelasteten Flächen. Aufgrund der europaweit wachsen­ den Waldbrandgefahren sind in den  vergangenen Jahren Hilfeleistungser­ suche an die Bundesrepublik Deutsch­ land gerichtet worden, die nicht oder  noch nicht nach dem standardisier­ ten Verfahren des EU-Katastrophen­ schutzmechanismus beantwortet wer­ den konnten.
+
+- Aufgrund der europaweit wachsen­ den Waldbrandgefahren sind in den  vergangenen Jahren Hilfeleistungser­ suche an die Bundesrepublik Deutsch­ land gerichtet worden, die nicht oder  noch nicht nach dem standardisier­ ten Verfahren des EU-Katastrophen­ schutzmechanismus beantwortet wer­ den konnten. Zur größeren nationalen  und internationalen Vereinheitlichung der Einheiten wurde  in der Arbeitsgruppe Nationaler Waldbrandschutz beschlos­ sen, dass eine Arbeitsgruppe sich mit der Definition der An­ forderungen befassen soll.
+
+- Zur größeren nationalen  und internationalen Vereinheitlichung der Einheiten wurde  in der Arbeitsgruppe Nationaler Waldbrandschutz beschlos­ sen, dass eine Arbeitsgruppe sich mit der Definition der An­ forderungen befassen soll. Ziel war es, ein Konzept zu erstel­ len, sodass mit den Kapazitäten der deutschen Feuerwehren  die Anforderungen an das Modul erfüllt werden und dabei  gleichzeitig die unterschiedlichen Module aus den Ländern  eine größtmögliche Vergleichbarkeit besitzen.
+
+- Ziel war es, ein Konzept zu erstel­ len, sodass mit den Kapazitäten der deutschen Feuerwehren  die Anforderungen an das Modul erfüllt werden und dabei  gleichzeitig die unterschiedlichen Module aus den Ländern  eine größtmögliche Vergleichbarkeit besitzen. Auch wenn  die Module sich aus den Katastrophenschutzeinheiten der  Länder zusammenstellen, werden die Module im Auftrag  der Bundesrepublik Deutschland tätig und repräsentieren  diese.
+
+- Auch wenn  die Module sich aus den Katastrophenschutzeinheiten der  Länder zusammenstellen, werden die Module im Auftrag  der Bundesrepublik Deutschland tätig und repräsentieren  diese. Auf Initiative der Stadt Bonn und mit Unterstützung des  Landes Nordrhein-Westfalen wurde das erste Modul nach  dem Standard des Ground Forest Fire Fighting using vehic­ les (GFFF-V) aus den Städten Bonn, Leverkusen und Königs­ winter im Jahr 2019 aufgestellt.
+
+- Auf Initiative der Stadt Bonn und mit Unterstützung des  Landes Nordrhein-Westfalen wurde das erste Modul nach  dem Standard des Ground Forest Fire Fighting using vehic­ les (GFFF-V) aus den Städten Bonn, Leverkusen und Königs­ winter im Jahr 2019 aufgestellt. (Ausführlicher Bericht dazu  auf S. 32) In der Decision 2014/762/EU vom 16. Oktober 2014 sind  unter anderem in der Anlage II die unterschiedlichen Mo­ dule des EU-Katastrophenschutzmechanismus beschrieben.
+
+- (Ausführlicher Bericht dazu  auf S. 32) In der Decision 2014/762/EU vom 16. Oktober 2014 sind  unter anderem in der Anlage II die unterschiedlichen Mo­ dule des EU-Katastrophenschutzmechanismus beschrieben. Diese Beschreibung ist recht rudimentär gestaltet.
+
+- Diese Beschreibung ist recht rudimentär gestaltet. Die vie­ len möglichen Freiheitsgrade sollen bundesweit so weit ein­ gegrenzt werden, dass die Module aus der Bundesrepublik  Deutschland vergleichbar sind und sich gegebenenfalls in­ tern ablösen können, ohne dass es große qualitative und  quantitative Unterschiede gibt.
+
+- Die vie­ len möglichen Freiheitsgrade sollen bundesweit so weit ein­ gegrenzt werden, dass die Module aus der Bundesrepublik  Deutschland vergleichbar sind und sich gegebenenfalls in­ tern ablösen können, ohne dass es große qualitative und  quantitative Unterschiede gibt. Die Anforderung an die Einheit ist, dass es ausreichen­ de Ressourcen von Einsatzkräften und Fahrzeugen zum  kontinuierlichen Betrieb mit mindestens 20 Einsatzkräften  gleichzeitig gibt.
+
+- Die Anforderung an die Einheit ist, dass es ausreichen­ de Ressourcen von Einsatzkräften und Fahrzeugen zum  kontinuierlichen Betrieb mit mindestens 20 Einsatzkräften  gleichzeitig gibt. Hierzu sind seitens der EU die Hauptbe­ standteile mit •	 für die Aufgabe ausgebildete und trainierte Einsatzkräfte, •	 vier geländefähige Fahrzeuge mit Löschmittelbehälter  mit mindestens 2.000 l Tankinhalt und •	 Übergangsstücke für Schlauchleitungen inklusive  STORZ-Standard beschrieben.
+
+- Hierzu sind seitens der EU die Hauptbe­ standteile mit •	 für die Aufgabe ausgebildete und trainierte Einsatzkräfte, •	 vier geländefähige Fahrzeuge mit Löschmittelbehälter  mit mindestens 2.000 l Tankinhalt und •	 Übergangsstücke für Schlauchleitungen inklusive  STORZ-Standard beschrieben. Diese Vorgaben lassen noch erhebliche Möglichkeiten  zur individuellen Ausgestaltung zu.
+
+- Diese Vorgaben lassen noch erhebliche Möglichkeiten  zur individuellen Ausgestaltung zu. Die Einheiten gehen als  Einheiten der Bundesrepublik Deutschland in den Einsatz  und sollten sich am besten so ergänzen, dass aus der gesam­ ten Bundesrepublik die Einheiten auch zusammengestellt  werden könnten.
+
+- Die Einheiten gehen als  Einheiten der Bundesrepublik Deutschland in den Einsatz  und sollten sich am besten so ergänzen, dass aus der gesam­ ten Bundesrepublik die Einheiten auch zusammengestellt  werden könnten. Zumindest muss eine personelle Ablösung  ohne Qualitätsverlust möglich sein.
+
+- Zumindest muss eine personelle Ablösung  ohne Qualitätsverlust möglich sein. In einer Unterarbeits­ gruppe des AK Nationaler Waldbrandschutz haben sich die  Länder untereinander abgestimmt, um die Freiheiten zu  vereinheitlichen.
+
+- In einer Unterarbeits­ gruppe des AK Nationaler Waldbrandschutz haben sich die  Länder untereinander abgestimmt, um die Freiheiten zu  vereinheitlichen. Neben Nordrhein-Westfalen haben die Länder Nieder­ sachsen, Bayern, Baden-Württemberg, Thüringen, Sachsen- Anhalt, Hessen und Sachsen generelles Interesse an der Auf­ stellung von Modulen bekundet.
+
+- Neben Nordrhein-Westfalen haben die Länder Nieder­ sachsen, Bayern, Baden-Württemberg, Thüringen, Sachsen- Anhalt, Hessen und Sachsen generelles Interesse an der Auf­ stellung von Modulen bekundet. Hierbei sind auch Koopera­ tionen von Ländern möglich.
+
+- Hierbei sind auch Koopera­ tionen von Ländern möglich. Das Modul sollte aus Sicht der Unterarbeitsgruppe mit  Zweischicht-Betrieb ca. 60 Personen und 22 Fahrzeuge um­ fassen, wobei 40 Einsatzkräfte nach Vorgaben der EU für  die Brandbekämpfung vorgesehen sind.
+
+- Das Modul sollte aus Sicht der Unterarbeitsgruppe mit  Zweischicht-Betrieb ca. 60 Personen und 22 Fahrzeuge um­ fassen, wobei 40 Einsatzkräfte nach Vorgaben der EU für  die Brandbekämpfung vorgesehen sind. Für die Planun­ gen ist vorzusehen, dass ein Personalfaktor von mindestens  fünf angesetzt werden sollte, da die Einsätze in der Haupt­ urlaubszeit anstehen dürften.
+
+- Für die Planun­ gen ist vorzusehen, dass ein Personalfaktor von mindestens  fünf angesetzt werden sollte, da die Einsätze in der Haupt­ urlaubszeit anstehen dürften. Die Erfahrungen haben ge­ zeigt, dass dieser Personalansatz unbedingt notwendig ist.
+
+- Die Erfahrungen haben ge­ zeigt, dass dieser Personalansatz unbedingt notwendig ist. Die Sommermonate bringen es mit sich, dass einerseits vie­ le Einsatzkräfte aufgrund von eigenem Urlaub unabkömm­ lich sind, zudem sorgt dies dafür, dass die, die zu Hause sind,  von ihrem Arbeitsplatz unabkömmlich sind.
+
+- Die Sommermonate bringen es mit sich, dass einerseits vie­ le Einsatzkräfte aufgrund von eigenem Urlaub unabkömm­ lich sind, zudem sorgt dies dafür, dass die, die zu Hause sind,  von ihrem Arbeitsplatz unabkömmlich sind. Für kurzfristige  Abbildung 1: Wap­ pen der GFFF-V DE1.
+
+- Für kurzfristige  Abbildung 1: Wap­ pen der GFFF-V DE1. (Quelle: BBK)  14 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Feuerwehreinsätze in der eigenen Ge­ meinde stellt dies weniger ein Problem  dar.
+
+- (Quelle: BBK)  14 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Feuerwehreinsätze in der eigenen Ge­ meinde stellt dies weniger ein Problem  dar. Ein zweiwöchiger Auslandseinsatz  ist oftmals jedoch nicht möglich.
+
+- Ein zweiwöchiger Auslandseinsatz  ist oftmals jedoch nicht möglich. Das  Modul besteht aus den drei Bereichen  Führung, Brandbekämpfung und Lo­ gistik.
+
+- Das  Modul besteht aus den drei Bereichen  Führung, Brandbekämpfung und Lo­ gistik. Aufgrund des Auslandseinsatzes ist  in der Führung, obwohl das Modul tak­ tisch gesehen die Größe eines Zuges  hat, auf die Qualifikation Verbandsfüh­ rer abgehoben.
+
+- Aufgrund des Auslandseinsatzes ist  in der Führung, obwohl das Modul tak­ tisch gesehen die Größe eines Zuges  hat, auf die Qualifikation Verbandsfüh­ rer abgehoben. Die Aufgaben, die die­ se Führung hat, entspricht eher denen  einer Verbandsführung.
+
+- Die Aufgaben, die die­ se Führung hat, entspricht eher denen  einer Verbandsführung. Als insgesamt  problematisch könnte sich noch die  notwendige Qualifizierung des Perso­ nals im Rahmen des EU-KatS-Mecha­ nismus erweisen, weil im Bereich der  Feuerwehr hier noch Lücken bestehen  und die Vergabe der Lehrgänge nicht immer nachvollzieh­ bar ist.
+
+- Als insgesamt  problematisch könnte sich noch die  notwendige Qualifizierung des Perso­ nals im Rahmen des EU-KatS-Mecha­ nismus erweisen, weil im Bereich der  Feuerwehr hier noch Lücken bestehen  und die Vergabe der Lehrgänge nicht immer nachvollzieh­ bar ist. Die Brandbekämpfung ist, in personeller Hinsicht,  durch die Vorgaben ausreichend beschrieben.
+
+- Die Brandbekämpfung ist, in personeller Hinsicht,  durch die Vorgaben ausreichend beschrieben. Hier sind pro  Schicht 20 Einsatzkräfte notwendig.
+
+- Hier sind pro  Schicht 20 Einsatzkräfte notwendig. Die Logistik ist vermutlich das größte Problem, weil hier  viele Details zu betrachten sind.
+
+- Die Logistik ist vermutlich das größte Problem, weil hier  viele Details zu betrachten sind. Einig sind sich alle, dass in  der Logistik auch alle Einsatzkräfte mitarbeiten müssen.
+
+- Einig sind sich alle, dass in  der Logistik auch alle Einsatzkräfte mitarbeiten müssen. Ein  derartiger Auslandseinsatz kann kein Rundum-sorglos-Pa­ ket bieten und ist immer mit Einschränkungen verbun­ den.
+
+- Ein  derartiger Auslandseinsatz kann kein Rundum-sorglos-Pa­ ket bieten und ist immer mit Einschränkungen verbun­ den. In diesem Teilbereich dürfte es in den Ländern auch die  größten Unterschiede geben, weil die vorhandenen Mög­ lichkeiten verschieden sind.
+
+- In diesem Teilbereich dürfte es in den Ländern auch die  größten Unterschiede geben, weil die vorhandenen Mög­ lichkeiten verschieden sind. Die Erfahrungen nach diver­ sen Einsätzen und Übungen werden einen größeren Anpas­ sungsbedarf bewirken.
+
+- Die Erfahrungen nach diver­ sen Einsätzen und Übungen werden einen größeren Anpas­ sungsbedarf bewirken. Bei den technischen Beschreibungen werden Anfor­ derungen an die Fahrzeuge beschrieben.
+
+- Bei den technischen Beschreibungen werden Anfor­ derungen an die Fahrzeuge beschrieben. Hier sind die  Fahrzeugklassen, Einsatzleitwagen 1, Kommandowagen,  Tanklöschfahrzeug, Löschgruppenfahrzeug für den Katas­ trophenschutz, Mannschaftstransportwagen und Logistik­ fahrzeug aufgeführt.
+
+- Hier sind die  Fahrzeugklassen, Einsatzleitwagen 1, Kommandowagen,  Tanklöschfahrzeug, Löschgruppenfahrzeug für den Katas­ trophenschutz, Mannschaftstransportwagen und Logistik­ fahrzeug aufgeführt. Es werden in Abhängigkeit von der  Aufgabe der Fahrzeuge unterschiedliche Anforderungen an  die Geländetauglichkeit gestellt.
+
+- Es werden in Abhängigkeit von der  Aufgabe der Fahrzeuge unterschiedliche Anforderungen an  die Geländetauglichkeit gestellt. Wichtig ist für jede Einsatzkraft, dass eine grundlegende  körperliche Eignung und Fitness vorhanden sind.
+
+- Wichtig ist für jede Einsatzkraft, dass eine grundlegende  körperliche Eignung und Fitness vorhanden sind. Wichtig  ist auch eine Vorbereitung auf den Auslandseinsatz, sowohl  bezüglich auf das taktische Vorgehen als auch auf die per­ sönlichen Voraussetzungen.
+
+- Wichtig  ist auch eine Vorbereitung auf den Auslandseinsatz, sowohl  bezüglich auf das taktische Vorgehen als auch auf die per­ sönlichen Voraussetzungen. Die in den Einsatz gebrachten  Einsatzkräfte müssen auf diese Art des Einsatzes vorbereitet  sein.
+
+- Die in den Einsatz gebrachten  Einsatzkräfte müssen auf diese Art des Einsatzes vorbereitet  sein. Da hier die grundlegenden Ausbildungsinhalte noch  nicht beschrieben sind, sind seitens der Länder NRW und  Niedersachsen in Kooperation mit dem Bundesamt für  Bevöl kerungsschutz und Katastrophenhilfe (BBK) Pilot­ lehrgänge konzipiert worden.
+
+- Da hier die grundlegenden Ausbildungsinhalte noch  nicht beschrieben sind, sind seitens der Länder NRW und  Niedersachsen in Kooperation mit dem Bundesamt für  Bevöl kerungsschutz und Katastrophenhilfe (BBK) Pilot­ lehrgänge konzipiert worden. (Ausführlicher Bericht dazu  ab S. 27) Die Inhalte werden in der nächsten Zeit zusammenge­ tragen.
+
+- (Ausführlicher Bericht dazu  ab S. 27) Die Inhalte werden in der nächsten Zeit zusammenge­ tragen. Über die weitere Einbindung in das Konzept muss  noch gesprochen werden.
+
+- Über die weitere Einbindung in das Konzept muss  noch gesprochen werden. Wichtig ist auch eine notwendi­ ge, rückwärtige Führung.
+
+- Wichtig ist auch eine notwendi­ ge, rückwärtige Führung. Die Aufgaben dieser rückwärtigen  Führung sind beschrieben.
+
+- Die Aufgaben dieser rückwärtigen  Führung sind beschrieben. Ministerialrat Dr. Klaus Block ist stellvertretender Leiter des Refe­ rats Einsatz im Brand- und Katastrophenschutz, Inspektionen im  Ministerium des Innern des Landes Nordrhein-Westfalen.
+
+- Ministerialrat Dr. Klaus Block ist stellvertretender Leiter des Refe­ rats Einsatz im Brand- und Katastrophenschutz, Inspektionen im  Ministerium des Innern des Landes Nordrhein-Westfalen. Abbildung 2: Das GFFF-V-Modul auf dem Weg in einen Einsatzraum bei einer Übung im Jahr 2021.
+
+- Abbildung 2: Das GFFF-V-Modul auf dem Weg in einen Einsatzraum bei einer Übung im Jahr 2021. (Quelle: Feuerwehr Bonn) Abbildung 3: Die Base of Operation (BoO) des GFFF-V-Moduls als Anlaufstelle für alle  relevanten Informationen und als Heimat der Einsatzkräfte mit Verpflegung, Unter­ bringung etc. (Quelle: Feuerwehr Bonn)  15 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Ausbildung und Taktik  in der nationalen  Vegetationsbrandbekämpfung Klaus Wickboldt Vegetationsbrände sind eine in den letzten Jahren durch  verschiedene Randbedingungen (zum Beispiel Klimawan­ del, technischer Fortschritt in den Feuerwehren) stärker  in den Fokus gelangte Aufgabe der Feuerwehr.
+
+- (Quelle: Feuerwehr Bonn) Abbildung 3: Die Base of Operation (BoO) des GFFF-V-Moduls als Anlaufstelle für alle  relevanten Informationen und als Heimat der Einsatzkräfte mit Verpflegung, Unter­ bringung etc. (Quelle: Feuerwehr Bonn)  15 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Ausbildung und Taktik  in der nationalen  Vegetationsbrandbekämpfung Klaus Wickboldt Vegetationsbrände sind eine in den letzten Jahren durch  verschiedene Randbedingungen (zum Beispiel Klimawan­ del, technischer Fortschritt in den Feuerwehren) stärker  in den Fokus gelangte Aufgabe der Feuerwehr. Sie können  sich schnell und unkontrolliert ausbreiten und große Schä­ den verursachen.
+
+- Sie können  sich schnell und unkontrolliert ausbreiten und große Schä­ den verursachen. Für eine effektive Bekämpfung von Ve­ getationsbränden ist eine abgestimmte Taktik und Ausbil­ dung – für die Zusammenarbeit von Feuerwehren auch über  die Grenzen der Bundesländer hinweg – von entscheiden­ der Bedeutung und soll die Einsatzkräfte auf die besonderen  Gefahren und Herausforderungen dieser Einsätze vorberei­ ten.
+
+- Für eine effektive Bekämpfung von Ve­ getationsbränden ist eine abgestimmte Taktik und Ausbil­ dung – für die Zusammenarbeit von Feuerwehren auch über  die Grenzen der Bundesländer hinweg – von entscheiden­ der Bedeutung und soll die Einsatzkräfte auf die besonderen  Gefahren und Herausforderungen dieser Einsätze vorberei­ ten. Der Anschluss der deutschen Feuerwehren an „inter­ national good practice“ und die Anpassung an vorliegendes  internationales Wissen und Erfahrungen wird insbesondere  vor dem Hintergrund auch europäischer Einsätze deutscher  Feuerwehren immer wichtiger.
+
+- Der Anschluss der deutschen Feuerwehren an „inter­ national good practice“ und die Anpassung an vorliegendes  internationales Wissen und Erfahrungen wird insbesondere  vor dem Hintergrund auch europäischer Einsätze deutscher  Feuerwehren immer wichtiger. Die Unterarbeitsgruppe  (UAG) Ausbildung des AK Nationaler Waldbrandschutz hat  grundlegend die Harmonisierung der Ausbildung und Tak­ tik in der nationalen Vegetationsbrandbekämpfung erarbei­ tet.
+
+- Die Unterarbeitsgruppe  (UAG) Ausbildung des AK Nationaler Waldbrandschutz hat  grundlegend die Harmonisierung der Ausbildung und Tak­ tik in der nationalen Vegetationsbrandbekämpfung erarbei­ tet. Es werden wesentliche und an die Einsatzsituationen an­ gepasste Handlungs- und Ausbildungsempfehlungen aufge­ führt sowie Vorschläge zu technisch-taktischen Fähigkeiten  von Einsatzmitteln erstellt.
+
+- Es werden wesentliche und an die Einsatzsituationen an­ gepasste Handlungs- und Ausbildungsempfehlungen aufge­ führt sowie Vorschläge zu technisch-taktischen Fähigkeiten  von Einsatzmitteln erstellt. Um ein gemeinsames Verständnis zu haben, wurde eine ein­ heitliche Terminologie entwickelt: Einflussfaktoren Innerhalb Deutschlands gibt es erhebliche Unterschie­ de im Geländeprofil mit jeweils völlig unterschiedlicher Ve­ getation.
+
+- Um ein gemeinsames Verständnis zu haben, wurde eine ein­ heitliche Terminologie entwickelt: Einflussfaktoren Innerhalb Deutschlands gibt es erhebliche Unterschie­ de im Geländeprofil mit jeweils völlig unterschiedlicher Ve­ getation. Das Brennmaterial (Vegetation) wird beschrieben  durch Art, Form und Größe, Menge, Brennmaterialfeuch­ tigkeit und die Anordnung des Brennmaterials.
+
+- Das Brennmaterial (Vegetation) wird beschrieben  durch Art, Form und Größe, Menge, Brennmaterialfeuch­ tigkeit und die Anordnung des Brennmaterials. Das Wet­ ter beeinflusst mit Windrichtung, Windstärke, Temperatur  und Luftfeuchtigkeit das Feuerverhalten.
+
+- Das Wet­ ter beeinflusst mit Windrichtung, Windstärke, Temperatur  und Luftfeuchtigkeit das Feuerverhalten. Die Stabilität oder  Instabilität der Atmosphäre hat ebenfalls Einfluss auf die  Brandausbreitung ebenso wie die Topografie (Hangnei­ gung/Hangausrichtung).
+
+- Die Stabilität oder  Instabilität der Atmosphäre hat ebenfalls Einfluss auf die  Brandausbreitung ebenso wie die Topografie (Hangnei­ gung/Hangausrichtung). Eine sichere Bekämpfung von Ve­ getationsbränden erfordert von den Einsatzkräften, das  Feuerverhalten zu verstehen und zu beurteilen sowie die  Abbildung 1: Darstellung wichtiger Begriffe in der Vegetationsbrandbekämpfung.
+
+- Eine sichere Bekämpfung von Ve­ getationsbränden erfordert von den Einsatzkräften, das  Feuerverhalten zu verstehen und zu beurteilen sowie die  Abbildung 1: Darstellung wichtiger Begriffe in der Vegetationsbrandbekämpfung. (Quelle: Klaus Wickboldt)  16 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Wechselwirkungen der Einflussfaktoren untereinander si­ tuationsgerecht zu interpretieren.
+
+- (Quelle: Klaus Wickboldt)  16 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Wechselwirkungen der Einflussfaktoren untereinander si­ tuationsgerecht zu interpretieren. Dies bildet die Grundlage  für alle taktischen Entscheidungen und Sicherheitsmaßnah­ men bei der Vegetationsbrandbekämpfung.
+
+- Dies bildet die Grundlage  für alle taktischen Entscheidungen und Sicherheitsmaßnah­ men bei der Vegetationsbrandbekämpfung. Gefahren der Einsatzstelle und Sicherheit der Ein­ satzkräfte Die Gefahrenmatrix ist in der bekannten Struktur und in  der Ausprägung der jeweiligen Gefahr für die Vegetations­ brandbekämpfung anzuwenden.
+
+- Gefahren der Einsatzstelle und Sicherheit der Ein­ satzkräfte Die Gefahrenmatrix ist in der bekannten Struktur und in  der Ausprägung der jeweiligen Gefahr für die Vegetations­ brandbekämpfung anzuwenden. Die Sicherheit der Ein­ satzkräfte hat bei der Vegetationsbrandbekämpfung oberste  Priorität.
+
+- Die Sicherheit der Ein­ satzkräfte hat bei der Vegetationsbrandbekämpfung oberste  Priorität. Die präventiven Planungen und Umsetzungsmaß­ nahmen zur Gewährleistung der Sicherheit umfassen fol­ gende Schwerpunkte: •	 Abstellen von Fahrzeugen in Fluchtrichtung (ggf. rück­ wärts einfahren) und Standplatz sichern •	 Keine Nutzung von formstabilen Schnellangriffsein­ richtungen •	 Löschwasserreserve zum Eigenschutz vorhalten •	 Mindeststärke für einen im Gefahrenbereich ein­ gesetzten Trupp: 3 Einsatzkräfte •	 Bildung taktischer Reserven zur Unterstützung von Ein­ heiten, die sich in einer nicht kontrollierbaren Situation  befinden •	 lageangepasste Vorhaltung von Einheiten zur Eigen­ sicherung  •	 LACES beachten Die Sicherheitsregel LACES ist der bewährte Standard im  amerikanischen und südeuropäischen Bereich und ist im  Zusammenspiel mit den Feuerwehrdienstvorschriften auch  in Deutschland anzuwenden.
+
+- Die präventiven Planungen und Umsetzungsmaß­ nahmen zur Gewährleistung der Sicherheit umfassen fol­ gende Schwerpunkte: •	 Abstellen von Fahrzeugen in Fluchtrichtung (ggf. rück­ wärts einfahren) und Standplatz sichern •	 Keine Nutzung von formstabilen Schnellangriffsein­ richtungen •	 Löschwasserreserve zum Eigenschutz vorhalten •	 Mindeststärke für einen im Gefahrenbereich ein­ gesetzten Trupp: 3 Einsatzkräfte •	 Bildung taktischer Reserven zur Unterstützung von Ein­ heiten, die sich in einer nicht kontrollierbaren Situation  befinden •	 lageangepasste Vorhaltung von Einheiten zur Eigen­ sicherung  •	 LACES beachten Die Sicherheitsregel LACES ist der bewährte Standard im  amerikanischen und südeuropäischen Bereich und ist im  Zusammenspiel mit den Feuerwehrdienstvorschriften auch  in Deutschland anzuwenden. L – Lookout/s (Beobachter/Sicherheitsposten) Für jeden Einsatz ist unabhängig vom Lagebild mindes­ tens ein Beobachter abzustellen.
+
+- L – Lookout/s (Beobachter/Sicherheitsposten) Für jeden Einsatz ist unabhängig vom Lagebild mindes­ tens ein Beobachter abzustellen. Der Beobachter beteiligt  sich nicht an den Löscharbeiten, sein Augenmerk liegt  auf der Sicherheit der eingesetzten Kräfte und ist nicht  an eine feste Position gebunden.
+
+- Der Beobachter beteiligt  sich nicht an den Löscharbeiten, sein Augenmerk liegt  auf der Sicherheit der eingesetzten Kräfte und ist nicht  an eine feste Position gebunden. A – Anchorpoints (Ankerpunkte) Für alle Einsätze unabhängig vom Umfang ist die früh­ zeitige Definition von mindestens einem Ankerpunkt  unerlässlich.
+
+- A – Anchorpoints (Ankerpunkte) Für alle Einsätze unabhängig vom Umfang ist die früh­ zeitige Definition von mindestens einem Ankerpunkt  unerlässlich. Aufgabe eines Ankerpunktes ist es, einen  Bezugspunkt für die Einsatzkräfte zu schaffen, von dem  die Einsatzmaßnahmen sicher begonnen werden kön­ nen und der im Fall eines Rückzuges den Beginn eines si­ cheren Bereiches darstellen kann.
+
+- Aufgabe eines Ankerpunktes ist es, einen  Bezugspunkt für die Einsatzkräfte zu schaffen, von dem  die Einsatzmaßnahmen sicher begonnen werden kön­ nen und der im Fall eines Rückzuges den Beginn eines si­ cheren Bereiches darstellen kann. C – Communication (Kommunikation) Der richtige Gebrauch der Fachbegriffe bildet die Ba­ sis für ein gleiches Verständnis im Einsatz.
+
+- C – Communication (Kommunikation) Der richtige Gebrauch der Fachbegriffe bildet die Ba­ sis für ein gleiches Verständnis im Einsatz. Eine ständige  Kommunikationsmöglichkeit sei es durch Nutzung von  Funk (ggf. Mobiltelefon Führungskräfte) bis hinunter zur  einfachen Signalpfeife ist für alle Einsatzkräfte essenziell  und muss situationsgerecht angewandt werden können.
+
+- Eine ständige  Kommunikationsmöglichkeit sei es durch Nutzung von  Funk (ggf. Mobiltelefon Führungskräfte) bis hinunter zur  einfachen Signalpfeife ist für alle Einsatzkräfte essenziell  und muss situationsgerecht angewandt werden können. E – Escape Routes (Rückzugsweg/Rückweiche)  Auf festgelegten Rückzugswegen/Rückweichen wird ein  sicheres Verlassen des direkten Gefahrenbereiches auf  sicheren Wegen ermöglicht.
+
+- E – Escape Routes (Rückzugsweg/Rückweiche)  Auf festgelegten Rückzugswegen/Rückweichen wird ein  sicheres Verlassen des direkten Gefahrenbereiches auf  sicheren Wegen ermöglicht. Diese sind frühestmöglich  (Idealfall vor dem Einsatzbefehl zur direkten Brandbe­ kämpfung) im Einsatzverlauf zu erkunden, den Einsatz­ kräften vor Ort mitzuteilen und vor allem auch an nach­ rückende Einheiten zu kommunizieren.
+
+- Diese sind frühestmöglich  (Idealfall vor dem Einsatzbefehl zur direkten Brandbe­ kämpfung) im Einsatzverlauf zu erkunden, den Einsatz­ kräften vor Ort mitzuteilen und vor allem auch an nach­ rückende Einheiten zu kommunizieren. Im Verlauf des  Einsatzes sind die Escape Routes auch zu aktualisieren  bzw. an die Lage- und Bewegungsentwicklung der Ein­ heit sowie an den Verlauf und die Dynamik des Vegeta­ tionsbrandes (Windeinfluss, Funkenflug etc.) anzupassen.
+
+- Im Verlauf des  Einsatzes sind die Escape Routes auch zu aktualisieren  bzw. an die Lage- und Bewegungsentwicklung der Ein­ heit sowie an den Verlauf und die Dynamik des Vegeta­ tionsbrandes (Windeinfluss, Funkenflug etc.) anzupassen. S – Safety Zones (Sicherheitszone) Eine Safety Zone ist einzurichten, damit sich die Ein­ satzkräfte bei einer tatsächlichen Gefahr oder durch un­ erwartete Lageänderung zurückziehen können.
+
+- S – Safety Zones (Sicherheitszone) Eine Safety Zone ist einzurichten, damit sich die Ein­ satzkräfte bei einer tatsächlichen Gefahr oder durch un­ erwartete Lageänderung zurückziehen können. Dieser  Bereich bzw. dessen Umgebung (falls es sich z. B. um ein  festes Gebäude handelt) muss möglichst frei von brenn­ barem Material sein bzw. gemacht werden.
+
+- Dieser  Bereich bzw. dessen Umgebung (falls es sich z. B. um ein  festes Gebäude handelt) muss möglichst frei von brenn­ barem Material sein bzw. gemacht werden. Alle Einsatz­ kräfte sollten mit ihrer Ausrüstung (das können auch  Fahrzeuge sein) sicher Platz finden.
+
+- Alle Einsatz­ kräfte sollten mit ihrer Ausrüstung (das können auch  Fahrzeuge sein) sicher Platz finden. Bei Beachtung der Einsatzgrundsätze und der erarbei­ teten Hinweise für das Verhalten in Notsituationen kann  die Brandbekämpfung sicher durchgeführt werden.
+
+- Bei Beachtung der Einsatzgrundsätze und der erarbei­ teten Hinweise für das Verhalten in Notsituationen kann  die Brandbekämpfung sicher durchgeführt werden. Für die  Wahl der Einsatztaktik dienen Kontrollschwellen als Ent­ scheidungsgrundlage.
+
+- Für die  Wahl der Einsatztaktik dienen Kontrollschwellen als Ent­ scheidungsgrundlage. Diese orientieren sich an der Flam­ menlänge und dem Feuerverhalten.
+
+- Diese orientieren sich an der Flam­ menlänge und dem Feuerverhalten. Bei einer Flammenlän­ ge von mehr als 0,5 m ist ein Angriff auf die Front gefährlich  und bei mehr als 1,5 m zu unterlassen.
+
+- Bei einer Flammenlän­ ge von mehr als 0,5 m ist ein Angriff auf die Front gefährlich  und bei mehr als 1,5 m zu unterlassen. Bei einer Flammen­ länge von mehr als 3,5 m sind umfassende Verteidigungs­ maßnahmen zu planen und bei mehr als 8 m Flammenlän­ ge sind ausschließlich Verteidigungsmaßnahmen und bei  extremen Feuerverhalten der Rückzug zu veranlassen.
+
+- Bei einer Flammen­ länge von mehr als 3,5 m sind umfassende Verteidigungs­ maßnahmen zu planen und bei mehr als 8 m Flammenlän­ ge sind ausschließlich Verteidigungsmaßnahmen und bei  extremen Feuerverhalten der Rückzug zu veranlassen. Persönliche Schutzausrüstung (PSA) Den Gefahren, die bei der Vegetationsbrandbekämpfung  auf die Einsatzkräfte direkt oder indirekt einwirken, muss  mit einer geeigneten Schutzkleidung begegnet werden.
+
+- Persönliche Schutzausrüstung (PSA) Den Gefahren, die bei der Vegetationsbrandbekämpfung  auf die Einsatzkräfte direkt oder indirekt einwirken, muss  mit einer geeigneten Schutzkleidung begegnet werden. Die  geeignete PSA ist abhängig von den Witterungsbedingun­ gen, aber auch von der Einsatzhäufigkeit bzw. dem Spezia­ lisierungsgrad der jeweiligen Einheiten bzw. Einsatzkräfte.
+
+- Die  geeignete PSA ist abhängig von den Witterungsbedingun­ gen, aber auch von der Einsatzhäufigkeit bzw. dem Spezia­ lisierungsgrad der jeweiligen Einheiten bzw. Einsatzkräfte. Insbesondere in der wärmeren Jahreszeit bzw. für lange und  harte körperliche Arbeit sollte leichte PSA für die Brand­ bekämpfung im Freien oder gar spezialisierte PSA getragen  werden, um die Träger der PSA durch das Gewicht und die  „Wärme-Stauwirkung“ nicht zusätzlich zu belasten oder gar  zu gefährden.
+
+- Insbesondere in der wärmeren Jahreszeit bzw. für lange und  harte körperliche Arbeit sollte leichte PSA für die Brand­ bekämpfung im Freien oder gar spezialisierte PSA getragen  werden, um die Träger der PSA durch das Gewicht und die  „Wärme-Stauwirkung“ nicht zusätzlich zu belasten oder gar  zu gefährden. Besonderes Augenmerk ist auf die korrekte  Trageweise zu legen, Erleichterungen sind möglich, ebenso  ist dem Wasser- und Mineralienverlust entgegenzuwirken.
+
+- Besonderes Augenmerk ist auf die korrekte  Trageweise zu legen, Erleichterungen sind möglich, ebenso  ist dem Wasser- und Mineralienverlust entgegenzuwirken. Auch bei Vegetationsbränden ist mit dem Auf­ treten einer Vielzahl von toxischen und langfristig   17 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 gesundheitsschädlichen Gasen zu rechnen.
+
+- Auch bei Vegetationsbränden ist mit dem Auf­ treten einer Vielzahl von toxischen und langfristig   17 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 gesundheitsschädlichen Gasen zu rechnen. Zusätzlich ent­ steht eine Belastung durch Ruß, Asche und weitere wind­ getragene Schwebeteilchen, die neben Atemwegsreizun­ gen auch die Augen reizen können.
+
+- Zusätzlich ent­ steht eine Belastung durch Ruß, Asche und weitere wind­ getragene Schwebeteilchen, die neben Atemwegsreizun­ gen auch die Augen reizen können. Die einfachste Form des  Atemschutzes stellt für die Vegetationsbrandbekämpfung  das Tragen von FFP3-Masken möglichst mit Ausatemven­ til dar, um sich vor Asche- und Rußpartikeln zu schützen.
+
+- Die einfachste Form des  Atemschutzes stellt für die Vegetationsbrandbekämpfung  das Tragen von FFP3-Masken möglichst mit Ausatemven­ til dar, um sich vor Asche- und Rußpartikeln zu schützen. Einen Schutz vor den entstehenden Brandgasen bieten die  FFP3-Masken allerdings nicht, bieten aber den Vorteil der  leichten Verfügbarkeit und Einsetzbarkeit.
+
+- Einen Schutz vor den entstehenden Brandgasen bieten die  FFP3-Masken allerdings nicht, bieten aber den Vorteil der  leichten Verfügbarkeit und Einsetzbarkeit. Ein Atemschutz  mit höherem Schutzgrad (Vollmasken mit A2B2E2K2-P3  bzw. erhöhter CO Konzentration A2B2E2K2-P3-CO-Filtern  oder umluftunabhängigem Atemschutz) ist unter Berück­ sichtigung der höheren körperlichen Belastungen und ein­ geschränkten Einsatzdauern in speziellen Fällen möglich.
+
+- Ein Atemschutz  mit höherem Schutzgrad (Vollmasken mit A2B2E2K2-P3  bzw. erhöhter CO Konzentration A2B2E2K2-P3-CO-Filtern  oder umluftunabhängigem Atemschutz) ist unter Berück­ sichtigung der höheren körperlichen Belastungen und ein­ geschränkten Einsatzdauern in speziellen Fällen möglich. Wasserversorgung und -förderung Bei Vegetationsbränden ist in der Regel mit einer stark  eingeschränkten Löschwasserversorgung zu rechnen und  daher auf eine wassersparende Vorgehensweise zu achten.
+
+- Wasserversorgung und -förderung Bei Vegetationsbränden ist in der Regel mit einer stark  eingeschränkten Löschwasserversorgung zu rechnen und  daher auf eine wassersparende Vorgehensweise zu achten. Deswegen sind Strahlrohre mit einer niedrigen Durchfluss­ menge (ca. 100 l/min) oder Handwerkzeuge und Löschruck­ säcke zur Brandbekämpfung vorzunehmen.
+
+- Deswegen sind Strahlrohre mit einer niedrigen Durchfluss­ menge (ca. 100 l/min) oder Handwerkzeuge und Löschruck­ säcke zur Brandbekämpfung vorzunehmen. Die Verwen­ dung von Hochdrucklöschsystemen, umweltverträglichen  Löschmittelzusätzen (Netzmittel) oder Löschschäume sind  weitere Möglichkeiten, um den Einsatz von Wasser zu mini­ mieren.
+
+- Die Verwen­ dung von Hochdrucklöschsystemen, umweltverträglichen  Löschmittelzusätzen (Netzmittel) oder Löschschäume sind  weitere Möglichkeiten, um den Einsatz von Wasser zu mini­ mieren. Die Löschwasserversorgung ist unter Berücksichti­ gung der zur Verfügung stehenden Löschwasserentnahme­ stellen, der verfügbaren Wassertransport- und -fortleitungs­ systeme und der Dauer für die Herstellung sicherzustellen.
+
+- Die Löschwasserversorgung ist unter Berücksichti­ gung der zur Verfügung stehenden Löschwasserentnahme­ stellen, der verfügbaren Wassertransport- und -fortleitungs­ systeme und der Dauer für die Herstellung sicherzustellen. Die Kombination von Pendelverkehren und leitungsgebun­ denen Systemen ist möglich.
+
+- Die Kombination von Pendelverkehren und leitungsgebun­ denen Systemen ist möglich. Orientierung und Kennzeichnung Der Orientierung im Gelände kommt bei der Vegeta­ tionsbrandbekämpfung insbesondere bei großen Flächen­ lagen eine wesentliche Rolle zu.
+
+- Orientierung und Kennzeichnung Der Orientierung im Gelände kommt bei der Vegeta­ tionsbrandbekämpfung insbesondere bei großen Flächen­ lagen eine wesentliche Rolle zu. Dies umso mehr, da bei grö­ ßeren Einsatzlagen ortsfremde Einsatzkräfte eingewiesen  werden müssen.
+
+- Dies umso mehr, da bei grö­ ßeren Einsatzlagen ortsfremde Einsatzkräfte eingewiesen  werden müssen. Hierbei ist nicht nur die Nutzung von ent­ sprechendem Kartenmaterial mit besonderen waldbrand­ spezifischen Eintragungen, Navigationssystemen wesent­ lich, sondern auch die Markierung mit temporären Beschil­ derungen (zum Beispiel Fahrwegrichtungspfeile, taktische  Zeichen, farbige Markierungen, Absperrung von Gefahren­ stellen usw.).
+
+- Hierbei ist nicht nur die Nutzung von ent­ sprechendem Kartenmaterial mit besonderen waldbrand­ spezifischen Eintragungen, Navigationssystemen wesent­ lich, sondern auch die Markierung mit temporären Beschil­ derungen (zum Beispiel Fahrwegrichtungspfeile, taktische  Zeichen, farbige Markierungen, Absperrung von Gefahren­ stellen usw.). Taktik Aufgrund der dichten Besiedelung Deutschlands ist das  grundsätzliche Ziel der Gefahrenabwehr die frühestmög­ liche Entdeckung und Bekämpfung von Vegetationsbrän­ den.
+
+- Taktik Aufgrund der dichten Besiedelung Deutschlands ist das  grundsätzliche Ziel der Gefahrenabwehr die frühestmög­ liche Entdeckung und Bekämpfung von Vegetationsbrän­ den. Als kleinste taktische Einheit wird mindestens ein „er­ weiterter selbstständiger“ Trupp (0/1/3/4) oder eine Staffel  (0/1/5/6) angesehen.
+
+- Als kleinste taktische Einheit wird mindestens ein „er­ weiterter selbstständiger“ Trupp (0/1/3/4) oder eine Staffel  (0/1/5/6) angesehen. Der alleinige Einsatz von Fahrzeugen  mit Truppbesatzung (0/1/2/3) ist aus Sicht der UAG nicht  empfehlenswert.
+
+- Der alleinige Einsatz von Fahrzeugen  mit Truppbesatzung (0/1/2/3) ist aus Sicht der UAG nicht  empfehlenswert. Die UAG Ausbildung hat für eine Empfehlung zur ein­ heitlichen Taktik zur Vegetationsbrandbekämpfung die  technisch-taktische Umsetzungsmöglichkeiten evaluiert so­ wie im Ausland übliche taktische Varianten kritisch geprüft  und ggf. in eine angepasste Systematik nach den in Deutsch­ land bekannten Taktikvarianten überführt.
+
+- Die UAG Ausbildung hat für eine Empfehlung zur ein­ heitlichen Taktik zur Vegetationsbrandbekämpfung die  technisch-taktische Umsetzungsmöglichkeiten evaluiert so­ wie im Ausland übliche taktische Varianten kritisch geprüft  und ggf. in eine angepasste Systematik nach den in Deutsch­ land bekannten Taktikvarianten überführt. Die Ergebnisse  wurden in einem Taktigramm übersichtlich zusammenge­ stellt und dieses soll der Grundstein für die weitere Ausbil­ dung in der Vegetationsbrandbekämpfung sein.
+
+- Die Ergebnisse  wurden in einem Taktigramm übersichtlich zusammenge­ stellt und dieses soll der Grundstein für die weitere Ausbil­ dung in der Vegetationsbrandbekämpfung sein. Die vereinfachte Vorgehensweise in der Variante Angriff  beginnt mit der Sicherung des Ankerpunktes.
+
+- Die vereinfachte Vorgehensweise in der Variante Angriff  beginnt mit der Sicherung des Ankerpunktes. Anschließend  werden die Flanken durch einen Löschangriff aufgerollt.
+
+- Anschließend  werden die Flanken durch einen Löschangriff aufgerollt. Ziel  ist es dabei, die Front möglichst schnell zu erreichen, um  diese ebenfalls abzulöschen.
+
+- Ziel  ist es dabei, die Front möglichst schnell zu erreichen, um  diese ebenfalls abzulöschen. Von daher wird der erste Angriff  auf die Flanke in Windrichtung vorgetragen, da dieses die  Richtung zur Front vorgibt.
+
+- Von daher wird der erste Angriff  auf die Flanke in Windrichtung vorgetragen, da dieses die  Richtung zur Front vorgibt. Dieser Angriff kann mit Tank­ löschfahrzeugen, Schlauchleitungen und/oder Löschwas­ serabwürfen vorgetragen werden, wichtig ist aber, dass die  Flanke vom Ankerpunkt in Richtung Front aufgerollt wird.
+
+- Dieser Angriff kann mit Tank­ löschfahrzeugen, Schlauchleitungen und/oder Löschwas­ serabwürfen vorgetragen werden, wichtig ist aber, dass die  Flanke vom Ankerpunkt in Richtung Front aufgerollt wird. Der Feuersaum kann durchaus an mehreren Punkten (idea­ lerweise an den Flanken links und rechts) durchbrochen und  dann von gesicherten Ankerpunkten aus in Windrichtung  abgelöscht werden.
+
+- Der Feuersaum kann durchaus an mehreren Punkten (idea­ lerweise an den Flanken links und rechts) durchbrochen und  dann von gesicherten Ankerpunkten aus in Windrichtung  abgelöscht werden. Die daran anschließenden Nachlösch­ arbeiten sind so lange durchzuführen, bis keine Glutnester  mehr aufzufinden sind.
+
+- Die daran anschließenden Nachlösch­ arbeiten sind so lange durchzuführen, bis keine Glutnester  mehr aufzufinden sind. Die Lücke zur erfolgreichen Auswahl und Umsetzung  einer geeigneten Einsatztaktik wird durch die gezielte Be­ wertung des vorherrschenden Feuerverhaltens und einer  auf drei Faktoren (Wind, Hangneigung, Hangausrichtung)  basierenden Einschätzung der zu erwartenden Feuerin­ tensität durch die „Einfache Taktische Waldbrandprogno­ se“ (ETW) geschlossen.
+
+- Die Lücke zur erfolgreichen Auswahl und Umsetzung  einer geeigneten Einsatztaktik wird durch die gezielte Be­ wertung des vorherrschenden Feuerverhaltens und einer  auf drei Faktoren (Wind, Hangneigung, Hangausrichtung)  basierenden Einschätzung der zu erwartenden Feuerin­ tensität durch die „Einfache Taktische Waldbrandprogno­ se“ (ETW) geschlossen. In der praktischen Anwendung geht  es bei der ETW zunächst um die Identifizierung der derzeit  vorherrschenden Faktoren, hierbei müssen die drei Fak­ toren, ihr Zusammenwirken sowie die derzeit feststellba­ re Flammenlänge betrachtet werden.
+
+- In der praktischen Anwendung geht  es bei der ETW zunächst um die Identifizierung der derzeit  vorherrschenden Faktoren, hierbei müssen die drei Fak­ toren, ihr Zusammenwirken sowie die derzeit feststellba­ re Flammenlänge betrachtet werden. Hierbei ist es wesent­ lich, ein zukünftiges Über- oder Unterschreiten der Kont­ rollschwellen aufgrund der Einflussnahme der drei Faktoren  und deren eventueller Änderung frühestmöglich zu erken­ nen.
+
+- Hierbei ist es wesent­ lich, ein zukünftiges Über- oder Unterschreiten der Kont­ rollschwellen aufgrund der Einflussnahme der drei Faktoren  und deren eventueller Änderung frühestmöglich zu erken­ nen. Somit können Einsatzmaßnahmen geplant und um­ gesetzt werden, wenn eine Vorteilssituation (Taktikfenster)  entsteht oder Maßnahmen unterlassen bzw. abgebrochen  werden, bevor eine Gefahrensituation entstehen kann.
+
+- Somit können Einsatzmaßnahmen geplant und um­ gesetzt werden, wenn eine Vorteilssituation (Taktikfenster)  entsteht oder Maßnahmen unterlassen bzw. abgebrochen  werden, bevor eine Gefahrensituation entstehen kann. Geräte für die Vegetationsbrandbekämpfung Für die Vegetationsbrandbekämpfung steht ein breites  Spektrum an Material und Gerätschaften zur Verfügung, das  auch weit über die Ausstattung zur klassischen Gebäude­ brandbekämpfung hinausgeht.
+
+- Geräte für die Vegetationsbrandbekämpfung Für die Vegetationsbrandbekämpfung steht ein breites  Spektrum an Material und Gerätschaften zur Verfügung, das  auch weit über die Ausstattung zur klassischen Gebäude­ brandbekämpfung hinausgeht. Der Einsatz von allen aufge­ führten Einsatzmitteln unterliegt dem Prinzip der Kontroll­ schwellen.
+
+- Der Einsatz von allen aufge­ führten Einsatzmitteln unterliegt dem Prinzip der Kontroll­ schwellen. 18 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Taktigramm Vegetationsbrand Einsatzgrundsätze für Vegetationsbrände • Sicherheitsregeln (u. a. LACES) • Kontrollschwellen • Einﬂussfaktoren • Kontrolle/Nachlöscharbeiten Kombinations- taktiken, z. B.: • Verzögerung • paralleler  Angriff • Räumung mit  Objektverteidi- gung Angriff (direkte/offensive Taktik) Verteidigung (indirekte/defensive Taktik) Rückzug * Der taktische Feuereinsatz darf ausschließlich  durch speziell qualiﬁzierte Einsatzkräfte erfolgen!
+
+- 18 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Taktigramm Vegetationsbrand Einsatzgrundsätze für Vegetationsbrände • Sicherheitsregeln (u. a. LACES) • Kontrollschwellen • Einﬂussfaktoren • Kontrolle/Nachlöscharbeiten Kombinations- taktiken, z. B.: • Verzögerung • paralleler  Angriff • Räumung mit  Objektverteidi- gung Angriff (direkte/offensive Taktik) Verteidigung (indirekte/defensive Taktik) Rückzug * Der taktische Feuereinsatz darf ausschließlich  durch speziell qualiﬁzierte Einsatzkräfte erfolgen! Stand: 09.02.2024 Angriff über  die Flanken Angriff auf  die Front Handlungsschema  AFFEN Mobiler  Angriff  MIT  Lösch- mitteln Angriff  über  Schlauch- leitungen Mobiler  Angriff  OHNE  Lösch- mittel In Sicher- heit bringen (Rettung) Räumung Vorberei- tungen auf  Lageände- rungen Aufgeben  von  Bereichen Zurückzie- hen Evakuie- rung geschützte  Sammel- stellen/  Korridore Objekt- verteidi- gung Kontroll- linien Vorbereiten  & Verlassen Vorbereiten  &  Verteidigen Anlegen von  Streifen Riegel- stellungen Verwen- dung von  tragbaren  Löschge- räten einfache  Schlauch- verlegung  (unter  Druck) Verwendung  von  Werkzeugen/  Maschinen taktischer  Feuereinsatz* (kontrolliertes  Ausbrennen) modu- lare- Schlauch- verlegung  Pump &  Roll über  Löschfahr- zeuge  (ein- schließlich  Tandem-  &Zangen- angriff) Lösch- wasser- abwürfe brandlast- freier  (trockener)  Streifen nasse  Streifen  (wet-lining) taktischer  Feuerein- satz* (kontrol- liertes  Vorfeuer) besetzter  Wasserriegel unbesetzter  Wasserriegel Schaumriegel sonstige  Löschmittel- riegel Abbildung 2: Aufstellung taktischer Varianten und die darin enthaltenen Handlungsmöglichkeiten.
+
+- Stand: 09.02.2024 Angriff über  die Flanken Angriff auf  die Front Handlungsschema  AFFEN Mobiler  Angriff  MIT  Lösch- mitteln Angriff  über  Schlauch- leitungen Mobiler  Angriff  OHNE  Lösch- mittel In Sicher- heit bringen (Rettung) Räumung Vorberei- tungen auf  Lageände- rungen Aufgeben  von  Bereichen Zurückzie- hen Evakuie- rung geschützte  Sammel- stellen/  Korridore Objekt- verteidi- gung Kontroll- linien Vorbereiten  & Verlassen Vorbereiten  &  Verteidigen Anlegen von  Streifen Riegel- stellungen Verwen- dung von  tragbaren  Löschge- räten einfache  Schlauch- verlegung  (unter  Druck) Verwendung  von  Werkzeugen/  Maschinen taktischer  Feuereinsatz* (kontrolliertes  Ausbrennen) modu- lare- Schlauch- verlegung  Pump &  Roll über  Löschfahr- zeuge  (ein- schließlich  Tandem-  &Zangen- angriff) Lösch- wasser- abwürfe brandlast- freier  (trockener)  Streifen nasse  Streifen  (wet-lining) taktischer  Feuerein- satz* (kontrol- liertes  Vorfeuer) besetzter  Wasserriegel unbesetzter  Wasserriegel Schaumriegel sonstige  Löschmittel- riegel Abbildung 2: Aufstellung taktischer Varianten und die darin enthaltenen Handlungsmöglichkeiten. (Quelle: Klaus Wickboldt)  19 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Für Grundtätigkeiten können Handwerkzeuge genutzt  werden wie z. B. mobiler Angriff mit und ohne Löschmittel,  Anlegen von Kontrolllinien oder Nachlöscharbeiten (inkl.  Ausgraben von Glutnestern).
+
+- (Quelle: Klaus Wickboldt)  19 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Für Grundtätigkeiten können Handwerkzeuge genutzt  werden wie z. B. mobiler Angriff mit und ohne Löschmittel,  Anlegen von Kontrolllinien oder Nachlöscharbeiten (inkl.  Ausgraben von Glutnestern). Allgemein handelt es sich da­ bei um •	 Geräte zum Graben, Schaufeln oder Werfen von Sand,  wie Schaufeln oder Spaten •	 Geräte zum Hacken, Harken •	 Feuerpatschen •	 Geräte zum Trennen wie Äxte, Sägen, Buschhacken  (Brush-Hooks), Macheten  •	 Einreißhaken zum Wegziehen von kleineren Bäumen  oder Buschwerk (die als Feuerbrücken dienen würden) •	 tragbare Löschgeräte (vor allem Löschrucksäcke) Fahrzeuge Fahrzeuge erfüllen bei der Vegetationsbrandbekämpfung  im Wesentlichen die taktischen Fähigkeiten Brandbekämp­ fung (mobiler Angriff), Wassertransport, Wasserförderung  sowie Logistik und Führung.
+
+- Allgemein handelt es sich da­ bei um •	 Geräte zum Graben, Schaufeln oder Werfen von Sand,  wie Schaufeln oder Spaten •	 Geräte zum Hacken, Harken •	 Feuerpatschen •	 Geräte zum Trennen wie Äxte, Sägen, Buschhacken  (Brush-Hooks), Macheten  •	 Einreißhaken zum Wegziehen von kleineren Bäumen  oder Buschwerk (die als Feuerbrücken dienen würden) •	 tragbare Löschgeräte (vor allem Löschrucksäcke) Fahrzeuge Fahrzeuge erfüllen bei der Vegetationsbrandbekämpfung  im Wesentlichen die taktischen Fähigkeiten Brandbekämp­ fung (mobiler Angriff), Wassertransport, Wasserförderung  sowie Logistik und Führung. Fahrzeuge, die vorrangig im mobilen Angriff eingesetzt  werden, müssen geländegängig (Kategorie 3) sein und ein  möglichst geringes Gesamtgewicht (≤ Massenklasse M) auf­ weisen, um möglichst beweglich abseits von Straßen und  Wegen zu sein.
+
+- Fahrzeuge, die vorrangig im mobilen Angriff eingesetzt  werden, müssen geländegängig (Kategorie 3) sein und ein  möglichst geringes Gesamtgewicht (≤ Massenklasse M) auf­ weisen, um möglichst beweglich abseits von Straßen und  Wegen zu sein. Der Einsatz von regulären Einsatzfahrzeu­ gen der Brandbekämpfung und Hilfeleistung zur Vegeta­ tionsbrandbekämpfung ist mit Einsatzgrenzen für Mann­ schaft und Gerät verbunden.
+
+- Der Einsatz von regulären Einsatzfahrzeu­ gen der Brandbekämpfung und Hilfeleistung zur Vegeta­ tionsbrandbekämpfung ist mit Einsatzgrenzen für Mann­ schaft und Gerät verbunden. Zusätzlich sind sie i. d.
+
+- Zusätzlich sind sie i. d. R. nicht  geländegängig oder besitzen ein hohes Gesamtgewicht und  Größe.
+
+- R. nicht  geländegängig oder besitzen ein hohes Gesamtgewicht und  Größe. Fahrzeuge, die auf die Vegetationsbrandbekämpfung  spezialisiert sind und selbstständig einsetzbar sein müssen,  sind mit einem Mannschaftsraum für mindestens vier Ein­ satzkräfte (erweiterter Trupp) oder eine Staffel auszustatten.
+
+- Fahrzeuge, die auf die Vegetationsbrandbekämpfung  spezialisiert sind und selbstständig einsetzbar sein müssen,  sind mit einem Mannschaftsraum für mindestens vier Ein­ satzkräfte (erweiterter Trupp) oder eine Staffel auszustatten. Fahrzeuge mit einer Truppbesatzung können bei der Vege­ tationsbrandbekämpfung ebenfalls selbstständig eingesetzt  werden, sofern die Einsatzkräfte bei einem mobilen Angriff  vom Fahrzeug nicht absitzen müssen, weitere Einsatzkräfte  vor Ort sind oder mit weiteren Fahrzeugen ergänzt werden.
+
+- Fahrzeuge mit einer Truppbesatzung können bei der Vege­ tationsbrandbekämpfung ebenfalls selbstständig eingesetzt  werden, sofern die Einsatzkräfte bei einem mobilen Angriff  vom Fahrzeug nicht absitzen müssen, weitere Einsatzkräfte  vor Ort sind oder mit weiteren Fahrzeugen ergänzt werden. Ebenso taktisch wertvoll sind Personal und Technik von  Forst oder Landwirtschaft.
+
+- Ebenso taktisch wertvoll sind Personal und Technik von  Forst oder Landwirtschaft. Forst- und landwirtschaftliche  Maschinen können effektiv zur defensiven Vegetations­ brandbekämpfung, zum Beispiel zum Anlegen von brand­ lastfreien Streifen, eingesetzt werden.
+
+- Forst- und landwirtschaftliche  Maschinen können effektiv zur defensiven Vegetations­ brandbekämpfung, zum Beispiel zum Anlegen von brand­ lastfreien Streifen, eingesetzt werden. Beim Einsatz von  land- und forstwirtschaftlichem Personal sowie Material  sind diese in die Führungsorganisation der Feuerwehr ein­ zubinden.
+
+- Beim Einsatz von  land- und forstwirtschaftlichem Personal sowie Material  sind diese in die Führungsorganisation der Feuerwehr ein­ zubinden. Einsatz von Luftfahrzeugen Ein Einsatz von Luftfahrzeugen ist immer dann unab­ hängig von der Alarmierungsmeldung notwendig bzw. drin­ gend zu empfehlen, wenn eine Gefahr für Leib und Leben  oder eine akute Gefährdung von Gebäuden/kritischen Inf­ rastrukturen besteht, eine schlechte Löschwasserbereitstel­ lung am Boden besteht oder die Einsatzstelle am Boden mit  Fahrzeugen oder zu Fuß nicht schnell genug erreichbar ist,  um eine Ausbreitung des Feuers verhindern zu können (zum  Beispiel schwer zugängliches oder nicht betretbares Gelän­ de).
+
+- Einsatz von Luftfahrzeugen Ein Einsatz von Luftfahrzeugen ist immer dann unab­ hängig von der Alarmierungsmeldung notwendig bzw. drin­ gend zu empfehlen, wenn eine Gefahr für Leib und Leben  oder eine akute Gefährdung von Gebäuden/kritischen Inf­ rastrukturen besteht, eine schlechte Löschwasserbereitstel­ lung am Boden besteht oder die Einsatzstelle am Boden mit  Fahrzeugen oder zu Fuß nicht schnell genug erreichbar ist,  um eine Ausbreitung des Feuers verhindern zu können (zum  Beispiel schwer zugängliches oder nicht betretbares Gelän­ de). Die Brandausbreitung kann verzögert und die Brand­ intensität verringert werden, um den Einsatz von bodenge­ bundenen Kräften zu ermöglichen (zum Beispiel Einrich­ tung von Verteidigungsmaßnahmen).
+
+- Die Brandausbreitung kann verzögert und die Brand­ intensität verringert werden, um den Einsatz von bodenge­ bundenen Kräften zu ermöglichen (zum Beispiel Einrich­ tung von Verteidigungsmaßnahmen). Eine Absprache und  Koordination zwischen boden- und luftgebundenen Maß­ nahmen ist zwingend erforderlich und bedarf einer engen  taktischen Führung (EA-Luft, taktischer Abwurfkoordinator  etc.).
+
+- Eine Absprache und  Koordination zwischen boden- und luftgebundenen Maß­ nahmen ist zwingend erforderlich und bedarf einer engen  taktischen Führung (EA-Luft, taktischer Abwurfkoordinator  etc.). Beim Einsatz von bemannten Fluggeräten (Hubschrau­ ber/Flugzeuge) sind die allgemeinen Sicherheitsregeln zu  beachten.
+
+- Beim Einsatz von bemannten Fluggeräten (Hubschrau­ ber/Flugzeuge) sind die allgemeinen Sicherheitsregeln zu  beachten. Beim Abwurf von Löschwasser ist darauf zu ach­ ten, dass sich keine Einsatzkräfte und möglichst auch keine  Einsatzfahrzeuge im Nahbereich zur Abwurfzone befinden.
+
+- Beim Abwurf von Löschwasser ist darauf zu ach­ ten, dass sich keine Einsatzkräfte und möglichst auch keine  Einsatzfahrzeuge im Nahbereich zur Abwurfzone befinden. Erforderliche Kompetenzen Einsatz- und  Führungskräfte Um Einsätze bei Wald- und Vegetationsbränden zu be­ wältigen, müssen die Einsatzkräfte, abhängig von der jewei­ ligen Führungsstufe, über unterschiedliche Kompetenzen  verfügen.
+
+- Erforderliche Kompetenzen Einsatz- und  Führungskräfte Um Einsätze bei Wald- und Vegetationsbränden zu be­ wältigen, müssen die Einsatzkräfte, abhängig von der jewei­ ligen Führungsstufe, über unterschiedliche Kompetenzen  verfügen. Kompetenz ist die Fähigkeit, sich in offenen und  unüberschaubaren komplexen und dynamischen Situatio­ nen selbst organisiert zurechtzufinden.
+
+- Kompetenz ist die Fähigkeit, sich in offenen und  unüberschaubaren komplexen und dynamischen Situatio­ nen selbst organisiert zurechtzufinden. Die UAG hat für die  einzelnen Einsatzfunktionen, beginnend bei den Truppmit­ gliedern bis zu Führungskräften in Stabsfunktionen, die er­ forderlichen Kompetenzen beschrieben.
+
+- Die UAG hat für die  einzelnen Einsatzfunktionen, beginnend bei den Truppmit­ gliedern bis zu Führungskräften in Stabsfunktionen, die er­ forderlichen Kompetenzen beschrieben. Die Inhalte der  Ausbildung für die Vegetationsbrandbekämpfung bis zur  Qualifikation Truppführer/-in ist ebenso erarbeitet wie die  Inhalte von Lehrgängen zur Vegetationsbrandbekämpfung  einschließlich der Führungskräfte.
+
+- Die Inhalte der  Ausbildung für die Vegetationsbrandbekämpfung bis zur  Qualifikation Truppführer/-in ist ebenso erarbeitet wie die  Inhalte von Lehrgängen zur Vegetationsbrandbekämpfung  einschließlich der Führungskräfte. Klaus Wickboldt leitet das Referat Brandschutz im Niedersächsi­ schen Ministerium für Inneres und Sport stellvertretend.
+
+- Klaus Wickboldt leitet das Referat Brandschutz im Niedersächsi­ schen Ministerium für Inneres und Sport stellvertretend. 20 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Internationale Waldbrand­ kooperation – von Tunesien  nach Jordanien in die breite  Fläche Deutschlands  Aus einem Zivilschutzprojekt in Tunesien entsteht eine Wissenssammlung zur  Vegetationsbrandbekämpfung in Deutschland Karoline Kubanek, Michael Müller, Marie Fuchs und Janina Bröhl Dreizehn Jahre Kooperation zwischen dem BBK  und der tunesischen Zivilschutzbehörde Kaum Niederschläge, mediterranes Klima und im Som­ mer Temperaturen von über 35 Grad mit vielen Sonnen­ stunden: Was für hunderttausende Touristinnen und Touris­ ten jährlich gute Urlaubsbedingungen sind, stellt tunesische  Einsatzkräfte von Feuerwehr und Zivilschutz regelmäßig vor  Herausforderungen.
+
+- 20 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Internationale Waldbrand­ kooperation – von Tunesien  nach Jordanien in die breite  Fläche Deutschlands  Aus einem Zivilschutzprojekt in Tunesien entsteht eine Wissenssammlung zur  Vegetationsbrandbekämpfung in Deutschland Karoline Kubanek, Michael Müller, Marie Fuchs und Janina Bröhl Dreizehn Jahre Kooperation zwischen dem BBK  und der tunesischen Zivilschutzbehörde Kaum Niederschläge, mediterranes Klima und im Som­ mer Temperaturen von über 35 Grad mit vielen Sonnen­ stunden: Was für hunderttausende Touristinnen und Touris­ ten jährlich gute Urlaubsbedingungen sind, stellt tunesische  Einsatzkräfte von Feuerwehr und Zivilschutz regelmäßig vor  Herausforderungen. Immer wieder wüten verheerende Ve­ getationsbrände in dem Land, das sich zwischen Algerien  und Libyen über 700 Kilometer vom Mittelmeer bis in die  Sahara zieht.
+
+- Immer wieder wüten verheerende Ve­ getationsbrände in dem Land, das sich zwischen Algerien  und Libyen über 700 Kilometer vom Mittelmeer bis in die  Sahara zieht. Gemeinsam mit der Berufsfeuerwehr Frank­ furt am Main unterstützt das BBK daher seit 2012 im Rah­ men einer vom Auswärtigen Amt finanzierten Projektreihe  die tunesische Zivilschutzbehörde „Office National de la Pro­ tection Civile“ bei der Bekämpfung von Vegetationsbränden.
+
+- Gemeinsam mit der Berufsfeuerwehr Frank­ furt am Main unterstützt das BBK daher seit 2012 im Rah­ men einer vom Auswärtigen Amt finanzierten Projektreihe  die tunesische Zivilschutzbehörde „Office National de la Pro­ tection Civile“ bei der Bekämpfung von Vegetationsbränden. Wer als Feuerwehrfrau oder -mann von oben auf Tune­ sien blickt, dem fallen sofort etliche kritische Bedingungen  auf: Im mediterran geprägten Norden dichter Wald in ber­ gigem Gelände, im Süden weite, abgeschiedene Busch- und  Grasflächen in der Sahara-Wüste.
+
+- Wer als Feuerwehrfrau oder -mann von oben auf Tune­ sien blickt, dem fallen sofort etliche kritische Bedingungen  auf: Im mediterran geprägten Norden dichter Wald in ber­ gigem Gelände, im Süden weite, abgeschiedene Busch- und  Grasflächen in der Sahara-Wüste. Was die beiden verbindet:  häufig schlechte Zufahrtswege und wenige potenzielle Was­ serentnahmestellen.
+
+- Was die beiden verbindet:  häufig schlechte Zufahrtswege und wenige potenzielle Was­ serentnahmestellen. Eine der wichtigsten Komponenten  im deutsch-tunesischen Projekt war daher die gemeinsa­ me Konzeption und Beschaffung von Einsatzfahrzeugen zur  Vegetationsbrandbekämpfung.
+
+- Eine der wichtigsten Komponenten  im deutsch-tunesischen Projekt war daher die gemeinsa­ me Konzeption und Beschaffung von Einsatzfahrzeugen zur  Vegetationsbrandbekämpfung. So sollen Entstehungsbrände  noch schneller und effizienter bekämpft werden.
+
+- So sollen Entstehungsbrände  noch schneller und effizienter bekämpft werden. Statt alter, langsamer Löschfahrzeuge bahnen sich da­ her mittlerweile wendige Pick-up-Trucks ihren häufig lan­ gen Anfahrtsweg durch das unwegsame Gelände.
+
+- Statt alter, langsamer Löschfahrzeuge bahnen sich da­ her mittlerweile wendige Pick-up-Trucks ihren häufig lan­ gen Anfahrtsweg durch das unwegsame Gelände. Sie sind  für die Bekämpfung von Entstehungsbränden konzipiert  und werden durch ein bestehendes System an Löschfahr­ zeugen ergänzt.
+
+- Sie sind  für die Bekämpfung von Entstehungsbränden konzipiert  und werden durch ein bestehendes System an Löschfahr­ zeugen ergänzt. Zwei Fahrzeugtypen wurden hierfür ent­ wickelt: der Typ Führungsfahrzeug und der Typ Wasserfüh­ rendes Fahrzeug.
+
+- Zwei Fahrzeugtypen wurden hierfür ent­ wickelt: der Typ Führungsfahrzeug und der Typ Wasserfüh­ rendes Fahrzeug. Mit Letzterem kann Löschwasser bis an  die Einsatzstelle gebracht und dort im Pump-and-Roll-Ver­ fahren – also während der Fahrt – ausgebracht werden.
+
+- Mit Letzterem kann Löschwasser bis an  die Einsatzstelle gebracht und dort im Pump-and-Roll-Ver­ fahren – also während der Fahrt – ausgebracht werden. Da­ neben führen beide Fahrzeuge gängiges Werkzeug zur di­ rekten wie indirekten Vegetationsbrandbekämpfung wie  Feuerpatschen und Motorsägen mit.
+
+- Da­ neben führen beide Fahrzeuge gängiges Werkzeug zur di­ rekten wie indirekten Vegetationsbrandbekämpfung wie  Feuerpatschen und Motorsägen mit. Die Fahrzeuge sind so  ausgestattet, dass vier Personen das Fahrzeug und die mitge­ führte Ausstattung und Schutzausrüstung nutzen können.
+
+- Die Fahrzeuge sind so  ausgestattet, dass vier Personen das Fahrzeug und die mitge­ führte Ausstattung und Schutzausrüstung nutzen können. Ein weiterer Vorteil der Pick-up-Lösung: Die Fahrzeuge sind  mit sogenannten Slip-on-Units ausgestattet.
+
+- Ein weiterer Vorteil der Pick-up-Lösung: Die Fahrzeuge sind  mit sogenannten Slip-on-Units ausgestattet. So ist es mög­ lich, die Komponenten – ob Wassertank oder Führungsmo­ dul – schnell zwischen den einzelnen Fahrzeugen zu wech­ seln, um diese reparieren oder anders einsetzen zu können.
+
+- So ist es mög­ lich, die Komponenten – ob Wassertank oder Führungsmo­ dul – schnell zwischen den einzelnen Fahrzeugen zu wech­ seln, um diese reparieren oder anders einsetzen zu können. Die gemeinsam entwickelte Einsatztaktik sieht vor, dass  grundsätzlich ein Führungsfahrzeug mit drei wasserfüh­ renden Fahrzeugen ausrückt.
+
+- Die gemeinsam entwickelte Einsatztaktik sieht vor, dass  grundsätzlich ein Führungsfahrzeug mit drei wasserfüh­ renden Fahrzeugen ausrückt. Je nach Einsatzlage kann diese  Konstellation angepasst werden.
+
+- Je nach Einsatzlage kann diese  Konstellation angepasst werden. Bei größeren Einsatzstellen  Wie Ergebnisse der Projektarbeit im Bevölkerungsschutz di­ rekt in Deutschland genutzt und weiterentwickelt werden  können, zeigt das Projekt mit dem Partnerstaat Tunesien, wel­ ches das Bundesamt für Bevölkerungsschutz und Katastro­ phenhilfe (BBK) gemeinsam mit der Branddirektion Frankfurt  am Main mit Mitteln des Auswärtigen Amts in den vergange­ nen dreizehn Jahren durchgeführt hat.
+
+- Bei größeren Einsatzstellen  Wie Ergebnisse der Projektarbeit im Bevölkerungsschutz di­ rekt in Deutschland genutzt und weiterentwickelt werden  können, zeigt das Projekt mit dem Partnerstaat Tunesien, wel­ ches das Bundesamt für Bevölkerungsschutz und Katastro­ phenhilfe (BBK) gemeinsam mit der Branddirektion Frankfurt  am Main mit Mitteln des Auswärtigen Amts in den vergange­ nen dreizehn Jahren durchgeführt hat. Ein Teil des Projekts  umfasste die Zusammenarbeit zum Thema Vege­ta­ti­ons­ brandbekämpfung.
+
+- Ein Teil des Projekts  umfasste die Zusammenarbeit zum Thema Vege­ta­ti­ons­ brandbekämpfung. Dabei wurde Wissen zu diesem Thema ge­ sammelt, weiterentwickelt und in um­fassen­den Modulen auf­ bereitet.
+
+- Dabei wurde Wissen zu diesem Thema ge­ sammelt, weiterentwickelt und in um­fassen­den Modulen auf­ bereitet. Auch über das Projektende im Jahr 2024 hinaus wird  im Rahmen von anderen Initiativen das ent­standene Netz­ werk genutzt und international mit den Ergebnissen weiter­ gearbeitet.
+
+- Auch über das Projektende im Jahr 2024 hinaus wird  im Rahmen von anderen Initiativen das ent­standene Netz­ werk genutzt und international mit den Ergebnissen weiter­ gearbeitet. 21 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 kann mit Unterstützung größerer Tanklöschfahrzeuge eine  Übergabestelle für den Pendelverkehr aufgebaut werden, die  die Wege für die Angriffsfahrzeuge kurzhält – auch die dafür  benötigte Zusatzausrüstung wurde aus Projektmitteln be­ schafft.
+
+- 21 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 kann mit Unterstützung größerer Tanklöschfahrzeuge eine  Übergabestelle für den Pendelverkehr aufgebaut werden, die  die Wege für die Angriffsfahrzeuge kurzhält – auch die dafür  benötigte Zusatzausrüstung wurde aus Projektmitteln be­ schafft. Nachdem Ausstattung beschafft wurde und Einsatzkräfte  im Umgang damit geschult wurden, wurde schnell klar, dass  eine weitere Komponente der effektiven Brandbekämp­ fung auch gebündeltes Fachwissen ist.
+
+- Nachdem Ausstattung beschafft wurde und Einsatzkräfte  im Umgang damit geschult wurden, wurde schnell klar, dass  eine weitere Komponente der effektiven Brandbekämp­ fung auch gebündeltes Fachwissen ist. Somit wurde gemein­ sam mit der tunesischen Zivilschutzbehörde eine Wissens­ sammlung zu Vegetationsbränden erarbeitet, welche die  Themenbereiche Brandverhalten, -bekämpfung, -präven­ tion sowie viele weitere abdeckt.
+
+- Somit wurde gemein­ sam mit der tunesischen Zivilschutzbehörde eine Wissens­ sammlung zu Vegetationsbränden erarbeitet, welche die  Themenbereiche Brandverhalten, -bekämpfung, -präven­ tion sowie viele weitere abdeckt. Sie dient als Nachschlage­ werk sowie als Grundlage, um tunesisches Schulungsmate­ rial für Einsatzkräfte zu erstellen und diese fortzubilden.
+
+- Sie dient als Nachschlage­ werk sowie als Grundlage, um tunesisches Schulungsmate­ rial für Einsatzkräfte zu erstellen und diese fortzubilden. Gebündeltes Wissen für Einsatz- und  Führungskräfte Nachdem die Erstellung der Schulungsunterlagen zu­ nächst in deutscher Sprache erfolgte, wurden Synergien aus  dem Projekt genutzt und die Texte auch auf mitteleuropäi­ sche Verhältnisse angepasst sowie ins Arabische übersetzt.
+
+- Gebündeltes Wissen für Einsatz- und  Führungskräfte Nachdem die Erstellung der Schulungsunterlagen zu­ nächst in deutscher Sprache erfolgte, wurden Synergien aus  dem Projekt genutzt und die Texte auch auf mitteleuropäi­ sche Verhältnisse angepasst sowie ins Arabische übersetzt. Durch diese Maßnahmen war es möglich, die aufwendig er­ stellten Unterlagen sowohl im deutschen als auch im tu­ nesischen Kontext nutzbar zu machen und einen Mehr­ fachnutzen zu generieren.
+
+- Durch diese Maßnahmen war es möglich, die aufwendig er­ stellten Unterlagen sowohl im deutschen als auch im tu­ nesischen Kontext nutzbar zu machen und einen Mehr­ fachnutzen zu generieren. Schon bei der Ausarbeitung der  Schulungsmaterialien für Tunesien unterstützte die Hoch­ schule für Forstwirtschaft Rottenburg (HFR), die bei den  Folgeschritten die fachliche Seite der Waldbewirtschaftung  optimal abdeckte.
+
+- Schon bei der Ausarbeitung der  Schulungsmaterialien für Tunesien unterstützte die Hoch­ schule für Forstwirtschaft Rottenburg (HFR), die bei den  Folgeschritten die fachliche Seite der Waldbewirtschaftung  optimal abdeckte. Die Ausarbeitung verfolgt verschiedene  Ziele: Zum einen soll sie die bestehende deutschsprachige  Fachliteratur sinnvoll ergänzen, wodurch die Hintergrün­ de und Zusammenhänge rund um die Vegetationsbrandbe­ kämpfung beleuchtet werden, was zu einem besseren Ver­ ständnis der Gesamtthematik bei den Lesenden führt.
+
+- Die Ausarbeitung verfolgt verschiedene  Ziele: Zum einen soll sie die bestehende deutschsprachige  Fachliteratur sinnvoll ergänzen, wodurch die Hintergrün­ de und Zusammenhänge rund um die Vegetationsbrandbe­ kämpfung beleuchtet werden, was zu einem besseren Ver­ ständnis der Gesamtthematik bei den Lesenden führt. Zum  anderen werden Informationen, die bisher nur mühsam  aus umfangreicher Literatur – auch in unterschiedlichen  Sprachen – selbstständig recherchiert und zusammengetra­ gen werden mussten, der interessierten Leserschaft gesam­ melt und somit leichter zugänglich gemacht.
+
+- Zum  anderen werden Informationen, die bisher nur mühsam  aus umfangreicher Literatur – auch in unterschiedlichen  Sprachen – selbstständig recherchiert und zusammengetra­ gen werden mussten, der interessierten Leserschaft gesam­ melt und somit leichter zugänglich gemacht. Ausführliche  Verweise in den einzelnen Modulen ermöglichen die Nut­ zung weiterführender Quellen zur eigenständigen Vertie­ fung in die Thematik.
+
+- Ausführliche  Verweise in den einzelnen Modulen ermöglichen die Nut­ zung weiterführender Quellen zur eigenständigen Vertie­ fung in die Thematik. Das Kompendium soll Angehörigen  von Feuerwehr, Forstwirtschaft und Lehre helfen, zielgrup­ penspezifische Ausbildungsunterlagen zu erstellen und die­ se für die Fortbildung und Qualifizierung zu nutzen.
+
+- Das Kompendium soll Angehörigen  von Feuerwehr, Forstwirtschaft und Lehre helfen, zielgrup­ penspezifische Ausbildungsunterlagen zu erstellen und die­ se für die Fortbildung und Qualifizierung zu nutzen. Es soll  den Lehrenden von Feuerwehren, Hochschulen und Uni­ versitäten einen Einstieg in die Thematik bieten und ihnen  ermöglichen, auch Fragen zu beantworten, die über Stan­ dardlehrinhalte hinausgehen.
+
+- Es soll  den Lehrenden von Feuerwehren, Hochschulen und Uni­ versitäten einen Einstieg in die Thematik bieten und ihnen  ermöglichen, auch Fragen zu beantworten, die über Stan­ dardlehrinhalte hinausgehen. Zu guter Letzt soll es allen In­ teressierten, Verantwortlichen und eingesetzten Kräften als  Nachschlagewerk dienen, damit sie das nötige Hintergrund­ wissen für ihre Tätigkeit aufbauen können.
+
+- Zu guter Letzt soll es allen In­ teressierten, Verantwortlichen und eingesetzten Kräften als  Nachschlagewerk dienen, damit sie das nötige Hintergrund­ wissen für ihre Tätigkeit aufbauen können. Feuerwehr-Ein­ satzkräfte aller Ebenen, Mitarbeitende und Führungskräfte  im forstlichen Sektor, Feuerwehrschulen, Ausbildungsabtei­ lungen bei den kommunalen Feuerwehren, forstliche Hoch­ schulen  – für all diese Gruppen und Einrichtungen hat das  Thema Vegetationsbrand in den letzten Jahren erheblich an  Relevanz gewonnen.
+
+- Feuerwehr-Ein­ satzkräfte aller Ebenen, Mitarbeitende und Führungskräfte  im forstlichen Sektor, Feuerwehrschulen, Ausbildungsabtei­ lungen bei den kommunalen Feuerwehren, forstliche Hoch­ schulen  – für all diese Gruppen und Einrichtungen hat das  Thema Vegetationsbrand in den letzten Jahren erheblich an  Relevanz gewonnen. Die Autorinnen und Autoren des Pro­ jektteams haben teilweise sowohl das forstliche Studium als  auch die Laufbahnausbildung bei der Berufsfeuerwehr ab­ solviert.
+
+- Die Autorinnen und Autoren des Pro­ jektteams haben teilweise sowohl das forstliche Studium als  auch die Laufbahnausbildung bei der Berufsfeuerwehr ab­ solviert. Schnell wurde klar: Die Forstwirtschaft hat sich vie­ le Jahre beim Thema Vegetationsbrand auf die Feuerwehr  verlassen und umgekehrt.
+
+- Schnell wurde klar: Die Forstwirtschaft hat sich vie­ le Jahre beim Thema Vegetationsbrand auf die Feuerwehr  verlassen und umgekehrt. Nur vereinzelte Vereine, Grup­ pen und Feuerwehren aus wenigen Regionen Deutschlands  konnten bisher intensive Erfahrung mit der Thematik Forst­ wirtschaft vorweisen.
+
+- Nur vereinzelte Vereine, Grup­ pen und Feuerwehren aus wenigen Regionen Deutschlands  konnten bisher intensive Erfahrung mit der Thematik Forst­ wirtschaft vorweisen. Das beginnt sich seit einigen Jahren zu  wandeln: Bei forstlichen Ausbildungsstellen steht das The­ ma Brandbekämpfung immer häufiger auf dem Lehrplan,  und auch die Feuerwehren steigen Jahr für Jahr intensiver in  die Ausbildung zum Thema Forstwirtschaft ein.
+
+- Das beginnt sich seit einigen Jahren zu  wandeln: Bei forstlichen Ausbildungsstellen steht das The­ ma Brandbekämpfung immer häufiger auf dem Lehrplan,  und auch die Feuerwehren steigen Jahr für Jahr intensiver in  die Ausbildung zum Thema Forstwirtschaft ein. Abbildung 1: Für die Bekämpfung von Entstehungsbränden im unwegsamen Gelände eignen sich besonders Pick-up-Trucks.
+
+- Abbildung 1: Für die Bekämpfung von Entstehungsbränden im unwegsamen Gelände eignen sich besonders Pick-up-Trucks. (Quelle: Martin Scherag)  22 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Das Nachschlagewerk in 17 Modulen So heterogen die Zielgruppe ist, so umfangreich ist auch  die vorliegende, modular aufgebaute Ausarbeitung ausge­ fallen.
+
+- (Quelle: Martin Scherag)  22 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Das Nachschlagewerk in 17 Modulen So heterogen die Zielgruppe ist, so umfangreich ist auch  die vorliegende, modular aufgebaute Ausarbeitung ausge­ fallen. Sie gliedert sich in die fünf Themenbereiche Brand­ verhalten, Technik, Brandbekämpfung, Forstwirtschaft und  Grundlagen Feuerwehr.
+
+- Sie gliedert sich in die fünf Themenbereiche Brand­ verhalten, Technik, Brandbekämpfung, Forstwirtschaft und  Grundlagen Feuerwehr. Die unterschiedlichen Zielgruppen machen Unterschie­ de in Aufbau, Struktur und Ausführlichkeit der Unterlagen  nötig: Manche Module sollen vor allem Führungskräften  einen breiten Hintergrund für taktische Entscheidungen ge­ ben, andere widmen sich eher dem ganzheitlichen gegensei­ tigen Verständnis der unterschiedlichen Akteure.
+
+- Die unterschiedlichen Zielgruppen machen Unterschie­ de in Aufbau, Struktur und Ausführlichkeit der Unterlagen  nötig: Manche Module sollen vor allem Führungskräften  einen breiten Hintergrund für taktische Entscheidungen ge­ ben, andere widmen sich eher dem ganzheitlichen gegensei­ tigen Verständnis der unterschiedlichen Akteure. Wiederum  andere Module bilden die Grundlage für konkrete Hand­ lungskompetenzen, die durch eine unabdingbare praktische  Ausbildung unter der Anleitung erfahrener, qualifizierter  Kräfte ergänzt werden muss.
+
+- Wiederum  andere Module bilden die Grundlage für konkrete Hand­ lungskompetenzen, die durch eine unabdingbare praktische  Ausbildung unter der Anleitung erfahrener, qualifizierter  Kräfte ergänzt werden muss. Die Ausarbeitung soll zugleich Grundlage und Nach­ schlagewerk sein.
+
+- Die Ausarbeitung soll zugleich Grundlage und Nach­ schlagewerk sein. Sie hat nicht den Anspruch, eins zu eins  als Lehrunterlage zu dienen – es wird jedoch ausdrücklich  begrüßt, wenn die Inhalte und Illustrationen unter Angabe  der Quelle genutzt werden, um zielgruppenspezifisches Aus­ bildungs- und Einsatzplanungsmaterial zu erstellen.
+
+- Sie hat nicht den Anspruch, eins zu eins  als Lehrunterlage zu dienen – es wird jedoch ausdrücklich  begrüßt, wenn die Inhalte und Illustrationen unter Angabe  der Quelle genutzt werden, um zielgruppenspezifisches Aus­ bildungs- und Einsatzplanungsmaterial zu erstellen. Diese  Vorgehensweise soll verantwortliche Personen dazu befähi­ gen, zügig Lerninhalte in verschiedenster Form zu erstellen  und so die Lernzielkataloge für unterschiedlichste Zielgrup­ pen mit Leben zu erfüllen.
+
+- Diese  Vorgehensweise soll verantwortliche Personen dazu befähi­ gen, zügig Lerninhalte in verschiedenster Form zu erstellen  und so die Lernzielkataloge für unterschiedlichste Zielgrup­ pen mit Leben zu erfüllen. Die Module sind auf der Seite www.
+
+- Die Module sind auf der Seite www. vegetationsbraende.
+
+- vegetationsbraende. de  zu finden.
+
+- de  zu finden. Transfer in die Fläche in Deutschland Damit Angehörige von Forstwirtschaft und Feuerwehr  das Wissen um Vegetationsbrandverhalten, -bekämpfung  und -prävention auch anwenden können, reicht das bloße  Erstellen von Dokumenten nicht aus.
+
+- Transfer in die Fläche in Deutschland Damit Angehörige von Forstwirtschaft und Feuerwehr  das Wissen um Vegetationsbrandverhalten, -bekämpfung  und -prävention auch anwenden können, reicht das bloße  Erstellen von Dokumenten nicht aus. Vielmehr sollten unter  anderem Netzwerke genutzt und Multiplikatorinnen und  Multiplikatoren ausgebildet werden, sodass am Ende mög­ lichst viele Einsatzkräfte und forstliche Beschäftigte davon  profitieren können.
+
+- Vielmehr sollten unter  anderem Netzwerke genutzt und Multiplikatorinnen und  Multiplikatoren ausgebildet werden, sodass am Ende mög­ lichst viele Einsatzkräfte und forstliche Beschäftigte davon  profitieren können. Hier setzt das Projekt „FFFLab“ der HFR  an: In einem 5-Millionen-Euro-Transferprojekt wird in den  kommenden drei Jahren ein Reallabor zur Effizienzsteige­ rung der Waldbrandbekämpfung durch einen verbesserten  Themen­bereich Module A Brandver­ halten A/1 Grundlagen Vegetationsbrände, allgemeine Brandlehre  A/2 Einflussfaktoren auf das Vegetationsbrandverhalten A/3  Erweiterte Wetterkunde  B Technik B/1 Ausrüstung zur Vegetationsbrandbekämpfung B/2 Grundlagen der Motorsägenarbeit (DGUV: Modul A) B/3 Baumfällung, Aufarbeitung, Einsatz von Winden (DGUV: Modul B) B/4 Einsatz von Freischneidern  C  Brand­ bekämpfung C/1 Strategie und Taktik, Sicherheit C/2 Feuerkontrolllinien, Schutz von Infrastruktur, Einsatz von Feuer, Nachlöscharbeiten C/3 Löschwasserförderung C/4 Brandbekämpfung aus der Luft  D Forstwirt­ schaft D/1 Forstliche Grundlagen, Struktur und Organisation D/2 Vorbeugender Vegetationsbrandschutz und Instandsetzung D/3 Kartenkunde E Grundlagen Feuerwehr E/1 Struktur, Organisation und Einsatzleitung E/2  Führungsorganisation – Fachberatung nach FwDV 100 E/3 Das Unionsverfahren – europäische Zusammenarbeit im Bevölkerungsschutz Tabelle: Alle Module im Überblick.
+
+- Hier setzt das Projekt „FFFLab“ der HFR  an: In einem 5-Millionen-Euro-Transferprojekt wird in den  kommenden drei Jahren ein Reallabor zur Effizienzsteige­ rung der Waldbrandbekämpfung durch einen verbesserten  Themen­bereich Module A Brandver­ halten A/1 Grundlagen Vegetationsbrände, allgemeine Brandlehre  A/2 Einflussfaktoren auf das Vegetationsbrandverhalten A/3  Erweiterte Wetterkunde  B Technik B/1 Ausrüstung zur Vegetationsbrandbekämpfung B/2 Grundlagen der Motorsägenarbeit (DGUV: Modul A) B/3 Baumfällung, Aufarbeitung, Einsatz von Winden (DGUV: Modul B) B/4 Einsatz von Freischneidern  C  Brand­ bekämpfung C/1 Strategie und Taktik, Sicherheit C/2 Feuerkontrolllinien, Schutz von Infrastruktur, Einsatz von Feuer, Nachlöscharbeiten C/3 Löschwasserförderung C/4 Brandbekämpfung aus der Luft  D Forstwirt­ schaft D/1 Forstliche Grundlagen, Struktur und Organisation D/2 Vorbeugender Vegetationsbrandschutz und Instandsetzung D/3 Kartenkunde E Grundlagen Feuerwehr E/1 Struktur, Organisation und Einsatzleitung E/2  Führungsorganisation – Fachberatung nach FwDV 100 E/3 Das Unionsverfahren – europäische Zusammenarbeit im Bevölkerungsschutz Tabelle: Alle Module im Überblick. (Quelle: BBK)  23 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Innovations- und Wissenstransfer zwischen Wehr und Wald  etabliert.
+
+- (Quelle: BBK)  23 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Innovations- und Wissenstransfer zwischen Wehr und Wald  etabliert. Ziel des Vorhabens der HFR und ihrer Partner ist  die Entwicklung und Etablierung eines landesweit zentralen,  bundesweit aktiven und international gut vernetzten Kom­ petenzzentrums zur Waldbrandprävention und -bekämp­ fung.
+
+- Ziel des Vorhabens der HFR und ihrer Partner ist  die Entwicklung und Etablierung eines landesweit zentralen,  bundesweit aktiven und international gut vernetzten Kom­ petenzzentrums zur Waldbrandprävention und -bekämp­ fung. Das FFFLab soll den gemeinsamen und den gegenseiti­ gen Erkenntnis- und Erfahrungsrückstand der Feuerwehren  und der Forstleute in Süd- und Mitteldeutschland aufho­ len und so die südliche Keimzelle eines dringend erforderli­ chen „Kompetenzzentrums für Feuerökologie, Waldbrand­ prävention und -bekämpfung“ werden, das perspektivisch  auch den internationalen Austausch mit Expertinnen und  Experten aus Wissenschaft, Wald und Wehr anderer Länder  sicherstellt.1 In verschiedenen Community-Projekten sollen bedarfs­ orientierte Angebote zum Aufbau von Transferkompeten­ zen in verschiedenen Bereichen des Vegetationsbrandma­ nagements entwickelt und umgesetzt werden.2 Eines dieser  Community-Projekte erfolgt ausgehend von der Branddi­ rektion Frankfurt am Main und soll den Transfer der bereits  erstellten Wissenssammlung in die Fläche durchführen und  nachhaltig begleiten.
+
+- Das FFFLab soll den gemeinsamen und den gegenseiti­ gen Erkenntnis- und Erfahrungsrückstand der Feuerwehren  und der Forstleute in Süd- und Mitteldeutschland aufho­ len und so die südliche Keimzelle eines dringend erforderli­ chen „Kompetenzzentrums für Feuerökologie, Waldbrand­ prävention und -bekämpfung“ werden, das perspektivisch  auch den internationalen Austausch mit Expertinnen und  Experten aus Wissenschaft, Wald und Wehr anderer Länder  sicherstellt.1 In verschiedenen Community-Projekten sollen bedarfs­ orientierte Angebote zum Aufbau von Transferkompeten­ zen in verschiedenen Bereichen des Vegetationsbrandma­ nagements entwickelt und umgesetzt werden.2 Eines dieser  Community-Projekte erfolgt ausgehend von der Branddi­ rektion Frankfurt am Main und soll den Transfer der bereits  erstellten Wissenssammlung in die Fläche durchführen und  nachhaltig begleiten. Übertragung auf andere internationale Projekte  Die Erkenntnisgewinne aus dem Tunesien-Projekt und  deren Übertragung in die Fläche Deutschlands werden da­ rüber hinaus in ein weiteres BBK-Projekt einfließen.
+
+- Übertragung auf andere internationale Projekte  Die Erkenntnisgewinne aus dem Tunesien-Projekt und  deren Übertragung in die Fläche Deutschlands werden da­ rüber hinaus in ein weiteres BBK-Projekt einfließen. Im  Königreich Jordanien herrschen ähnliche klimatische Be­ dingungen wie in Tunesien.
+
+- Im  Königreich Jordanien herrschen ähnliche klimatische Be­ dingungen wie in Tunesien. Zudem gilt Jordanien als eins  der wasserärmsten Länder der Welt.
+
+- Zudem gilt Jordanien als eins  der wasserärmsten Länder der Welt. Auf Wunsch des jor­ danischen Königshauses soll die lediglich ein Prozent gro­ ße Waldfläche, die sich größtenteils in den Gouvernements  1	 https://www.
+
+- Auf Wunsch des jor­ danischen Königshauses soll die lediglich ein Prozent gro­ ße Waldfläche, die sich größtenteils in den Gouvernements  1	 https://www. hs-rottenburg.
+
+- hs-rottenburg. net/aktuelles/aktuelle-meldungen/mel­ dungen/aktuell/hfr-erhaelt-zuschlag-fuer-ein-5-millionen-euro- transferprojekt-zur-waldbrandpraevention-und-waldbrandbekaemp­ fung/ 2	 https://www.
+
+- net/aktuelles/aktuelle-meldungen/mel­ dungen/aktuell/hfr-erhaelt-zuschlag-fuer-ein-5-millionen-euro- transferprojekt-zur-waldbrandpraevention-und-waldbrandbekaemp­ fung/ 2	 https://www. bmbf.
+
+- bmbf. de/bmbf/de/forschung/datipilot/datipilot_node.
+
+- de/bmbf/de/forschung/datipilot/datipilot_node. html Adschlun und Jerasch befindet, geschützt werden.
+
+- html Adschlun und Jerasch befindet, geschützt werden. Hierfür  beschaffte das BBK ebenfalls im Rahmen der vom Auswärti­ gen Amt geförderten Projektarbeit wendige Pick-ups zur Ve­ getationsbrandbekämpfung für die jordanische Zivilschutz­ behörde „Jordan Civil Defense Directorate“.
+
+- Hierfür  beschaffte das BBK ebenfalls im Rahmen der vom Auswärti­ gen Amt geförderten Projektarbeit wendige Pick-ups zur Ve­ getationsbrandbekämpfung für die jordanische Zivilschutz­ behörde „Jordan Civil Defense Directorate“. Des Weiteren ist  angedacht, die für Tunesien übersetzten Module in arabi­ scher Sprache den Projektpartnern in Jordanien zur Verfü­ gung zu stellen und somit den Wissensaustausch zwischen  den Partnerstaaten zu erhöhen.
+
+- Des Weiteren ist  angedacht, die für Tunesien übersetzten Module in arabi­ scher Sprache den Projektpartnern in Jordanien zur Verfü­ gung zu stellen und somit den Wissensaustausch zwischen  den Partnerstaaten zu erhöhen. Neben der Vegetationsbrandbekämpfung unterstützen  das BBK und die Feuerwehr Frankfurt den tunesischen Zivil­ schutz im Rahmen des Projektes noch in zahlreichen weite­ ren Bereichen.
+
+- Neben der Vegetationsbrandbekämpfung unterstützen  das BBK und die Feuerwehr Frankfurt den tunesischen Zivil­ schutz im Rahmen des Projektes noch in zahlreichen weite­ ren Bereichen. So erhielt Tunesien ebenfalls Fahrzeuge zur  technischen Hilfeleistung bei Verkehrsunfällen sowie Aus­ rüstung zur allgemeinen Brandbekämpfung und für den  Rettungsdienst.
+
+- So erhielt Tunesien ebenfalls Fahrzeuge zur  technischen Hilfeleistung bei Verkehrsunfällen sowie Aus­ rüstung zur allgemeinen Brandbekämpfung und für den  Rettungsdienst. Außerdem wurde die nationale Ausbil­ dungseinrichtung des Zivilschutzes, die „École Nationale de  la Protection Civile“, durch eine Ausstattungshilfe und die  Entwicklung eines Gesamtausbildungskonzepts unterstützt.
+
+- Außerdem wurde die nationale Ausbil­ dungseinrichtung des Zivilschutzes, die „École Nationale de  la Protection Civile“, durch eine Ausstattungshilfe und die  Entwicklung eines Gesamtausbildungskonzepts unterstützt. Des Weiteren arbeitet das BBK im Rahmen der Projektarbeit  in Jordanien und Tunesien zu den Themen strategisches Kri­ senmanagement, Risiko- und Krisenkommunikation sowie  Selbstschutz und Selbsthilfe der Bevölkerung.
+
+- Des Weiteren arbeitet das BBK im Rahmen der Projektarbeit  in Jordanien und Tunesien zu den Themen strategisches Kri­ senmanagement, Risiko- und Krisenkommunikation sowie  Selbstschutz und Selbsthilfe der Bevölkerung. Durch dieses  Paket an Maßnahmen trägt das BBK seit dreizehn Jahren im  Auftrag des Auswärtigen Amtes dazu bei, die lokalen Krisen­ reaktionsstrukturen auf operativer und strategischer Ebene  durch strukturelle Beratung, Ausbildung, Ausstattungshilfe  sowie die Vernetzung von Akteuren nachhaltig zu stärken.
+
+- Durch dieses  Paket an Maßnahmen trägt das BBK seit dreizehn Jahren im  Auftrag des Auswärtigen Amtes dazu bei, die lokalen Krisen­ reaktionsstrukturen auf operativer und strategischer Ebene  durch strukturelle Beratung, Ausbildung, Ausstattungshilfe  sowie die Vernetzung von Akteuren nachhaltig zu stärken. Karoline Kubanek ist Referentin im Referat Internationale Angele­ genheiten beim BBK und seit 2023 Projektleitung des vom Aus­ wärtigen Amt geförderten Zivilschutzprojekts mit dem Partner­ staat Tunesien.
+
+- Karoline Kubanek ist Referentin im Referat Internationale Angele­ genheiten beim BBK und seit 2023 Projektleitung des vom Aus­ wärtigen Amt geförderten Zivilschutzprojekts mit dem Partner­ staat Tunesien. Brandoberrat und Dipl.-Ing.
+
+- Brandoberrat und Dipl.-Ing. (FH) Forstwirtschaft Michael Müller  ist Stellv.
+
+- (FH) Forstwirtschaft Michael Müller  ist Stellv. Abteilungsleiter der Feuerwehr und Rettungsdienstaka­ demie der Branddirektion Frankfurt am Main und zudem seit 2012  in das Auslandsprojekt des BBK als fachliche Projektleitung der  Feuerwehr eingebunden.
+
+- Abteilungsleiter der Feuerwehr und Rettungsdienstaka­ demie der Branddirektion Frankfurt am Main und zudem seit 2012  in das Auslandsprojekt des BBK als fachliche Projektleitung der  Feuerwehr eingebunden. Marie Fuchs, B.
+
+- Marie Fuchs, B. Sc. Forstwirtschaft, ist Projektmanagerin der Feu­ erwehr und Rettungsdienstakademie der Branddirektion Frankfurt  am Main.
+
+- Sc. Forstwirtschaft, ist Projektmanagerin der Feu­ erwehr und Rettungsdienstakademie der Branddirektion Frankfurt  am Main. Sie befasst sich seit mehreren Jahren intensiv mit der  Thematik Vegetationsbrand.
+
+- Sie befasst sich seit mehreren Jahren intensiv mit der  Thematik Vegetationsbrand. Janina Bröhl ist komm.
+
+- Janina Bröhl ist komm. Leiterin des Referates Internationale Ange­ legenheiten im BBK und seit 2019 Projektleitung des vom Auswär­ tigen Amt geförderten Zivilschutzprojekts mit dem Partnerstaat  Jordanien.
+
+- Leiterin des Referates Internationale Ange­ legenheiten im BBK und seit 2019 Projektleitung des vom Auswär­ tigen Amt geförderten Zivilschutzprojekts mit dem Partnerstaat  Jordanien. Abbildung 2: Beispiel für eine Illustration aus dem Modul Einflussfaktoren auf das  Vegetationsbrandverhalten.
+
+- Abbildung 2: Beispiel für eine Illustration aus dem Modul Einflussfaktoren auf das  Vegetationsbrandverhalten. (Quelle: Max Walther)  24 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND EU-Peer-Review:  Waldbrandvorsorge in Brandenburg Dennis Lonsdorfer, Norman Barth und Lisanne Siebel-Achenbach Waldbrand-Hotspot Brandenburg Brandenburg zählt in der Bundesrepublik Deutschland,  unter anderem aufgrund landschaftsprägender Kiefern­ wälder und des vorherrschenden Klimas, zu einem der am  stärksten von Waldbränden gefährdeten Bundesländer.
+
+- (Quelle: Max Walther)  24 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND EU-Peer-Review:  Waldbrandvorsorge in Brandenburg Dennis Lonsdorfer, Norman Barth und Lisanne Siebel-Achenbach Waldbrand-Hotspot Brandenburg Brandenburg zählt in der Bundesrepublik Deutschland,  unter anderem aufgrund landschaftsprägender Kiefern­ wälder und des vorherrschenden Klimas, zu einem der am  stärksten von Waldbränden gefährdeten Bundesländer. Ins­ besondere in der jüngsten Vergangenheit waren bei tagelan­ gen Großwaldbränden Siedlungsflächen und Menschenle­ ben konkret bedroht.
+
+- Ins­ besondere in der jüngsten Vergangenheit waren bei tagelan­ gen Großwaldbränden Siedlungsflächen und Menschenle­ ben konkret bedroht. Dazu kommt die Gefahr durch Wald­ flächen, die unter Kampfmittelverdacht stehen und die  Brandbekämpfung erschweren oder sogar unmöglich ma­ chen.
+
+- Dazu kommt die Gefahr durch Wald­ flächen, die unter Kampfmittelverdacht stehen und die  Brandbekämpfung erschweren oder sogar unmöglich ma­ chen. Leider ist aufgrund der regionalen Bedingungen und  der fortschreitenden Klimakrise damit zu rechnen, dass die  Frequenz derartiger Ereignisse im Trend nicht abnimmt,  sondern ansteigen wird.
+
+- Leider ist aufgrund der regionalen Bedingungen und  der fortschreitenden Klimakrise damit zu rechnen, dass die  Frequenz derartiger Ereignisse im Trend nicht abnimmt,  sondern ansteigen wird. Umso wichtiger erscheint die Ent­ wicklung proaktiver und reaktiver Strategien im Zusam­ menspiel mit vorbeugenden und abwehrenden Maßnah­ men, insbesondere im Verflechtungsraum von Wald-, Vege­ tations- und Siedlungsflächen.
+
+- Umso wichtiger erscheint die Ent­ wicklung proaktiver und reaktiver Strategien im Zusam­ menspiel mit vorbeugenden und abwehrenden Maßnah­ men, insbesondere im Verflechtungsraum von Wald-, Vege­ tations- und Siedlungsflächen. Aus diesem Grund hat sich das Land Brandenburg er­ folgreich für ein sogenanntes Wildfire-Peer-Review im Rah­ men des EU-Katastrophenschutzverfahrens beworben, wel­ ches noch im Jahr 2024 durchgeführt wird.
+
+- Aus diesem Grund hat sich das Land Brandenburg er­ folgreich für ein sogenanntes Wildfire-Peer-Review im Rah­ men des EU-Katastrophenschutzverfahrens beworben, wel­ ches noch im Jahr 2024 durchgeführt wird. Das Wildfire-Peer-Review im Land Brandenburg Im Laufe des Jahres 2024 führt die Europäische Kommis­ sion insgesamt drei Peer-Reviews in Griechenland, Italien  und der Region Brandenburg (Deutschland) durch, die sich  alle auf das Risikomanagement von Waldbränden konzen­ trieren.1 Speziell für diesen Wildfire-Peer-Review-Prozess  wurde auf Basis des bereits bestehenden Peer-Review-As­ sessment-Framework (PRAF) ein themenspezifisches Wild­ fire-PRAF erarbeitet (siehe Abbildung 2).
+
+- Das Wildfire-Peer-Review im Land Brandenburg Im Laufe des Jahres 2024 führt die Europäische Kommis­ sion insgesamt drei Peer-Reviews in Griechenland, Italien  und der Region Brandenburg (Deutschland) durch, die sich  alle auf das Risikomanagement von Waldbränden konzen­ trieren.1 Speziell für diesen Wildfire-Peer-Review-Prozess  wurde auf Basis des bereits bestehenden Peer-Review-As­ sessment-Framework (PRAF) ein themenspezifisches Wild­ fire-PRAF erarbeitet (siehe Abbildung 2). Der Analyserah­ men konzentriert sich auf Risiken, die mit großflächigen  ungeplanten oder unkontrollierten Waldbränden verbun­ den sind, welche natürliche, kulturelle, industrielle oder  1	 Der Abschlussbericht des zuletzt durchgeführten Wildfire Peer Review  in Griechenland wurde veröffentlicht und bietet einen guten Überblick  über die möglichen Resultate solcher Missionen: https://civil-protecti- on-knowledge-network.
+
+- Der Analyserah­ men konzentriert sich auf Risiken, die mit großflächigen  ungeplanten oder unkontrollierten Waldbränden verbun­ den sind, welche natürliche, kulturelle, industrielle oder  1	 Der Abschlussbericht des zuletzt durchgeführten Wildfire Peer Review  in Griechenland wurde veröffentlicht und bietet einen guten Überblick  über die möglichen Resultate solcher Missionen: https://civil-protecti- on-knowledge-network. europa.
+
+- europa. eu/disaster-prevention-and-risk-ma­ nagement/ucpm-peer-review-programme#bcl-inpage-item-5022 Abbildung 1: Waldbrand in Falkenberg 2022.
+
+- eu/disaster-prevention-and-risk-ma­ nagement/ucpm-peer-review-programme#bcl-inpage-item-5022 Abbildung 1: Waldbrand in Falkenberg 2022. (Quelle: Blaulichtreport Elbe-Elster) Das UCPM-Peer-Review-Programm Das Peer-Review Programm für Ka­ tastrophenrisikomanagement- und  Bevölkerungsschutzsysteme der Eu­ ropäischen Union ist Teil der Bestre­ bungen des EU-Katastrophenschutz­ verfahrens (Union Civil Protection  Mechanism, UCPM) zur Katastrophenprävention und -vor­ sorge.
+
+- (Quelle: Blaulichtreport Elbe-Elster) Das UCPM-Peer-Review-Programm Das Peer-Review Programm für Ka­ tastrophenrisikomanagement- und  Bevölkerungsschutzsysteme der Eu­ ropäischen Union ist Teil der Bestre­ bungen des EU-Katastrophenschutz­ verfahrens (Union Civil Protection  Mechanism, UCPM) zur Katastrophenprävention und -vor­ sorge. Es ist ein Instrument, das den Katastrophenschutzbe­ hörden der Mitgliedsstaaten und der teilnehmenden Staaten  des UCPM sowie den Staaten in der Nachbarschaft der Euro­ päischen Union zur Verfügung gestellt wird.
+
+- Es ist ein Instrument, das den Katastrophenschutzbe­ hörden der Mitgliedsstaaten und der teilnehmenden Staaten  des UCPM sowie den Staaten in der Nachbarschaft der Euro­ päischen Union zur Verfügung gestellt wird. Die Generaldi­ rektion Europäischer Katastrophenschutz und Humanitäre  Hilfe (DG ECHO) der Europäischen Kommission verwaltet  das Programm und wird dabei vom Euro-Mediterranean  Centre for Climate Change (CMCC) mit Sitz in Italien als Ver­ tragspartner – derzeit bis Ende 2024 – unterstützt.
+
+- Die Generaldi­ rektion Europäischer Katastrophenschutz und Humanitäre  Hilfe (DG ECHO) der Europäischen Kommission verwaltet  das Programm und wird dabei vom Euro-Mediterranean  Centre for Climate Change (CMCC) mit Sitz in Italien als Ver­ tragspartner – derzeit bis Ende 2024 – unterstützt. 25 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 bewohnte Gebiete betreffen und erleichtert so thematische  Reviews zur Waldbrandvorsorge.
+
+- 25 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 bewohnte Gebiete betreffen und erleichtert so thematische  Reviews zur Waldbrandvorsorge. Neben diesem Zweck kann  das Wildfire-PRAF ebenso als Instrument zur Selbstbewer­ tung für Staaten und Regionen genutzt werden, um die eige­ nen Systeme für das Katastrophenrisikomanagement von  Waldbränden zu analysieren.
+
+- Neben diesem Zweck kann  das Wildfire-PRAF ebenso als Instrument zur Selbstbewer­ tung für Staaten und Regionen genutzt werden, um die eige­ nen Systeme für das Katastrophenrisikomanagement von  Waldbränden zu analysieren. Das Wildfire-Peer-Review im Land Brandenburg baut  grundsätzlich auf den Strukturen des Wildfire-PRAF auf.
+
+- Das Wildfire-Peer-Review im Land Brandenburg baut  grundsätzlich auf den Strukturen des Wildfire-PRAF auf. Das  Land Brandenburg wählte den Fokus des Reviews anhand  der lokalen Besonderheiten und in Zusammenarbeit mit der  Landesschule und Technischen Einrichtung für Brand- und  Katastrophenschutz des Landes Brandenburg (als regionale  Kontaktstelle), dem Bundesamt für Bevölkerungsschutz und  Katastrophenhilfe (BBK) (als nationale Kontaktstelle), dem  CMCC und DG ECHO.
+
+- Das  Land Brandenburg wählte den Fokus des Reviews anhand  der lokalen Besonderheiten und in Zusammenarbeit mit der  Landesschule und Technischen Einrichtung für Brand- und  Katastrophenschutz des Landes Brandenburg (als regionale  Kontaktstelle), dem Bundesamt für Bevölkerungsschutz und  Katastrophenhilfe (BBK) (als nationale Kontaktstelle), dem  CMCC und DG ECHO. Der Fokus des Reviews liegt auf dem  institutionellen und politischen Rahmen des Waldbrandri­ sikomanagements sowie auf den Bereichen Prävention, Vor­ bereitung, Bewältigung, Wiederherstellungsmaßnahmen  und Erkenntnisgewinn.
+
+- Der Fokus des Reviews liegt auf dem  institutionellen und politischen Rahmen des Waldbrandri­ sikomanagements sowie auf den Bereichen Prävention, Vor­ bereitung, Bewältigung, Wiederherstellungsmaßnahmen  und Erkenntnisgewinn. Wie läuft das Peer-Review ab?
+
+- Wie läuft das Peer-Review ab? Ein Peer-Review bietet die Gelegenheit, die bestehenden  Fähigkeiten eines Katastrophenschutzsystems auf nationa­ ler oder regionaler Ebene zur Bewältigung von menschen­ gemachten sowie Naturkatastrophen zu reflektieren.
+
+- Ein Peer-Review bietet die Gelegenheit, die bestehenden  Fähigkeiten eines Katastrophenschutzsystems auf nationa­ ler oder regionaler Ebene zur Bewältigung von menschen­ gemachten sowie Naturkatastrophen zu reflektieren. Dabei  sollen neue konzeptionelle und praktische Wege zur Stär­ kung der Prävention von und Vorsorge für Katastrophen  ermittelt werden.
+
+- Dabei  sollen neue konzeptionelle und praktische Wege zur Stär­ kung der Prävention von und Vorsorge für Katastrophen  ermittelt werden. Gleichzeitig wird der internationale Aus­ tausch bewährter Verfahren erleichtert.
+
+- Gleichzeitig wird der internationale Aus­ tausch bewährter Verfahren erleichtert. Um diese Ziele zu erreichen, wählen die organisierenden  Akteure ein Peer-Team aus: Expertinnen und Experten des  Waldbrand- und Katastrophenschutzes, die aufgrund ihrer  fachlichen Qualifikationen für die spezifische Mission geeig­ net sind.
+
+- Um diese Ziele zu erreichen, wählen die organisierenden  Akteure ein Peer-Team aus: Expertinnen und Experten des  Waldbrand- und Katastrophenschutzes, die aufgrund ihrer  fachlichen Qualifikationen für die spezifische Mission geeig­ net sind. Das Team bearbeitet das gewählte Thema der Mis­ sion in enger Partnerschaft mit der Europäischen Kommis­ sion, dem CMCC und den zuständigen Behörden des durch­ führenden Staates oder der Region.
+
+- Das Team bearbeitet das gewählte Thema der Mis­ sion in enger Partnerschaft mit der Europäischen Kommis­ sion, dem CMCC und den zuständigen Behörden des durch­ führenden Staates oder der Region. Kern des Prozesses ist eine Präsenz-Phase im durchfüh­ renden Land bzw. der Region, in welcher fachliche Inter­ views mit einschlägigen Behörden und Stakeholdern durch­ geführt werden.
+
+- Kern des Prozesses ist eine Präsenz-Phase im durchfüh­ renden Land bzw. der Region, in welcher fachliche Inter­ views mit einschlägigen Behörden und Stakeholdern durch­ geführt werden. Diesem Vor-Ort-Einsatz ist eine vorberei­ tende Desk-Research-Phase unter Zuhilfenahme von the­ matisch relevanten Dokumenten vorgeschaltet.
+
+- Diesem Vor-Ort-Einsatz ist eine vorberei­ tende Desk-Research-Phase unter Zuhilfenahme von the­ matisch relevanten Dokumenten vorgeschaltet. Die Ergeb­ nisse inklusive bewährter Verfahren und Empfehlungen  werden zuletzt in Abstimmung mit allen beteiligten Organi­ sationen in Form eines Abschlussberichts veröffentlicht.
+
+- Die Ergeb­ nisse inklusive bewährter Verfahren und Empfehlungen  werden zuletzt in Abstimmung mit allen beteiligten Organi­ sationen in Form eines Abschlussberichts veröffentlicht. Das  Peer-Review ist dabei explizit nicht als Überprüfung oder  Aufsichtsbericht konzipiert, sondern hat einen offenen und  konstruktiven Charakter.
+
+- Das  Peer-Review ist dabei explizit nicht als Überprüfung oder  Aufsichtsbericht konzipiert, sondern hat einen offenen und  konstruktiven Charakter. Die fachlichen Interviews finden  daher in informeller Atmosphäre und auf Augenhöhe statt.
+
+- Die fachlichen Interviews finden  daher in informeller Atmosphäre und auf Augenhöhe statt. Eine gemeinsame, moderne Fehlerkultur unter Ausschluss  von repressiven Konsequenzen steht dabei im Fokus.
+
+- Eine gemeinsame, moderne Fehlerkultur unter Ausschluss  von repressiven Konsequenzen steht dabei im Fokus. Was wurde bereits getan?
+
+- Was wurde bereits getan? Was kommt noch?
+
+- Was kommt noch? Das Land Brandenburg hat einige wesentliche Optimie­ rungspotenziale in der Gefahrenabwehr bei Vegetations­ bränden bereits im Waldbrandbericht 2022 zusammengetra­ gen.
+
+- Das Land Brandenburg hat einige wesentliche Optimie­ rungspotenziale in der Gefahrenabwehr bei Vegetations­ bränden bereits im Waldbrandbericht 2022 zusammengetra­ gen. Die Rückschlüsse haben jedoch aufgezeigt, dass für eine  zukunftssichere und effektive Reaktion auf ähnliche Ereig­ nisse eine fokussierte und tiefgreifende Evaluierung der Pro­ zesse des Waldbrandmanagements sinnvoll ist.
+
+- Die Rückschlüsse haben jedoch aufgezeigt, dass für eine  zukunftssichere und effektive Reaktion auf ähnliche Ereig­ nisse eine fokussierte und tiefgreifende Evaluierung der Pro­ zesse des Waldbrandmanagements sinnvoll ist. Das UCPM-Peer-Review soll als unabhängige Betrach­ tung der derzeitigen Steuerungs- und Reaktionsmaß­ nahmen vegetationsbrandspezifische Lösungsansätze im  Rahmen eines europäischen Best-Practice-Gedankens  Abbildung 2: Wildfire PRAF, Union Civil Protection Mechanism – Peer Review Pro- gramme for disaster risk management: Wildfire Peer Review Assessment Framework  (Wildfire PRAF).
+
+- Das UCPM-Peer-Review soll als unabhängige Betrach­ tung der derzeitigen Steuerungs- und Reaktionsmaß­ nahmen vegetationsbrandspezifische Lösungsansätze im  Rahmen eines europäischen Best-Practice-Gedankens  Abbildung 2: Wildfire PRAF, Union Civil Protection Mechanism – Peer Review Pro- gramme for disaster risk management: Wildfire Peer Review Assessment Framework  (Wildfire PRAF). (Quelle: Casartelli V, Mysiak J (2023)) Wildﬁre Risk  Management  Planning Wildﬁre  Prevention Wildﬁre  Preparedness Wildﬁre  Emergency  Response Recovery  and Lessons  learned Wildﬁre  Risk  Assessment Governance  of Wildﬁre Risk  Management Die EU-Kompetenzstelle im BBK Das BBK unterstützt als nationale  Kontaktstelle für den UCPM, im  Rahmen der am 01.01.2024 etab­ lierten EU-Kompetenzstelle, das  Land Brandenburg bei der Organisation des Wildfire-Peer- Reviews.
+
+- (Quelle: Casartelli V, Mysiak J (2023)) Wildﬁre Risk  Management  Planning Wildﬁre  Prevention Wildﬁre  Preparedness Wildﬁre  Emergency  Response Recovery  and Lessons  learned Wildﬁre  Risk  Assessment Governance  of Wildﬁre Risk  Management Die EU-Kompetenzstelle im BBK Das BBK unterstützt als nationale  Kontaktstelle für den UCPM, im  Rahmen der am 01.01.2024 etab­ lierten EU-Kompetenzstelle, das  Land Brandenburg bei der Organisation des Wildfire-Peer- Reviews. Es fungiert dabei unter anderem als Mittler zwi­ schen der europäischen und subnationalen Ebene.
+
+- Es fungiert dabei unter anderem als Mittler zwi­ schen der europäischen und subnationalen Ebene. Mitarbei­ tende des BBK begleiten den gesamten Prozess und nehmen  an den Planungstreffen sowie der Vor-Ort-Mission teil.
+
+- Mitarbei­ tende des BBK begleiten den gesamten Prozess und nehmen  an den Planungstreffen sowie der Vor-Ort-Mission teil. Als erstes Peer-Review in Deutsch­ land bietet die EU-Mission in Bran­ denburg eine hervorragende Gele­ genheit, die Zusammenarbeit zwi­ schen Bund und Ländern im  Bevölkerungsschutz zu intensivieren.
+
+- Als erstes Peer-Review in Deutsch­ land bietet die EU-Mission in Bran­ denburg eine hervorragende Gele­ genheit, die Zusammenarbeit zwi­ schen Bund und Ländern im  Bevölkerungsschutz zu intensivieren. Über die EU-Kompetenzstelle im  BBK werden die Ergebnisse des Peer-Reviews perspektivisch  mit den weiteren beteiligten Bundesländern und Akteuren  geteilt, um so einen systemischen Mehrwert zu erwirken.
+
+- Über die EU-Kompetenzstelle im  BBK werden die Ergebnisse des Peer-Reviews perspektivisch  mit den weiteren beteiligten Bundesländern und Akteuren  geteilt, um so einen systemischen Mehrwert zu erwirken. 26 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND identifizieren.
+
+- 26 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND identifizieren. Dabei sollen insbesondere ressort- und behör­ denübergreifende Herausforderungen in Verbindung mit  besonderen Umständen, wie Kampfmittelverdachtsflächen  oder Waldsiedlungen (Wildland-Urban-Interface), betrach­ tet werden.
+
+- Dabei sollen insbesondere ressort- und behör­ denübergreifende Herausforderungen in Verbindung mit  besonderen Umständen, wie Kampfmittelverdachtsflächen  oder Waldsiedlungen (Wildland-Urban-Interface), betrach­ tet werden. Der Peer-Review-Prozess für das Land Brandenburg ist  im Frühling 2024 offiziell gestartet.
+
+- Der Peer-Review-Prozess für das Land Brandenburg ist  im Frühling 2024 offiziell gestartet. Nach der Auswahl der  Peers beginnt als Nächstes im Sommer 2024 die vorgeschal­ tete Desk-Research-Phase, welche die Grundlage für den im  November 2024 geplanten Vor-Ort-Einsatz in Brandenburg  bildet.
+
+- Nach der Auswahl der  Peers beginnt als Nächstes im Sommer 2024 die vorgeschal­ tete Desk-Research-Phase, welche die Grundlage für den im  November 2024 geplanten Vor-Ort-Einsatz in Brandenburg  bildet. Der finale Abschlussbericht des Peer-Reviews wird im  Frühjahr 2025 erwartet.
+
+- Der finale Abschlussbericht des Peer-Reviews wird im  Frühjahr 2025 erwartet. Dennis Lonsdorfer und Lisanne Siebel-Achenbach arbeiten im Re­ ferat für Internationale Angelegenheiten beim Bundesamt für Be­ völkerungsschutz und Katastrophenhilfe (BBK).
+
+- Dennis Lonsdorfer und Lisanne Siebel-Achenbach arbeiten im Re­ ferat für Internationale Angelegenheiten beim Bundesamt für Be­ völkerungsschutz und Katastrophenhilfe (BBK). Norman Barth ist Brandamtsrat im Leitungsbüro der Landesschule  und Technischen Einrichtung für Brand- und Katastrophenschutz  des Landes Brandenburg (LSTE).
+
+- Norman Barth ist Brandamtsrat im Leitungsbüro der Landesschule  und Technischen Einrichtung für Brand- und Katastrophenschutz  des Landes Brandenburg (LSTE). Abbildung 3: Der Peer-Review-Prozess in Brandenburg.
+
+- Abbildung 3: Der Peer-Review-Prozess in Brandenburg. (Quelle: DG ECHO: Land Brandenburg.
+
+- (Quelle: DG ECHO: Land Brandenburg. Thematisches Peer-Review zum Management von Waldbrandrisiken – Factsheet)  27 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Modulare Ausbildung für deutsche  GFFF-V-Einheiten im europäischen  Auslandseinsatz Bundesweit einheitliches Schulungskonzept für deutsche EU-Module Thorsten Ohm, Christoph Schaaf, Martin Engelskirchen und Stefan Strabel Für die bodengebundene Vegetationsbrandbekämpfung  sind im EU-Katastrophenschutzverfahren (Union Civil Pro­ tection Mechanism, UCPM) sogenannte GFFF-V-Module  (Ground Forest Firefighting using Vehicles) vorgesehen.
+
+- Thematisches Peer-Review zum Management von Waldbrandrisiken – Factsheet)  27 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Modulare Ausbildung für deutsche  GFFF-V-Einheiten im europäischen  Auslandseinsatz Bundesweit einheitliches Schulungskonzept für deutsche EU-Module Thorsten Ohm, Christoph Schaaf, Martin Engelskirchen und Stefan Strabel Für die bodengebundene Vegetationsbrandbekämpfung  sind im EU-Katastrophenschutzverfahren (Union Civil Pro­ tection Mechanism, UCPM) sogenannte GFFF-V-Module  (Ground Forest Firefighting using Vehicles) vorgesehen. Im  Zuge der Zertifizierung des ersten deutschen GFFF-V-Mo­ duls wurde an der Bundesakademie für Bevölkerungsschutz  und Zivile Verteidigung (BABZ) in Kooperation mit den be­ stehenden und im Aufbau befindlichen Einheiten sowie den  Organisationen @fire e.
+
+- Im  Zuge der Zertifizierung des ersten deutschen GFFF-V-Mo­ duls wurde an der Bundesakademie für Bevölkerungsschutz  und Zivile Verteidigung (BABZ) in Kooperation mit den be­ stehenden und im Aufbau befindlichen Einheiten sowie den  Organisationen @fire e. V. und Waldbrandteam e.
+
+- V. und Waldbrandteam e. V. ein mo­ dular aufgebautes Ausbildungskonzept für die Einsatzkräfte  der Module entwickelt und in Pilotdurchführungen erprobt.
+
+- V. ein mo­ dular aufgebautes Ausbildungskonzept für die Einsatzkräfte  der Module entwickelt und in Pilotdurchführungen erprobt. Das Ausbildungsformat soll unter der Zielsetzung eines har­ monisierten Ausbildungsstands zukünftig allen in Deutsch­ land aufgestellten GFFF-V-Modulen zur Verfügung stehen.
+
+- Das Ausbildungsformat soll unter der Zielsetzung eines har­ monisierten Ausbildungsstands zukünftig allen in Deutsch­ land aufgestellten GFFF-V-Modulen zur Verfügung stehen. Deutsche EU-Module Ground Forest Firefighting  using Vehicles (GFFF-V)  Bei den GFFF-V-Modulen des UCPM handelt es sich um  Module aus mehreren geländefähigen bzw. -gängigen Tank­ löschfahrzeugen, ergänzt um eine Modulführung und eine  Versorgungs- und Logistikkomponente zur Sicherstellung  der Autarkie des Moduls über einen Zeitraum von mindes­ tens sieben Tagen (vgl. Tabelle).
+
+- Deutsche EU-Module Ground Forest Firefighting  using Vehicles (GFFF-V)  Bei den GFFF-V-Modulen des UCPM handelt es sich um  Module aus mehreren geländefähigen bzw. -gängigen Tank­ löschfahrzeugen, ergänzt um eine Modulführung und eine  Versorgungs- und Logistikkomponente zur Sicherstellung  der Autarkie des Moduls über einen Zeitraum von mindes­ tens sieben Tagen (vgl. Tabelle). In der 47.
+
+- In der 47. Sitzung des Ausschusses für Feuerwehrange­ legenheiten, Katastrophenschutz und zivile Verteidigung  (AFKzV) wurde über die Aufstellung deutscher GFFF-V-Mo­ dule beraten und vor dem Hintergrund der Ergebnisse der  Waldbrandkonferenz von Deutscher Feuerwehrverband  (DVF) und Arbeitskreis V, Feuerwehrangelegenheiten, Ret­ tungswesen und zivile Verteidigung der ständigen Konfe­ renz der Innenminister und Senatoren der Länder (AK V)  angeregt, mindestens vier GFFF-V-Module als deutschen  Abbildung 1: Wappen der GFFF-V DE1.
+
+- Sitzung des Ausschusses für Feuerwehrange­ legenheiten, Katastrophenschutz und zivile Verteidigung  (AFKzV) wurde über die Aufstellung deutscher GFFF-V-Mo­ dule beraten und vor dem Hintergrund der Ergebnisse der  Waldbrandkonferenz von Deutscher Feuerwehrverband  (DVF) und Arbeitskreis V, Feuerwehrangelegenheiten, Ret­ tungswesen und zivile Verteidigung der ständigen Konfe­ renz der Innenminister und Senatoren der Länder (AK V)  angeregt, mindestens vier GFFF-V-Module als deutschen  Abbildung 1: Wappen der GFFF-V DE1. (Quelle: BF Bonn) Teilbereich Aufgabenbeschreibung Tasks To contribute to the extinction of large  forest and vegetal fires using vehicles Capacities Sufficient human resources and vehicles  for continuous operations with a mini­ mum of 20 firefighters at any time Main com­ ponents •	Firefighters trained to fulfil the above  mentioned task •	4 vehicles with off-road capability •	Tank capacity of each vehicle of at  least 2.000 litres •	Adaptors for hose connection inclu­ ding the Storz standard Self-suffi­ ciency •	Article 12 applies Deployment •	Availability for departure maximum  6 hours after acceptance of the offer •	Ability to work continuously during  7 days •	Deployment by land or sea.
+
+- (Quelle: BF Bonn) Teilbereich Aufgabenbeschreibung Tasks To contribute to the extinction of large  forest and vegetal fires using vehicles Capacities Sufficient human resources and vehicles  for continuous operations with a mini­ mum of 20 firefighters at any time Main com­ ponents •	Firefighters trained to fulfil the above  mentioned task •	4 vehicles with off-road capability •	Tank capacity of each vehicle of at  least 2.000 litres •	Adaptors for hose connection inclu­ ding the Storz standard Self-suffi­ ciency •	Article 12 applies Deployment •	Availability for departure maximum  6 hours after acceptance of the offer •	Ability to work continuously during  7 days •	Deployment by land or sea. Deploy­ ment by air is only an option in well  justified cases Tabelle: Anforderungen an GFFF-V-Einheiten gemäß EU-Vorgaben (Auszug).
+
+- Deploy­ ment by air is only an option in well  justified cases Tabelle: Anforderungen an GFFF-V-Einheiten gemäß EU-Vorgaben (Auszug). (Quelle:  Decision No 1313/2013/EU of the European Parliament and of the Council on a Union  Civil Protection Mechanism)  28 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Beitrag innerhalb des europäischen Katastrophenschutz­ mechanismus (Union Civil Protection Mechanism, UCPM)  aufzubauen.
+
+- (Quelle:  Decision No 1313/2013/EU of the European Parliament and of the Council on a Union  Civil Protection Mechanism)  28 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Beitrag innerhalb des europäischen Katastrophenschutz­ mechanismus (Union Civil Protection Mechanism, UCPM)  aufzubauen. Folgende Bundesländer haben hierzu ihre grundsätzliche  Bereitschaft erklärt: Modul D-Nord: Niedersachsen Modul D-West: Nordrhein-Westfalen Modul D-Ost: Sachsen, Sachsen-Anhalt und Thüringen Modul D-Süd: Hessen, Baden-Württemberg und Bayern  (jeweils mit eigenständigen Modulen).
+
+- Folgende Bundesländer haben hierzu ihre grundsätzliche  Bereitschaft erklärt: Modul D-Nord: Niedersachsen Modul D-West: Nordrhein-Westfalen Modul D-Ost: Sachsen, Sachsen-Anhalt und Thüringen Modul D-Süd: Hessen, Baden-Württemberg und Bayern  (jeweils mit eigenständigen Modulen). Als erste Einheit wurde in 2019 damit begonnen, das Mo­ dul West (NRW) aufzubauen.
+
+- Als erste Einheit wurde in 2019 damit begonnen, das Mo­ dul West (NRW) aufzubauen. Die Einheit ging nach umfang­ reichen Vorbereitungen im Jahr 2021 auf eine Anforderung  aus Griechenland hin erstmals in den Auslandseinsatz.
+
+- Die Einheit ging nach umfang­ reichen Vorbereitungen im Jahr 2021 auf eine Anforderung  aus Griechenland hin erstmals in den Auslandseinsatz. (Aus­ führlicher Bericht dazu auf S. 32)  Entwicklung eines modularen  Ausbildungsangebots  Nach dem ersten Einsatz des GFFF-V-Moduls NRW in  Griechenland 2021 kam es im Herbst gleichen Jahres zu  einer Anfrage seitens der von der Berufsfeuerwehr Bonn ge­ stellten Modulführung an die BABZ, ob im Rahmen eines  Workshop-Formats die Möglichkeit zur Entwicklung von  Eckpunkten eines Ausbildungskonzepts bestehe.
+
+- (Aus­ führlicher Bericht dazu auf S. 32)  Entwicklung eines modularen  Ausbildungsangebots  Nach dem ersten Einsatz des GFFF-V-Moduls NRW in  Griechenland 2021 kam es im Herbst gleichen Jahres zu  einer Anfrage seitens der von der Berufsfeuerwehr Bonn ge­ stellten Modulführung an die BABZ, ob im Rahmen eines  Workshop-Formats die Möglichkeit zur Entwicklung von  Eckpunkten eines Ausbildungskonzepts bestehe. Der Bedarf für ein solches Konzept wurde nicht nur aus  den Erkenntnissen im Rahmen des ersten Einsatzes abge­ leitet, sondern auch im Vorfeld der geplanten Zertifizierung  der Einheit für den RescEU-Pool gesehen.
+
+- Der Bedarf für ein solches Konzept wurde nicht nur aus  den Erkenntnissen im Rahmen des ersten Einsatzes abge­ leitet, sondern auch im Vorfeld der geplanten Zertifizierung  der Einheit für den RescEU-Pool gesehen. Als Zeithorizont  wurde die Umsetzung erster Schulungsmaßnahmen noch  vor Beginn der Vegetationsbrandsaison 2022 angestrebt, so­ dass ein schnelles und agiles Vorgehen bei der Entwicklung  der Ausbildungsformate erforderlich wurde.
+
+- Als Zeithorizont  wurde die Umsetzung erster Schulungsmaßnahmen noch  vor Beginn der Vegetationsbrandsaison 2022 angestrebt, so­ dass ein schnelles und agiles Vorgehen bei der Entwicklung  der Ausbildungsformate erforderlich wurde. Insbesonde­ re sollten schnelle Evaluierungen der jeweils durchgeführ­ ten Ausbildungsteile eine passgenaue Weiterentwicklung  der Ausbildungsinhalte ermöglichen.
+
+- Insbesonde­ re sollten schnelle Evaluierungen der jeweils durchgeführ­ ten Ausbildungsteile eine passgenaue Weiterentwicklung  der Ausbildungsinhalte ermöglichen. Von Beginn an wurde  hierbei die Vision eines übergreifenden Ausbildungsange­ bots auch für die weiteren, parallel und nachfolgend in Auf­ bau befindlichen deutschen GFFF-V-Module verfolgt.
+
+- Von Beginn an wurde  hierbei die Vision eines übergreifenden Ausbildungsange­ bots auch für die weiteren, parallel und nachfolgend in Auf­ bau befindlichen deutschen GFFF-V-Module verfolgt. An einem ersten Workshop Anfang 2022 nahmen neben  der Modulführung der Feuerwehr Bonn auch Vertreter des  Landes NRW sowie der Organisation @fire e.
+
+- An einem ersten Workshop Anfang 2022 nahmen neben  der Modulführung der Feuerwehr Bonn auch Vertreter des  Landes NRW sowie der Organisation @fire e. V. teil.
+
+- V. teil. Letzte­ re waren zu diesem Zeitpunkt bereits als Fachberater in das  NRW-Modul eingebunden und auch im ersten Einsatz des  Moduls in Griechenland dabei gewesen.
+
+- Letzte­ re waren zu diesem Zeitpunkt bereits als Fachberater in das  NRW-Modul eingebunden und auch im ersten Einsatz des  Moduls in Griechenland dabei gewesen. Als inhaltliche Schwerpunkte der zu konzipierenden  Ausbildung wurden folgende Themenfelder identifiziert:  •	 Grundlagenwissen für den Auslandseinsatz •	 Fachliche Grundlagen der Vegetationsbrandbekämpfung  im Ausland •	 Weiter gehende Ausbildungsinhalte für Führungskräfte  innerhalb des Moduls Hieraus wurde eine vorläufige Struktur des Ausbildungs­ angebots mit einer Gliederung in insgesamt vier Module  abgeleitet, deren inhaltliche Abgrenzung und Ausgestaltung  im Folgenden noch ausführlicher dargestellt wird.
+
+- Als inhaltliche Schwerpunkte der zu konzipierenden  Ausbildung wurden folgende Themenfelder identifiziert:  •	 Grundlagenwissen für den Auslandseinsatz •	 Fachliche Grundlagen der Vegetationsbrandbekämpfung  im Ausland •	 Weiter gehende Ausbildungsinhalte für Führungskräfte  innerhalb des Moduls Hieraus wurde eine vorläufige Struktur des Ausbildungs­ angebots mit einer Gliederung in insgesamt vier Module  abgeleitet, deren inhaltliche Abgrenzung und Ausgestaltung  im Folgenden noch ausführlicher dargestellt wird. Neben dem modularen Aufbau des Ausbildungsangebots  stand eine ehrenamtsfreundliche und auf die erforderlichen  Teilnehmerzahlen skalierbare Durchführung im Fokus der  Überlegungen.
+
+- Neben dem modularen Aufbau des Ausbildungsangebots  stand eine ehrenamtsfreundliche und auf die erforderlichen  Teilnehmerzahlen skalierbare Durchführung im Fokus der  Überlegungen. Hierzu wurde von Beginn an eine möglichst  weitgehende Nutzung von online-basierten Lernformaten wie  z. B. Selbstlernmodulen angestrebt, die ein asynchrones, selbst­ gesteuertes Lernen bei freier Zeiteinteilung ermög lichen.
+
+- Hierzu wurde von Beginn an eine möglichst  weitgehende Nutzung von online-basierten Lernformaten wie  z. B. Selbstlernmodulen angestrebt, die ein asynchrones, selbst­ gesteuertes Lernen bei freier Zeiteinteilung ermög lichen. Die Ausbildungsinhalte im Hinblick auf die Vegetations­ brandbekämpfung und speziell auf die Einsatztaktik bei Ein­ sätzen im europäischen Ausland wurden in enger Zusam­ menarbeit mit den Modulverantwortlichen aus NRW und  Niedersachsen sowie den Organisationen @fire e.
+
+- Die Ausbildungsinhalte im Hinblick auf die Vegetations­ brandbekämpfung und speziell auf die Einsatztaktik bei Ein­ sätzen im europäischen Ausland wurden in enger Zusam­ menarbeit mit den Modulverantwortlichen aus NRW und  Niedersachsen sowie den Organisationen @fire e. V. und  Waldbrandteam e.
+
+- V. und  Waldbrandteam e. V. erstellt.
+
+- V. erstellt. Durch deren umfassende Ex­ pertise in der Vegetationsbrandbekämpfung und Erfahrung  in realen Auslandseinsätzen konnte von Beginn an eine ho­ he fachliche Qualität der Ausbildungsinhalte gewährleistet  werden.
+
+- Durch deren umfassende Ex­ pertise in der Vegetationsbrandbekämpfung und Erfahrung  in realen Auslandseinsätzen konnte von Beginn an eine ho­ he fachliche Qualität der Ausbildungsinhalte gewährleistet  werden. Dieser Zielsetzung wurde auch durch die Auswahl  geeigneter Gastdozierender u. a. aus den Reihen der genann­ ten Organisationen sowie aus dem Modul NRW entspro­ chen, die eine praxisnahe und fachlich korrekte Umsetzung  der Seminarinhalte gewährleisten.
+
+- Dieser Zielsetzung wurde auch durch die Auswahl  geeigneter Gastdozierender u. a. aus den Reihen der genann­ ten Organisationen sowie aus dem Modul NRW entspro­ chen, die eine praxisnahe und fachlich korrekte Umsetzung  der Seminarinhalte gewährleisten. Als Maßstab an die Gastdozierenden im Themenfeld  Vegetationsbrandbekämpfung wurden hier u. a. folgende  Quali fikationen vorausgesetzt:  •	 Einschlägige Einsatzerfahrung in der Vegetationsbrand­ bekämpfung im In- und Ausland •	 Auslandspraktika, Hospitationen bei realen Vegetations­ brandbekämpfungsmaßnahmen und internationale  Kurse zu unterschiedlichen Schwerpunkten der  Vegetationsbrandbekämpfung •	 Langjährige praktische Erfahrung als Trainer in der Aus­ bildung zur Vegetationsbrandbekämpfung Dies ist mit dem Qualifikationsniveau der Ausbildung zum  Firefighter 1 nach Richtlinien und Kursen der amerikani­ schen National Wildfire Coordinating Group (NWCG) der  USA vergleichbar: •	 S-130 Basic Wildland Firefighting •	 S-131 Squad Boss (Staffelführer Waldbrand) •	 S-190 Basic Wildland Fire Behavior •	 S-219 Firing Operations •	 L-180 Leading in the Wildland Fire Service Die fachliche Ausgestaltung der Lerninhalte im Hin­ blick auf die Vegetationsbrandbekämpfung erfolgte darü­ ber hinaus in enger Anlehnung an die (Zwischen-)Ergebnis­ se der Unterarbeitsgruppe „Ausbildung“ der länderoffenen  Arbeitsgruppe Nationaler Waldbrandschutz, um eine An­ schlussfähigkeit und Widerspruchsfreiheit der vermittelten  Inhalte zu bestehenden und in Entwicklung befindlichen  Ausbildungskonzepte zur Vegetationsbrandbekämpfung in  Deutschland zu gewährleisten.
+
+- Als Maßstab an die Gastdozierenden im Themenfeld  Vegetationsbrandbekämpfung wurden hier u. a. folgende  Quali fikationen vorausgesetzt:  •	 Einschlägige Einsatzerfahrung in der Vegetationsbrand­ bekämpfung im In- und Ausland •	 Auslandspraktika, Hospitationen bei realen Vegetations­ brandbekämpfungsmaßnahmen und internationale  Kurse zu unterschiedlichen Schwerpunkten der  Vegetationsbrandbekämpfung •	 Langjährige praktische Erfahrung als Trainer in der Aus­ bildung zur Vegetationsbrandbekämpfung Dies ist mit dem Qualifikationsniveau der Ausbildung zum  Firefighter 1 nach Richtlinien und Kursen der amerikani­ schen National Wildfire Coordinating Group (NWCG) der  USA vergleichbar: •	 S-130 Basic Wildland Firefighting •	 S-131 Squad Boss (Staffelführer Waldbrand) •	 S-190 Basic Wildland Fire Behavior •	 S-219 Firing Operations •	 L-180 Leading in the Wildland Fire Service Die fachliche Ausgestaltung der Lerninhalte im Hin­ blick auf die Vegetationsbrandbekämpfung erfolgte darü­ ber hinaus in enger Anlehnung an die (Zwischen-)Ergebnis­ se der Unterarbeitsgruppe „Ausbildung“ der länderoffenen  Arbeitsgruppe Nationaler Waldbrandschutz, um eine An­ schlussfähigkeit und Widerspruchsfreiheit der vermittelten  Inhalte zu bestehenden und in Entwicklung befindlichen  Ausbildungskonzepte zur Vegetationsbrandbekämpfung in  Deutschland zu gewährleisten. Für die Entwicklung und Vermittlung der Inhal­ te im Themenfeld „Grundlagen Auslandeinsatz“ wurden   29 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Dozierende u. a. aus dem Gemeinsamen Melde- und Lage­ zentrum (GMLZ) von Bund und Ländern sowie aus der Bun­ desanstalt Technisches Hilfswerk (THW) mit entsprechen­ der Einsatzerfahrung im Auslandsbereich und im Qualifika­ tionslevel EU-Experte und höher eingebunden.
+
+- Für die Entwicklung und Vermittlung der Inhal­ te im Themenfeld „Grundlagen Auslandeinsatz“ wurden   29 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Dozierende u. a. aus dem Gemeinsamen Melde- und Lage­ zentrum (GMLZ) von Bund und Ländern sowie aus der Bun­ desanstalt Technisches Hilfswerk (THW) mit entsprechen­ der Einsatzerfahrung im Auslandsbereich und im Qualifika­ tionslevel EU-Experte und höher eingebunden. Modulare Struktur und Aufbau der Ausbildung Modul A – Grundlagen für den Einsatz im europäischen  Ausland Zielsetzung des rund zehn Unterrichtseinheiten um­ fassenden Moduls A ist die passgenaue Bereitstellung von  Grundlagenwissen für den Auslandseinsatz, abgestimmt auf  die Bedürfnisse der Mannschaften in den GFFF-V-Modu­ len.
+
+- Modulare Struktur und Aufbau der Ausbildung Modul A – Grundlagen für den Einsatz im europäischen  Ausland Zielsetzung des rund zehn Unterrichtseinheiten um­ fassenden Moduls A ist die passgenaue Bereitstellung von  Grundlagenwissen für den Auslandseinsatz, abgestimmt auf  die Bedürfnisse der Mannschaften in den GFFF-V-Modu­ len. Die Besonderheiten des Einsatzes als geschlossenes Mo­ dul (Unterbringung im weitgehend autarken Camp, Einsatz  nahezu ausschließlich als geschlossene Fahrzeugbesatzun­ gen mit eigener Führungskraft, Einsatz überwiegend ehren­ amtlicher Einsatzkräfte) haben bei der Konzeption des Mo­ duls besonderes Augenmerk erhalten.
+
+- Die Besonderheiten des Einsatzes als geschlossenes Mo­ dul (Unterbringung im weitgehend autarken Camp, Einsatz  nahezu ausschließlich als geschlossene Fahrzeugbesatzun­ gen mit eigener Führungskraft, Einsatz überwiegend ehren­ amtlicher Einsatzkräfte) haben bei der Konzeption des Mo­ duls besonderes Augenmerk erhalten. So wird hier Grund­ wissen zum europäischen Katastrophenschutz-Mechanis­ mus (UCPM) und den dazugehörigen Abläufen z. B. bei Alar­ mierungen der gemeldeten Module vermittelt.
+
+- So wird hier Grund­ wissen zum europäischen Katastrophenschutz-Mechanis­ mus (UCPM) und den dazugehörigen Abläufen z. B. bei Alar­ mierungen der gemeldeten Module vermittelt. Außerdem  stehen Sicherheitsgrundsätze, Erwartungen an die Einsatz­ kräfte und Verhalten im Auslandseinsatz sowie Gesund­ heitsfürsorge und Stressmanagement im Fokus.
+
+- Außerdem  stehen Sicherheitsgrundsätze, Erwartungen an die Einsatz­ kräfte und Verhalten im Auslandseinsatz sowie Gesund­ heitsfürsorge und Stressmanagement im Fokus. Modul B – Fachliche Grundlagen der Vegetationsbrandbe­ kämpfung (Theorie) Modul B strebt einen einheitlichen Mindestausbildungs­ stand der Einsatzkräfte im Hinblick auf die fachli­ chen Grund lagen der Vegetationsbrandbekämpfung an.
+
+- Modul B – Fachliche Grundlagen der Vegetationsbrandbe­ kämpfung (Theorie) Modul B strebt einen einheitlichen Mindestausbildungs­ stand der Einsatzkräfte im Hinblick auf die fachli­ chen Grund lagen der Vegetationsbrandbekämpfung an. Besondere Berücksichtigung finden hierbei die Besonder­ heiten der Brandbekämpfung im europäischen Ausland, ins­ besondere im Mittelmeerraum.
+
+- Besondere Berücksichtigung finden hierbei die Besonder­ heiten der Brandbekämpfung im europäischen Ausland, ins­ besondere im Mittelmeerraum. Wetterbedingungen, Topo­ grafie und weitere Besonderheiten erfordern hier eine ge­ zielte Vorbereitung und umfassende Kenntnisse über ge­ eignete taktische Vorgehensweisen.
+
+- Wetterbedingungen, Topo­ grafie und weitere Besonderheiten erfordern hier eine ge­ zielte Vorbereitung und umfassende Kenntnisse über ge­ eignete taktische Vorgehensweisen. Zu den Inhalten des  Moduls gehören daher u. a. grundlegende Begriffe der Vege­ tationsbrandbekämpfung, Sicherheitsgrundsätze, Grund­ lagen der Orientierung im Gelände und einsatztaktisches  Grundwissen.
+
+- Zu den Inhalten des  Moduls gehören daher u. a. grundlegende Begriffe der Vege­ tationsbrandbekämpfung, Sicherheitsgrundsätze, Grund­ lagen der Orientierung im Gelände und einsatztaktisches  Grundwissen. Das Modul umfasst einen Zeiteinsatz von ca.  15 Unterrichtseinheiten.
+
+- Das Modul umfasst einen Zeiteinsatz von ca.  15 Unterrichtseinheiten. Modul C – Vegetationsbrandbekämpfung im Auslandsein­ satz (Praxis) Eine erste praktische Anwendung der Grundkenntnisse  aus Modul B soll in Modul C ermöglicht werden.
+
+- Modul C – Vegetationsbrandbekämpfung im Auslandsein­ satz (Praxis) Eine erste praktische Anwendung der Grundkenntnisse  aus Modul B soll in Modul C ermöglicht werden. Die Durch­ führung an einzelnen Stationen, z. B. zur Schlauchvornahme  im Gelände und zum Umgang mit Handwerkzeugen, kom­ biniert mit kleineren Einsatzübungen schafft die Grundla­ ge für eine Vertiefung der Kenntnisse und Fertigkeiten an  den Heimatstandorten der Modulangehörigen.
+
+- Die Durch­ führung an einzelnen Stationen, z. B. zur Schlauchvornahme  im Gelände und zum Umgang mit Handwerkzeugen, kom­ biniert mit kleineren Einsatzübungen schafft die Grundla­ ge für eine Vertiefung der Kenntnisse und Fertigkeiten an  den Heimatstandorten der Modulangehörigen. Je nach Be­ darf können die o. a.
+
+- Je nach Be­ darf können die o. a. Inhalte mit einer Aufbauübung des Ba­ sislagers des jeweiligen GFFF-V-Moduls kombiniert wer­ den, um die geforderte Autarkie des Moduls zu erproben  und einen ersten Eindruck der Unterbringung in einem sol­ chen Camp zu ermöglichen.
+
+- Inhalte mit einer Aufbauübung des Ba­ sislagers des jeweiligen GFFF-V-Moduls kombiniert wer­ den, um die geforderte Autarkie des Moduls zu erproben  und einen ersten Eindruck der Unterbringung in einem sol­ chen Camp zu ermöglichen. Modul C umfasst je nach Aus­ bildungsbedarf und Kenntnisstand der Teilnehmenden  ca. 10–15 Unterrichtseinheiten.
+
+- Modul C umfasst je nach Aus­ bildungsbedarf und Kenntnisstand der Teilnehmenden  ca. 10–15 Unterrichtseinheiten. Eine Durchführung ist auf  geeigneten und hinreichend großen Freigeländen, wie z. B.  Truppenübungsplätzen, vorgesehen.
+
+- Eine Durchführung ist auf  geeigneten und hinreichend großen Freigeländen, wie z. B.  Truppenübungsplätzen, vorgesehen. Abbildung 2: Modulare Ausbildung für deutsche GFFF-V-Einheiten.
+
+- Abbildung 2: Modulare Ausbildung für deutsche GFFF-V-Einheiten. (Quelle: BBK) Modulare Ausbildung für deutsche GFFF-V-Einheiten Grundlagen gemäß FwDV 2 „Ausbildung  der freiw.
+
+- (Quelle: BBK) Modulare Ausbildung für deutsche GFFF-V-Einheiten Grundlagen gemäß FwDV 2 „Ausbildung  der freiw. Feuerwehren“ Modul A Modul B Grundlagen  Auslands- einsatz Grundlagen  Vegetations- brand- bekämpfung Praktische  Ausbildung Spezialisierung  Fahrzeugführer Multiplikator  Kraftfahrwesen  im Zivilschutz Modul C Modul D Optional  30 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Modul D – Fahrzeugführer im Vegeta­ tionsbrandeinsatz Im Modul D werden die beson­ deren Ausbildungsbedarfe der Fahr­ zeugführer als mittlerer Führungsebe­ ne in den GFFF-V-Modulen adressiert.
+
+- Feuerwehren“ Modul A Modul B Grundlagen  Auslands- einsatz Grundlagen  Vegetations- brand- bekämpfung Praktische  Ausbildung Spezialisierung  Fahrzeugführer Multiplikator  Kraftfahrwesen  im Zivilschutz Modul C Modul D Optional  30 BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 ∙ WALD- UND VEGETATIONSBRAND Modul D – Fahrzeugführer im Vegeta­ tionsbrandeinsatz Im Modul D werden die beson­ deren Ausbildungsbedarfe der Fahr­ zeugführer als mittlerer Führungsebe­ ne in den GFFF-V-Modulen adressiert. Neben einer umfassenden theoreti­ schen Vertiefung des Grundlagenwis­ sens aus Modul B, insbesondere im  Hinblick auf Einsatztaktik und Sicher­ heit im Vegetationsbrandeinsatz, bil­ den mehrere Planübungen das Kern­ element des Seminars.
+
+- Neben einer umfassenden theoreti­ schen Vertiefung des Grundlagenwis­ sens aus Modul B, insbesondere im  Hinblick auf Einsatztaktik und Sicher­ heit im Vegetationsbrandeinsatz, bil­ den mehrere Planübungen das Kern­ element des Seminars. Die Vorträge  und Lehrgespräche werden anteilig  in englischer Sprache geführt und die  Kenntnis entsprechender Fachbegrif­ fe eingefordert.
+
+- Die Vorträge  und Lehrgespräche werden anteilig  in englischer Sprache geführt und die  Kenntnis entsprechender Fachbegrif­ fe eingefordert. Hier wird das takti­ sche Vorgehen auch bei komplexeren  Vegetationsbrandlagen in den topo­ grafischen Bedingungen z. B. des Mit­ telmeerraums unter Anleitung von  im Auslandseinsatz erfahrenen Ausbildern trainiert.
+
+- Hier wird das takti­ sche Vorgehen auch bei komplexeren  Vegetationsbrandlagen in den topo­ grafischen Bedingungen z. B. des Mit­ telmeerraums unter Anleitung von  im Auslandseinsatz erfahrenen Ausbildern trainiert. Hierzu  kommen klassische und digitale „sandboxes“ zum Einsatz,  die eine Modellierung unterschiedlicher Gelände- und Ve­ getationsverhältnisse und in der digitalen Version auch eine  realistische, automatisierte Simulation des Brandverhaltens  ermöglichen.
+
+- Hierzu  kommen klassische und digitale „sandboxes“ zum Einsatz,  die eine Modellierung unterschiedlicher Gelände- und Ve­ getationsverhältnisse und in der digitalen Version auch eine  realistische, automatisierte Simulation des Brandverhaltens  ermöglichen. Der zeitliche Umfang des Moduls beträgt ca.  32 Unterrichtseinheiten, die nach einem einführenden Web­ seminar vor Ort an der BABZ stattfinden.
+
+- Der zeitliche Umfang des Moduls beträgt ca.  32 Unterrichtseinheiten, die nach einem einführenden Web­ seminar vor Ort an der BABZ stattfinden. Ergänzend: Multiplikator für das Kraftfahrwesen im Zivil-  und Katastrophenschutz An die Maschinisten von Löschfahrzeugen im Vege­ tationsbrandeinsatz, insbesondere auch im europäischen  Ausland, werden hohe Anforderungen gestellt.
+
+- Ergänzend: Multiplikator für das Kraftfahrwesen im Zivil-  und Katastrophenschutz An die Maschinisten von Löschfahrzeugen im Vege­ tationsbrandeinsatz, insbesondere auch im europäischen  Ausland, werden hohe Anforderungen gestellt. Sie müssen  befähigt werden, unter erschwerten Bedingungen ihre Ein­ satzaufträge sicher zu erfüllen.
+
+- Sie müssen  befähigt werden, unter erschwerten Bedingungen ihre Ein­ satzaufträge sicher zu erfüllen. Hierzu zählen unter anderem  Fahrten auf engen, unbefestigten Waldwegen sowie in ab­ schüssigen und steilen Geländen, Fahrten abseits befestig­ ter Wege, Rückwärtsfahrten und Wendemanöver im Wald.
+
+- Hierzu zählen unter anderem  Fahrten auf engen, unbefestigten Waldwegen sowie in ab­ schüssigen und steilen Geländen, Fahrten abseits befestig­ ter Wege, Rückwärtsfahrten und Wendemanöver im Wald. Der Qualifizierungsbedarf ist hierbei umso größer, je mehr  die eingesetzten Fahrzeuge von den im Alltag verwendeten  Fahrzeugen abweichen.
+
+- Der Qualifizierungsbedarf ist hierbei umso größer, je mehr  die eingesetzten Fahrzeuge von den im Alltag verwendeten  Fahrzeugen abweichen. Genau auf diese Bedarfe zielt ein bis­ her in Form von Pilotseminaren angebotenes Seminarfor­ mat des BBK mit dem oben genannten Titel.
+
+- Genau auf diese Bedarfe zielt ein bis­ her in Form von Pilotseminaren angebotenes Seminarfor­ mat des BBK mit dem oben genannten Titel. Zu den Semi­ narinhalten gehören u. a. das Fahren im Marschverband und  in schwierigem Gelände sowie erweiterte Grundlagen der  Fahrphysik und Fahrzeugtechnik.
+
+- Zu den Semi­ narinhalten gehören u. a. das Fahren im Marschverband und  in schwierigem Gelände sowie erweiterte Grundlagen der  Fahrphysik und Fahrzeugtechnik. Mit diesem Seminarange­ bot besteht die Möglichkeit, geeignete Einsatzkräfte aus den  GFFF-V-Modulen zu Multiplikatoren auszubilden, die damit  befähigt werden, zukünftig innerhalb der Module Fortbil­ dungen zu diesem Themenfeld für die Zielgruppe der Ma­ schinisten/Kraftfahrer anbieten zu können.
+
+- Mit diesem Seminarange­ bot besteht die Möglichkeit, geeignete Einsatzkräfte aus den  GFFF-V-Modulen zu Multiplikatoren auszubilden, die damit  befähigt werden, zukünftig innerhalb der Module Fortbil­ dungen zu diesem Themenfeld für die Zielgruppe der Ma­ schinisten/Kraftfahrer anbieten zu können. Pilotdurchführung des Ausbildungsformats  Die erste Pilotdurchführung der Module B & C konnte  im Frühjahr 2022 wie angestrebt noch vor Beginn der Ve­ getationsbrandsaison realisiert werden.
+
+- Pilotdurchführung des Ausbildungsformats  Die erste Pilotdurchführung der Module B & C konnte  im Frühjahr 2022 wie angestrebt noch vor Beginn der Ve­ getationsbrandsaison realisiert werden. Für die Vermittlung  der theoretischen Inhalte in Modul B wurden vor dem Hin­ tergrund der straffen zeitlichen Zielsetzung Websemina­ re als Durchführungsform gewählt.
+
+- Für die Vermittlung  der theoretischen Inhalte in Modul B wurden vor dem Hin­ tergrund der straffen zeitlichen Zielsetzung Websemina­ re als Durchführungsform gewählt. Dies ermöglichte eine  schnelle Umsetzung, eine hinreichend große Anzahl von  Teilnehmenden sowie die Bereitstellung von Videoaufzeich­ nungen für den nachfolgenden Erstellungsprozess der vor­ gesehenen Selbstlernmodule.
+
+- Dies ermöglichte eine  schnelle Umsetzung, eine hinreichend große Anzahl von  Teilnehmenden sowie die Bereitstellung von Videoaufzeich­ nungen für den nachfolgenden Erstellungsprozess der vor­ gesehenen Selbstlernmodule. Das Modul C wurde in der ersten Pilotdurchfüh­ rung mit dem Modul NRW bzw. der Feuerwehr Bonn auf  einem Truppenübungsplatz in NRW durchgeführt und  beinhaltete neben praktischen Ausbildungsinhalten an  Abbildung 3: Die Sandbox zeigt detailgetreu die topografischen Bedingungen am Einsatzort.
+
+- Das Modul C wurde in der ersten Pilotdurchfüh­ rung mit dem Modul NRW bzw. der Feuerwehr Bonn auf  einem Truppenübungsplatz in NRW durchgeführt und  beinhaltete neben praktischen Ausbildungsinhalten an  Abbildung 3: Die Sandbox zeigt detailgetreu die topografischen Bedingungen am Einsatzort. (Quelle: BBK) Abbildung 4: Gemeinsame Einsatzplanung der Einheitsführung mit den französischen  Verbindungspersonen.
+
+- (Quelle: BBK) Abbildung 4: Gemeinsame Einsatzplanung der Einheitsführung mit den französischen  Verbindungspersonen. (Quelle: BF Bonn)  31 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Übungsstationen auch die Erprobung der mitzuführenden  Camp-Ausstattung für das Modul.
+
+- (Quelle: BF Bonn)  31 WALD- UND VEGETATIONSBRAND ∙ BBK BEVÖLKERUNGSSCHUTZ  3 | 2024 Übungsstationen auch die Erprobung der mitzuführenden  Camp-Ausstattung für das Modul. Der im Sommer 2022  durchgeführte Auslandseinsatz des NRW-Moduls in Frank­ reich unter Beteiligung von Kräften des in Aufbau befindli­ chen Moduls „Nord/Niedersachsen“ bot die direkte Möglich­ keit einer Praxiserprobung der vermittelten Schulungsinhal­ te.
+
+- Der im Sommer 2022  durchgeführte Auslandseinsatz des NRW-Moduls in Frank­ reich unter Beteiligung von Kräften des in Aufbau befindli­ chen Moduls „Nord/Niedersachsen“ bot die direkte Möglich­ keit einer Praxiserprobung der vermittelten Schulungsinhal­ te. Um diese Erfahrungen in den Weiterentwicklungsprozess  des Ausbildungsangebotes einfließen zu lassen, wurden die­ se im Anschluss an das Einsatzgeschehen im Rahmen eines  Workshops an der BABZ ausgewertet.
+
+- Um diese Erfahrungen in den Weiterentwicklungsprozess  des Ausbildungsangebotes einfließen zu lassen, wurden die­ se im Anschluss an das Einsatzgeschehen im Rahmen eines  Workshops an der BABZ ausgewertet. Die gewonnenen Er­ kenntnisse konnten so direkt in die Planungen der nächsten  Schulungsdurchführungen integriert werden.
+
+- Die gewonnenen Er­ kenntnisse konnten so direkt in die Planungen der nächsten  Schulungsdurchführungen integriert werden. Die Module A–D wurden seither in mehreren Durch­ gängen für die GFFF-V-Module NRW und Niedersachsen  durchgeführt und unterliefen dabei auch weitere Revisions­ schleifen.
+
+- Die Module A–D wurden seither in mehreren Durch­ gängen für die GFFF-V-Module NRW und Niedersachsen  durchgeführt und unterliefen dabei auch weitere Revisions­ schleifen. Die Module A und B wurden ergänzend im Rah­ men der Vorbereitung auf ein sogenanntes Pre-Positioning  bayerischer Einsatzkräfte in Griechenland im Sommer 2023  erneut durchgeführt.
+
+- Die Module A und B wurden ergänzend im Rah­ men der Vorbereitung auf ein sogenanntes Pre-Positioning  bayerischer Einsatzkräfte in Griechenland im Sommer 2023  erneut durchgeführt. In Summe wurden bei diesen Veran­ staltungen bisher über 400 Teilnehmende geschult.
+
+- In Summe wurden bei diesen Veran­ staltungen bisher über 400 Teilnehmende geschult. Ausblick Aktuell erfolgt die Umwandlung der Module A und B in  eigenständige Selbstlernmodule.
+
+- Ausblick Aktuell erfolgt die Umwandlung der Module A und B in  eigenständige Selbstlernmodule. Somit können die theoreti­ schen Inhalte zukünftig noch ehrenamtsfreundlicher ausge­ staltet werden, da die Wissensvermittlung losgelöst von kon­ kreten Seminarterminen im eigenen Lerntempo und Zeit­ einteilung in digitaler Form erfolgen kann.
+
+- Somit können die theoreti­ schen Inhalte zukünftig noch ehrenamtsfreundlicher ausge­ staltet werden, da die Wissensvermittlung losgelöst von kon­ kreten Seminarterminen im eigenen Lerntempo und Zeit­ einteilung in digitaler Form erfolgen kann. Die Veröffentli­ chung des Modul B ist für Ende des 3.
+
+- Die Veröffentli­ chung des Modul B ist für Ende des 3. Quartals 2024 geplant.
+
+- Quartals 2024 geplant. Während des Projektverlaufes wurden die bisherigen  Schulungsmaßnahmen von allen Beteiligten als sehr pass­ genau und zielführend bewertet.
+
+- Während des Projektverlaufes wurden die bisherigen  Schulungsmaßnahmen von allen Beteiligten als sehr pass­ genau und zielführend bewertet. Das gemeinsam mit den  Projektpartnern entwickelte Seminarformat füllt dabei eine  aktuell bestehende Ausbildungslücke sowohl auf nationaler  als auch auf EU-Ebene mit dem Fo­ kus auf den nationalen Kapazitäten der  EU-Mitgliedsstaaten.
+
+- Das gemeinsam mit den  Projektpartnern entwickelte Seminarformat füllt dabei eine  aktuell bestehende Ausbildungslücke sowohl auf nationaler  als auch auf EU-Ebene mit dem Fo­ kus auf den nationalen Kapazitäten der  EU-Mitgliedsstaaten. Im Rahmen der  Zertifizierungsabnahme des GFFF-V- Moduls NRW wurde durch die euro­ päischen Prüfer das hohe Kompetenz­ niveau der Modulangehörigen aus­ drücklich hervorgehoben.
+
+- Im Rahmen der  Zertifizierungsabnahme des GFFF-V- Moduls NRW wurde durch die euro­ päischen Prüfer das hohe Kompetenz­ niveau der Modulangehörigen aus­ drücklich hervorgehoben. Die Ein­ arbeitung der Praxiserfahrungen aus  den beiden absolvierten Auslandsein­ sätzen und des EU-Zertifizierungspro­ zesses ermöglichten darüber hinaus  eine kontinuierliche Anpassung der  Seminarinhalte.
+
+- Die Ein­ arbeitung der Praxiserfahrungen aus  den beiden absolvierten Auslandsein­ sätzen und des EU-Zertifizierungspro­ zesses ermöglichten darüber hinaus  eine kontinuierliche Anpassung der  Seminarinhalte. Im laufenden Austausch mit der  Unterarbeitsgruppe Ausbildung der  Arbeitsgruppe nationaler Waldbrand­ schutz konnte auf Länderebene rück­ gekoppelt werden, dass die konzep­ tionelle Modulausbildung GFFF-V als  Spezialausbildung für den Auslands­ einsatz oberhalb der nationalen Aus­ bildung sinnvoll ergänzt.
+
+- Im laufenden Austausch mit der  Unterarbeitsgruppe Ausbildung der  Arbeitsgruppe nationaler Waldbrand­ schutz konnte auf Länderebene rück­ gekoppelt werden, dass die konzep­ tionelle Modulausbildung GFFF-V als  Spezialausbildung für den Auslands­ einsatz oberhalb der nationalen Aus­ bildung sinnvoll ergänzt. Auf Antrag der Länder wurde der Bund im Rahmen der
+

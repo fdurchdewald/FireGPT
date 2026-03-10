@@ -1,0 +1,6 @@
+# 6.3 Aktualisierung der Personalbedarfsrechnung „Fw-technischer Dienst“
+
+- Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  165  Im IST-Zustand 236 VZÄ im mittleren Feuerwehrtechnischen Dienst in den Wachabteilungen. Unter Zugrundelegung der aktualisierten Personalwirtschaftlichen Parameter resultiert ein Personalbedarf von  237,1 VZÄ [Mehrbedarf: 1,1 VZÄ mD Wachabteilungen]  Ermittlung des Personalbedarfs „Einsatzdienst / Wachabteilungen“ (mD)  Veränderung zum IST-Zustand  hD gD mD gD mD IST-Stellenplan [Stand 16.12.2011] 5 22 8 9 236 280 13,50 293,50 Aktualisierung Personalbedarfsrechnung [mittlerer Dienst] - - - - 1,1 1,1 - 1,1 nicht  FW- techn.
+
+- Unter Zugrundelegung der aktualisierten Personalwirtschaftlichen Parameter resultiert ein Personalbedarf von  237,1 VZÄ [Mehrbedarf: 1,1 VZÄ mD Wachabteilungen]  Ermittlung des Personalbedarfs „Einsatzdienst / Wachabteilungen“ (mD)  Veränderung zum IST-Zustand  hD gD mD gD mD IST-Stellenplan [Stand 16.12.2011] 5 22 8 9 236 280 13,50 293,50 Aktualisierung Personalbedarfsrechnung [mittlerer Dienst] - - - - 1,1 1,1 - 1,1 nicht  FW- techn. Gesamt- summe Darstellung der Personalbedarfe                            in Abhängigkeit der Maßnahmen Personalbedarf [VZÄ] Tagesdienst mit  Integrationsdienst Wach- abteilungen Zwischen- Summe
+

@@ -1,0 +1,4 @@
+# 3.6 Aufbauorganisation und Personalwirtschaft
+
+- Fire protection requirements plan of the City of Mannheim, as of: 04.04.2013 94 Chapter overview Chapter 1: Extract and summary (management version) 4 Chapter 2: Starting situation, order and project sequence 41 Chapter 3: Presentation and analysis of the IST state 46 Chapter 4: Assessment of the potential danger and planning basis 94 Chapter 5: SOLL concept for fire protection requirements planning 114 Chapter 8: List of plants 182 Note: Contact details LUELF&RINKE 200 Chapter 6: Determination of personnel requirements 156 Chapter 7: Abbreviations and definitions 176 Fire protection requirements plan of the City of Mannheim, as of: 04.04.2013 95 4 Assessment of the potential danger and planning scenarios Introduction An essential basis for fire protection requirements planning is a survey and evaluation of the potential danger and based on it a definition of adequate planning basis.
+

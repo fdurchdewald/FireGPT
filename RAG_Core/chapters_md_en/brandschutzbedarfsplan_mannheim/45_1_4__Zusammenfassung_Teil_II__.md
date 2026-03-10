@@ -1,0 +1,4 @@
+# 1.4  Zusammenfassung Teil II „Resultierende Maßnahmen & Auswirkungen auf die Personalwirtschaft“
+
+- Fire protection requirements plan of the city of Mannheim, as of: 04.04.2013 37 Summary "Human Resources Management & Personnel Needs" Human Resources need more Fire protection needs planning and updating of personnel needs calculation The personnel need for more (approximately 9%) results from: ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

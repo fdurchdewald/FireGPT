@@ -1,0 +1,18 @@
+# 1. Abschnitt
+
+- Terms § 9 Disaster relief - page 11 of 25 - (1) Legal persons of public law and private organisations recognised by the Ministry of the Interior cooperate with their forces, which are generally suitable for the fight against disasters, in the protection of the ca-strophic population in accordance with their declaration of readiness (carriers of the disaster relief). (2) The agencies of the disaster relief agency inform the civil protection authority of the personnel strength, structure, training and equipment of their available forces within the meaning of paragraph 1 and communicate significant changes without delay.
+
+- 2. Disaster relief organisations shall inform the Civil Protection Authority of the personnel strength, structure, training and equipment of their available forces within the meaning of paragraph 1 and shall immediately notify significant changes. 3. Disaster relief organisations shall ensure the operational capacity of their forces within the meaning of paragraph 1 also with a view to coordinated cooperation with foreign specialised services in specialised operations and shall, on request, participate in operations under the uniform management of the Civil Protection Authority with available forces.
+
+- (3) The bodies responsible for disaster relief shall also ensure the operational capacity of their forces within the meaning of paragraph 1 with a view to coordinated cooperation with foreign specialised services in specialised missions and shall participate, on request, with available forces, in operations under the uniform management of the Civil Protection Authority. § 10 Civil Protection Service (1) In order to ensure the permanent availability of a part of the forces designated in accordance with paragraph 5 and paragraph 9 (1), units and installations shall be set up according to specialised services (catastrophic defence service).
+
+- § 10 Civil Protection Service (1) In order to ensure the permanent availability of part of the forces designated in accordance with § 5 paragraph 1 and § 9 paragraph 1 for disaster operations, units and installations classified according to special services are formed (disaster protection service). (2) In consultation with the agencies responsible for disaster relief, the Ministry of the Interior determines the strength and structure of the civil protection service.
+
+- 2. In consultation with disaster relief agencies, the Ministry of the Interior shall determine the strength and structure of the civil protection service. The units and facilities to be provided for civil protection operations in a civil protection authority shall be borne by the civil protection authority unless they are provided by other legal persons or bodies.
+
+- The units and facilities to be provided for civil protection operations in a civil protection authority shall be borne by the civil protection authority if they are not provided by other legal persons or organisations.
+
+- 3. Civil protection agencies shall inform the Civil Protection Authority of all matters relating to units and facilities of the Civil Protection Service, in particular those referred to in section 2 (1) point 6. They may use units and facilities of the Civil Protection Service or their equipment outside of civil protection, so far as this does not significantly reduce the readiness of the Civil Protection Service to combat disasters.
+
+- They may use units and facilities of the Civil Protection Service or its equipment outside of civil protection, so far as the preparedness of the Civil Protection Service for the fight against disasters is not significantly reduced. Operations lasting more than two days shall be notified to the Civil Protection Authority in due time.
+

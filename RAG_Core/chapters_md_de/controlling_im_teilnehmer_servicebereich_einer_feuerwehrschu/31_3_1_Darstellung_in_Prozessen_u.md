@@ -1,0 +1,42 @@
+# 3.1 Darstellung in Prozessen und Produkten
+
+- Um die in Kapitel 2 dieser Arbeit beschriebenen Instrumente für das Controlling  im Teilnehmer-Servicebereich einer Feuerwehrschule zu adaptieren, ist es zu- nächst erforderlich, die Produkt- und Prozessstruktur einer Feuerwehrschule zu  analysieren. Dies soll nachfolgend beispielhaft in Abbildung 3 anhand einer „Pro- zesslandkarte“ nach einem Muster der Branddirektion München erfolgen.
+
+- Dies soll nachfolgend beispielhaft in Abbildung 3 anhand einer „Pro- zesslandkarte“ nach einem Muster der Branddirektion München erfolgen. Das Aufgaben- und Ausbildungsspektrum von staatlichen Feuerwehrschulen dif- feriert teilweise in Abhängigkeit von den entsprechenden landesrechtlichen Vor- schriften und Gegebenheiten.
+
+- Das Aufgaben- und Ausbildungsspektrum von staatlichen Feuerwehrschulen dif- feriert teilweise in Abhängigkeit von den entsprechenden landesrechtlichen Vor- schriften und Gegebenheiten. Mit der vorliegenden Ausarbeitung soll lediglich  eine beispielhafte Systematik aufgezeigt werden.
+
+- Mit der vorliegenden Ausarbeitung soll lediglich  eine beispielhafte Systematik aufgezeigt werden. Daher werden Umfang und In- halt der „Prozesslandkarte“ vereinfacht dargestellt.
+
+- Daher werden Umfang und In- halt der „Prozesslandkarte“ vereinfacht dargestellt. Ausbildungen und Lehrgänge werden zu einem Kernprozess zusammengefasst,  dessen Produkt die „Qualifikation“ von Lehrgangsteilnehmern ist.
+
+- Ausbildungen und Lehrgänge werden zu einem Kernprozess zusammengefasst,  dessen Produkt die „Qualifikation“ von Lehrgangsteilnehmern ist. Die Kernpro- zesse Seminare und Fortbildung erzeugen das Produkt „Kompetenzerhalt- und  erweiterung“.
+
+- Die Kernpro- zesse Seminare und Fortbildung erzeugen das Produkt „Kompetenzerhalt- und  erweiterung“. Für die Realisierung dieser Kernprozesse ist es erforderlich den Kunden, in die- sem Fall den entsendenden Dienststellen, Teilnehmerplätze zuzuweisen.
+
+- Für die Realisierung dieser Kernprozesse ist es erforderlich den Kunden, in die- sem Fall den entsendenden Dienststellen, Teilnehmerplätze zuzuweisen. Die  Ausbildungen erfolgen zentral an den Feuerwehrschulen und nehmen zumeist  mehrere Tage bzw. Wochen in Anspruch.
+
+- Die  Ausbildungen erfolgen zentral an den Feuerwehrschulen und nehmen zumeist  mehrere Tage bzw. Wochen in Anspruch. Daher wird ein Unterstützungsprozess  in Form einer Unterbringung und Versorgung erforderlich, der unmittelbar an den  Kernprozess gekoppelt ist.
+
+- Daher wird ein Unterstützungsprozess  in Form einer Unterbringung und Versorgung erforderlich, der unmittelbar an den  Kernprozess gekoppelt ist. Abbildung 3: Prozesslandkarte nach Muster Branddirektion München  Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule  13  Nachfolgend soll anhand einer Balanced Scorecard exemplarisch dargestellt  werden, welche Wechselwirkungen die einzelnen Perspektiven für die Vision und  Strategie „Bedarfsdeckendes Lehrgangangebot“ erzeugen (vgl. Abbildung 4).
+
+- Abbildung 3: Prozesslandkarte nach Muster Branddirektion München  Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule  13  Nachfolgend soll anhand einer Balanced Scorecard exemplarisch dargestellt  werden, welche Wechselwirkungen die einzelnen Perspektiven für die Vision und  Strategie „Bedarfsdeckendes Lehrgangangebot“ erzeugen (vgl. Abbildung 4). In der Perspektive der „Internen Verwaltungsprozesse“ wird die Fragestellung der  Platzvergabe für die Teilnehmer verortet, welche wiederum durch die zur Verfü- gung stehenden Kapazitäten der Unterbringung und Versorgung begrenzt wer- den.
+
+- In der Perspektive der „Internen Verwaltungsprozesse“ wird die Fragestellung der  Platzvergabe für die Teilnehmer verortet, welche wiederum durch die zur Verfü- gung stehenden Kapazitäten der Unterbringung und Versorgung begrenzt wer- den. Aus der Wechselwirkung zwischen der Perspektive der „Wirtschaftlichkeit und  Gesetzmäßigkeit“ sowie den „Internen Verwaltungsprozessen“ ergeben sich  durch Zielvorgaben die Kennzahlen der „Deckung des gemeldeten Bedarfes“,  „Deckung des Bedarfes an Pflichtlehrgängen“ sowie „Optimale Ressourcenaus- lastung durch Lehrgangsorganisation“.
+
+- Aus der Wechselwirkung zwischen der Perspektive der „Wirtschaftlichkeit und  Gesetzmäßigkeit“ sowie den „Internen Verwaltungsprozessen“ ergeben sich  durch Zielvorgaben die Kennzahlen der „Deckung des gemeldeten Bedarfes“,  „Deckung des Bedarfes an Pflichtlehrgängen“ sowie „Optimale Ressourcenaus- lastung durch Lehrgangsorganisation“. Die Perspektive „Lernen und Entwicklung“ stellt de facto die „Evaluationsper- spektive“ dar.
+
+- Die Perspektive „Lernen und Entwicklung“ stellt de facto die „Evaluationsper- spektive“ dar. Aus der Wechselwirkung mit der Perspektive „Interne Verwaltungs- prozesse“ lassen sich Kennzahlen der Ressourcennutzung ableiten, die ggf.  Rückschlüsse auf einen Optimierungsbedarf der Ressourcenverteilung geben  Kennzahlen mit Bezug zwischen den Perspektiven „Wirtschaftlichkeit und Ge- setzmäßigkeit“ sowie „Interne Verwaltungsprozesse“  -  Deckung des gemeldeten Bedarfes  -  Deckung des Bedarfes an Pflichtlehrgängen  -  Optimale Ressourcenauslastung durch Lehrgangsorganisation  Abbildung 4: Balanced Scorecad angepasst für das NSM aus Thom und Ritz (2017, S. 185)  Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule  14  können, um somit beispielsweise ungenutzte Lehrsäle für Tagesseminare anbie- ten zu können.
+
+- Aus der Wechselwirkung mit der Perspektive „Interne Verwaltungs- prozesse“ lassen sich Kennzahlen der Ressourcennutzung ableiten, die ggf.  Rückschlüsse auf einen Optimierungsbedarf der Ressourcenverteilung geben  Kennzahlen mit Bezug zwischen den Perspektiven „Wirtschaftlichkeit und Ge- setzmäßigkeit“ sowie „Interne Verwaltungsprozesse“  -  Deckung des gemeldeten Bedarfes  -  Deckung des Bedarfes an Pflichtlehrgängen  -  Optimale Ressourcenauslastung durch Lehrgangsorganisation  Abbildung 4: Balanced Scorecad angepasst für das NSM aus Thom und Ritz (2017, S. 185)  Controlling im Teilnehmer-Servicebereich einer Feuerwehrschule  14  können, um somit beispielsweise ungenutzte Lehrsäle für Tagesseminare anbie- ten zu können. Ebenso ergibt sich aus der Kenntnis von nicht ausgelasteten Lehr- gängen ein Indikator zur Überprüfung von Inhalt oder Angebot.
+
+- Ebenso ergibt sich aus der Kenntnis von nicht ausgelasteten Lehr- gängen ein Indikator zur Überprüfung von Inhalt oder Angebot. Zwischen den Perspektiven „Wirkungsorientierung und Anspruchsgruppen“ so- wie „Lernen und Entwicklung“ lassen sich beispielsweise Kennzahlen zur Erhö- hung der Attraktivität der Einrichtung oder des Qualifikationsangebotes, zur in- haltlichen Entwicklung des Angebotes sowie zu den Kundenwünschen ableiten.
+
+- Zwischen den Perspektiven „Wirkungsorientierung und Anspruchsgruppen“ so- wie „Lernen und Entwicklung“ lassen sich beispielsweise Kennzahlen zur Erhö- hung der Attraktivität der Einrichtung oder des Qualifikationsangebotes, zur in- haltlichen Entwicklung des Angebotes sowie zu den Kundenwünschen ableiten. Für die Betrachtung einer Balanced Scorecard im Zusammenhang mit dem Con- trolling einer Feuerwehrschule, hat die Perspektive „Wirkungsorientierung und  Anspruchsgruppen“ mindestens zwei als „Kunden“ zu bezeichnende Parteien.
+
+- Für die Betrachtung einer Balanced Scorecard im Zusammenhang mit dem Con- trolling einer Feuerwehrschule, hat die Perspektive „Wirkungsorientierung und  Anspruchsgruppen“ mindestens zwei als „Kunden“ zu bezeichnende Parteien. Zum einen sind dies die Teilnehmer selbst, zum anderen die entsendenden  Dienststellen.
+
+- Zum einen sind dies die Teilnehmer selbst, zum anderen die entsendenden  Dienststellen. Für die Wechselwirkung der Perspektiven „Wirkungsorientierung und Anspruchs- gruppen“ sowie „Wirtschaftlichkeit und Gesetzmäßigkeit“ ergibt sich als Qualitäts- kennzahl für die entsendende Dienststelle als Kunde die Frage nach der Nach- haltigkeit der Qualifikation.
+
+- Für die Wechselwirkung der Perspektiven „Wirkungsorientierung und Anspruchs- gruppen“ sowie „Wirtschaftlichkeit und Gesetzmäßigkeit“ ergibt sich als Qualitäts- kennzahl für die entsendende Dienststelle als Kunde die Frage nach der Nach- haltigkeit der Qualifikation. Die Fragestellung, welchen Nutzen die entsendende  Dienststelle durch die Qualifikationsmaßnahme hatte bzw. wie sich die Qualifika- tion auf die Prozesse der Dienststelle ausgewirkt haben, lässt sich beispielsweise  durch eine Evaluation der Kundenzufriedenheit nach n-Jahren abbilden.
+

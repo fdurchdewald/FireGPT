@@ -1,0 +1,2968 @@
+Feuerwehrfahrzeuge
+8.001	
+Fachinformation für die Feuerwehren Bayerns
+
+
+3 
+Zielsetzung der Fachinformation:
+Die Fachinformation gibt einen Überblick über die Hauptmerkmale der wichtigsten Feuerwehrfahrzeuge 
+entsprechend dem derzeitigen Stand der Normung und sonstigen Regelungen.
+Anmerkungen:
+Aus Gründen der besseren Lesbarkeit wird in den Merkblättern der Staatlichen Feuerwehrschulen 
+auf eine geschlechtsspezifische Differenzierung verzichtet. Entsprechende Begriffe gelten im Sinne 
+der Gleichbehandlung grundsätzlich für alle Geschlechter. Die verkürzte Sprachform hat redaktionelle 
+Gründe und beinhaltet keine Wertung.
+Feuerwehrfahrzeuge
+Änderungen: 
+Gegenüber der Fachinformation Version 5.3 wurden folgende wesentliche Änderungen eingearbeitet:
+	
+z
+Kapitel 2 „Grundlageninformationen zu Feuerwehrfahrzeugen und -fahrberechtigungen“ 
+neu aufgenommen
+
+4 
+INHALTSVERZEICHNIS
+1	
+VORWORT.................................................................................................................................... 6
+2	
+GRUNDLAGENINFORMATIONEN ZU FEUERWEHRFAHRZEUGEN UND 
+-FAHRBERECHTIGUNGEN..........................................................................................................6
+2.1	
+Grundbegriffe Feuerwehrfahrzeuge.........................................................................................................................6 
+2.2	
+Zusammensetzung von Normbezeichnungen ...................................................................................................8 
+2.3	
+Sitzordnung in Feuerwehrfahrzeugen ....................................................................................................................9 
+2.4	
+Fahrzeugvisualisierungen..............................................................................................................................................9
+2.5	
+Auszug relevanter Fahrerlaubnisklassen.............................................................................................................10
+2.6	
+Fahrberechtigung zum Führen von Einsatzfahrzeugen – „Feuerwehrführerschein“...................10
+3	
+BEGRIFFSBESTIMMUNG NACH DIN EN 1846-1 UND DIN EN 1846-2 .............................12 
+3.1	
+Fahrzeugdefinitionen ....................................................................................................................................................12 
+3.2	
+Kraftfahrzeug-Kategorien ............................................................................................................................................12
+3.3	
+Massedefinitionen ..........................................................................................................................................................12 
+3.4	
+Massenklassen .................................................................................................................................................................13
+4	
+EINTEILUNG DER FEUERWEHRFAHRZEUGE.................................................................................................14 
+5	
+FEUERLÖSCHFAHRZEUGE...........................................................................................................................................14 
+5.1	
+Löschfahrzeuge..................................................................................................................................................................14
+5.2	
+Sonderlöschfahrzeuge.................................................................................................................................................. 19
+6	
+HUBRETTUNGSFAHRZEUGE.....................................................................................................................................24
+6.1	
+Drehleiter..............................................................................................................................................................................24 
+6.2	
+Hubarbeitsbühne..............................................................................................................................................................24 
+7	
+RÜST- UND GERÄTEFAHRZEUGE...........................................................................................................................26 
+7.1	
+Rüstwagen ..........................................................................................................................................................................26 
+7.2	
+Gerätefahrzeuge ..............................................................................................................................................................27 
+8	
+KRANKENKRAFTWAGEN DER FEUERWEHR.................................................................................................28 
+9	
+GERÄTEFAHRZEUGE GEFAHRGUT.........................................................................................................................29 
+10	 EINSATZLEITFAHRZEUGE............................................................................................................................................30 
+10.1	 Kommandowagen ..........................................................................................................................................................30 
+10.2	 Mehrzweckfahrzeug........................................................................................................................................................30 
+10.3	 Einsatzleitwagen ELW 1................................................................................................................................................30 
+10.4	 Einsatzleitwagen ELW 2................................................................................................................................................30 
+
+5 
+11	 MANNSCHAFTSTRANSPORTFAHRZEUGE.....................................................................................................32 
+12	 NACHSCHUBFAHRZEUGE...........................................................................................................................................32 
+12.1	 Wechselladerfahrzeuge.................................................................................................................................................32
+12.2	 Gerätewagen Logistik....................................................................................................................................................34 
+12.3	 Versorgungs-Lastkraftwagen.....................................................................................................................................34 
+13	 SONSTIGE SPEZIELLE KRAFTFAHRZEUGE.....................................................................................................36 
+13.1	 Kranwagen...........................................................................................................................................................................36 
+13.2	 Feuerwehrboote................................................................................................................................................................36 
+13.3	 Feuerwehranhänger........................................................................................................................................................38 
+ANHANG 1 FUNKRUFNAMEN AUSZUG.......................................................................................................................40 
+ANHANG 2 LINK- UND MEDIENSAMMLUNG.........................................................................................................42 
+
+6 
+Die Anforderungen an Feuerwehrfahrzeuge be­
+finden sich in einem ständigen Wandel, da sie an 
+die veränderten Bedürfnisse der Gefahrenabwehr 
+laufend angepasst werden müssen. Die tech-
+nischen Anforderungen an einzelne Feuerwehr­
+fahrzeugtypen werden in Normen auf nationaler 
+und europäischer Ebene geregelt. In Fahrzeug­
+normen werden Anforderungen an Fahrgestelle, 
+Mannschaftsraum, Aufbauten, fest eingebaute 
+feuerwehrtechnische Ausstattungen sowie an 
+feuerwehrtechnische Beladungen gestellt.
+Aufgrund der föderalen Struktur des Feuerwehrwe­
+sens in Deutschland, regelt jedes Bundesland seine 
+Anforderungen an Feuerwehrfahrzeuge zum Teil 
+durch gesonderte Richtlinien bzw. Einführungserlas­
+se. In Bayern gibt es für einige Feuerwehrfahrzeuge, 
+die nicht durch eine DIN-Norm beschrieben wer­
+den, sogenannte „Technische Baubeschreibungen“ 
+(z. B. Mehrzweckfahrzeuge). Diese werden vom 
+Bayerischen Staatsministerium des Innern, für Sport 
+und Integration (StMI) veröffentlicht.
+1	
+VORWORT
+In den Richtlinien für Zuwendungen des Frei­
+staats Bayern zur Förderung des kommunalen 
+Feuerwehrwesens (Feuerwehr-Zuwendungs­
+richtlinien – FwZR) werden u. a. die förderfä­
+higen Feuerwehrfahrzeugtypen genannt und 
+deren Fördervoraussetzungen beschrieben. Auf 
+der Homepage der Staatlichen Feuerwehrschule 
+Regensburg (www.sfsr.de) sind zudem die Min­
+destausrüstungslisten (Standardnormbeladung) 
+für die förderfähigen Feuerwehrfahrzeugtypen 
+zu finden.
+Nachfolgend werden in dieser Fachinformation 
+die Hauptmerkmale der gängigsten Feuerwehr­
+fahrzeuge entsprechend dem derzeitigen Stand 
+der Normung und sonstiger landesspezifischer 
+Regelungen wiedergegeben. Für genaue Recher­
+chen müssen jedoch immer die aktuell gültigen 
+Normen bzw. Technischen Baubeschreibungen 
+herangezogen werden (vgl. Links, Seite 42).
+2.1 Grundbegriffe Feuerwehrfahrzeuge
+Ein Feuerwehrfahrzeug setzt sich grundlegend 
+aus dem Fahrgestell mit Fahrerhaus, dem Fahr­
+zeugaufbau mit seinen Geräteräumen und 
+Dachkästen sowie der feuerwehrtechnischen 
+Beladung zusammen. Wenn im Fahrzeug ver­
+baute Feuerlöschkreiselpumpen, Stromerzeuger, 
+Druckzumisch- (DZA) oder Druckluftschauman­
+lagen (DLS) oder maschinelle Zugeinrichtungen 
+vorhanden sind, stellen diese eine festeingebaute 
+feuerwehrtechnische Ausstattung dar.
+Je nach Bauart ist der Mannschaftsraum Be­
+standteil des Fahrgestells oder des Fahrzeug­
+aufbaus. Im Fahrzeugaufbau befinden sich die 
+Geräteräume, deren Zählweise vom Fahrerhaus 
+bzw. Mannschaftsraum beginnend in Richtung 
+Heck erfolgt.
+Auf der Fahrerseite sind die Geräteräume mit un­
+gerader Nummer zu finden (G1, G3, G5 usw.), auf 
+der Beifahrerseite die Geräteräume mit gerader 
+Nummer (G2, G4, G6 usw.).
+Der Geräteraum am Heck eines Fahrzeugs wird 
+meist als GR (Geräteraum Rückseite) bezeichnet.
+2	
+GRUNDLAGENINFORMATIONEN ZU FEUERWEHRFAHRZEUGEN UND 
+-FAHRBERECHTIGUNGEN 
+Abb. 1
+Geräteraum Rückseite
+Geräteraum Rückseite GR
+
+7 
+Abb. 2
+Grundbegriffe 
+Feuerwehrfahrzeug
+Abb. 4
+Bezeichnungen an 
+der DLAK
+Abb. 3
+Dachansicht
+Fahrerhaus
+Mannschaftsraum
+Geräteraum G2
+Geräteraum G4
+Geräteraum G6
+Fahrerseite
+Dachkasten
+Beifahrerseite
+Dach
+Hauptbedienstand
+Hubrettungssatz mit Hubrettungsausleger
+Rettungskorb
+Benutzungsfeld-
+anzeige
+Aufrichtrahmen
+Podium
+Abstützung
+Abstützung
+Aufbau
+Fahrerhaus
+Drehgestell
+
+8 
+23 m
+12 m
+2.2	 Zusammensetzung von Normbezeichnungen
+Abb. 5
+Drehleiter Normwerte
+HLF 10
+Hilfeleistungs-
+Löschgruppen 
+Fahrzeug
+Eingebaute FPN (Fire Pump Normal Pressure = 
+Feuerlöschkreiselpumpe): 10-1000
+10 = Nennförderdruck in bar
+1000 = Nennförderstrom in l/min
+LF 20 KatS
+Löschgruppen 
+Fahrzeug
+Eingebaute FPN (Fire Pump Normal Pressure = 
+Feuerlöschkreiselpumpe): 10-2000
+10 = Nennförderdruck in bar
+2000 = Nennförderstrom in l/min
+TLF 4000
+Tank
+Lösch 
+Fahrzeug
+Löschwasserbehälter mit 
+mind. 4.000 Liter Wasser
+Katastrophen 
+Schutz
+DLAK 23 / 12
+Dreh 
+Leiter 
+Automatik 
+RettungsKorb
+23 = Nennrettungs-
+höhe in m
+12 = Nennaus-
+ladung in m
+
+9 
+2.4	 Fahrzeugvisualisierungen
+2.3	 Sitzordnung in Feuerwehrfahrzeugen
+Fahrzeugvisualisierungen, 
+Feuerwehr-Lernbar
+(t1p.de/pnspc)
+Sitzordnung in Löschgruppenfahrzeugen
+Sitzordnung in Staffelfahrzeugen
+Sitzordnung in Truppfahrzeugen
+Abb. 6
+Sitzordnung in 
+Feuerwehrfahrzeugen
+Pressluftatmer
+im Mannschaftsraum
+Ma
+A
+A
+W
+W
+Keine Pressluftatmer 
+im Mannschaftsraum
+Ma
+A
+A
+W
+W
+ALLE
+MEIDEN
+ATEMGIFTE
+Me
+A
+A
+Sitzordnung
+der Gruppe
+(zwei Pressluftatmer
+im Mannschaftsraum)
+Ma
+Me
+A
+A
+S
+S
+W
+W
+WASSER
+SUCHT
+SEINEN
+WEG
+S
+S
+W
+W
+Sitzordnung 
+der Staffel
+Ma
+A
+A
+W
+W
+Sitzordnung
+des Trupps
+Ma
+Ma
+Me
+A
+A
+W
+S
+S
+W
+Sitzordnung
+der Gruppe
+(vier Pressluftatmer
+im Mannschaftsraum)
+Mehrere Feuerwehrfahrzeuge der Staatlichen 
+Feuerwehrschulen können virtuell über die Feu­
+erwehr-Lernbar erkundet werden. Die gesamte 
+Beladung ist bildlich abrufbar, die Fahrzeuge 
+selbst und viele ausgewählte Beladungsgegen­
+stände können in 360°-Technik von allen Seiten 
+begutachtet werden.
+
+10 
+2.5	 Auszug relevanter Fahrerlaubnisklassen
+Jede genannte Fahrerlaubnisklasse gilt für Kraftfahrzeuge, die zur Beförderung von nicht mehr als 
+neun Personen (inkl. Fahrzeugführer) gebaut und ausgelegt sind.
+2.6	 Fahrberechtigung zum Führen von Einsatzfahrzeugen – „Feuerwehrführerschein“
+Die Fahrberechtigung für Angehörige der Frei­
+willigen Feuerwehr ist keine eigene Fahrerlaub­
+nis, für welche erneut eine theoretische Prüfung 
+absolviert werden muss. Sie gilt als besondere 
+Erweiterung des Fahrerlaubnisklasse B für An­
+gehörige einer Freiwilligen Feuerwehr oder des 
+Katastrophenschutzes, um Feuerwehrfahrzeuge 
+führen zu dürfen.
+Fahrzeugmassen
+	
+z „Kleiner Feuerwehrführerschein“ für Einsatz­
+fahrzeuge bis 4.750 kg
+Die „kleine“ Fahrberechtigung nach § 1 Abs. 1 
+Satz 1 FBerV berechtigt zum Führen von Einsatz­
+fahrzeugen bis zu einer zulässigen Gesamtmasse 
+von 4.750 kg, auch mit Anhänger, sofern die zu­
+lässige Gesamtmasse der Kombination 4.750 kg 
+nicht übersteigt.
+	
+z „Großer Feuerwehrführerschein“ für Einsatz­
+fahrzeuge bis 7.500 kg
+Die „große“ Fahrberechtigung nach § 1 Abs. 1 
+Satz 4 FBerV berechtigt zum Führen von Einsatz­
+fahrzeugen bis zu einer zulässigen Gesamtmasse 
+von 7.500 kg, auch mit Anhänger, sofern die zu­
+lässige Gesamtmasse der Kombination 7.500 kg 
+nicht übersteigt.
+Voraussetzungen
+	
+z
+Mindestens 2 Jahren im Besitz der Fahrerlaub­
+nisklasse B („Begleitetes Fahren ab 17“ zählt 
+bereits)
+	
+z
+Freiwilliger Feuerwehr, Rettungsdienst, THW 
+oder sonstiger Katastrophenschutzeinheit 
+angehören
+Mindestausbildungsdauer
+	
+z „kleine“ Fahrberechtigung: 4 Einheiten zu je 
+45 Minuten
+	
+z „große“ Fahrberechtigung: 6 Einheiten zu je 
+45 Minuten
+Fahrerlaubnisklassen
+B
+Kraftfahrzeuge mit zulässiger Gesamtmasse von nicht mehr als 3.500 kg
+BE
+Zugfahrzeug der Klasse B in Kombination mit Anhänger oder Sattelanhänger mit zulässiger 
+Gesamtmasse des Anhängers von mehr 750 kg und nicht mehr als 3.500 kg
+C1
+Kraftfahrzeuge mit zulässiger Gesamtmasse von mehr als 3.500 kg aber nicht mehr als 7.500 kg
+C1E	
+Zugfahrzeug der Klasse C1 in Kombination mit Anhänger oder Sattelanhänger mit zulässiger 
+Gesamtmasse von mehr als 750 kg und zulässiger Gesamtmasse der Kombination von nicht 
+mehr als 12.000 kg
+C
+Kraftfahrzeuge mit zulässiger Gesamtmasse von mehr als 3.500 kg
+CE
+Zugfahrzeug der Klasse C in Kombination mit Anhänger oder Sattelanhänger mit zulässiger 
+Gesamtmasse von mehr als 750 kg.
+Eine ausführliche Komplettübersicht über die Fahrerlaubnisklassen finden Sie in der Fahrerlaubnis-
+Verordnung (FeV) § 6 Einteilung der Fahrerlaubnisklassen: 
+Einteilung der 
+Fahrerlaubnisklassen
+(t1p.de/hckkn)
+
+11 
+Tabelle 
+Geltungsbereich 
+Fahrerlaubnis für 
+genormte Feuerwehr­
+fahrzeuge – Auszug
+Geltungsbereich Fahrerlaubnis für genormte Feuerwehrfahrzeuge – Auszug
+Fahrzeug
+Masse
+Fahrerlaubnis
+Besatzung
+FW*
+C1
+C
+HLF 20
+bis 16.000 kg
+x
+1/8
+LF 20
+bis 16.000 kg
+x
+1/8
+LF 20 KatS
+bis 16.000 kg
+x
+1/8
+HLF 10
+bis 14.000 kg
+x
+1/8
+LF 10
+bis 14.000 kg
+x
+1/8
+MLF
+(Massenklasse LII)
+bis 7.500 kg
+x
+x
+x
+1/5
+MLF
+(Massenklasse MI)
+bis 9.000 kg
+x
+1/5
+TSF
+bis 4.750 kg
+x
+x
+x
+1/5
+TSF-L 
+(Massenklasse LII)
+bis 7.500 kg
+x
+x
+x
+1/5
+TSF-L
+(Massenklasse MI)
+bis 9.000 kg
+x
+1/5
+GW-TS
+bis 4.750 kg
+x
+x
+x
+min. 1/3
+TSF-W
+bis 7.500 kg
+x
+x
+x
+1/5
+TLF-WB
+bis 14.000 kg
+x
+1/2 oder 1/5
+TLF 2000
+bis 14.000 kg
+x
+1/2 oder 1/5
+TLF 3000
+bis 14.000 kg
+x
+1/2 oder 1/5
+TLF 4000
+bis 18.000 kg
+x
+1/2
+DLK 23/12
+bis 16.000 kg
+x
+1/2
+DLK 18/12
+bis 14.000 kg
+x
+1/2
+DLK 12/9
+bis 14.000 kg
+x
+1/2
+RW
+bis 16.000 kg
+x
+1/2
+GW-G
+bis 16.000 kg
+x
+1/2
+GW-L2
+bis 16.000 kg
+x
+1/5
+Versorgungs-Lkw
+bis 16.000 kg
+x
+1/5
+Anwendungsmöglichkeiten 
+Die Fahrberechtigung gilt nur im Rahmen
+	
+z
+einer ehrenamtlichen Aufgabenerfüllung
+	
+z
+für das Führen von Einsatzfahrzeugen zu Ein­
+satz-, Übungs- und Ausbildungszwecken
+	
+z
+sowie für Fahrten zur Sicherung der Einsatz­
+bereitschaft.
+Daraus folgt, dass mit der Fahrberechtigung keine 
+Fahrten durchgeführt werden dürfen,
+	
+z
+die nicht im Zusammenhang mit den Aufgaben 
+stehen,
+	
+z
+insbesondere keine Privat- oder Vereinsfahrten.
+Ausführliche Informationen zum „Feuerwehrfüh­
+rerschein“ sowie Anforderungen an die Ausbilder 
+finden Sie auch auf den Seiten des Landesfeuer­
+wehrverbands Bayern e. V. (LFV Bayern). 
+Infos „Feuerwehrführer­
+schein“, LFV Bayern 
+(t1p.de/zgsgi)
+*Feuerwehrführerschein
+
+12 
+3.1 Fahrzeugdefinitionen 
+3.1.1	Kraftfahrzeug
+Jedes motorgetriebene Straßenfahrzeug, wel­
+ches vier oder mehr Räder hat, nicht an Schienen 
+gebunden ist und normalerweise verwendet wird
+	
+z
+für den Transport von Personen und / 
+oder Gütern
+	
+z
+als Zugfahrzeug für den Transport von 
+Personen und / oder Gütern
+	
+z
+für spezielle Anwendungen
+3.1.2	Kraftfahrzeug
+Geschlossener Kraftwagen zum Transport von 
+Personal und Ausrüstung.
+3.1.3	Feuerwehrfahrzeug
+Kraftfahrzeug, das zur Bekämpfung von Bränden, 
+zur Durchführung technischer Hilfeleistung und / 
+oder für Rettungseinsätze benutzt wird.
+3.1.4	Anhängefahrzeug
+Nicht selbst fahrendes Straßenfahrzeug, das nach 
+seiner Bauart dazu bestimmt ist, von einem Kraft­
+fahrzeug mitgeführt zu werden und für den Trans­
+port von Personen (nach § 21 StVO verboten!) und 
+Gütern verwendet wird. Sattelanhänger sind in 
+dieser Kategorie eingeschlossen.
+3.1.5	Amphibienfahrzeug
+Kraftfahrzeug, das dazu geeignet ist, sich an Land 
+und auf dem Wasser zu bewegen.
+3.2	 Kraftfahrzeug-Kategorien
+Alle Kraftfahrzeuge werden abhängig von ihren 
+Fahreigenschaften auf der Straße oder im Gelände 
+nach einer der folgenden drei Kategorien klassifiziert:
+	
+z
+Kategorie 1 = straßenfähig
+Kraftfahrzeug, das üblicherweise zum Befahren 
+von befestigten Straßen geeignet ist
+	
+z
+Kategorie 2 = geländefähig
+Kraftfahrzeug, das zum Befahren aller Straßen und 
+bedingt für Geländefahrten geeignet ist
+	
+z
+Kategorie 3 = geländegängig
+Kraftfahrzeug, das zum Befahren aller Straßen 
+und für Geländefahrten (querfeldein) geeignet ist
+3.3 Massedefinitionen 
+Leermasse
+Masse des Fahrzeugs, einschließlich des Fahrers 
+(75 kg) und sämtlicher für den Betrieb notwendiger 
+Mittel, einschließlich voll aufgefülltem Kühlwasser, 
+Kraftstoff und Öl sowie sämtlicher fest angebauter 
+Ausrüstungen. Ersatzrad und Löschmittel werden 
+hiervon ausgenommen
+Masse der feuerwehrtechnischen Beladung 
+zulässige Normmasse der einzelnen
+Ausrüstungsgegenstände
+Masse der Löschmittel
+Masse des maximal mitzuführenden Löschwas­
+sers, Löschpulvers, Schaummittels, usw.
+Masse der Besatzung
+je Besatzungsmitglied sind 75 kg + 15 kg für per­
+sönliche Ausrüstung = 90 kg zu rechnen, für den 
+Fahrer sind 75 kg wieder abzuziehen, da in der 
+Leermasse enthalten ist
+3	
+BEGRIFFSBESTIMMUNG NACH DIN EN 1846-1 UND DIN EN 1846-2 
+
+13 
+Gesamtmasse (GM)
+Leermasse zuzüglich Masse der weiteren Mann­
+schaft, für die das Fahrzeug ausgelegt ist und der 
+Masse von Feuerlöschmitteln und feuerwehrtech­
+nischer Beladung
+Zulässige Gesamtmasse (zGM)
+höchste, zulässige Gesamtmasse, die vom Hersteller 
+des Fahrgestells angegeben wird
+Bemerkung
+Die zGM darf nicht überschritten werden und ist 
+gleichzeitig die Grundlage für die erforderliche 
+Fahrerlaubnis. Die zulässige Gesamtmasse nach 
+Norm ist mit der in den Fahrzeugpapieren an­
+gegebenen zulässigen Gesamtmasse nicht zu 
+verwechseln.
+Rechnerische Gesamtmasse
+Die rechnerische Gesamtmasse für ein Feuerwehr­
+fahrzeug ergibt sich wie folgt:
+3.4	 Massenklassen
+Jedes Feuerwehrfahrzeug ist einer Massenklasse 
+nach DIN EN 1846-1 zugeordnet und weiter unter­
+teilt nach der DIN SPEC 14502-1. Fahrzeuge dürfen 
+die Obergrenzen ihrer zugeteilten Massenklasse 
+nicht überschreiten. Die Massenklassen werden 
+hinsichtlich der Fahrzeuggesamtmassen (GM) 
+eingestuft in:
+	
+Leermasse
++	 Masse der feuerwehrtechnischen Beladung 
++	 Masse der Löschmittel 
++	 Masse der Besatzung
+= 	rechnerische Gesamtmasse
+Gesamtmassen
+Massenklassen 
+nach 
+DIN EN 1846-1:2011-07
+Unterteilte 
+Massenklassen
+nach 
+DIN SPEC 14502-1
+Leicht (L)
+3,0 t < GM ≤ 7,5 t
+Leicht 1 (LI)
+3,0 t < GM ≤ 4,75 t
+Leicht 2 (LII)
+4,75 t < GM ≤ 7,5 t
+Mittel (M)
+7,5 t < GM ≤ 16,0 t
+Mittel 1 (MI)
+7,5 t < GM ≤ 9,0 t
+Mittel 2 (MII)
+9,0 t < GM ≤ 14,0 t
+Mittel 3 (MIII)
+14,0 t < GM ≤ 16,0 t
+Super (S)
+GM > 16,0 t
+Super (S)
+GM > 16,0 t
+
+14 
+Abb. 7
+Feuerwehrfahrzeuge
+4	
+EINTEILUNG DER FEUERWEHRFAHRZEUGE
+5	
+FEUERLÖSCHFAHRZEUGE
+Feuerwehrfahrzeuge werden nach der DIN EN 1846-1 
+nach ihrer hauptsächlichen Verwendung in die 
+folgenden Typen unterteilt:
+	
+z
+Feuerlöschfahrzeuge
+	›
+Löschfahrzeuge
+	›
+Sonderlöschfahrzeuge
+	
+z
+Hubrettungsfahrzeuge
+	›
+Drehleitern
+	›
+Hubarbeitsbühnen
+	
+z
+Rüst- und Gerätefahrzeuge
+	
+z
+Krankenkraftwagen der Feuerwehr
+	
+z
+Gerätefahrzeuge Gefahrgut
+	
+z
+Einsatzleitfahrzeuge
+	
+z
+Mannschaftstransportfahrzeuge
+	
+z
+Nachschubfahrzeuge
+	
+z
+sonstige spezielle Kraftfahrzeuge
+5.1	 Löschfahrzeuge
+Löschfahrzeuge, gemäß DIN EN 1846-1, sind Feuerwehrfahrzeuge, die mit einer Feuerlöschkreisel­
+pumpe und im Regelfall mit einem Wasserbehälter und anderen zusätzlichen Geräten für die Brand­
+bekämpfung ausgerüstet sind.
+5.1.1	Gerätewagen Tragkraftspritze
+Der Gerätewagen Tragkraftspritze (GW-TS) ist ein 
+Pritschenfahrzeug mit Doppelkabine (Pickup- oder 
+Transporterfahrgestell) mit einer Besatzung von 
+mindestens vier Personen. Die Mannschaft des 
+GW-TS bildet keine selbständige Einheit. 
+Er dient überwiegend der Brandbekämpfung 
+im Orts-/Ortsteilbereich und ist das motorisierte 
+Ersatzfahrzeug für den Tragkraftspritzenanhänger 
+TSA (s. Kap. 13.3.4). 
+Der GW-TS wird gefördert
+	
+z
+für Feuerwehren, deren einziges Einsatzmittel 
+ein Tragkraftspritzenanhänger TSA ist,
+	
+z
+für Feuerwehren, deren einziges Einsatzmittel 
+ein Tragkraftspritzenfahrzeug TSF (ohne Atem­
+schutz) ist, sofern der Stellplatz im Feuerwehr­
+haus nicht die Anforderungen für die UVV-
+gerechte Unterbringung eines TSF nach aktuell 
+geltender DIN Norm erfüllt.
+Funkrufkennzahl: 45
+
+15 
+Abb. 8
+TSF-W
+5.1.2	Tragkraftspritzenfahrzeuge
+Tragkraftspritzenfahrzeuge sind Feuerwehrfahr­
+zeuge nach DIN 14530-16 und nach DIN 14530-17. 
+Diese Fahrzeuge sind mit einer Tragkraftspritze 
+und einer feuerwehrtechnischen Beladung für 
+eine Gruppe (1/8) ausgestattet. Die Besatzung 
+besteht aus einer Staffel (1/5). Die Fahrzeugbela­
+dung ist überwiegend für die Brandbekämpfung 
+ausgelegt. Die Staffel bildet mit der zur Gruppe 
+ergänzten Besatzung eine selbstständige takti­
+sche Einheit. 
+Das Tragkraftspritzenfahrzeug (TSF) gemäß 
+DIN  14530-16 besitzt keinen Wassertank. Wo­
+hingegen das Tragkraftspritzenfahrzeug Wasser 
+(TSF-W) nach DIN 14530-17 über einen Löschwas­
+serbehälter von mindestens 500 Litern und eine 
+Einrichtung zur schnellen Wasserabgabe verfügt. 
+Das „W” steht für einen Löschwasserbehälter in 
+der Abkürzung TSF-W.
+Die Fahrzeuge nehmen eine Staffel auf, dies kann 
+vorzugsweise mit einer Doppelkabine oder einer 
+anderweitigen Bauform gelöst werden.
+46	
+TSF-W
+Eine Besonderheit unter den Tragkraftspitzenfahr­
+zeugen stellt das Tragkraftspritzenfahrzeug Logistik 
+(TSF-L). Für dieses landesspezifische Fahrzeug gibt 
+es eine Technische Baubeschreibung. 
+Das  TSF-L ist ein Löschfahrzeug mit einer  Trag­
+kraftspritze und einer feuerwehrtechnischen
+Beladung für eine Gruppe. Die Besatzung besteht 
+aus einer Staffel (1/5). Darüber hinaus muss die 
+Möglichkeit zum Transport von einsatzbezogenen 
+Ausrüstungsgegenständen bestehen.
+Das TSF-L basiert auf einem handelsüblichen 
+Fahrgestell mit Doppelkabine. Die maximal
+zulässige Gesamtmasse beträgt 9.000 kg und 
+das Fahrgestell sollte vorrangig mit Straßen­
+antrieb ausgestattet sein. Der Aufbau ist ein 
+fester Koffer mit Ladefläche und Ladebordwand. 
+Die ständig mitgeführte feuerwehrtechnische
+Beladung muss unfallsicher und leicht zugäng­
+lich im Kofferaufbau gelagert sein. 
+Die Funkrufkennzahlen der Fahrzeuge sind:
+44	
+TSF
+44	
+TSF-L 
+
+16 
+5.1.3	Mittlere Löschfahrzeuge
+Das Mittlere Löschfahrzeug (MLF) ist ein Feuerwehr­
+fahrzeug nach DIN 14530-25 mit einer vom Fahrzeug­
+motor angetriebenen Feuerlöschkreiselpumpe. Zur 
+Ausstattung gehört eine Einrichtung zur schnellen 
+Wasserabgabe, ein Löschwasserbehälter und eine 
+feuerwehrtechnische Beladung für eine Gruppe 
+(1/8). Die Besatzung besteht aus einer Staffel (1/5), 
+die mit der zur Gruppe ergänzten Besatzung eine 
+selbstständige taktische Einheit bildet. Das Fahrzeug 
+dient überwiegend zur Brandbekämpfung. 
+Ein MLF ist konzeptionell zwischen dem TSF-W und 
+dem LF 10 angesiedelt. 
+Funkrufkennzahl: 47
+5.1.4	Löschgruppenfahrzeuge
+Löschgruppenfahrzeuge (LF) sind Feuerwehrfahr­
+zeuge mit einer vom Fahrzeugmotor angetriebenen 
+Feuerlöschkreiselpumpe. Zur Ausstattung gehört 
+eine Einrichtung zur schnellen Wasserabgabe, ein 
+Löschwasserbehälter und eine feuerwehrtechnische 
+Beladung für eine Gruppe (1/8). Diese Fahrzeuge 
+werden überwiegend zur Brandbekämpfung, zum 
+Fördern von Wasser und zur Durchführung von tech­
+nischen Hilfeleistungen eingesetzt. Die Besatzung, 
+die aus einer Gruppe (1/8) besteht, bildet hierbei 
+eine selbstständige taktische Einheit. 
+Zu Löschgruppenfahrzeugen gehören ebenfalls 
+die Hilfeleistungs-Löschgruppenfahrzeuge (HLF). 
+Der Unterschied zwischen LF und HLF ist die, bei 
+einem HLF erweiterte Beladung für die technische 
+Hilfeleistung. 
+Unterschiede in der Beladung sind den jeweiligen 
+Normen zu entnehmen. 
+Zu den Löschgruppenfahrzeugen gehört das LF 10 
+nach DIN 14530-5, das LF 20 nach DIN 14530-11 und 
+das LF 20 KatS nach DIN 14530-8. Zu den Hilfe-
+leistungs-Löschgruppenfahrzeugen gehört das 
+HLF 10 nach DIN 14530-26 und das HLF 20 nach 
+DIN 14530-27.
+Die Zahl nach den Abkürzungen LF und HLF steht für 
+den Pumpen-Nennförderstrom in l/min (Zahl x 100).
+In den fünf verschiedenen Löschgruppenfahr­
+zeugen können je nach Bedarf eine zusätzliche 
+Tragkraftspritze mitgeführt werden.
+Der Schaummittelbehälter darf fest eingebaut 
+werden, kann aber auch mit Hilfe von Standard-
+Schaummittelkanistern realisiert werden. 
+Ebenfalls kann bei einem Schaummitteltank zur 
+Schaumerzeugung eine Druckzumischanlage oder 
+eine Druckluftschaumanlage (sog. CAFS-Anlage) 
+verbaut werden. 
+Die Funkrufkennzahlen der Löschgruppenfahr­
+zeuge sind:
+40	
+HLF 20 
+41 	
+LF 20
+41 	
+LF 20 KatS
+42	
+HLF 10
+43 	
+LF 10
+
+17 
+Abb. 11
+MLF
+Abb. 10
+HLF 10
+Abb. 9
+HLF 20
+
+18 
+Tanklöschfahrzeuge (TLF) sind Feuerwehrfahrzeu­
+ge mit einer vom Fahrzeugmotor angetriebenen 
+Feuerlöschkreiselpumpe, einer Einrichtung zur 
+schnellen Wasserabgabe, einem Löschwasserbe­
+hälter und einer feuerwehrtechnischen Beladung. 
+Die Besatzung besteht aus einem selbstständigen 
+Trupp (1/2), dessen Aufgabe vorrangig die Bereit­
+stellung von Löschwasser ist. 
+Die Besatzung des Waldbrandlöschfahrzeugs (TLF-
+WB) besteht aus einem selbstständigen Trupp (1/2) 
+bzw. einer Staffel (1/5). Aufgabe des Fahrzeugs ist 
+vorrangig die Bereitstellung von Löschwasser in 
+schwer zugänglichen Gebieten, insbesondere zur 
+Vegetationsbrandbekämpfung.
+Für Tanklöschfahrzeuge gibt es drei Normen:
+	
+z
+Für das TLF 2000 die DIN 14530-18
+	
+z
+Für das TLF 3000 die DIN 14530-22
+	
+z
+Für das TLF 4000 die DIN 14530-21
+Die Bezeichnung 2000, 3000 und 4000 steht für 
+die Mindestmenge an Löschwasser, die auf dem 
+jeweiligen TLF mitgeführt wird.
+Für Tanklöschfahrzeuge ist aus den Feuerwehr-
+Zuwendungsrichtlinien folgendes zu entnehmen: 
+Tanklöschfahrzeuge (TLF) sollen nur gefördert wer­
+den, wenn die Feuerwehr über mindestens ein (Hilfe-
+leistungs-) Löschgruppenfahrzeug verfügt. Das 
+TLF 4000 soll nur gefördert werden, wenn die 
+Feuerwehr bereits mit mindestens zwei (Hilfeleis­
+tungs-)Löschgruppenfahrzeugen ausgestattet ist 
+und die fachliche Stellungnahme des zuständigen 
+KBRs/SBRs/Leiters der BF ein großes Gefahren­
+potenzial (zum Beispiel mehrspurige Straße, 
+größeres Gewerbe- und Industriegebiet) bestätigt.
+Für das TLF 3000 ist abweichend von der nach der 
+einschlägigen Fahrzeugnorm vorgesehenen Fahr­
+zeugkabine für einen Trupp auch eine Ausstattung 
+mit einer Staffelkabine förderfähig. TLF 3000 mit 
+Staffelkabine sollen nur gefördert werden, wenn 
+die Feuerwehren innerhalb der Gemeinde über 
+mindestens ein (Hilfeleistungs-) Löschgruppen­
+fahrzeug verfügen.
+Abb. 12
+TLF 3000
+5.1.5	Tanklöschfahrzeuge
+21 	
+TLF 3000 
+22	
+TLF 2000
+22	
+TLF-WB
+23	
+TLF 4000
+
+19 
+Abb. 13
+Sonstiges
+Löschfahrzeug
+Funkrufkennzahl 49/1 
+Quelle:  
+Wacker Chemie AG
+5.2	 Sonderlöschfahrzeuge
+5.2.2	 Sonstiges Löschfahrzeug und 
+	
+ Kleinlöschfahrzeug
+Sonstige Löschfahrzeuge fassen alle Feuerlöschfahr­
+zeuge zusammen, die nicht einer der bestehenden 
+Kategorien zugeordnet werden können. 
+Diese sind ebenfalls nicht genormt und werden an 
+die Bedürfnisse des Betreibers angepasst.
+Das Kleinlöschfahrzeug (KLF) nach DIN 14530-24 ist 
+ein Fahrzeug mit einer Tragkraftspritze, einer Ein­
+richtung zur schnellen Wasserabgabe, einem Lösch­
+wasserbehälter und einer feuerwehrtechnischen 
+Beladung für eine Gruppe (1/8), dessen Besatzung 
+aus einer Staffel (1/5) besteht. 
+Die Funkrufkennzahlen der Fahrzeuge sind:
+5.2.1	 Sondertanklöschfahrzeug und 
+	
+ Flugfeldlöschfahrzeug
+Sondertanklöschfahrzeuge (SonTLF) werden in Be­
+reichen mit besonderen Brandrisiken, beispielsweise 
+spezielle Industriebetriebe zur Gewinnung oder 
+Weiterverarbeitung von Rohstoffen, eingesetzt. 
+Flugfeldlöschfahrzeuge (FLF) werden auf Flug­
+häfen, Flugplätzen oder auch Sonderlandeplätzen 
+eingesetzt.
+Diese Fahrzeuge sind nicht genormt und werden 
+individuell an die Bedürfnisse des Betreibers an­
+gepasst. Dabei wird sich oft an die allgemeinen 
+Anforderungen der Fahrzeugnormen angelehnt. 
+Beide Fahrzeugtypen zeichnen sich auch durch das 
+Mitführen von großen Mengen an Löschmittel aus 
+(Wasser, Schaum, Pulver, Kohlendioxid). 
+Die Funkrufkennzahlen der Fahrzeuge sind:
+Sonderlöschfahrzeuge, gemäß DIN EN 1846-1, sind Feuerwehrfahrzeuge mit für die Brandbekämp­
+fung spezieller Ausrüstung mit oder ohne speziellem Löschmittel.
+29	
+SonTLF
+29	
+FLF
+49	
+Sonstiges
+	
+Löschfahrzeug
+49	
+KLF
+
+20 
+TABELLE 1: FEUERLÖSCHFAHRZEUGE
+Typ
+HLF 20
+LF 20
+LF 20 KatS
+Funkrufkennzahl
+40
+41
+41
+Antriebsart
+Allrad / Straße¹
+Allrad / Straße¹
+Allrad
+Besatzung
+1/8
+1/8
+1/8
+Atemschutzgeräte
+4
+4
+4
+Eingebaute FPN / 
+Mobile PFPN
+FPN 10-2000
+FPN 10-2000
+FPN 10-2000
+Löschwasserbehälter
+min. 1.600 l11
+min. 2.000 l11
+min. 1.000 l11
+Schaummittel
+120²
+120²
+120²
+B-Schlauch 20 m
+14
+14
+30
+C-Schlauch 15 m
+12
+12
+12
+Einrichtung zur schnellen 
+Wasserabgabe³/
+Schnellangriff
+2 x C- oder D-Schläuche 15 m 
+oder formst. Druckschlauch 
+50 m DN 25 oder 
+30 m DN 33
+2 x C- oder D-Schläuche 15 m 
+oder formst. Druckschlauch 
+50 m DN 25 oder 30 m DN 33
+2 x C- oder D-Schläuche
+15 m + Hohlstrahlrohr
+Steckleiterteile
+4
+4
+4
+3-teilige Schiebleiter
+1
+1
+0
+Sonstige Ausrüstung
+Rettungsbrett, Verkehrsunfall­
+kasten, Flutlichtstrahler, Tauch­
+motorpumpe, Kettensäge, 
+Stromerzeuger⁵, Säbelsäge, 
+Sprungpolster, Belüftungs­
+gerät, leichter Chemikalien­
+schutzanzug, hydraulische 
+Rettungsgeräte, Satz Hebe­
+kissen, Systemtrenner B-FW, 
+Wärmebildkamera, 1 MRT 
+und 4 HRT
+Rettungsbrett, Verkehrsun­
+fallkasten, Flutlichtstrahler, 
+Tauchmotorpumpe,
+Kettensäge, Stromerzeuger5, 
+Säbelsäge, Sprungpolster, 
+Belüftungsgerät, leichter 
+Chemikalienschutzanzug, 
+Schornsteinwerkzeugsatz, 
+Systemtrenner B-FW,
+Wärmebildkamera, 1 MRT 
+und 4 HRT
+Verkehrsunfallkasten,
+Flutlichtstrahler, Tauch­
+motorpumpe, Kettensäge, 
+Stromerzeuger, Sandbleche, 
+Wathosen, Hygienebox, 
+Tragkraftspritze, System­
+trenner B-FW, Wärmebild-
+kamera, 1 MRT und 5 HRT
+Zusatzbeladung nach 
+einsatztaktischen 
+Erfordernissen
+Kombinationsfilter, Kranken­
+trage, Notfallrucksack, Schorn­
+steinwerkzeugsatz, Rettungs­
+plattform, Ex-Messgerät, 
+hydraulische Winde
+DIN 14800-18 (z. B. Trenn-
+schleifmaschine, Wasser­
+schaden, Mehrzweckzüge)
+Kombinationsfilter, Kranken­
+trage, Notfallrucksack, 
+tragbarer Wasserwerfer, 
+Ex-Messgerät 
+DIN 14800-18 (z. B. Tragkraft­
+spritze, Trennschleifmaschi­
+ne, Wasserschaden, Mehr­
+zweckzüge)
+Notfallrucksack, 
+Handscheinwerfer Ex,
+Rettungsbrett
+Länge max.
+8,6 m7
+8,6 m7
+7,3 m
+Breite max.
+2,5 m
+2,5 m
+2,5 m
+Höhe max.
+3,3 m
+3,3 m
+3,3 m
+Massenklasse
+MIII
+MIII
+MIII
+1 	 Es ist vorrangig Allradantriebe zu wählen.
+2  	 Die mitgeführte Schaummittelmenge muss mindestens einen 10-minütigen Einsatz eines Kombinations-Schaumstrahlrohr S4/M4 ermöglichen.
+3 	 Zwei zur Beladung gehörende C- oder D-Druckschläuche müssen schnell und einfach mit der FPN verbunden werden können.
+4	 Alternativ auch 2 Multifunktionsleitern zulässig.
+5 	 Leistung des Stromerzeugers muss an die Beladung angepasst werden.
+6	 Unter Berücksichtigung der Stellplatzgröße im Feuerwehrhaus darf die Fahrzeuglänge überschritten werden.
+7 	 Mit aufgeprotzter(n) Haspel(n). Bei Anbauteilen (z. B. maschinelle Zugeinrichtung) 9,0 m Höchstlänge; bei unzureichenden Stellplatzlängen 
+in bestehenden Feuerwehrhäusern darf auf fahrbare Haspeln verzichtet werden, wenn die Schläuche im Geräteraum untergebracht sind.
+8 	 Bei besonders kompaktem Fahrgestell Reduzierung auf mindestens 1.800 l zulässig. Auf Wunsch des Bestellers Höchstbreite 2.500 mm zulässig, 
+wenn örtliche Gegebenheiten dies erlauben.
+9	 Bei Mitnahme einer 4-teiligen Steckleiter darf die Höhe auf max. 2.600 mm vergrößert werden.
+
+21 
+Typ
+HLF 10
+LF 10
+MLF
+Funkrufkennzahl
+42
+43
+47
+Antriebsart
+Allrad / Straße¹
+Allrad / Straße¹
+Straße
+Besatzung
+1/8
+1/8
+1/5
+Atemschutzgeräte
+4
+4
+4
+Eingebaute FPN / 
+Mobile PFPN
+FPN 10 - 1000
+FPN 10 - 1000
+FPN 10 - 1000
+Löschwasserbehälter
+min. 1.000 l11
+min. 1.200 l11
+600 - 1.000 l
+Schaummittel
+120²
+120²
+0
+B-Schlauch 20 m
+14
+14
+10
+C-Schlauch 15 m
+12
+12
+9
+Einrichtung zur schnellen 
+Wasserabgabe³/
+Schnellangriff
+2 x C- oder D-Schläuche 15 m 
+oder formst. Druckschlauch 
+50 m DN 25 oder 30 m DN 33
+2 x C- oder D-Schläuche 15 m 
+oder formst. Druckschlauch 
+50 m DN 25 oder 30 m DN 33
+2 x D- oder C-Schläuche 
+15 m oder formst. Druck­
+schlauch 50  m DN 25 oder 
+30 m DN 33
+Steckleiterteile
+4
+4⁴
+4
+3-teilige Schiebleiter
+0
+0
+0
+Sonstige Ausrüstung
+Rettungsbrett, Verkehrsun­
+fallkasten, Flutlichtstrahler, 
+Tauchmotorpumpe, Ketten­
+säge, Stromerzeuger⁵, Säbel­
+säge, hydraulischer Spreizer 
+und Schneidgerät, Satz 
+Hebekissen, Systemtrenner 
+B-FW, Wärmebildkamera,
+1 MRT und 4 HRT
+Rettungsbrett, Verkehrsun­
+fallkasten, Flutlichtstrahler, 
+Tauchmotorpumpe, Ket­
+tensäge, Stromerzeuger5, 
+Säbelsäge, Belüftungsgerät, 
+Systemtrenner B-FW, Wär­
+mebildkamera, Schornstein­
+werkzeugsatz, 1 MRT und
+4 HRT
+Kübelspritze, Feuerlöscher, 
+Schlauchtragekörbe,
+Brechwerkzeug, Spaltham­
+mer, Abschleppseil, Flucht­
+haube, Ölbindemittel,
+Systemtrenner B-FW,
+Wärmebildkamera, 1 MRT 
+und 4 HRT
+Zusatzbeladung nach 
+einsatztaktischen 
+Erfordernissen
+Kombinationsfilter, Kran­
+kentrage, Notfallrucksack, 
+Schornsteinwerkzeugsatz, 
+hydraulische Winde, 
+Belüftungsgerät
+DIN 14800-18 (z. B. Trenn-
+schleifmaschine, Wasser­
+schaden, Mehrzweckzüge)
+Ex-Messgerät
+Kombinationsfilter, Kranken­
+trage, Notfallrucksack
+DIN 14800-18 (z. B. Tragkraft­
+spritze, Trennschleifmaschi­
+ne, Wasserschaden, Mehr­
+zweckzüge)
+Ex-Messgerät
+Kombinationsfilter, 
+Notfallrucksack, Rettungs­
+brett, Verkehrsunfallkasten 
+DIN 14800-18 (z. B. Ketten-
+säge, Strom, Beleuchtung)
+Länge max.
+7,3 m
+7,3 m
+6,5 m
+Breite max.
+2,5 m
+2,5 m
+2,5 m
+Höhe max.
+3,3 m
+3,3 m
+3,1 m
+Massenklasse
+MII
+MII
+LII oder MI
+10 	Bei entsprechender schriftlicher Begründung kann auf die Ausstattung mit Atemschutzgeräten verzichtet werden (Regelung für Bayern gültig). Dazu ist ein 
+Antrag auf Abweichung bei der Regierung (Förderbehörde) zu stellen. Zwingende Voraussetzung ist aber die Einhaltung der zehnminütigen Hilfsfrist durch 
+ein geeignetes Feuerwehr-Fahrzeug mit Atemschutzgeräten einer benachbarten Feuerwehr. Die Zahl der Handsprechfunkgeräte für den Einsatzstellenfunk 
+darf dann auf 2 reduziert werden.
+11 	StMI-Schreiben „Löschwassertank Mindestvolumen LF“
+12	 In Bayern auch Beschaffung als Staffelfahrzeug möglich, hierbei zusätzliche feuerwehrtechnische Beladung (Atemschutzgeräte, Schläuche, Steckleiter, etc.) nötig
+(StMI-Schreiben: t1p.de/n2elm)
+13	 TSF mit Allrad und kein Atemschutz ≤ 4.750 kg, TSF mit Allrad und Atemschutz ≤ 5.000 kg, TSF ohne Allrad und kein Atemschutz ≤ 4.500 kg (Vorgaben StMI Bayern)
+14	 Bei Fahrzeugen, die eine möglichst geringe Fahrzeugmasse aufweisen sollen, darf die nutzbare Wassermenge auf 1.800 l reduziert werden.
+15	 Ohne Frontmonitor, bei Verwendung einer Staffelkabine darf die Fahrzeuglänge maximal 7,50 m betragen.
+16	 Optional Steckleiter, 4-teilig oder 2x Multifunktionsleiter
+
+22 
+Typ
+TSF
+TSF-L
+GW-TS
+TSF-W
+Funkrufkennzahl
+44
+44
+45
+46
+Antriebsart
+Straße
+Straße
+Allrad
+Straße
+Besatzung
+1/5
+1/5
+mind. 1/3
+1/5
+Atemschutzgeräte
+4
+4
+0
+4
+Eingebaute FPN / 
+Mobile PFPN
+PFPN 10-1000
+PFPN 10-1000
+PFPN 10-1000
+PFPN 10 -1000
+Löschwasserbehälter
+0
+0
+0
+500 - 750 l
+Schaummittel
+0
+0
+0
+0
+B-Schlauch 20 m
+10
+10
+6
+10
+C-Schlauch 15 m
+9
+9
+6
+9
+Einrichtung zur 
+schnellen Wasser-
+abgabe³/
+Schnellangriff
+0
+0
+0
+2 x D- oder C-Schläu­
+che 15 m oder formst. 
+Druckschlauch 50 m 
+DN 25 oder 30 m 
+DN 33
+Steckleiterteile
+4
+4
+0
+4
+3-teilige Schiebleiter
+0
+0
+0
+0
+Sonstige 
+Ausrüstung
+Kübelspritze, Feuer-
+löscher, Schlauch-
+tragekörbe, Brech­
+werkzeug, Spaltham­
+mer, Abschleppseil, 
+Systemtrenner B-FW, 
+Wärmebildkamera,
+1 MRT und 4 HRT10
+Kübelspritze, Feuer­
+löscher, Schlauchtra­
+gekörbe, Brechwerk­
+zeug, Spalthammer, 
+Abschleppseil, Sys­
+temtrenner B-FW, 
+Wärmebildkamera,
+1 MRT und 4 HRT10
+Feuerlöscher, Brech­
+stange, Abschleppseil, 
+Systemtrenner B-FW, 
+1 MRT und 3 HRT
+Kübelspritze, Feuer­
+löscher, Schlauchtra­
+gekörbe, Brechwerk­
+zeug, Spalthammer, 
+Abschleppseil, Flucht­
+haube, Ölbindemittel, 
+Systemtrenner B-FW, 
+Wärmebildkamera,
+1 MRT und 4 HRT
+Zusatzbeladung
+nach 
+einsatztaktischen 
+Erfordernissen
+Kombinationsfilter, 
+Notfallrucksack, 
+Rettungsbrett, 
+Verkehrsunfallkasten 
+DIN 14800-18
+(z. B. Kettensäge, 
+Strom, Beleuchtung)
+Kombinationsfilter, 
+Notfallrucksack,
+Rettungsbrett,
+Verkehrsunfallkasten 
+DIN 14800-18
+(z. B. Kettensäge, 
+Strom, Beleuchtung)
+Schlauchtragekorb C,
+Notfallrucksack,
+Steckleiter,
+Spalthammer
+Kombinationsfilter, 
+Notfallrucksack,
+Rettungsbrett,
+Verkehrsunfallkasten 
+DIN 14800-18
+(z. B. Kettensäge, 
+Strom, Beleuchtung)
+Länge max.
+6,0 m⁶
+7,3 m
+5,5 m
+6,3 m
+Breite max.
+2,3 m
+2,5 m
+2,2 m
+2,35 m
+Höhe max.
+2,6 m
+3,1 m
+2,4 m⁹
+2,9 m
+Massenklasse
+LI13
+MI
+LI
+LII
+1 	 Es ist vorrangig Allradantriebe zu wählen.
+2  	 Die mitgeführte Schaummittelmenge muss mindestens einen 10-minütigen Einsatz eines Kombinations-Schaumstrahlrohr S4/M4 ermöglichen.
+3 	 Zwei zur Beladung gehörende C- oder D-Druckschläuche müssen schnell und einfach mit der FPN verbunden werden können.
+4	 Alternativ auch 2 Multifunktionsleitern zulässig.
+5 	 Leistung des Stromerzeugers muss an die Beladung angepasst werden.
+6	 Unter Berücksichtigung der Stellplatzgröße im Feuerwehrhaus darf die Fahrzeuglänge überschritten werden.
+7 	 Mit aufgeprotzter(n) Haspel(n). Bei Anbauteilen (z. B. maschinelle Zugeinrichtung) 9,0 m Höchstlänge; bei unzureichenden Stellplatzlängen 
+in bestehenden Feuerwehrhäusern darf auf fahrbare Haspeln verzichtet werden, wenn die Schläuche im Geräteraum untergebracht sind.
+8 	 Bei besonders kompaktem Fahrgestell Reduzierung auf mindestens 1.800 l zulässig. Auf Wunsch des Bestellers Höchstbreite 2.500 mm zulässig, 
+wenn örtliche Gegebenheiten dies erlauben.
+9	 Bei Mitnahme einer 4-teiligen Steckleiter darf die Höhe auf max. 2.600 mm vergrößert werden.
+
+23 
+Typ
+TLF-WB
+TLF 2000
+TLF 3000
+TLF 4000
+Funkrufkennzahl
+22
+22
+21
+23
+Antriebsart
+Allrad
+Allrad
+Allrad
+Allrad
+Besatzung
+1/2 oder 1/5
+1/2 oder 1/5¹²
+1/2 oder 1/5¹²
+1/2
+Atemschutzgeräte
+0
+212
+212
+2
+Eingebaute FPN / 
+Mobile PFPN
+FPN 10-1000
+FPN 10-1000
+FPN 10-2000
+FPN 10-2000
+Löschwasserbehälter
+mind. 2.000 l¹⁴
+min. 2.000 l8
+min. 3.000 l
+min. 4.000 l
+Schaummittel
+mind. 60 l
+0
+120²
+min. 500 l
+B-Schlauch 20 m
+4
+4
+6
+6
+C-Schlauch 15 m
+6
+6
+6
+6
+Einrichtung zur 
+schnellen Wasser-
+abgabe³/
+Schnellangriff
+2 x D-Schläuche 15 m
+oder
+formst. Druckschlauch
+50 m DN 25
+2 x C- oder D-Schläu­
+che 15 m oder formst. 
+Druckschlauch 50 m 
+DN 25 oder 30 m
+DN 33
+2 x C- oder D-Schläu­
+che 15 m oder formst. 
+Druckschlauch 50 m 
+DN 25 oder 30 m
+DN 33
+Dachwerfer +
+2 x C- oder D-Schläu­
+che 15 m oder formst. 
+Druckschlauch 
+50 m DN 25 oder
+30 m DN 33
+Steckleiterteile
+0
+0¹²
+0¹²
+0¹⁶
+3-teilige Schiebleiter
+0
+0
+0
+0
+Sonstige 
+Ausrüstung
+Feuerlöscher, 
+2 Löschrucksäcke,
+2 Wiedehopfhacken,
+2 Feuerpatschen, 
+Brechwerkzeug, Spalt­
+hammer, Rundschlin­
+ge, Mehrzweckzug 
+MZ 32, Kettensäge, 
+Systemtrenner B-FW, 
+Wärmebildkamera,
+4 Gleitschutzketten,
+1 MRT und 2 HRT
+Feuerlöscher, Brech­
+werkzeug, Spaltham­
+mer, Rundschlinge, 
+Kettensäge, Feuerpat­
+sche, Systemtrenner 
+B-FW, Wärmebild­
+kamera, 1 MRT und 
+2 HRT
+Feuerlöscher, Brech­
+werkzeug, Spaltham­
+mer, Rundschlinge, 
+Kettensäge, Feuerpat­
+sche, Kombinations­
+schaumrohr, Zumi­
+scher, Systemtrenner 
+B-FW, Wärmebild­
+kamera, 1 MRT und 
+2 HRT
+Feuerlöscher, Brech­
+werkzeug, Spaltham­
+mer, Rundschlinge, 
+Kettensäge, Feuerpat­
+sche, Kombinations­
+schaumrohr, Zumi­
+scher, Systemtrenner 
+B-FW, Wärmebild­
+kamera, 1 MRT und 
+2 HRT
+Zusatzbeladung
+nach 
+einsatztaktischen 
+Erfordernissen
+Notfallrucksack,
+Sandblech
+Kombinationsfilter, 
+Notfallrucksack, Steck­
+leiter, Verkehrswarn­
+gerät, Einreißhaken, 
+Zusatzbeladung für 
+Waldbrände
+Kombinationsfilter, 
+Notfallrucksack, Steck­
+leiter, Verkehrswarn­
+gerät, Einreißhaken, 
+Zusatzbeladung für 
+Waldbrände
+Kombinationsfilter, 
+Notfallrucksack, 
+Verkehrswarngerät, 
+Einreißhaken,
+Zusatzbeladung für 
+Waldbrände
+Länge max.
+7,0 m¹⁵
+6,3 m
+7,5 m
+8,0 m
+Breite max.
+2,5 m
+2,3 m8
+2,5 m
+2,5 m
+Höhe max.
+3,3 m
+3,1 m
+3,3 m
+3,3 m
+Massenklasse
+MII
+MII
+MII 
+MIII oder S
+10 	Bei entsprechender schriftlicher Begründung kann auf die Ausstattung mit Atemschutzgeräten verzichtet werden (Regelung für Bayern gültig). Dazu ist ein 
+Antrag auf Abweichung bei der Regierung (Förderbehörde) zu stellen. Zwingende Voraussetzung ist aber die Einhaltung der zehnminütigen Hilfsfrist durch 
+ein geeignetes Feuerwehr-Fahrzeug mit Atemschutzgeräten einer benachbarten Feuerwehr. Die Zahl der Handsprechfunkgeräte für den Einsatzstellenfunk 
+darf dann auf 2 reduziert werden.
+11 	StMI-Schreiben „Löschwassertank Mindestvolumen LF“
+12	 In Bayern auch Beschaffung als Staffelfahrzeug möglich, hierbei zusätzliche feuerwehrtechnische Beladung (Atemschutzgeräte, Schläuche, Steckleiter, etc.) nötig
+(StMI-Schreiben: t1p.de/n2elm)
+13	 TSF mit Allrad und kein Atemschutz ≤ 4.750 kg, TSF mit Allrad und Atemschutz ≤ 5.000 kg, TSF ohne Allrad und kein Atemschutz ≤ 4.500 kg (Vorgaben StMI Bayern)
+14	 Bei Fahrzeugen, die eine möglichst geringe Fahrzeugmasse aufweisen sollen, darf die nutzbare Wassermenge auf 1.800 l reduziert werden.
+15	 Ohne Frontmonitor, bei Verwendung einer Staffelkabine darf die Fahrzeuglänge maximal 7,50 m betragen.
+16	 Optional Steckleiter, 4-teilig oder 2x Multifunktionsleiter
+
+24 
+6.1	 Drehleitern
+Drehleitern nach DIN EN 14043 bestehen aus 
+einem Fahrgestell, dem Aufbau und einem kraft­
+betätigten Ausleger in Form einer Leiter mit Korb. 
+Dieser ist auf dem Fahrgestell schwenkbar mon­
+tiert. Drehleitern können ein Gelenk im obersten 
+Leiterteil besitzen. 
+In Deutschland gibt es folgende Drehleitertypen: 
+Die DLAK 23/12, DLAK 18/12 und die DLAK 12/9. 
+Die Zahlen hinter der Bezeichnung „DLAK“ be­
+zeichnen die sogenannte Nennreichweite. Die 
+Nennreichweite setzt sich aus Rettungshöhe und 
+horizontaler Ausladung zusammen. Die Abkürzung 
+"DLAK" steht für Drehleiter Automatisch mit Korb.
+Die fahrbare Drehleiter wird nur als Drehleiter 
+DLAK 23/12 oder DLAK 18/12 in Bayern gefördert. 
+Anstelle einer DLAK 23/12 oder einer DLAK 18/12 
+wird auch ein  Teleskop-Gelenkmast in vergleichba­
+rer Ausführung zur Brandbekämpfung gefördert, 
+sofern er bei den Feuerwehren einer Gemeinde als 
+Ergänzung für eine sonst notwendige zweite oder 
+weitere Drehleiter beschafft werden soll.
+Die Funkrufkennzahlen der Fahrzeuge sind:
+30	    DLAK 23/12	
+32    DLAK 12/9
+31	
+DLAK 18/12
+6.2	 Hubarbeitsbühnen
+Hubarbeitsbühnen (HAB) nach DIN 14701-1,
+bestehen aus einem Arbeitskorb und einer hydrau-
+lischen Hubeinrichtung, die auf einem Untergestell 
+montiert ist. Dabei handelt es sich um ein Fahr­
+gestell mit Eigenantrieb, das zur Beförderung von 
+Personen und deren Ausrüstung an die Einsatz­
+orte zur Brandbekämpfung, zur Rettung oder zum 
+Schutz von Personen, dem Umweltschutz sowie 
+für andere Zwecke vorgesehen ist. 
+Die Hubarbeitsbühnen der Feuerwehr werden 
+als Teleskopgelenkmast (TGM) bezeichnet. 
+Bei der Feuerwehr gibt es zwei TGM-Typen: 
+Den TGM 23/12 und den TGM 18/12. 
+Funkrufkennzahl:	 33
+Abb. 14
+DLAK
+6	
+HUBRETTUNGSFAHRZEUGE
+Hubrettungsfahrzeuge sind Feuerwehrfahrzeuge, 
+die mit einer Drehleiter oder einer Hubarbeits­
+bühne ausgerüstet sind. Sie werden vorrangig 
+zur Rettung von Menschen aus größeren Höhen, 
+weiterhin auch zur Durchführung technischer Hilfe­
+leistungen und zur Brandbekämpfung verwendet.
+
+25 
+Typ
+DLAK 23 / 12
+DLAK 18 / 12
+DLAK 12 / 9
+Funkrufkennzahl
+30
+31
+32
+Leiterklasse
+30
+24
+18
+Nennreichweite in 
+Deutschland
+23/12
+18/12
+12/9
+Atemschutzgeräte
+2
+2
+2
+Antriebsart
+Straße
+Besatzung
+1/2
+B-Schlauch 20 m
+2
+C-Schlauch 15 m
+2
+Sonstige 
+Ausrüstung
+Motorsäge, 1 MRT, 2 HRT
+Zusatzbeladung
+B-Schlauch 35 m, 
+Krankentragen-
+lagerung, 
+Wasserwerfer 
+(Monitor), Notfallruck­
+sack, Stromerzeuger
+B-Schlauch 35 m, 
+Krankentragen-
+lagerung, 
+Wasserwerfer 
+(Monitor), 
+Notfallrucksack, 
+Stromerzeuger
+Krankentragen-
+lagerung, 
+Wasserwerfer 
+(Monitor), 
+Notfallrucksack, 
+Stromerzeuger
+Länge max.
+11,0 m
+9,5 m
+Breite max.
+2,5 m
+Höhe max.
+3,3 m
+Wendekreis¹ max.
+19 m
+17 m
+Massenklasse
+MIII
+MII
+MII
+Abb. 15
+TGM
+Quelle:
+Rosenbauer 
+International AG
+TABELLE 2: HUBRETTUNGSFAHRZEUGE
+1 Wendekreis 
+zwischen Wänden: 
+Durchmesser des 
+kleinsten gedachten 
+Zylinders, in dem das 
+Fahrzeug bei größ­
+tem Lenkeinschlag 
+wenden kann.
+
+26 
+Rüst- und Gerätefahrzeuge sind Feuerwehrfahrzeuge, die für die Durchführung technischer Hilfeleis­
+tungseinsätze ausgerüstet sind. 
+7.1	 Rüstwagen 
+Der Rüstwagen (RW) nach DIN 14555-3 ist ein 
+Feuerwehrfahrzeug mit einer feuerwehrtechni­
+schen Beladung und einem betriebsbereit ein. 
+oder angebauten Lichtmast. Zudem verfügt er 
+über eine maschinelle Zugeinrichtung und einen 
+Stromerzeuger – beides fest verbaut und vom 
+Fahrzeugmotor angetrieben. Die Besatzung be­
+steht aus einem Trupp (1/2), mindestens aber aus 
+einem Führer und einem Maschinisten. 
+Der Rüstwagen kann auch mit einem „Geräte­
+satz Öl“ ausgestattet sein. Die Abkürzung ist 
+dann RW-Öl.
+Die Funkrufkennzahlen der Fahrzeuge sind:
+51	
+RW-Öl	
+61	
+RW
+Abb. 16
+RW
+7	
+RÜST- UND GERÄTEFAHRZEUGE
+Typ
+RW/RW-Öl
+Funkrufkennzahl
+61/51¹
+Antriebsart
+Allrad
+Besatzung
+1/2
+Multifunktionsleiter
+1
+Sonstige Ausrüstung
+Eingebauter Stromerzeuger mind. 22 kVA, Lichtmast, maschinelle Zugein­
+richtung 50 kN, Gerätesatz Absturzsicherung, Gerätesatz
+Auf- und Abseilgerät, Schleifkorbtrage, Flutlichtstrahler, 12 Kanalstreben, 
+Mehrzweckzug, hydraulischer Hebesatz, Satz Hebekissen, Schneidgerät, 
+Spreizer, Satz Rettungszylinder, Formhölzer, 6 Bohlen, Arbeitsplattform, 
+Stromerzeuger min. 11 kVA, Rettungssäge, Säbelsäge, Akku-Schrauber, 
+Bohr- und Abbruchhammer, Plasmaschneidgerät, 1 MRT, 2 HRT
+Zusatzbeladung nach 
+einsatztaktischen 
+Erfordernissen²
+2 hydraulische Winden, RTB 1,
+Gerätesatz Ölbeseitigung
+(2 leichte CSA, mineralölbeständige Schläuche, Gefahrgutumfüllpumpe, 
+Handmembranpumpe, Faltbehälter 3.000 l, Erdungsmaterial)
+Länge max.
+8,60 m
+Breite max.
+2,55 m
+Höhe max.
+3,30 m
+Massenklasse
+MII oder MIII
+TABELLE 3: RÜSTFAHRZEUGE
+1 Funkrufkennzahl 51 
+für Rüstwagen mit 
+Zusatzbeladung Öl
+2 In Abhängigkeit 
+von Raum- und 
+Massenreserve 
+(Beladung „auf 
+Wunsch des 
+Bestellers“)
+
+27 
+7.2	 Gerätefahrzeuge (Gerätewagen)
+Gerätewagen (GW) sind Feuerwehrfahrzeuge für 
+eine Besatzung von 1/1 oder 1/2, die zum Bereit­
+stellen von Geräten für technische Hilfeleistungen 
+eingesetzt werden.
+Es gibt verschiedene (nicht genormte) Geräte-
+wagen für besondere Aufgaben, z. B.:
+•	
+GW-A (Atemschutz)
+•	
+GW-Öl (Ölschadenbekämpfung)
+•	
+GW-S (Strahlenschutz)
+•	
+GW-W (Wasserrettung)
+Abb. 18
+GW-AS
+Quelle:
+FF Geldersheim
+Abb. 17
+GW-W
+Quelle: 
+Maximilian Kunkel 
+BOS-Fahrzeuge.info
+
+28 
+Krankenkraftwagen der Feuerwehr sind Kraftfahr­
+zeuge, die den Anforderungen von DIN EN 1789 
+entsprechen, von Feuerwehrpersonal betrieben 
+werden und für die Versorgung sowie für den 
+Transport von Patienten konstruiert sind.
+Sie dürfen auch andere Einrichtungen für den spe­
+ziellen Gebrauch durch die Feuerwehr einschlie­
+ßen. Ihre Besatzung besteht aus dem Personal im 
+Rettungsdienst und ggf. aus einem Notarzt.
+Die DIN EN 1789 unterscheidet folgende vier
+Kategorien von Krankenkraftwagen:
+	
+z
+Typ A1: 
+geeignet für den Transport eines 
+einzelnen Patienten
+	
+z
+	Typ A2: 
+geeignet für den Transport eines oder 
+mehrerer Patienten auf Krankentragen 
+oder -sesseln (KTW in Bayern)
+	
+z
+Typ B: 
+Notfallkrankenwagen
+	
+z
+	Typ C: 
+Rettungswagen (RTW)
+Die Kategorien A1 und A2 entsprechen in etwa 
+dem bisherigen Krankentransportwagen (KTW, 
+Funkrufkennzahl 72), der grundsätzlich für den 
+Transport und nicht für notfallmedizinische Erst­
+versorgung von Patienten vorgesehen ist.
+8	
+KRANKENKRAFTWAGEN DER FEUERWEHR
+Die Kategorie B entspricht in etwa dem bisheri­
+gen Rettungswagen (RTW, Funkrufkennzahl 71), 
+der für den Transport, die Erstversorgung und 
+die Überwachung von Patienten konstruiert und 
+ausgerüstet ist. 
+Die Kategorie C entspricht in etwa dem bisheri­
+gen Notarztwagen (NAW, Funkrufkennzahl 70), 
+der für den Transport, die erweiterte Behandlung 
+und Überwachung von Patienten konstruiert und 
+ausgerüstet ist. Der NAW ist mit einem Notarzt 
+besetzt.
+In DIN 75079 ist das Notarzt-Einsatzfahrzeug (NEF, 
+Funkrufkennzahl 76) genormt. Das NEF ist ein be­
+sonders ausgerüsteter PKW zum Transport eines 
+Notarztes.
+Außerdem gibt es:
+	
+z
+	Großraum-Rettungswagen GRTW, 
+Funkrufkennzahl: 75
+	
+z
+	Großraum-Krankentransportwagen GKTW, 
+Funkrufkennzahl 75
+Abb. 19
+RTW
+Quelle: 
+Maximilian Kunkel 
+BOS-Fahrzeuge.info
+
+29 
+Der Gerätewagen Gefahrgut (GW-G) nach DIN 14 
+555-12 dient dem Transport der Ausrüstung für 
+übliche ABC-Lagen. Die Besatzung besteht aus 
+einem Trupp (1/2), mindestens aber aus einem 
+Fahrzeugführer und einem Maschinisten und dient 
+im Allgemeinen nur zur Ausgabe und Bereitstel­
+lung der Ausrüstung.
+9	
+GERÄTEFAHRZEUGE GEFAHRGUT
+Abb. 20
+GW-G
+In der Regel ist ein Fahrgestell mit Straßenantrieb 
+mit Differentialsperre ausreichend. Es können 
+Aufbauten auf einem Fahrgestell oder als Abroll­
+behälter verwendet werden.
+Funkrufkennzahl: 	52
+1 Auf das Mitführen 
+der sechs Atem­
+schutzgeräte darf 
+verzichtet werden, 
+wenn sichergestellt 
+ist, dass diese bei 
+Bedarf rechtzeitig an 
+der Einsatzstelle zur 
+Verfügung stehen.
+2 In Abhängigkeit 
+von Raum- und 
+Massenreserve 
+(Beladung „auf 
+Wunsch des 
+Bestellers“)
+TABELLE 4: GERÄTEFAHRZEUG GEFAHRGUT
+Typ
+GW-G
+Funkrufkennzahl
+52
+Antriebsart
+Straße
+Besatzung
+1/2
+Atemschutzgeräte
+6¹
+Sonstige Ausrüstung
+9 CSA Form 3 Typ 1a-ET, 12 CSA Form 2 Typ 3, 12 Flammschutz-Unterziehoverall, 
+12 Ersatzbekleidungen (Overall oder Trainingsanzug), 2 Flutlichtstrahler, 
+Fasspumpe, Handmembranpumpe, Gefahrstoff-Umfüllpumpe (Verdränger­
+pumpe), Gefahrstoff-Umfüllpumpe (Kreiselpumpe), Druckluftmembranpumpe, 
+Stromerzeuger, Prüfröhrchen, Ex- / Ox-Messgerät, CBRN-Probenahmesatz, che­
+mikalienbeständige Saug- und Druckschläuche, Übergangsstücke, Auffang- und 
+Abdichtmaterial, Auffangwannen, Faltbehälter, Erdungsmaterial, 
+Leckdicht- und Rohrdichtkissen, Bindemittel, Dekonmaterial, 10 HRT, Hydro­
+schild / Düsenschlauch, Photoionisationsdetektor (PID), Fernthermometer, 
+Aufenthalts- und Umkleidezelt, Fasskarre
+Zusatzbeladung nach 
+einsatztaktischen 
+Erfordernissen²
+Ex-geschütztes Belüftungsgerät mit der Möglichkeit Wasser zu zerstäuben, 
+Gefahrgutliteratur, Wärmebildkamera, 12 Helme für technische Rettung,
+18 Aufbewahrungsbehältnisse für Atemanschluss
+Länge max.
+8,60 m
+Breite max.
+2,55 m
+Höhe max.
+3,30 m
+Massenklasse
+MII oder MIII
+
+30 
+Einsatzleitfahrzeuge sind Feuerwehrfahrzeuge, 
+die mit Kommunikationsmitteln und anderer 
+Ausrüstung zur Führung taktischer Einheiten 
+ausgestattet sind.
+10	
+EINSATZLEITFAHRZEUGE
+Abb. 21
+KdoW
+Hinweis: Die Definition des Einsatzleitwagens 
+(ELW) ist identisch mit der Definition des Einsatz­
+leitfahrzeuges.
+10.1  Kommandowagen 
+Kommandowagen (KdoW) nach DIN SPEC 14507-5 
+dienen der Einsatzleitung vorwiegend zur Anfahrt 
+sowie Erkundung von Einsatzstellen. 
+Funkrufkennzahl: 	10 
+10.2  Mehrzweckfahrzeug
+Mehrzweckfahrzeuge (MZF) nach der „Technischen 
+Baubeschreibung“ dienen vorwiegend zur Errich­
+tung einer Führungsstelle sowie zum Transport von 
+Mannschaft und Gerät.  Im MZF sollten Führungs­
+mittel (Westen, Schreibzeug, usw.) mitgeführt 
+werden. Das MZF wird nur gefördert, wenn die 
+Feuerwehr über mindestens ein Löschgruppen­
+fahrzeug oder Hilfeleistungs-Löschgruppenfahr­
+zeug verfügt.
+Funkrufkennzahl: 	11
+10.3  Einsatzleitwagen ELW 1
+Einsatzleitwagen (ELW 1) nach DIN SPEC 14507-2 
+dienen der Einsatzleitung vorwiegend
+	
+z
+zur Anfahrt sowie Erkundung von Einsatz­
+stellen
+	
+z
+	als Hilfsmittel zur Führung von taktischen 
+Einheiten
+	
+z
+	als Hilfsmittel zum Führen von Verbänden 
+mit Führungsgehilfen, jedoch ohne stabs-
+mäßige Führung
+Der ELW 1 wird nur gefördert, wenn die Feuer­
+wehr über mindestens zwei Züge nach FwDV 3 
+verfügt. Eine Förderung erfolgt auch, sofern die 
+Feuerwehr in einem auf Landkreisebene erstellten 
+Stationierungskonzept für die Einsatzleitung mit 
+entsprechenden Aufgaben vorgesehen ist.
+Funkrufkennzahl: 	12
+10.4  Einsatzleitwagen ELW 2
+Einsatzleitwagen (ELW 2) nach DIN SPEC 14507-3 
+dienen vorwiegend
+	
+z
+	der Einsatzleitung als Hilfsmittel zum Führen 
+von Verbänden mit Führungsgehilfen und 
+stabsmäßiger Führung
+	
+z
+der technischen Einsatzleitung im Katastrophen­
+fall als Führungsmittel
+Funkrufkennzahl: 	13
+
+31 
+Abb. 22
+ELW 1
+Typ 
+KdoW
+MZF
+ELW 1
+ELW 2
+Funkrufkennzahl
+10
+11
+12
+13
+Kraftfahrzeug-
+Kategorie
+ 
+1 (straßenfähig)
+1 (straßenfähig)
+1 (straßenfähig)¹
+1 (straßenfähig)
+Mindestbesatzung
+1/2
+1/5
+1/2
+1/2
+Sonstige 
+Ausrüstung
+Fernglas, 1 MRT, 
+1 HRT
+Besprechungs­
+tisch, Außenlaut-
+sprecheranlage, 
+1 MRT², 2 HRT³
+Fernglas,
+Prüfröhrchen,
+Ex- / Ox-
+Messgerät,
+Dosisleistungs-
+warngerät
+3 MRT²,3, 2 HRT
+Stromerzeuger⁴,
+4 x 4 m-Mobil-
+funkgeräte,
+10 x 2 m-Mobil­
+funkgeräte,
+Telefonanlage,
+Faxgerät, 6 MRT,
+10 HRT
+Zusatzbeladung 
+nach einsatz-
+taktischen 
+Erfordernissen⁵
+Atemschutz-
+geräte, Foto-
+apparat, Kranken­
+hausdecke
+-
+Atemschutzgeräte,
+Photoionisations-
+detektor (PID),
+Fernthermometer,
+Wärmebildkamera
+Atemschutz-
+geräte, 
+Krankenhaus-
+decke
+Länge max.
+5,25 m
+6,20 m
+6,00 m⁶
+10,00 m⁷
+Breite max.
+2,00 m
+2,20 m
+2,10 m
+2,55 m
+Höhe max.
+2,20 m
+3,10 m
+3,10 m
+3,50 m
+Massenklasse
+LI
+LI8
+LI
+MII oder MIII
+TABELLE 5: EINSATZLEITFAHRZEUGE
+1 Allradantrieb wird 
+empfohlen
+2 mit Gatewayfunktion
+3 mit Repeaterfunktion
+4 Kann entfallen, wenn ein  
+festeingebauter Strom-
+erzeuger vorhanden ist
+5 In Abhängigkeit von 
+Raum- und Massereserve 
+(Beladung „auf Wunsch 
+des Bestellers”)
+6 Anbauteile wie Heckauftritt 
+dürfen unter Berücksichtigung 
+der Stellplatzgröße im Feuer­
+wehrhaus maximale Länge 
+überschreiten
+7 Soll der ELW 2 zum Führen mit 
+einem Stab verwendet werden, 
+darf unter Berücksichtigung 
+der Stellplatzgröße im Feuer­
+wehrhaus von der maximalen 
+Länge, maximalen Höhe und 
+der zulässigen Gesamtmasse 
+abgewichen werden.
+8  Zulässige Gesamtmasse 
+max. 4.000 kg, bei Allradbe­
+trieb max. 4.300 kg.
+
+32 
+Der Mannschaftstransportwagen (MTW) ist ein 
+Feuerwehrfahrzeug, geeignet zur Aufnahme 
+mindestens einer Staffel (1/5). Er ist vorrangig 
+zum Transport einer Mannschaft bestimmt. Die 
+technischen Anforderungen an MTW sind in einer 
+„Technischen Baubeschreibung“ geregelt. 
+Abb. 23
+MTW
+11	
+MANNSCHAFTSTRANSPORTFAHRZEUGE
+MTW können staatlich nur gefördert werden, wenn 
+die Feuerwehr über ein Löschfahrzeug mit Atem­
+schutz (mind. vier Pressluftatmer) verfügt. 
+Funkrufkennzahl: 	14
+12.1 Wechselladerfahrzeuge
+Die Wechselladerfahrzeuge (WLF) nach DIN 14505 
+sind Fahrzeuge für den Transport von Abroll­
+behältern und bestehen aus einem Fahrgestell 
+mit Fahrerhaus zur Aufnahme einer Besatzung 
+und einer fest auf dem Fahrgestell montierten 
+Wechselladereinrichtung, die zum Transport des 
+jeweiligen Abrollbehälters dient. Die Besatzung 
+besteht mindestens aus einem Fahrzeugführer 
+und einem Maschinisten.
+Wechselladerfahrzeuge können auch mit einem 
+eigenen Ladekran versehen sein (WLFK).
+Wechselladersysteme sind nur dann förderfä­
+hig, wenn entsprechende schlüssige Konzepte 
+den Regierungen vorgelegt und die Wirtschaft­
+lichkeit der geplanten Maßnahme gegenüber 
+der Beschaffung konventioneller Feuerwehrfahr­
+zeuge nachgewiesen werden. Ein WLF „kurz“ 
+hat zwei Achsen und ein WLF „lang“ hat drei 
+oder vier Achsen.
+Die Funkrufkennzahlen von Wechselladerfahr­
+zeugen sind:
+35	
+WLF kurz / 
+	
+WLFK kurz
+12	
+NACHSCHUBFAHRZEUGE
+36	
+WLF lang / 
+	
+WLFK lang
+Nachschubfahrzeuge sind Feuerwehrfahrzeuge zur Beförderung von Ausrüstung, Löschmitteln und 
+sonstigen Gütern zur Versorgung von eingesetzten Einheiten.
+
+33 
+Abb. 24
+WLFK lang 
+Abb. 25
+AB Schlauch 
+12.1.1  Abrollbehälter
+Abrollbehälter (AB) sind bei der Feuerwehr 
+wechselbare feuerwehrtechnische Aufbauten auf 
+Basis von Abrollcontainer-Transportsystemen, 
+die ein Wechselladerfahrzeug aufnehmen und zur
+Einsatzstelle transportieren kann. Die Abrollbehäl­
+ter sind für einen speziellen Einsatzfall ausgerüstet 
+und konzeptioniert. In Bayern sind folgende Abroll­
+behälter förderfähig:
+	
+z
+	AB Sonderlöschmittel Schaum / CO₂ / Pulver
+	
+z
+	AB Atem-/Strahlenschutz (AB-A/S)
+	
+z
+	AB Gefahrgut (GW-G)
+	
+z
+	AB Einsatzleitung
+	
+z
+	AB Rüstmaterial
+	
+z
+	AB THL schwer (Rüst) 
+(Beladung gemäß DIN 14555 Teil 3)
+	
+z
+	AB Wasser
+	
+z
+	AB Schlauch (Modul “Wasserversorgung“ 
+gemäß DIN 14555-22 oder ein anderes für die 
+Feuerwehr geeignetes Wasserfördersystem)
+Im Bereich der Feuerwehr findet man noch weitere 
+Abrollbehälter, diese werden jedoch staatlich nicht 
+gefördert:
+	
+z
+	AB Dekontamination
+	
+z
+	AB Hochwasser
+	
+z
+	AB MANV
+	
+z
+	AB Betreuung
+	
+z
+	AB Küche
+	
+z
+AB Hygiene
+Abrollbehälter sind nur dann förderfähig, wenn 
+entsprechende schlüssige Konzepte den Regie­
+rungen vorgelegt und die Wirtschaftlichkeit der 
+geplanten Maßnahme gegenüber der Beschaf­
+fung konventioneller Feuerwehrfahrzeuge nach­
+gewiesen werden.
+
+34 
+12.2  Gerätewagen Logistik
+Der Gerätewagen Logistik (GW-L) wird zur Be­
+förderung von Ausrüstung, Löschmitteln und 
+sonstigen Gütern zur  Versorgung von eingesetz­
+ten Einheiten benutzt. Je nach Beladung können 
+diese Fahrzeuge auch zur Hilfeleistung bei Gefahr­
+gutunfällen und zur Wasserförderung eingesetzt 
+werden. 
+Die Gerätewagen Logistik werden in zwei Fahr­
+zeugtypen aufgeteilt, den GW-L1 nach der
+DIN 14555-21 und den GW-L2 nach der DIN 14555-22.
+Der GW-L1 und GW-L2 haben drei wesentliche 
+Unterscheidungsmerkmale. Die Besatzung des 
+GW-L1 besteht meistens aus einem Trupp (1/1), 
+kann aber auch aus einer Staffel (1/5) bestehen. 
+Die Mannschaft eines GW-L2 besteht immer aus 
+einer Staffel (1/5). Der GW-L1 hat immer eine 
+durchgängige Ladefläche, wohingegen sich die 
+Ladefläche beim GW-L2 in einen festen Geräte­
+raum und in eine wettergeschützte Ladefläche 
+aufteilt. Die Nutzlast der Ladebordwand des 
+GW-L1 muss mind. 750 kg betragen, die des 
+GW-L2 mind. 1.500 kg. Außerdem unterscheiden 
+sich die beiden Fahrzeuge in der Masse. Der GW-L1 
+ist in der Massenklasse LII und der GW-L2 in der 
+Massenklasse MIII.
+Die Funkrufkennzahlen von Gerätewagen
+Logistik sind:
+55	
+GW-L1 	
+56	
+GW-L2
+12.3 Versorgungs-Lastkraftwagen
+Der Versorgungs-Lastkraftwagen (Versorgungs-
+Lkw) dient größeren Feuerwehren für außer­
+ordentliche Transportaufgaben (Beförderung 
+von Ausrüstung, Löschmitteln und sonstigen 
+Gütern größeren Umfangs zur Versorgung von 
+eingesetzten Einheiten) und für Überlandein-
+sätze. Die Besatzung besteht mindestens aus 
+einem Trupp (1/1) oder aus einer Staffel (1/5). 
+Für den Versorgungs-Lkw gibt es in Bayern eine 
+eigene Technische Baubeschreibung. Diese legt 
+die Ausstattung und technischen Details fest.
+Funkrufkennzahl: 56
+Abb. 26
+GW-L2
+Quelle: Freiwillige 
+Feuerwehr Stadt Spalt
+Abb. 27
+Versorgungs-Lkw
+
+35 
+Typ
+GW-L1
+GW-L2
+Versorgungs-Lkw
+Funkrufkennzahl
+55
+56
+56
+Antriebsart
+Straße
+Allrad
+Allrad
+Besatzung
+1/1 oder 1/5
+1/5
+1/1 oder 1/5
+Multifunktionsleiter
+0
+1
+0
+Sonstige Ausrüstung
+Ladebordwand mit 
+Nutzlast min. 750 kg, 
+2 HRT
+Ladebordwand mit 
+Nutzlast min. 1.500 kg, 
+2 HRT
+Ladebordwand mit 
+Nutzlast min. 1.500 kg,
+2 HRT,
+eine Anhänger- 
+kupplung mit Zwei-
+leitungs-Anhänger­
+bremsanschluss ist 
+vorzusehen; die zulässi­
+ge Anhängelast muss, 
+gebremst mit durch-
+gehender Bremsanlage, 
+mindestens 12.000 kg 
+betragen
+Zusatzbeladung 
+nach einsatz-
+taktischen 
+Erfordernissen¹
+Ausrüstungsmodul „Gefahrgut”²: 6 CSA, 6 leichte 
+CSA, 3 Atemschutzgeräte, Fasspumpe, Handmem­
+branpumpe, Stromerzeuger, Prüfröhrchen,  2 Ex- / 
+Ox-Messgeräte, säurefeste Saug- und Druckschläu­
+che, Übergangs- und Verbindungsstücke, Auffang- 
+und Abdichtungsmaterial, Überfass, Auffangbehäl­
+ter, Erdungsmaterial, Rohr- und Leckdichtkissen, 
+Öl- und Chemikalienbindemittel
+Ladekran mit 
+Hubmoment 
+min. 10,5 mt
+Ausrüstungsmodul 
+„Wasserversorgung”: 
+100 B-Schläuche 
+20 m, 12 Schlauchbrü­
+cken, Tragkraftspritze 
+PFPN 10-1000³, Armatu­
+ren zur Wasserentnah­
+me und Wasserfortlei­
+tung Zusatzbeladungs­
+sätze: Schläuche, 
+Armaturen und Zu­
+behör, Strom und Be­
+leuchtung, Tauchpum­
+pe, Motorsäge, Arbeits-
+gerät (Mehrzweckzug), 
+Multifunktionsleiter, 
+Handfunkgerät
+Länge max.
+8,00 m
+8,30 m
+8,50 m
+Breite max.
+2,55 m
+2,55 m
+2,55 m
+Höhe max.
+3,30 m
+3,30 m
+3,30 m
+Massenklasse
+LII
+MIII
+MIII
+1 In Abhängigkeit 
+von Raum- und 
+Massenreserve 
+(Beladung "auf 
+Wunsch des 
+Bestellers")
+2 Nach DIN 14 800-19
+3 Zwei Tragkraft-
+spritzen nach einsatz­
+taktischen Erforder­
+nissen möglich 
+TABELLE 6: GERÄTEWAGEN LOGISTIK UND VERSORGUNGS-LKW
+
+36 
+13.1  Kranwagen
+Der Kranwagen (KW) ist ein Autokran, der für 
+die Belange der Feuerwehr ausgerüstet ist. Er 
+hat zusätzliche feuerwehrtechnische Ausrüstung 
+an Bord. Der KW dient zum Bewegen schwerer
+Lasten beim Retten von Menschen und bei  Tech­
+nischer Hilfeleistung. Kranwagen bei Feuerwehren 
+findet man in Deutschland oft nur bei Berufsfeuer­
+wehren oder sehr großen Feuerwehren. Aufgrund 
+der seltenen Einsätze und des teuren Unterhalts 
+werden vermehrt eigene Feuerwehrkräne ab­
+geschafft. Als Ersatz werden Kooperationen mit 
+privaten Mobilkran-Unternehmen abgeschlossen. 
+Diese Unternehmen stellen im Bedarfsfall einen 
+Kranwagen für die Feuerwehr zur Verfügung. 
+Die Besatzung besteht aus mindestens einem 
+Trupp 1/1.
+Funkrufkennzahl: 34
+13	
+SONSTIGE SPEZIELLE KRAFTFAHRZEUGE
+Abb. 28
+KW
+Quelle:
+Thomas Sehr
+13.2	  Feuerwehrboote
+Die Boote für die Feuerwehr nach DIN 14961 sind 
+speziell für den Einsatz der Feuerwehr gestaltete 
+Wasserfahrzeuge. Die Mannschaft, die bootstech­
+nische Ausrüstung und die feuerwehrtechnische 
+Beladung bilden eine taktische Einheit, bei dem 
+die Mannschaft mindestens aus einem Trupp 
+(1/2) besteht. 
+Feuerwehrboote werden in drei Bootstypen auf­
+geteilt:
+	
+z
+	Rettungsboot Typ 1 (RTB 1)
+	
+z
+	Rettungsboot Typ 2 (RTB 2)
+	
+z
+	Mehrzweckboot (MZB)
+Das RTB 1 ist ein einsatzbereit gehaltenes Boot, 
+das mit seiner Besatzung aufgrund der leichten 
+Handhabung schnell zum Einsatz gebracht wer­
+den kann. Es dient vornehmlich zum Retten und 
+zum Transport von Personen. Der Einsatz erfolgt 
+in der Regel in stehenden Gewässern und ohne 
+Motorantrieb. Ebenfalls wird das RTB 1 zur Eis­
+rettung eingesetzt.
+Das RTB 2 ist ein einsatzbereit gehaltenes, mo­
+torisiertes Rettungsboot für offene Gewässer, 
+das mit seiner Besatzung schnell zum Einsatz 
+gebracht werden kann. Es dient vornehmlich 
+zum Retten und zum Transport von Personen. 
+Der Einsatz erfolgt in stehenden und fließenden 
+Gewässern.
+
+37 
+Abb. 29
+MZB
+Das MZB ist ein einsatzbereit gehaltenes Boot 
+zum Retten und zum Transport von Personen­
+gruppen. Außerdem eignet es sich zur Durch­
+führung Technischer Hilfeleistungen und von 
+Löscheinsätzen kleineren Umfanges.
+Neben den genormten Booten werden von Feuer­
+wehren auch andere Wasserfahrzeuge einge­
+setzt, die nicht der Norm entsprechen. Dabei sind 
+die Herstellervorgaben besonders zu beachten. 
+Fahrzeuge dieser Art können Jetskis, Hoovercraft 
+oder auch Flachwasserschubboote sein.
+Eine Besonderheit im Einsatz der Feuerwehr 
+ist das Flachwasserschubboot. Dieses Boot 
+unterliegt keiner Norm (DIN-Norm, Technische 
+Baubeschreibung).  Vor ein paar Jahren wurden 
+für den Katastrophenschutz in Bayern einige 
+Boote für die Feuerwehren angeschafft. Diese 
+Boote eignen sich besonders für den Einsatz 
+in Hochwasserlagen. Die spezielle Bootsform 
+(Schutenform des Rumpfes) eignet sich gut zum 
+sicheren Ein- und Aussteigen von Personen und 
+bietet eine hohe Stabilität. Die Flachwasser­
+schubboote können in sehr flachen Gewässern 
+eingesetzt werden. Unter dem Rumpf sind 
+jeweils untergebaute Räder, damit das Boot an 
+flachen Stellen auch geschoben werden kann. 
+Dieser Bootstyp kann bei Bedarf auch mit einem 
+Außenbordmotor ausgestattet werden. 
+Funkrufkennzahl: 	99
+a	 Die Beladung schließt die 
+bootstechnische Ausrüs­
+tung mit ein.
+b	 Eine Person wird mit 90 kg 
+gerechnet.
+c	 Bei aufblasbaren Schnell­
+einsatzbooten muss die 
+Innenbreite min. 50 cm 
+betragen.
+TABELLE 7: FEUERWEHRBOOTE
+Bootstyp
+Frei nutzbare Innenmaße
+Freibord 
+beladen
+Masse der Beladung
+Zulässige Per­
+sonenanzahlb
+Länge
+min.
+Breite
+min.
+
+min.
+(Personen, Nutzlast, 
+Zuladung)a
+min.
+RTB 1
+2,20 m
+0,80 mc
+33 cm
+500 kg
+4
+RTB 2
+2,20 m
+1,00 m
+33 cm
+1.000 kg
+6
+MZB
+2,20 m
+1,20 m
+33 cm
+1.500 kg
+10
+
+38 
+Feuerwehranhänger sind nicht selbst fahrende
+Straßenfahrzeuge, die zum Anhängen an ein 
+Kraftfahrzeug bestimmt und geeignet sind. 
+Aktuell sind nur noch zwei Feuerwehranhän­
+ger-Typen genormt, der Anhänger mit Schaum-
+Wasserwerfer (SWA) nach DIN 14521 und der 
+Bootsanhänger nach DIN 14962.
+In Bayern gibt es für den Verkehrssicherungsan­
+hänger (VSA) und den Tragkraftspritzen-Anhänger 
+(TSA) „Technische Baubeschreibungen“, sowie 
+für den Vorwarnanhänger eine Mindestanforde­
+rungsliste. Diese drei Anhänger-Typen werden 
+auch staatlich gefördert.
+Beispiele für weitere Feuerwehranhänger sind:
+	
+z
+	AL 16-4 	
+Anhängeleiter
+	
+z
+ÖSA 	
+Ölschadenanhänger
+	
+z
+	GA-Öa 	
+Geräteanhänger 
+Ölabscheider
+	
+z
+GA-Ölsp 	
+Geräteanhänger Ölsperre
+	
+z
+	GA-Ölent 	
+Geräteanhänger 
+Ölentsorgung
+	
+z
+	P 250 	
+Pulverlöschanhänger
+	
+z
+	FwA-RTB 	
+Feuerwehranhänger mit 
+Rettungsboot
+	
+z
+	LiMa 	
+Lichtmastanhänger
+	
+z
+Flughelfer-Anhänger Feuerwehranhänger mit 
+Löschwasser-Außenlast­
+behälter für Hubschrauber
+13.3.1  Anhänger mit Schaum-Wasserwerfer
+Der Anhänger mit Schaum-Wasserwerfer (SWA) 
+ist ein einachsiger Feuerwehranhänger mit ab­
+nehmbarem Schaum-Wasserwerfer, Schaummit­
+telzumischer und Behälter für Schaummittel (nutz­
+barer Gesamtinhalt mindestens 200 l).
+13.3.2  Bootsanhänger
+Der Bootsanhänger / Boottrailer ist ein beson­
+ders gestalteter Anhänger zur Aufnahme von 
+Booten für die Feuerwehr nach DIN 14961 und 
+anderen Boote für die Gefahrenabwehr auf Ge­
+wässern.
+13.3.3  Verkehrssicherungsanhänger
+Der Verkehrssicherungsanhänger (VSA) ist ein be­
+sonders gestalteter einachsiger Feuerwehranhän­
+ger. Die Anforderungen werden in einer eigenen 
+technischen Baubeschreibung in Bayern geregelt. 
+Er dient bei Einsätzen sowohl zum Schutz der Ein­
+satzkräfte der Feuerwehr vor den Gefahren des 
+Straßenverkehrs (Einsatzbereich) als auch dem 
+Schutz der Verkehrsteilnehmer vor Gefahren, die 
+von Einsatzstellen ausgehenden (Verkehrsbereich).
+Mit dem Verkehrssicherungsanhänger soll den 
+Feuerwehren ein auf ihre Einsatzverhältnisse und 
+-bedürfnisse auf Bundesautobahnen und auto­
+bahnähnlichen Straßen besonders abgestimmtes 
+und gestaltetes Gerät zur Verfügung stehen, um 
+die außergewöhnlichen Gefahren bei Einsätzen 
+nach Möglichkeit zu verringern. Straßenverkehrs­
+rechtlich ist er eine Verkehrseinrichtung mit der 
+Bezeichnung „fahrbare Absperrtafel“. Der VSA 
+muss mit einem geeigneten, möglichst schweren 
+Zugfahrzeug gezogen werden.
+VSA können nur für Feuerwehren gefördert wer­
+den, die nach Alarmplan auf Bundesautobahnen 
+und autobahnähnlichen Straßen zum Einsatz 
+kommen und über die dafür sonst noch notwen­
+dige Ausstattung an Feuerwehrfahrzeugen und 
+Ausrüstung verfügen.
+Abb. 30
+VSA
+(t1p.de/9bka)
+Auf die genaue Einsatztak­
+tik für VSA und Vorwarn-
+anhänger wird in der Fach­
+information 
+6.003 
+„Ver­
+kehrsabsicherung von Ein­
+satzstellen der Feuerwehr“ 
+eingegangen.
+13.3	  Feuerwehranhänger
+
+39 
+13.3.4  Tragkraftspritzen-Anhänger
+Der Tragkraftspritzen-Anhänger TSA ist ein beson­
+ders gestalteter, einachsiger Feuerwehranhänger 
+mit einer feuerwehrtechnischen Mindestbeladung 
+für eine Löschgruppe 1/8 einschließlich einer  Trag­
+kraftspritze PFPN 10-1000 nach DIN EN 14 466.
+Er dient überwiegend der Brandbekämpfung im 
+Orts- / Ortsteilbereich und bildet mit der zugehö­
+rigen Mannschaft eine selbstständige taktische 
+Einheit. Die Erreichbarkeit der Einsatzkräfte wird 
+über ein digitales BOS-Handsprechfunkgerät (HRT) 
+realisiert, wenn keine anderen Feuerwehrfahrzeuge 
+vorhanden sind. 
+Als motorisiertes Ersatzfahrzeug für den Tragkraft­
+spritzen-Anhänger ist zukünftig der Gerätewagen 
+Tragkraftspritze GW-TS vorgesehen (s. Kap. 5.1.1).
+Funkrufkennzahl: 	45
+Typ 
+TSA
+Funkrufkennzahl 
+45
+Tragkraftspritze
+PFPN 10-1000
+B-Schlauch 20 m
+min. 8
+C-Schlauch 15 m
+min. 8
+Länge max.
+4,00 m
+Breite max.
+1,80 m
+Höhe max.
+2,00 m
+Gesamtmasse
+1.200 kg
+Abb. 31
+TSA
+TABELLE 8: 
+TRAGKRAFTSPRITZEN-ANHÄNGER
+
+40 
+Zusammensetzung des Rufnamens: 
+Kennwort (z. B. „Florian“) / Orts- oder Bereichsbezeichnung / Kennzahl
+(2.3.2) Zweite Teilkennzahl
+Die zweite, zweistellige Teilkennzahl steht für die taktische Unterscheidung nach folgender Systematik 
+(Auszug):
+Führungsfahrzeuge, Mannschaftstransportfahrzeuge
+10	
+Kommandowagen KdoW
+11	
+Mehrzweckfahrzeug MZF
+12	
+Einsatzleitwagen ELW 1, ELW UG-ÖEL
+13	
+Einsatzleitwagen ELW 2, ELW UG-ÖEL
+14	
+Mannschaftstransportwagen MTW
+Tanklöschfahrzeuge
+20	
+Tanklöschfahrzeug TLF 16/25 mit Rettungssatz
+21	
+Tanklöschfahrzeug TLF 16/25, TLF 3000, TLF 3000 Staffel
+22	
+Tanklöschfahrzeug TLF 16/24, TLF 2000, TLF 2000 Staffel, TLF 8/18,
+	
+Waldbrandlöschfahrzeug TLF-WB
+23	
+Tanklöschfahrzeug TLF 24/50, TLF 24/48, TLF 4000
+29	
+Sondertanklöschfahrzeug SonTLF, Flugfeldlöschfahrzeug FLF
+Hubrettungs-, Wechsellader- und Kranfahrzeuge
+30	
+Drehleiter DLAK 23/12, DLA 23/12, DLK 23-12, DL 23-12 
+31	
+Drehleiter DLAK 18/12, DLA 18/12, DLK 18-12, DL 18-12
+32	
+Drehleiter DLAK 12/9, DLA 12/9, DLK 12-9, DL 12-9, DLK 16, DL 16
+33	
+Gelenkmast GM, Teleskopmast TM, Teleskopgelenkmast TGM
+34	
+Kranwagen KW
+35	
+Wechselladerfahrzeug kurz (ohne oder mit Kran) WLF, WLFK
+36	
+Wechselladerfahrzeug lang (ohne oder mit Kran) WLF, WLFK
+Lösch- und Tragkraftspritzenfahrzeuge
+40	
+Hilfeleistungs-Löschgruppenfahrzeug HLF 20, Löschgruppenfahrzeug mit Rettungssatz LF 16/12
+41	
+Löschgruppenfahrzeug ohne Rettungssatz LF 20/12, LF 16/12, LF-Katastrophenschutz LF20-KatS
+42	
+Hilfeleistungs-Löschgruppenfahrzeug HLF 10, Löschgruppenfahrzeug mit Rettungssatz LF 10/6, LF 8/6
+43	
+Löschgruppenfahrzeug LF 10, Löschgruppenfahrzeug ohne Rettungssatz LF 10/6, LF 8/6
+44	
+Tragkraftspritzenfahrzeug, (mit und ohne Pressluftatmer) TSF,
+ Tragkraftspritzenfahrzeug Logistik TSF-L
+45	
+Tragkraftspritzen-Anhänger TSA, Gerätewagen Tragkraftspritze GW-TS
+46	
+Tragkraftspritzenfahrzeug Wasser TSF-W
+47	
+Mittleres Löschfahrzeug MLF, Staffellöschfahrzeug StLF
+48	
+Löschgruppenfahrzeug LF 16-TS, LF 8-1, LF 8-2
+49	
+Sonstiges Löschfahrzeug, Kleinlöschfahrzeug KLF
+Gerätewagen, Schlauchwagen
+50	
+Gerätewagen GW, Personenkraftwagen PKW, PKW-Kombi
+51	
+Gerätewagen Öl GW-Öl, Rüstwagen Öl RW-Öl
+52	
+Gerätewagen GW-GSG, Gerätewagen Gefahrgut GW-G
+53	
+Gerätewagen Atemschutz GW-A, Gerätewagen Atemschutz/Strahlenschutz GW-AS, 
+Gerätewagen Strahlenschutz GW-S
+55	
+Gerätewagen Logistik GW-L1, Lastkraftwagen ≤7,5 t LKW
+56	
+Gerätewagen Logistik GW-L2, Lastkraftwagen >7,5 t LKW
+(z. B. Versorgungs-Lastkraftwagen Versorgungs-Lkw)
+ANHANG 1 FUNKRUFNAMEN AUSZUG 
+
+41 
+Rüst- und Gerätewagen
+60	
+Rüstwagen 3 RW 3
+61	
+Rüstwagen (neue Norm) RW, Rüstwagen 2 RW 2
+62	
+Rüstwagen 1 RW 1, Vorausrüstwagen VRW
+63	
+Lichtmastfahrzeug LIMA, Rüstwagen (sonstiger), Stromgeneratorfahrzeug Generator
+65	
+Kleinalarmfahrzeug KLAF
+66	
+ABC-Erkunder, Gerätewagen Messtechnik GW-Mess
+67	
+Gerätewagen Dekon-P
+68	
+Gerätewagen Dekon-V
+Landrettungsfahrzeuge
+70	
+Intensiv-Transportwagen ITW, Notarztwagen NAW
+71	
+Infektionsrettungswagen I-RTW, Rettungswagen RTW, Schwerlast-Rettungswagen S-RTW
+72	
+Krankentransportwagen KTW
+75	
+Großraum-Rettungswagen G-RTW
+76	
+Notarzteinsatzfahrzeug NEF, Verlegungsarzteinsatzfahrzeug VEF
+79	
+First Responder FR, Helfer vor Ort HvO
+Wasserrettung
+91	
+GW Taucher, GW Wasserrettung GW WR
+98	
+Wasserrettung Trupp Wasserretter-Trp
+99	
+Boot
+(2.3.2.1) Funktionsbezogene Kennzahlen
+Die funktionsbezogenen Kennzahlen sollen den organisatorischen Aufbau der jeweiligen Organisa­
+tionseinheit darstellen.
+1	
+Leiter der Organisationseinheit	
+	 	
+	
+z. B.	
+KBR/SBR, Leiter der BF/Kdt
+2	
+stellvertretender Leiter der Organisationseinheit	
+z. B.	
+KBI/SBI
+3 - 5	weitere Führungsfunktionen
+9	
+Sonstige Funktion
+(2.3.3) Dritte Teilkennzahl
+Die dritte Teilkennzahl dient der laufenden Nummerierung (1 bis n) der Fahrzeuge zur Unterscheidung 
+mehrerer Fahrzeuge gleicher Gruppe und Art. 
+Die Ziffer „1” für das erste Fahrzeug ist auch dann anzufügen, wenn nur ein Fahrzeug dieser Art vor­
+handen ist, um spätere Rufnamenänderungen bei Beschaffung oder Zuteilung weiterer Fahrzeuge zu 
+vermeiden.
+(2.4) Handfunkgeräte
+Rufnamen für Handfunkgeräte setzen sich zusammen aus dem Kennwort, der Orts- oder Bereichsbe­
+zeichnung, den Teilkennziffern und einer fortlaufenden Nummerierung. 
+Beispiele:
+Handsprechfunkgerät (HRT) des Fahrzeugführers des Löschfahrzeugs HLF 10 der Feuerwehr Pfuhl:
+Im Analogfunk  
+(2-m-Wellenbereich):
+Florentine Pfuhl 42/1-1
+gesprochen:
+Florentine Pfuhl  
+zweiundvierzig eins eins
+Im Digitalfunk  
+(TMO- & DMO-Modus):
+Florian Pfuhl 42/1-1
+gesprochen:
+Florian Pfuhl 
+zweiundvierzig eins eins
+An Stelle der Nummerierung kann die Funktion im Klartext gesprochen werden (hier: Florian Pfuhl 
+zweiundvierzig eins Gruppenführer).
+57	
+Schlauchwagen SW 1000
+58 	
+Schlauchwagen SW 2000
+59	
+Gerätewagen sonstiger GW, Gerätewagen Höhenrettung GW-HÖRG, Gerätewagen Tierrettung 
+GW-Tier, Gerätewagen Tiertransport GW-Tiertransport, Gerätewagen Umwelt GW-U
+
+42 
+	
+z
+Feuerwehrfahrzeugkonzeption des DIN-FNFW
+t1p.de/o4wn
+	
+z
+Normenportal Feuerwehrwesen
+t1p.de/6vif
+	
+z
+Mindestausrüstung für Normfahrzeuge der Feuerwehr in Bayern, 
+Staatliche Feuerwehrschule Regensburg
+t1p.de/41wp
+	
+z
+Ausstattung der Feuerwehren in Bayern (StMI), 
+„Technische Baubeschreibungen“
+t1p.de/x7xti
+	
+z
+Feuerwehr-Zuwendungsrichtlinien (FwZR)
+t1p.de/cg4n
+	
+z
+Richtlinie für Funkrufnamen und operativ-taktische Adressen (OPTA) 
+der nichtpolizeilichen Behörden und Organisationen
+mit Sicherheitsaufgaben (npol. BOS) in Bayern
+t1p.de/9kfcp
+ANHANG 2 LINK- UND MEDIENSAMMLUNG 
+
+
+Wollen Sie mehr über die Arbeit der Bayerischen Staatsregierung erfahren?
+BAYERN | DIREKT ist Ihr direkter Draht zur Bayerischen Staatsregierung. Unter Telefon 089 12 22 20 oder per E-Mail 
+an direkt@bayern.de erhalten Sie Informationsmaterial und Broschüren, Auskunft zu aktuellen Themen und Internet­
+quellen sowie Hinweise zu Behörden, zuständigen Stellen und Ansprechpartnern bei der Bayerischen Staatsregierung.
+Hinweis: Diese Druckschrift wird im Rahmen der Öffentlichkeitsarbeit der Bayerischen Staatsregierung heraus­
+gegeben. Sie darf weder von Parteien noch von Wahlwerbern oder Wahlhelfern im Zeitraum von fünf Monaten vor 
+einer Wahl zum Zwecke der Wahlwerbung verwendet werden. Dies gilt für Landtags-, Bundestags-, Kommunal- und 
+Europawahlen. Missbräuchlich ist während dieser Zeit insbesondere die Verteilung auf Wahlveranstaltungen, an 
+Informationsständen der Parteien sowie das Einlegen, Aufdrucken und Aufkleben parteipolitischer Informationen 
+oder Werbemittel. Untersagt ist gleichfalls die Weitergabe an Dritte zum Zwecke der Wahlwerbung. Auch ohne 
+zeitlichen Bezug zu einer bevorstehenden Wahl darf die Druckschrift nicht in einer Weise verwendet werden, die 
+als Parteinahme der Staatsregierung zugunsten einzelner politischer Gruppen verstanden werden könnte. Den 
+Parteien ist es gestattet, die Druckschrift zur Unterrichtung ihrer eigenen Mitglieder zu verwenden.
+IMPRESSUM
+Herausgeber:	
+Staatliche Feuerwehrschule Würzburg, 
+Weißenburgstr. 60, 97082 Würzburg
+Mitwirkung:	
+Bayerisches Staatsministerium des Innern, 
+für Sport und Integration,
+Staatliche Feuerwehrschulen Bayerns, 
+Landesfeuerwehrverband Bayern e. V.
+Gestaltung:	
+Staatliche Feuerwehrschule Würzburg, 
+Fachbereich Lehr- und Lernmittel
+Internet:	
+5.4
+feuerwehr-lernbar.bayern
+Kosten abhängig
+ vom Netzbetreiber

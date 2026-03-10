@@ -1,0 +1,8 @@
+# 2.8 Auswahl des Luftfahrzeugs
+
+- Depending on the purpose of use and availability, the right aircraft must be selected, insofar as there are selection options, especially for longer and larger layers. In the corresponding tables, these can be entered in advance for the own areas of use or the paths to be considered for the requirement are fixed.
+
+- In the corresponding tables, these can be entered in advance for the own areas of application or the paths to be taken into consideration for the requirement. It is particularly possible here for larger or complex layers to use an appropriate expert advisor for the aircraft operation at an early stage, which has the necessary specialist knowledge, in order to be able to advise the operational manager or S 3 in a staff at the selection and later to be able to represent the operational section manager air or aircraft operation (in Bavaria: aeronautical operational line, FliegE).
+
+- In the case of larger or complex locations, it is particularly advisable to use an appropriate expert advisor for aircraft operations at an early stage, who has the necessary expertise to be able to advise the operational manager or S 3 in a staff during the selection process and later to be able to represent the operational section manager for air or aircraft operations (in Bavaria: aeronautical operations management, FliegE). The development in Germany is continuing, so that the selection of differently efficient aircraft in the individual federal states could be simplified or specified in future due to the local conditions (increasing equipment of the state police helicopters with ALB) or existing multi-stage concepts.
+

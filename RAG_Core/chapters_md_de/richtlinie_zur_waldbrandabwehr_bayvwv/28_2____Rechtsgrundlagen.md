@@ -1,0 +1,4 @@
+# 2.   Rechtsgrundlagen
+
+- Rechtsgrundlagen für diese Richtlinie enthalten folgende Vorschriften in der jeweils gültigen Fassung: –  Waldgesetz für Bayern (BayWaldG) vom 22. Juli 2005 (GVBl S. 313, BayRS 7902-1-L)   –  Bayerisches Katastrophenschutzgesetz (BayKSG) vom 24. Juli 1996 (GVBl S. 282, BayRS 215-4-1-I)   –  Bayerisches Feuerwehrgesetz – BayFwG – (BayRS 215-3-1-I)   –  Verordnung zur Ausführung des Bayerischen Feuerwehrgesetzes – AVBayFwG – (BayRS 215-3-1-1-I)   –  Bekanntmachung des Bayerischen Staatsministeriums des Inneren über die Alarmierung im Brand- und  Katastrophenschutz vom 14. Juni 1993 (AllMBl S. 856)    –  Bekanntmachung des Bayerischen Staatsministeriums des Inneren über die Alarmierung im  Rettungsdienst, Brand- und Katastrophenschutz in Bayern (Alarmierungsbekanntmachung – ABek) vom
+

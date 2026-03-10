@@ -1,0 +1,6 @@
+# 1. Angriff über die Flanken (mit dem Wind)
+
+- • From the anchor point, the attack on the fire ground begins by rolling the flanks with the wind, securing the anchor point! • Attack with hand tools, beam blanks and pump & roll function possible • Extinguishing groups, vehicles or a combination of both move along the fire and delete them • Possibility of extinguishing the fire ground from the green or black area • Depending on the intensity or available means of use, the extinguishing teams or vehicles can also be used in succession on a flank for extinguishing and subsequently direct extinguishing or on both sides at the same time Attention!
+
+- • Attack with hand tools, beam blanks and pump & roll function possible • Extinguishing groups, vehicles or a combination of both move along the fire and delete them • Possibility of extinguishing the fire hem from the green or black area • Depending on the intensity or available means of use, the extinguishing teams or vehicles can also be used one after the other on a flank for extinguishing and then direct extinguishing or on both sides at the same time Attention! Possibility B Possibility A Possibility A Figure 25 Attack over the flanks Table of Contents
+

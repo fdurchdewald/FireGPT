@@ -1,0 +1,14 @@
+# 3.5 Fahrzeuge und Technik
+
+- Unit IST-Condition 2012 First registration Age [years] MTF 1995 7 LF 10 2002 3 LF 16 TS 1983 29 TLF 3000 2011 1 AB-Boat 2000 12 LF 10 2005 7 TLF 3000 2011 1 WSW 2009 3 LF 10 2002 10 LF KatS 2011 1 DLK 1998 14 LF 10 2003 9 LF KatS 2011 1 GW 2011 1 ErkrKW 2002 10 ErktrkW 2002 10 Dekon Truck 2001 11 MTF 1996 16 LF 10 2011 1 LF 16 TS 1990 22 TLF 3000 2011 1 TLF 16 1987 25 DLK 1997 15 RW 1 1988 24 WLF 2009 3 AB-MANV 2005 7 AB-Tank 8000 2008 4 LF 10 2001 11 LF 10 2011 1 LF 16 TS 1984 28 WLF 2012 0 AB-AU/EL 1993 19 LF 10 2001 11 LF KatS 2012 0 WSW 2004 8 MTF 1993 19 LF 10 2003 9 LF KatS 2012 0 LF 16 TS 1990 22 Division Wallstadt Division Feudenheim Division 10 Division 10 Division 10 Division 10 Division 10 Divisions marked by Nord Division 12 Division 12 Division marked by Nord Division
+
+- The orange marked fields illustrate a vehicle age of more than 20 years.Vehicles of the volunteer fire brigade All departments 10 Fire Protection Needs Plan of the City of Mannheim, as of: 04.04.2013 90 Due to multiple failures of outdated emergency vehicles, the department commanders met in a working group in November 2009 and developed a vehicle concept for the volunteer fire brigade Mannheim.
+
+- Vehicles of the Voluntary Fire Brigade All departments 10 Fire Protection Needs Plan of the City of Mannheim, as of: 04.04.2013 90 Due to multiple failures of outdated fire fighting vehicles, the department commanders gathered in a working group in November 2009 and developed a vehicle concept for the Voluntary Fire Brigade Mannheim. The IST condition of the vehicles was summarized in 2010 as follows:
+
+- The IST condition of the vehicles was summarized in 2010 as follows: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- The 6 TLFs have an average age of 27.17 years.The LFs of the Federal Republic of Germany (LF 16 TS) are on average 25.22 years old.The LF 8/6 (new LF 10/6) purchased by the City of Mannheim have an average age of 7.75 years.The total average age of all FF Mannheim vehicles is 19.65 years. In 2009, the 9 fire trucks of the Federal Republic of Germany were out of service due to significant damage. A large number of fire trucks are considered obsolete as a result.
+
+- A large number of firefighting vehicles are considered obsolete as a result.The SOLL condition according to the concept paper is shown in summary on the following page.
+

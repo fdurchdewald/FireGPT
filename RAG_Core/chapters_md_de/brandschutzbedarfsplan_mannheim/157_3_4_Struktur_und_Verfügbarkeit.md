@@ -1,0 +1,4 @@
+# 3.4 Struktur und Verfügbarkeit der Freiwilligen Feuerwehr
+
+- Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  85  Zur effektiven und zuverlässigen Bewältigung von Einsätzen wird, neben dem Personal, ein in Abhängigkeit von  den örtlichen Risiken und Begebenheiten aufzustellender Fuhrpark benötigt. Die Fahrzeugbemessung hängt dabei von unterschiedlichen Faktoren ab, so zum Beispiel von:  - Gefahrenpotential  - Einsatzszenarien zur Bemessung  - Einsatzgeschehen allgemein  - Verfügbarkeit, Struktur und Einbindung der Freiwilligen Feuerwehr  - Löschwasserversorgung / Hydrantennetz  - Möglichkeiten der nachbarschaftlichen Unterstützung  Dieser Abschnitt  beinhaltet eine Kurzdarstellung der bei der Feuerwehr Mannheim vorgehaltenen Fahrzeuge und  Technik im IST-Zustand und gibt einen Einblick in derzeitige Planungen in diesem Bereich.
+

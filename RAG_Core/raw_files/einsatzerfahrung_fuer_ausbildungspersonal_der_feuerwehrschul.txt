@@ -1,0 +1,2257 @@
+ 
+i 
+ 
+ 
+ 
+ 
+ 
+Luca Ruchser 
+Brandreferendar  
+Landesfeuerwehrschule Baden-Württemberg 
+Fachartikel 
+Einsatzerfahrung für 
+Ausbildungspersonal der 
+Feuerwehrschulen 
+Facharbeit gemäß § 20 Abs. 1 VAP2.2-Feu NRW 
+Bruchsal, den 20.10.2023 
+
+ 
+ii 
+ 
+Aufgabenstellung 
+Die Aus- und Fortbildung der Führungskräfte der Feuerwehren findet an den Landesfeuerwehrschulen bzw. 
+den entsprechenden Bildungseinrichtungen der Länder statt. Die Landesfeuerwehrschulen selbst werden 
+nicht oder nur kaum in die Gefahrenabwehr eingebunden. Fehlen dem Lehrpersonal entsprechende 
+Einsatzerfahrungen? Gibt es Möglichkeiten, dass das Lehrpersonal entsprechende Erfahrungen sammeln 
+könnte? Könnte hiervon unter Umständen auch die Gefahrenabwehr profitieren? 
+Skizzieren Sie ein effektives Konzept, durch welches Lehrpersonal der Feuerwehrschulen weiterhin an 
+Einsätzen teilhaben könnte. Beachten Sie hierbei auch die zeitlichen Einschränkungen, denen die 
+Feuerwehrschulen durch immer weiter steigende Ausbildungsbedarfe unterliegen. Stellen Sie Vor- und 
+Nachteile eines solchen Konzeptes dar und beurteilen Sie aus Ihrer Sicht die Notwendigkeit und die 
+Möglichkeiten zur Umsetzung. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hinweis: 
+Aus Gründen der besseren Lesbarkeit wird in dieser Facharbeit das generische Maskulinum verwendet. 
+Sofern nicht anderweitig kenntlich gemacht, beziehen sich die verwendeten Personenbezeichnung auch 
+gleichermaßen auf weibliche und anderweitige Geschlechteridentitäten. 
+ 
+ 
+
+ 
+iii 
+ 
+Abkürzungsverzeichnis 
+ 
+IdF NRW 
+Institut der Feuerwehr Nordrhein-Westfalen 
+JAZ 
+Jahresarbeitszeit 
+LFS 
+Landesfeuerwehrschule(n) 
+ 
+ 
+ 
+ 
+Abbildungsverzeichnis 
+Abbildung 1: Graphische Darstellung Auswahl-Option (eigene Darstellung, 2023)..................................... 8 
+Abbildung 2: Graphische Darstellung Freitextantwort (eigene Darstellung, 2023) ...................................... 9 
+Abbildung 3: Graphische Darstellung Skalen-Frage (eigene Darstellung, 2023) ........................................ 9 
+Abbildung 4: Graphische Darstellung sechsstufige Skala (eigene Darstellung, 2023) ................................ 9 
+Abbildung 5: Fragenstruktur (eigene Darstellung, 2023) ........................................................................... 16 
+Abbildung 6: Frage A001: Einsatzpraktika vorgesehen (eigene Darstellung, 2023).................................. 18 
+Abbildung 7: Frage B001: Ist-Anteil Einsatzpraktika an JAZ  (eigene Darstellung, 2023) ......................... 19 
+Abbildung 8: Frage B002: Soll-Anteil Einsatzpraktika an JAZ (eigene Darstellung, 2023) ........................ 19 
+Abbildung 9: Frage B003: Gründe für Einführung Einsatzpraktika (eigene Darstellung, 2023) ................. 20 
+Abbildung 10: Frage B004: Qualität Ausbildung und Einsatzpraktika (eigene Darstellung, 2023) ............ 20 
+Abbildung 11: Frage B005: Freiwilligkeit Einsatzpraktika (eigene Darstellung, 2023) ............................... 21 
+Abbildung 12: Frage B006: Einsatzfunktion Einsatzpraktika (eigene Darstellung, 2023) .......................... 21 
+Abbildung 13: Frage B007: Auswahl Einsatzfunktion (eigene Darstellung, 2023) ..................................... 22 
+Abbildung 14: Frage B008: Mitarbeit Fachabteilung während Einsatzpraktika (eigene Darstellung, 
+2023) .............................................................................................................. 22 
+Abbildung 15: Frage B009: Bearbeitung Angelegenheiten LFS während Einsatzpraktika (eigene 
+Darstellung, 2023) .......................................................................................... 23 
+Abbildung 16: Frage B010: Einsatzpraktika und Personalgewinnung (eigene Darstellung, 2023)............ 23 
+Abbildung 17: Frage B011: Einsatzpraktika und Personalfluktuation (eigene Darstellung, 2023) ............ 24 
+Abbildung 18: Frage B012: Kompensation Abwesenheit Ausbilder (eigene Darstellung, 2023) ............... 24 
+Abbildung 19: Frage B013: Prozentualer Anteil Kompensation der Abwesenheit (eigene Darstellung, 
+2023) .............................................................................................................. 25 
+Abbildung 20: Frage B014: Andere Kompensationsmaßnahmen (eigene Darstellung, 2023) .................. 25 
+Abbildung 21: Frage C001: Einsatzpraktika in Planung (eigene Darstellung, 2023) ................................. 26 
+Abbildung 22: Frage C002: Einsatzpraktika wünschenswert (eigene Darstellung, 2023) ......................... 26 
+Abbildung 23: Frage C003: Soll-Anteil Einsatzpraktika an JAZ (eigene Darstellung, 2023) ..................... 27 
+Abbildung 24: Frage C004: Verbesserung Qualität Ausbildung durch Einsatzpraktika (eigene 
+Darstellung, 2023) .......................................................................................... 27 
+Abbildung 25: Frage C005: Freiwilligkeit Einsatzpraktika (eigene Darstellung, 2023) .............................. 28 
+Abbildung 26: Frage C006: Einsatzfunktion Einsatzpraktika (eigene Darstellung, 2023) .......................... 29 
+Abbildung 27: Frage C007: Auswahl Einsatzfunktion (eigene Darstellung, 2023)..................................... 30 
+Abbildung 28: Frage C008: Mitarbeit Fachabteilung während Einsatzpraktika (eigene Darstellung, 
+2023) .............................................................................................................. 30 
+Abbildung 29: Frage C009: Bearbeitung Angelegenheiten LFS während Einsatzpraktika (eigene 
+Darstellung, 2023) .......................................................................................... 31 
+Abbildung 30: Frage C010: Einsatzpraktika und Personalgewinnung (eigene Darstellung, 2023) ........... 31 
+Abbildung 31: Frage C011: Einsatzpraktika und Personalfluktuation (eigene Darstellung, 2023) ............ 32 
+Abbildung 32: Frage C012: Kompensation Abwesenheit Ausbilder an LFS (eigene Darstellung, 2023) .. 32 
+
+ 
+iv 
+ 
+Abbildung 33: Frage C013: Prozentualer Anteil Kompensation Abwesenheit (eigene Darstellung, 
+2023) .............................................................................................................. 33 
+Abbildung 34: Frage C014: Andere Kompensationsmaßnahmen (eigene Darstellung, 2023) .................. 33 
+Abbildung 35: Frage C015: Warum Einsatzpraktika nicht sinnvoll (eigene Darstellung, 2023) ................. 33 
+Abbildung 36: Frage D001: originäre Einsatzaufgaben vorhanden (eigene Darstellung, 2023) ................ 34 
+Abbildung 37: Frage D002: Anteil originäre Einsatzaufgaben an JAZ (eigene Darstellung, 2023) ........... 34 
+Abbildung 38: Frage D003: Anteil Unterrichtseinheiten an Gesamtwoche Ausbilder (eigene 
+Darstellung, 2023) .......................................................................................... 35 
+Abbildung 39: Frage D004: weitere Anmerkungen (eigene Darstellung, 2023) ......................................... 36 
+Abbildung 40: Kombinierte Darstellung B002/C003 (eigene Darstellung, 2023) ....................................... 37 
+Abbildung 41: Kombinierte Darstellung B004/C004 (eigene Darstellung, 2023) ....................................... 37 
+Abbildung 42: Kombinierte Darstellung B007/C007 (eigene Darstellung, 2023) ....................................... 38 
+Abbildung 43: Kombinierte Darstellung B010/C010 (eigene Darstellung, 2023) ....................................... 38 
+Abbildung 44: Kombinierte Darstellung B011/C011 (eigene Darstellung, 2023) ....................................... 39 
+ 
+ 
+ 
+ 
+Tabellenverzeichnis 
+Tabelle 1: Liste der in der Umfrage befragten Schulleiter der LFS (eigene Darstellung, 2023) ................ 15 
+  
+ 
+
+ 
+v 
+ 
+Inhalt 
+Teil I: Fachartikel ...................................................................................................................................... vii 
+Kurzzusammenfassung ........................................................................................................................... vii 
+1 Einleitung ................................................................................................................................................. 1 
+2 Darstellung der Problemstellung ........................................................................................................... 1 
+2.1 Forschungsfragen und Arbeitsauftrag ................................................................................................ 1 
+2.2 Abgrenzung des Themas und Begriffsdefinitionen ............................................................................. 1 
+3 Herangehensweise .................................................................................................................................. 1 
+3.1 Literaturrecherche ............................................................................................................................... 2 
+3.2 Befragung der Schulleiter der LFS ..................................................................................................... 2 
+3.3 Entwicklung eines Konzeptes zur Generierung von Einsatzerfahrung ............................................... 2 
+4 Ergebnisse ............................................................................................................................................... 2 
+4.1 Literaturrecherche ............................................................................................................................... 2 
+4.2 Befragung der Schulleiter der LFS ..................................................................................................... 2 
+4.3 Konzept zur Generierung von Einsatzerfahrung................................................................................. 3 
+4.3.1 Wesentliche Anforderungen an das Konzept ............................................................................... 3 
+4.3.2 Darstellung eines Konzeptes zur Generierung von Einsatzerfahrungen ..................................... 4 
+5 Diskussion ............................................................................................................................................... 5 
+5.1 Befragung der Schulleiter der LFS ..................................................................................................... 5 
+5.2 Konzept zur Generierung von Einsatzerfahrung................................................................................. 6 
+5.2.1 Mitarbeiter ohne Zugehörigkeit zu einer feuerwehrtechnischen Laufbahngruppe ....................... 6 
+5.2.2 Vor- und Nachteile des Konzeptes für die LFS ............................................................................ 6 
+5.2.3 Vor- und Nachteile des Konzeptes für die am Austausch teilnehmenden Feuerwehren ............ 6 
+5.2.4 Notwendigkeit und Möglichkeit der Umsetzung des Konzeptes .................................................. 7 
+6 Fazit ........................................................................................................................................................... 7 
+Teil II: Methoden-, Literatur- und Quellendokumentation ...................................................................... 8 
+1 Beschreibung der Methodik ................................................................................................................... 8 
+1.1 Literaturrecherche ............................................................................................................................... 8 
+1.2 Befragung der Schulleiter der LFS ..................................................................................................... 8 
+1.3 Entwicklung des Konzeptes zur Generierung von Einsatzerfahrung ............................................... 10 
+2 Begründung ........................................................................................................................................... 10 
+2.1 Literaturrecherche ............................................................................................................................. 10 
+2.2 Befragung der Schulleiter der LFS ................................................................................................... 10 
+2.3 Entwicklung des Konzeptes zur Generierung von Einsatzerfahrung ............................................... 11 
+3 Literatur- und Quellendokumentation ................................................................................................. 11 
+3.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken ............................................ 11 
+3.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation ........................................ 11 
+3.3 Kriterien der Literatur- und Quellenauswahl ..................................................................................... 12 
+
+ 
+vi 
+ 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen .................................. 12 
+Literaturverzeichnis ................................................................................................................................. 14 
+A. Anhänge ................................................................................................................................................ 15 
+A.1 Liste der in der Umfrage befragten Schulleiter der LFS ................................................................... 15 
+A.2 Fragenstruktur sowie Begrüßungs- und Definitionsseite ................................................................. 16 
+A.3 Vollständige Darstellung der Umfrageergebnisse ............................................................................ 18 
+A.4 Kombinierte Darstellung von Umfrageergebnissen .......................................................................... 37 
+A.5 Darstellung weiterer Konzepte zur Generierung von Einsatzerfahrung ........................................... 40 
+B. Eigenständigkeitserklärung ................................................................................................................ 42 
+ 
+ 
+
+Kurzzusammenfassung 
+vii 
+ 
+Teil I: Fachartikel 
+Kurzzusammenfassung 
+In dem vorliegenden Fachartikel wird ein Konzept entwickelt, durch dessen Anwendung Ausbilder der 
+Landesfeuerwehrschulen auch während ihrer Tätigkeit an den Landesfeuerwehrschulen weiterhin 
+Einsatzerfahrung sammeln könnten. Die Anforderungen an das Konzept werden durch eine Befragung der 
+Schulleiter der Landesfeuerwehrschulen mittels einer Umfrage ermittelt. Nach Abwägung unterschiedlicher 
+Konzeptideen wird auf Grundlage der Anforderungen ein Konzept vorgestellt. Dieses Konzept basiert auf 
+einem Austausch zwischen den Landesfeuerwehrschulen und Feuerwehren mittels Abordnungen von 
+Personal zur jeweils anderen Dienststelle. Anschließend werden Vor- und Nachteile des Konzeptes für die 
+Landesfeuerwehrschulen und die am Austausch teilnehmenden Feuerwehren erläutert. Neben der 
+Beantwortung der Forschungsfragen wird abschließend die Notwendigkeit und Möglichkeit zur Umsetzung 
+des Konzeptes beurteilt.
+
+Einleitung 
+1 
+ 
+1 Einleitung 
+Die Landesfeuerwehrschulen bzw. die entsprechenden Bildungseinrichtungen der Länder (im Folgenden 
+mit LFS abgekürzt) sind die Einrichtungen der Bundesländer zur Aus- und Fortbildung von 
+Feuerwehrführungskräften. Den LFS kommt somit eine zentrale Rolle bei der Gewährleistung eines hohen 
+Ausbildungsstandes der neuen Feuerwehrführungskräfte und damit auch der Leistungsfähigkeit der 
+Feuerwehren im jeweiligen Bundesland zu. Um diesem wichtigen Auftrag Rechnung zu tragen, muss es 
+deshalb der Anspruch jeder LFS sein, neben der Quantität vor allem für eine sehr hohe Qualität der Aus- 
+und Fortbildungen zu sorgen. Auf die Qualität der Ausbildung haben viele Faktoren einen Einfluss, ein sehr 
+wesentlicher ist jedoch das Lehrpersonal einer LFS. Die vorliegende Facharbeit befasst sich deshalb 
+hauptsächlich mit dem Aspekt der Einsatzerfahrung des Lehrpersonals, inwiefern diese für ihre Tätigkeit 
+relevant ist und wie Einsatzerfahrung für das Lehrpersonal einer LFS generiert werden kann. 
+2 Darstellung der Problemstellung 
+Bei den Aus- und Fortbildungen sollen Lehrgangsteilnehmer u.a. das Vorgehen im Realeinsatz erlernen. 
+Während die Lehrgangsteilnehmer in aller Regel aktive Mitglieder einer Feuerwehr sind, ist dies bei den 
+Ausbildern der LFS jedoch nicht zwingend gegeben. Aufgrund dieser Tatsache lassen sich 
+Forschungsfragen definieren, welche im Folgenden vorgestellt werden. 
+2.1 Forschungsfragen und Arbeitsauftrag 
+Die Forschungsfragen ergeben sich aus der Aufgabenstellung dieser Facharbeit: 
+1. Fehlen dem Lehrpersonal entsprechende Einsatzerfahrungen?  
+2. Gibt es Möglichkeiten, dass das Lehrpersonal entsprechende Erfahrungen sammeln könnte? 
+3. Könnte hiervon unter Umständen auch die Gefahrenabwehr profitieren? 
+Der Arbeitsauftrag entspricht dem zweiten Absatz der Aufgabenstellung dieser Facharbeit. 
+2.2 Abgrenzung des Themas und Begriffsdefinitionen 
+In der Aufgabenstellung der Facharbeit wird mehrfach der Begriff „Einsatzerfahrung“ verwendet. Im 
+Rahmen der Facharbeit werden hierunter Erfahrungen verstanden, welche durch eine Tätigkeit im 
+Einsatzdienst gewonnen werden. Unter einer Tätigkeit im Einsatzdienst versteht sich hierbei folgendes: 
+"Die Tätigkeit im Einsatzdienst der Feuerwehr [...] umfasst in erster Linie nur solche Tätigkeiten, die der 
+unmittelbaren Brandbekämpfung und Hilfeleistung am Brand- und Katastrophenort zuzuordnen sind" 
+(Schwegmann et al., 2023, 2.1.3). 
+In der Facharbeit wird des Weiteren der Begriff "Einsatzpraktikum" verwendet. Ein Einsatzpraktikum ist ein 
+Zeitraum, in welchem feuerwehrtechnische Ausbilder Dienst bei einer Feuerwehr verrichten und hierbei 
+unter anderem (nach Einweisungsschichten) eigenverantwortlich eine Tätigkeit im Einsatzdienst 
+wahrnehmen. 
+Im Rahmen der Arbeit werden nur LFS betrachtet, welche nicht in einem Stadtstaat liegen. Grund hierfür 
+ist, dass sich die LFS der drei Stadtstaaten bezüglich der organisatorischen Rahmenbedingungen 
+wesentlich von denen der anderen Bundesländer unterscheiden. Die LFS der Stadtstaaten sind 
+organisatorisch an die Feuerwehr(en) des jeweiligen Bundeslandes angegliedert. Hierdurch sind die 
+feuerwehrtechnischen Ausbilder der LFS nach Kenntnisstand des Autors i.d.R. gleichzeitig Einsatzbeamte 
+der jeweiligen Feuerwehr(en) und können somit ohne weiteres in deren Einsatzdienst eingesetzt werden.  
+Im Rahmen dieser Facharbeit wird nur Lehrpersonal berücksichtigt, welche feuerwehrtechnische Ausbilder 
+sind. Feuerwehrtechnische Ausbilder sind Ausbilder an einer LFS, welche einer feuerwehrtechnischen 
+Laufbahngruppe angehören. Zu Hinweisen der Durchführung von Einsatzpraktika für Ausbilder ohne 
+Zugehörigkeit zu einer feuerwehrtechnischen Laufbahngruppe siehe Kapitel 5.2.1. 
+3 Herangehensweise 
+Um die Forschungsfragen zu beantworten und den Arbeitsauftrag zu bearbeiten wurden nach einer initialen 
+Brainstorming-Phase folgende drei wesentlichen Schritte zur Bearbeitung der Facharbeit festgelegt: 
+1. Literaturrecherche 
+2. Befragung der Schulleiter der LFS 
+
+Ergebnisse 
+2 
+ 
+3. Entwicklung eines Konzeptes zur Generierung von Einsatzerfahrung 
+3.1 Literaturrecherche 
+Bei der Literaturrecherche wurden diverse Datenbanken nach Begriffen mit Bezug zum Thema durchsucht. 
+Eine ausführliche Dokumentation des Prozesses findet sich in Kapitel 3 des Teils II dieser Facharbeit.  
+3.2 Befragung der Schulleiter der LFS 
+Um einen Ist-Stand in Bezug zu Konzepten zur Generierung von Einsatzerfahrungen an den LFS zu 
+erheben, wurde eine Befragung der Schulleiter der LFS aller Bundesländer durchgeführt, welche keine 
+Stadtstaaten sind. Die Ergebnisse der Umfrage sollten bei der Beantwortung der Forschungsfrage 1 sowie 
+bei der Erstellung des Konzeptes unterstützen. Des Weiteren wurden von LFS, welche mehr als einen 
+Standort besitzen, nur der Schulleiter der Gesamteinrichtung befragt. Somit ergeben sich pro Bundesland 
+jeweils ein Schulleiter, mit der Ausnahme von Bayern. In Bayern sind drei organisatorisch eigenständige 
+LFS vorhanden. Die Liste der LFS, deren Schulleiter befragt wurden, befindet sich in Anhang A.1. 
+Um die Befragung durchzuführen, wurde eine Online-Umfrage erstellt und die oben definierte Gruppe von 
+Schulleitern zur Teilnahme an dieser Umfrage eingeladen. Die Fragenstruktur kann dem Anhang A.2, die 
+Fragenliste dem Anhang A.3 entnommen werden. Die methodische Vorgehensweise bei der Erstellung des 
+Fragebogens findet sich im Kapitel 1.2 des Teils II dieser Facharbeit. 
+3.3 Entwicklung eines Konzeptes zur Generierung von Einsatzerfahrung 
+Um das Konzept zur Generierung von Einsatzerfahrung für feuerwehrtechnische Ausbilder einer LFS zu 
+entwickeln, wurde zuerst die Befragung der Schulleiter der LFS ausgewertet. Aus dieser Auswertung 
+wurden anschließend wesentliche Anforderungen an das Konzept definiert. Basierend auf diesen 
+Anforderungen und eigenen Vorkenntnissen fand ein Brainstorming statt, um unterschiedliche Konzepte 
+zu generieren. Anschließend wurden die Konzepte nochmals auf ihre Konformität mit den Anforderungen 
+überprüft und Konzepte verworfen, welche nicht mit den Anforderungen übereinstimmten. Die nicht 
+ausgewählten Konzepte, sowie die Begründung für die Nicht-Auswahl werden im Anhang A.5 vorgestellt. 
+4 Ergebnisse 
+Im Folgenden werden die Ergebnisse der Literaturrecherche und der Befragung der Schulleiter der LFS 
+sowie das Konzept zur Generierung von Einsatzerfahrung vorgestellt. 
+4.1 Literaturrecherche 
+Nach einer ausführlichen Literaturrecherche konnte keine Literatur mit direktem inhaltlichem Bezug zu den 
+Forschungsfragen und dem Arbeitsauftrag aufgefunden werden. 
+4.2 Befragung der Schulleiter der LFS 
+Im Folgenden werden lediglich ausgewählte Ergebnisse der Befragung der Schulleiter der LFS vorgestellt. 
+Die graphische Darstellung aller Ergebnisse findet sich in Anhang A.3 und Anhang A.4. 
+An der Umfrage haben 15 der 15 kontaktierten Schulleiter teilgenommen. Bei 14 der 15 Umfragen wurde 
+die Umfrage vollständig ausgefüllt. Bei einer weiteren Umfrage (Teilnehmer T12) wurden lediglich die 
+ersten drei Fragen beantwortet. Von den 15 Teilnehmern gaben 11 (ca. 73,3 %) an, dass für 
+feuerwehrtechnische Ausbilder ihrer Dienststelle aktuell keine Einsatzpraktika im Jahresdienstplan 
+vorgesehen sind (siehe Abbildung 6). Von diesen 11 Teilnehmern gaben 10 Teilnehmer an, dass das 
+Vorhandensein von Einsatzpraktika aus ihrer Sicht wünschenswert ist (siehe Abbildung 22). 
+Des Weiteren wurden die Teilnehmer gebeten, einzuschätzen, inwiefern sich die Qualität der Ausbildung 
+an ihrer LFS durch die Durchführung von Einsatzpraktika für feuerwehrtechnische Ausbilder verbessert 
+hat/verbessern würde. Die Abbildung 41 zeigt die Einschätzung von 13 Umfrageteilnehmern zu dieser 
+Frage auf einer sechsstufigen Skala. Alle Teilnehmer, welche die Umfrage sahen, schätzen, dass 
+Einsatzpraktika sich zumindest geringfügig positiv auf die Qualität der Ausbildung auswirken/auswirken 
+würden. Der Mittelwert beträgt 4,83 Punkte, die Standardabweichung ca. 1,5 Punkte (ein Wert von 3,5 
+Punkten würde eine Neutralität hinsichtlich der Aussage bedeuten). Für weitere Hinweise zur Interpretation 
+der Graphiken siehe Anhang A.3 dieser Facharbeit. 
+Des Weiteren wurde der, aus Sicht der Teilnehmer, optimale prozentuale Anteil von Einsatzpraktika an der 
+Jahresarbeitszeit (im Folgenden JAZ genannt) erfragt. Die Abbildung 40 zeigt die Antworten von 12 
+
+Ergebnisse 
+3 
+ 
+Umfrageteilnehmern zu dieser Frage. Als Mittelwert ergibt sich ein Wert von ca. 8,46 % der JAZ. Die 
+Standardabweichung beträgt ca. 4,73 Prozentpunkte. 
+Bezüglich der Frage, ob die Einsatzfunktionen in Einsatzpraktika hinsichtlich des Ausbildungsbereiches 
+des feuerwehrtechnischen Ausbilders ausgewählt werden sollten, stimmten 8 von 13 Teilnehmern mit ja, 
+die weiteren 5 Teilnehmer mit nein (siehe Abbildung 42). 
+Auf die Frage, in welchen Einsatzfunktionen feuerwehrtechnische Ausbilder im Rahmen von 
+Einsatzpraktika tätig sein sollten, kam es in den Freitextantworten zu vielseitigen Äußerungen (siehe 
+Abbildung 12 und Abbildung 26). Insgesamt 6 der 13 Teilnehmer, welche diese Frage gesehen haben, 
+erwähnten, 
+dass 
+die 
+Einsatzfunktion 
+zu 
+der 
+jeweiligen 
+Qualifikation/Laufbahngruppe 
+des 
+feuerwehrtechnischen Ausbilders passen muss. Dass der Einsatz in diversen Einsatzfunktionen möglich 
+ist/sein sollte gaben 4 Teilnehmer an (teilweise wurden hier Hinweise zur Abhängigkeit von der Qualifikation 
+oder dem Ausbildungsbereich gegeben). Die Einsatzfunktion Gruppenführer wurde 8 Mal explizit erwähnt. 
+Die Einsatzfunktion Zugführer wurde 9 Mal explizit erwähnt. Weitere genannte Funktionen/Tätigkeiten 
+waren: Verbandsführer (1 Mal), die Stabsarbeit (3 Mal), Leitstellendisponent (2 Mal), Truppmann und 
+Truppführer (jeweils 1 Mal). 
+Hinsichtlich der Kompensation der Abwesenheit der feuerwehrtechnischen Ausbilder wurden die 
+Schulleiter gebeten, ihre Antwort unter Berücksichtigung ihrer Angaben zum optimalen prozentualen Anteil 
+der Einsatzpraktika an der JAZ zu geben. Von den Umfrageteilnehmern, deren Dienststellen bereits 
+Einsatzpraktika durchführen, gab 1 der 4  an, dass die Abwesenheit zu 100 % durch Stellen für 
+feuerwehrtechnische Ausbilder kompensiert werden konnte (siehe Abbildung 19). Drei weitere Teilnehmer 
+gaben an, dass die Durchführung von Einsatzpraktika in der Jahresplanung - z.B. in definierten 
+Fortbildungsanteilen an der JAZ - berücksichtigt ist (siehe Abbildung 20). 
+Insgesamt 5 Teilnehmer, an deren Dienststellen keine Einsatzpraktika im Jahresdienstplan vorgesehen 
+sind, gaben an, dass sie es für realistisch halten, dass an ihrer Dienststelle zusätzliche Stellen für 
+feuerwehrtechnische Ausbilder zur Kompensation der Einsatzpraktika geschaffen werden könnten (siehe 
+Frage Abbildung 32). Von diesen 5 Teilnehmern war einer der Meinung, dass die Abwesenheit der 
+feuerwehrtechnischen Ausbilder zu 100 % kompensiert werden könnte. 
+Auf die Frage, ob die eigene LFS originäre Einsatzaufgaben hat, antworteten 12 der 14 Teilnehmer, welche 
+die Frage gesehen haben, mit ja (siehe Abbildung 36). Der arithmetische Mittelwert der Antworten auf die 
+Frage, wie viel Prozent der JAZ der feuerwehrtechnischen Ausbilder diese originären Einsatzaufgaben 
+beanspruchen, liegt bei 9,5 %. Ohne Betrachtung des stark überdurchschnittlichen Wertes von 75 % des 
+Teilnehmers 2 liegt der arithmetische Mittelwert bei ca. 3,54 %. Die Standardabweichung beträgt ohne 
+Berücksichtigung des Wertes des Teilnehmers 2 bei ca. 1,88 Prozentpunkten. 
+4.3 Konzept zur Generierung von Einsatzerfahrung 
+Im Folgenden werden wesentliche Anforderungen an das Konzept definiert, welche sich unter anderem 
+aus den Ergebnissen der Befragung der Schulleiter der LFS ergeben. Anschließend wird ein auf den 
+Anforderungen basierendes Konzept dargestellt. 
+4.3.1 Wesentliche Anforderungen an das Konzept 
+Laut Aufgabenstellung dieser Facharbeit seien "zeitliche Einschränkungen“ bezüglich der Verfügbarkeit 
+von feuerwehrtechnischen Ausbildern für Einsatzpraktika vorhanden. Dieser Zustand würde sich durch 
+„immer weiter steigende Ausbildungsbedarfe“ tendenziell weiter verschlechtern. 
+Den Antworten der Schulleiter lässt sich entnehmen, dass die Abwesenheit der feuerwehrtechnischen 
+Ausbilder durch Einsatzpraktika je nach Dienststelle häufig nicht oder nur anteilig ausgeglichen werden 
+kann/könnte (siehe Kapitel 4.2). 
+Geht man nun hinsichtlich der „immer weiter steigenden Ausbildungsbedarfe“ davon aus, dass es nicht 
+akzeptabel ist, die Quantität sowie Dauer der Aus- und Fortbildungen zugunsten der Durchführung von 
+Einsatzpraktika zu verringern, so ergibt sich folgende Anforderung an das Konzept: 
+1. Die Abwesenheit der feuerwehrtechnischen Ausbilder sollte so vollständig wie möglich ohne 
+zusätzliche Stellen für feuerwehrtechnische Ausbilder kompensiert werden. 
+ 
+
+Ergebnisse 
+4 
+ 
+Auf 
+Grundlage 
+der 
+Antworten 
+der 
+Schulleiter 
+werden 
+des 
+Weiteren 
+folgende 
+Anforderungen/Rahmenkriterien definiert: 
+2. Die feuerwehrtechnischen Ausbilder müssen für die Einsatzfunktion, in welcher sie ihm Rahmen der 
+Einsatzpraktika verwendet werden sollen, qualifiziert sein (siehe Abbildung 12 und Abbildung 26). 
+3. Die feuerwehrtechnischen Ausbilder sollten, unter Berücksichtigung ihrer Qualifikationen, während 
+der Einsatzpraktika im Wesentlichen in Führungsfunktionen verwendet werden. Am häufigsten 
+wurden im Rahmen der Umfrage die Funktionen Gruppenführer und Zugführer erwähnt (siehe 
+Abbildung 12 und Abbildung 26). 
+4. Die Einsatzfunktion kann, aber muss nicht zum Ausbildungsbereich des jeweiligen 
+feuerwehrtechnischen Ausbilders passen (siehe Abbildung 42). 
+5. Die Teilnahme an Einsatzpraktika sollte freiwillig sein (siehe Abbildung 11 und Abbildung 25). 
+6. Die feuerwehrtechnischen Ausbilder sollten während eines Schichtdienstes in ihren Einsatzpraktika in 
+einer Fachabteilung der jeweiligen Feuerwehr mitarbeiten (siehe Abbildung 14 und Abbildung 28). 
+7. Die feuerwehrtechnischen Ausbilder sollten während eines Schichtdienstes in ihren Einsatzpraktika 
+nicht an Angelegenheiten ihrer LFS arbeiten (siehe Abbildung 15 und Abbildung 29). 
+Im Folgenden wird ein Konzept zur Generierung von Einsatzerfahrung dargestellt. 
+4.3.2 Darstellung eines Konzeptes zur Generierung von Einsatzerfahrungen 
+Auf Grundlage der Anforderung 1 basiert das hier vorgestellte Konzept zur Generierung von 
+Einsatzerfahrung für feuerwehrtechnische Ausbilder der LFS auf einem Austauschsystem mit mehreren 
+Feuerwehren. Eine ergänzende Kompensation der Fehlzeiten durch zusätzliche Stellen oder Gastdozenten 
+ist je nach Möglichkeit der einzelnen LFS denkbar. Ob es sich bei den Feuerwehren um Berufsfeuerwehren, 
+Werkfeuerwehren oder um Freiwillige Feuerwehren mit Wachmannschaften bestehend aus hauptamtlichen 
+Kräften handelt, ist nicht relevant. Erforderlich ist jedoch eine Einsatzfrequenz, welche einen Mehrwert 
+hinsichtlich der Generierung von Einsatzerfahrungen erwarten lässt. 
+Im Rahmen des Austauschsystems werden die feuerwehrtechnischen Ausbilder einer LFS zu Feuerwehren 
+abgeordnet. Dabei wird jeder feuerwehrtechnische Ausbilder grundsätzlich immer zur selben Feuerwehr 
+abgeordnet. Grund hierfür ist, dass es für das Konzept zwingend erforderlich ist, dass der 
+feuerwehrtechnische Ausbilder (nach Einführungsschichten) die ausgewählte Einsatzfunktion eigenständig 
+wahrnimmt und nicht „unter Aufsicht“ seinen Dienst leistet. Denn nur, wenn die jeweilige Feuerwehr einen 
+feuerwehrtechnischen Ausbilder ohne zusätzlichen Personalaufwand verwenden kann, ist es auch 
+möglich, dass diese Feuerwehr im Austausch einen ihrer feuerwehrtechnischen Mitarbeiter an die LFS 
+abordnet. Ansonsten würde es sich dabei um eine indirekte Verlagerung von Personalkosten von der LFS 
+zu den teilnehmenden Feuerwehren handeln. Im Umkehrschluss ist aber auch notwendig, dass der 
+abgeordnete feuerwehrtechnische Mitarbeiter der jeweiligen Feuerwehr (nach einer Einführungszeit) 
+selbstständig Lehrtätigkeiten an der LFS wahrnehmen kann. Insofern ist es erforderlich, dass auch seitens 
+der jeweiligen Feuerwehr immer dieselben feuerwehrtechnischen Mitarbeiter zur LFS abgeordnet werden. 
+Wenn möglich, sollte die Gesamtdauer der Abordnungen zur jeweils anderen Dienststelle sowohl für die 
+LFS als auch für die jeweilige Feuerwehr gleich groß sein. Insofern notwendig (oder bei Kompensation der 
+Fehlzeiten durch z.B. zusätzliche Stellen oder Gastdozenten an der LFS) kann die Gesamtdauer der 
+Abordnungen seitens der Feuerwehr auch geringer ausfallen als die Abordnungen seitens der LFS zur 
+entsprechenden Feuerwehr. Bei dem Austauschsystem ist es nicht erforderlich, dass die exakt gleiche 
+Anzahl von Mitarbeitern an die jeweils andere Dienststelle abgeordnet wird. Die Anzahl sollte sich jedoch 
+in einer ähnlichen Größenordnung bewegen, um Effekte von Einarbeitungszeiten sowie den 
+Organisationsaufwand zu minimieren. Ebenfalls ist es nicht erforderlich, dass die Abordnungen von einer 
+Dienststelle zur anderen zum gleichen Zeitpunkt stattfinden muss. Es ist jedoch sinnvoll, die Abordnungen 
+im Rahmen der Jahresdienstpläne der beiden Dienststellen bereits einzuplanen und zu berücksichtigen. 
+Hierbei sollten die feuerwehrtechnischen Mitarbeiter der Feuerwehren möglichst dann an der LFS sein, 
+wenn ein Lehrgang stattfindet, in welchem sie als Ausbilder tätig sein sollen. Feuerwehrtechnische 
+Ausbilder der LFS sollten möglichst in einem Zeitraum abgeordnet werden, in welchem kein Lehrgang 
+stattfindet, in dem sie üblicherweise unterrichten. 
+Der prozentuale Anteil des Austausches an der JAZ muss jede LFS nach den Gegebenheiten an der 
+eigenen Dienststelle sowie der Bereitschaft relevanter Feuerwehren, am Austauschsystem teilzunehmen, 
+festlegen. Der Mittelwert aus der Umfrage beträgt ca. 8,46 % der JAZ bei einer Standardabweichung von 
+
+Diskussion 
+5 
+ 
+ca. 4,73 Prozentpunkten. Ein in Vollzeit beschäftigter feuerwehrtechnischer Ausbilder würde bei einem 
+Anteil von 8,46 % der JAZ jedes Jahr ca. einen Monat in einem Einsatzpraktikum verbringen.  
+Um die Bearbeitung von Projekten in einem adäquaten Zeitrahmen zu ermöglichen und den 
+organisatorischen Aufwand zu minimieren ist es zielführend, dass die Einsatzschichten möglichst in einem 
+zusammenhängenden 
+zeitlichen 
+Block 
+durchgeführt 
+werden. 
+Auch 
+für 
+die 
+Abordnung 
+von 
+feuerwehrtechnischen Mitarbeitern zur LFS ist es sinnvoll, dass diese Abordnung zeitlich möglichst 
+zusammenhängend erfolgt. Gründe hierfür sind, dass Lehrgänge, bei welchen der jeweilige 
+feuerwehrtechnische Mitarbeiter unterstützen soll, i.d.R. auch zeitlich zusammenhängend stattfinden und 
+auch der Organisationsaufwand reduziert wird. Es kann sinnvoll sein, dass die Einsatzpraktika in längeren 
+Blöcken (z.B. 6 Monate am Stück) stattfinden und dafür der jeweilige feuerwehrtechnische Ausbilder nicht 
+jedes Jahr ein Einsatzpraktika durchführt. Hierdurch könnte die Akzeptanz der dem feuerwehrtechnischen 
+Ausbilder im Einsatz untergeordneten Einsatzkräfte für eben diesen erhöht werden. Grund hierfür ist, dass 
+die Einsatzkräfte den feuerwehrtechnischen Ausbilder in einem zusammenhängenden Block besser 
+kennen und somit vertrauen lernen können. Die Akzeptanz und das Vertrauen der untergeordneten Kräfte 
+sind hinsichtlich der erfolgreichen selbstständigen Abarbeitung von Einsätzen essenziell. Die Entscheidung 
+darüber, wie lange ein Einsatzpraktika mindestens dauern sollte, muss die Leitung der jeweiligen 
+Feuerwehr in Absprache mit der Amtsleitung der LFS treffen. 
+Es ist erforderlich, dass vor der Initiierung eines Austauschsystems innerhalb der LFS abgefragt wird, 
+welche feuerwehrtechnischen Ausbilder sich an diesem Austauschsystem beteiligen möchten (siehe 
+Rahmenkriterium 5 in Kapitel 4.3.1). Anschließend soll mit diesem ermittelten Bedarf an die relevanten 
+Feuerwehren herangetreten werden und deren Bereitschaft erfragt werden, an einem solchen 
+Austauschsystem teilzunehmen. Bei vorhandener Bereitschaft sollte des Weiteren erfragt werden, wie viel 
+Arbeitsstunden pro Jahr Mitarbeiter an die LFS abgeordnet werden könnten. Anschließend kann ermittelt 
+werden, ob dies ausreichend ist, um die Anzahl der interessierten feuerwehrtechnischen Ausbilder für den 
+angedachten prozentualen Anteil ihrer JAZ abzuordnen oder ob dieser herabgesetzt werden muss. 
+Des Weiteren muss mit den teilnehmenden Feuerwehren geklärt werden, in welchen Einsatzfunktionen die 
+feuerwehrtechnischen Ausbilder eingesetzt werden könnten. Hier sollte für jede teilnehmende Feuerwehr 
+eine Liste erstellt werden, welche Einsatzfunktionen zu wie vielen Schichten durch feuerwehrtechnische 
+Ausbilder der LFS besetzt werden könnten. Für die Planung der LFS gilt es zu beachten, dass sich die 
+Anzahl der Funktionen mit steigender Führungsstufe üblicherweise verringert. Insofern ist es denkbar, dass 
+nicht die gewünschte Anzahl von feuerwehrtechnischen Ausbildern speziell in der Funktion des 
+Verbandsführers und eventuell der Funktion des Zugführers eingesetzt werden kann. Deshalb sollte bei 
+der Abfrage der Teilnahme der eigenen feuerwehrtechnischen Ausbilder am Austauschsystem noch keine 
+Versprechungen bezüglich der Einsatzfunktion gemacht werden. 
+Während ihrer Einsatzschichten sollten die feuerwehrtechnischen Ausbilder nach Möglichkeit in einer 
+Fachabteilung der jeweiligen Feuerwehr mitarbeiten (siehe Kriterium 7 in Kapitel 4.3.1). Es scheint sinnvoll, 
+dass die feuerwehrtechnischen Ausbilder fachnah verwendet werden (Beispiel: Ausbilder im Bereich 
+Katastrophenschutz unterstützt in einer Fachabteilung, welche sich mit Katastrophenschutz befasst). 
+Hierdurch können die feuerwehrtechnischen Ausbilder einfacher Fachthemen und Projekte bearbeiten. 
+5 Diskussion 
+Im Folgenden werden die Ergebnisse der Befragung sowie das oben dargestellte Konzept diskutiert. 
+5.1 Befragung der Schulleiter der LFS 
+Aus Sicht des Autors sind Daten hinsichtlich der Teilnehmerquote von 100 % aussagekräftig. Die 
+Ergebnisse einer Umfrage werden jedoch u.a. durch die Fragestellung sowie den Antworttyp beeinflusst 
+(Porst, 2014, S.99 - S.118 + S.134ff). Solche Effekte lassen sich nicht gänzlich verhindern, durch die 
+Gestaltung der Umfrage wurde aber versucht, deren Einfluss zu verringern (siehe Kapitel 1.2 des Teil II der 
+Arbeit). 
+Unter Berücksichtigung dieser Tatsache lassen sich aus den Ergebnissen der Umfrage neben den in 
+Kapitel 4.3.1 definierten Anforderungen an das Konzept folgende Schlussfolgerungen ziehen: 
+1. Aus Sicht der Schulleiter hat/würde sich die Qualität der Ausbildung an ihrer LFS durch die 
+Durchführung von Einsatzpraktika verbessert/verbessern (siehe Abbildung 41). 
+
+Diskussion 
+6 
+ 
+2. Die Einführung von Einsatzpraktika hat/würde die Personalgewinnung von feuerwehrtechnischen 
+Ausbildern für die LFS aus Sicht der Schulleiter erleichtert/erleichtern (siehe Abbildung 43). 
+3. Aus Sicht der Schulleiter hat/würde sich durch die Einführung von Einsatzpraktika die Fluktuation 
+von feuerwehrtechnischen Ausbildern verringert/verringern (siehe Abbildung 17 & Abbildung 44). 
+Die Antworten der Schulleiter sind von ihrer persönlichen Meinung geprägt, welche sich u.a. durch die 
+Gegebenheiten an ihrer Dienststelle ergibt. Da sich die Gegebenheiten an den LFS Deutschlands teils 
+deutlich unterscheiden, unterscheiden sich auch teilweise die Meinungen und Einschätzungen. Daher 
+wurde, wo für die Deutung relevant, im Fließtext die Standardabweichung mit angegeben. 
+5.2 Konzept zur Generierung von Einsatzerfahrung 
+Im Folgenden wird die Anwendbarkeit des Konzeptes auf Mitarbeiter ohne Zugehörigkeit zu einer 
+feuerwehrtechnischen Laufbahngruppe, die Vor- und Nachteile des Konzeptes für die LFS und die 
+teilnehmenden Feuerwehren sowie die Möglichkeit und Notwendigkeit zur Umsetzung diskutiert. 
+5.2.1 Mitarbeiter ohne Zugehörigkeit zu einer feuerwehrtechnischen Laufbahngruppe  
+Mehrere 
+LFS 
+haben 
+auch 
+Mitarbeiter 
+im 
+Ausbildungsbereich 
+beschäftigt, 
+welche 
+keiner 
+feuerwehrtechnischen Laufbahngruppe angehören, aber Qualifikationen im Bereich der Freiwilligen 
+Feuerwehr erlangt haben. Grundsätzlich lässt sich das oben dargestellte Konzept auch auf diese Gruppe 
+anwenden. Diese Mitarbeiter sollten jedoch nur in Einsatzfunktionen bei Feuerwehren eingesetzt werden, 
+in denen das hauptamtliche Personal, welches diese Einsatzfunktion normalerweise besetzt, ebenfalls 
+keiner feuerwehrtechnischen Laufbahngruppe angehört. Ob und in welchem Umfang Mitarbeiter ohne 
+feuerwehrtechnische Laufbahnausbildung an dem dargestellten Austauschsystem teilnehmen könnten, 
+hängt stark von der Anzahl dieser Mitarbeiter, sowie der Feuerwehrstruktur im jeweiligen Bundesland ab. 
+5.2.2 Vor- und Nachteile des Konzeptes für die LFS 
+Es folgt eine Auflistung der Vor- und Nachteile des dargestellten Konzeptes für die LFS.  
+Vorteile: 
+- Die Qualität und Aktualität der Ausbildung verbessert sich durch die Einsatzerfahrung. 
+- Durch das Austauschsystem sind keine zusätzlichen Personalstellen für feuerwehrtechnische 
+Ausbilder zur Kompensation der Einsatzpraktika erforderlich. 
+- Die Ausbilder haben eine aktuelle Vorstellung vom Arbeitsalltag der hauptberuflichen 
+Lehrgangsteilnehmer. Dies kann zu einer erhöhten Akzeptanz der feuerwehrtechnischen Ausbilder bei 
+diesen Lehrgangsteilnehmern führen. 
+- Die Zufriedenheit der feuerwehrtechnischen Ausbilder steigert sich (Ableitung aus den 
+Umfrageergebnissen zur Personalgewinnung/ Personalfluktuation). 
+- Die feuerwehrtechnischen Ausbilder können ein fachliches Netzwerk in der Dienststelle aufbauen, zu 
+welcher sie abgeordnet werden. 
+Nachteile: 
+- Es ist eine (prozentuale) Personalstelle für die Koordination der Einsatzpraktika erforderlich. 
+- Es kann sein, dass nicht alle feuerwehrtechnischen Ausbilder in den gewünschten Einsatzfunktionen - 
+speziell als Zugführer oder Verbandsführer - eingesetzt werden können. Grund hierfür ist, dass diese 
+Funktionen pro Feuerwehr vergleichsweise nur in geringer Anzahl vorhanden sind. 
+- Die Möglichkeit der Umsetzung des Konzeptes hängt im Wesentlichen von der Bereitschaft der 
+relevanten Feuerwehren zur Teilnahme am Austauschsystem sowie der Anzahl und Größe der 
+relevanten Feuerwehren im jeweiligen Bundesland ab. 
+- Teilnehmende feuerwehrtechnische Mitarbeiter der Feuerwehren müssen eingearbeitet werden.  
+- Die feuerwehrtechnischen Ausbilder stehen während ihrer Einsatzpraktika nicht an der LFS zur 
+Verfügung (z.B. zur kurzfristigen Kompensation von Krankheitsausfällen). 
+5.2.3 Vor- und Nachteile des Konzeptes für die am Austausch teilnehmenden Feuerwehren 
+Es folgt eine Auflistung der Vor- und Nachteile des dargestellten Konzeptes für die am Austausch 
+teilnehmenden Feuerwehren. 
+Vorteile: 
+- Die Feuerwehren profitieren von einer höheren Qualität und Aktualität der Ausbildung an ihrer LFS durch 
+die Einsatzerfahrung der feuerwehrtechnischen Ausbilder. 
+
+Fazit 
+7 
+ 
+- Die 
+Teilnehmer 
+erlernen 
+weitere 
+Herangehensweisen 
+zur 
+Abarbeitung 
+unterschiedlicher 
+Einsatzszenarien aus der Beobachtung von Übungen der Lehrgangsteilnehmer. 
+- Die Teilnehmer sammeln Erfahrung in der Ausbildung von Feuerwehrangehörigen. 
+- Die Teilnehmer erlernen Kenntnisse im Bereich der Didaktik. 
+- Die Teilnehmer erlangen Kenntnisse über aktuelle Entwicklungen und Forschungsergebnisse, welche 
+sie an ihrer Dienststelle eventuell (noch) nicht erlangt haben. 
+- Die Teilnehmer können ein fachliches Netzwerk in der LFS aufbauen, zu welcher sie abgeordnet werden. 
+Nachteile: 
+- Die Teilnehmer sind weniger an der eigenen Dienststelle.  
+- Teilnehmer, welche im Mischdienst (Kombination aus Tagdiensten und Einsatzdiensten) tätig sind, 
+haben häufig eigene Aufgabenbereiche, für welche sie verantwortlich sind. Diese können sie durch 
+Teilnahme am Austauschsystem nur zu einem geringeren zeitlichen Anteil wahrnehmen. 
+- Die Teilnehmer leisten weniger Schichtdienst. 
+• 
+Dies bedeutet den Verlust von Zuschlägen für „Dienst zu ungünstigen Zeiten“. 
+• 
+In Einzelfällen wäre der Verlust des Einsatzbeamtenstatus denkbar. Jedoch ist ein Ausgleich der 
+Anzahl der Schichtdienste bei Mitarbeitern im Mischdienst durch Schichttausch möglich. 
+- Der Austausch erzeugt Arbeitsaufwand bei der Organisation der jeweiligen Austauschblöcke. 
+- Feuerwehrtechnische Ausbilder müssen in der eigenen Feuerwehr eingearbeitet werden.  
+- Eventuell könnten zuständige politische Gremien die Notwendigkeit der Personalstellen im Mischdienst 
+in Frage stellen, welche am Austauschsystem teilnehmen. Dieses Argument kann durch den Hinweis 
+auf die Unterstützung der feuerwehrtechnischen Ausbilder in den Fachabteilungen entkräftet werden. 
+5.2.4 Notwendigkeit und Möglichkeit der Umsetzung des Konzeptes 
+Ob eine Notwendigkeit zur Umsetzung des Konzeptes besteht, kann nur jede LFS im Rahmen einer 
+Kosten-Nutzen-Abwägung unter Berücksichtigung der Gegebenheiten an der eigenen Dienststelle für sich 
+selbst bestimmen. Aus Sicht des Autors ist die Umsetzung des Konzeptes jedoch grundsätzlich notwendig. 
+Durch das vorgeschlagene Konzept verringert sich die Quantität der Ausbildung nicht, aber die Qualität der 
+Ausbildung wird sich nach Einschätzung der Schulleiter der LFS durch Einsatzpraktika erhöhen. Die 
+Erhöhung der Qualität der Ausbildung sollte stets ein wesentliches Ziel einer LFS darstellen. 
+Die Möglichkeit der Umsetzung des Konzeptes hängt wesentlich von der Bereitschaft der relevanten 
+Feuerwehren zur Teilnahme am Austauschsystem sowie der Anzahl und Größe dieser Feuerwehren ab. 
+Grundsätzlich bietet das dargestellte Konzept durch die Möglichkeit der Herabsetzung des prozentualen 
+Anteils von Einsatzpraktika an der JAZ in Abhängigkeit vom „Angebot“ von Einsatzschichten aber eine sehr 
+gute Anpassungsfähigkeit und Möglichkeit einer langsamen Steigerung des Austausches. Durch den 
+Beginn des Austauschsystems mit einer geringeren Zahl von Austauschstunden als potenziell möglich, 
+können eventuell vorhandene Bedenken beseitigt und die Zahl der Austauschstunden anschließend 
+gesteigert werden. Insofern besteht aus Sicht des Autors auch grundsätzlich die Möglichkeit zur Umsetzung 
+des dargestellten Konzeptes. 
+6 Fazit 
+Die in Kapitel 2.1 dargestellten Forschungsfragen lassen sich abschließend wie folgt beantworten: 
+1. Fehlen dem Lehrpersonal entsprechende Einsatzerfahrungen?  
+Ja, denn die Qualität der Ausbildung würde sich nach Einschätzung der Schulleiter der LFS durch 
+Einsatzpraktika verbessern. 
+2. Gibt es Möglichkeiten, dass das Lehrpersonal entsprechende Erfahrungen sammeln könnte? 
+Ja. Eine Möglichkeit wurde durch das im Rahmen dieser Facharbeit entwickelte Konzept dargestellt. 
+3. Könnte hiervon unter Umständen auch die Gefahrenabwehr profitieren? 
+Ja, denn von der Steigerung der Qualität der Ausbildung an der LFS profitieren alle Feuerwehren im 
+jeweiligen Bundesland. Für am Austausch teilnehmende Feuerwehren ergeben sich weitere Vorteile. 
+Die Generierung von Einsatzerfahrung ist aus Sicht des Autors essenziell für eine möglichst aktuelle und 
+qualitativ hochwertige Ausbildung an den LFS. Daneben führt die Einführung von Konzepten zur 
+Generierung 
+von 
+Einsatzerfahrung 
+auch 
+zu 
+einer 
+vereinfachten 
+Personalgewinnung 
+von 
+feuerwehrtechnischen Ausbildern. Aus Sicht des Autors sollten aufgrund der diversen Vorteile deshalb 
+Konzepte zur Generierung von Einsatzpraxis an den LFS Deutschlands eingeführt werden. 
+
+Beschreibung der Methodik 
+8 
+ 
+Teil II: Methoden-, Literatur- und Quellendokumentation 
+Im Teil II dieser Facharbeit werden zuerst die Methoden zur Erstellung des Teil I beschrieben, die Auswahl 
+der Methoden begründet und abschließend die Vorgehensweise bei und die Ergebnisse der 
+Literaturrecherche dargestellt. 
+1 Beschreibung der Methodik 
+Im Folgenden werden die Methoden der Literaturrecherche, der Befragung der Schulleiter der LFS und der 
+Konzeptentwicklung vorgestellt. 
+1.1 Literaturrecherche 
+Zu Beginn der Bearbeitung der Facharbeit wurde eine Literaturrecherche durchgeführt. Hierbei wurde nach 
+diversen Begriffen mit Bezug zur Thematik sowie Kombinationen dieser Begriffe in unterschiedlichen 
+Datenbanken gesucht. Eine genaue Darstellung der Literaturrecherche findet sich in Kapitel 3 des Teil II 
+dieser Arbeit. 
+1.2 Befragung der Schulleiter der LFS 
+Die Umfrage, welche zur Befragung der Schulleiter der LFS erstellt wurde, wurde mittels der Online-
+Plattform „Sosci Survey“ der „Sosci Survey GmbH“ erstellt. Die Schulleiter der LFS wurden per Mail zur 
+Teilnahme an der Umfrage eingeladen. Jeder Schulleiter erhielt hierbei einen personalisierten Link. Grund 
+hierfür war, dass dadurch nur eine einmalige Teilnahme an der Umfrage möglich war. Des Weiteren konnte 
+durch die Länge und Zufälligkeit der personalisierten Links die unerwünschte Teilnahme durch Dritte durch 
+zufälliges Herausfinden eines Teilnahmelinks nahezu ausgeschlossen werden. Somit war nahezu 
+sichergestellt, dass nur die gewünschte Zielgruppe im gewünschten Umfang (einmalig) an der Umfrage 
+teilnehmen konnte. 
+Die Umfrage war, trotz der personalisierten Teilnahmelinks, anonym. Wesentlicher Grund für die 
+Entscheidung, die Umfrage anonym durchzuführen, war dabei folgender: 
+Es bestand seitens des Autors die Befürchtung, dass die durch den Umfrageteilnehmer als brisant 
+wahrgenommenen Fragen nicht wahrheitsgemäß beantwortet werden würden, wenn eine Zuordnung zum 
+Namen/zur Dienststelle möglich wäre. Um diesem Effekt vorzubeugen, und da der Bezug zu einzelnen 
+Dienststellen bei der Auswertung keinen sichtlichen Mehrwert ergeben hätte, wurde die Umfrage anonym 
+durchgeführt. 
+Zu Beginn der Umfrage befanden sich zwei aufeinanderfolgende Seiten mit Text. Bei der ersten Seite 
+handelte es sich um eine Begrüßungsseite, auf welcher das Thema der Facharbeit sowie der Inhalt der 
+Umfrage skizziert wurde. Als Zeitansatz für die Beantwortung der Umfrage wurden 4-8 Minuten angegeben. 
+Auf der zweiten Seite wurden zwei zur Beantwortung der Umfrage zwei wesentliche Begriffe definiert:  
+1. „feuerwehrtechnischer Ausbilder“ 
+2. „Einsatzpraktikum“ 
+Die Definition der beiden Begriffe in der Umfrage stimmt dabei mit den in Kapitel 2.2 des Teil I dieser 
+Facharbeit dargestellten Definitionen überein. Die Inhalte der ersten beiden Seiten der Umfrage können 
+dem Anhang A.2 entnommen werden. 
+Für die Umfrage wurden insgesamt 34 Fragen formuliert. Hiervon sah ein einzelner Teilnehmer, je nach 
+Beantwortung einzelner Fragen, zwischen 8 und 18 Fragen. Auf Grundlage welcher Fragen welche 
+weiteren Fragen angezeigt wurden, kann der Fragenstruktur im Anhang A.2 entnommen werden. 
+Auf die Fragen gab es eine der folgenden drei Antworttypen: 
+1. Auswahl-Option mit den Möglichkeiten „ja“ und „nein“: 
+ 
+ 
+Abbildung 1: Graphische Darstellung Auswahl-Option (eigene Darstellung, 2023) 
+ 
+ 
+
+Beschreibung der Methodik 
+9 
+ 
+2. Freitextantwort: 
+ 
+ 
+Abbildung 2: Graphische Darstellung Freitextantwort (eigene Darstellung, 2023) 
+3. Skala mit einem Minimum von 0 % und einem Maximum von 100 % mit einem Inkrement von 1 
+Prozentpunkt (hier beispielhaft für eine Frage mit Bezug zum prozentualen Anteil an der 
+Jahresarbeitszeit): 
+ 
+Abbildung 3: Graphische Darstellung Skalen-Frage (eigene Darstellung, 2023) 
+Neben Fragen wurden den Teilnehmern auch Aussagen vorgestellt, welche die Teilnehmer bewerten 
+sollten. Hierbei wurden die Teilnehmer darum gebeten, Ihre Übereinstimmung mit der Aussage anhand 
+einer sechsstufigen Skala anzugeben. Die Skala war dabei eindimensional, von links nach rechts 
+aufsteigend und endpunktbenannt: 
+ 
+ 
+Abbildung 4: Graphische Darstellung sechsstufige Skala (eigene Darstellung, 2023) 
+Die Antworttypen wurden wegen folgender Gründe ausgewählt: 
+Auswahl-Option mit den Möglichkeiten „ja“ und „nein“: 
+- 
+Mögliche Antworten auf die Fragen waren nur zweidimensional. 
+und/oder  
+- 
+Die Verwendung einer zweidimensionalen Antwortmöglichkeit war notwendig, da die Auswahl der 
+folgenden Fragen von der Beantwortung dieser Frage abhängen sollte.  
+Freitextantwort: 
+- 
+Die möglichen Antworten seitens der Umfrageteilnehmer waren nicht absehbar. Somit konnte 
+vorher keine definierte Menge an Auswahlmöglichkeiten bestimmt werden, ohne die Freiheiten 
+der Umfrageteilnehmer zu beschränken (Porst, 2014, S.66). 
+Skalenfrage mit Prozentangaben: 
+- 
+Der Vergleich von Antworten der Umfrageteilnehmer war durch Prozentangaben am leichtesten 
+möglich (vor allem bei Fragen in Bezug zur Jahresarbeitszeit).  
+- 
+Die Skala mit Schieberegler ermöglichte, im Gegensatz zu z.B. einer Freitextantwort, eine 
+einfache Auswertung der Daten aufgrund des numerischen Formates. 
+Sechsstufige Skala zur Angabe der Übereinstimmung meiner einer Aussage: 
+- 
+Die Wahl einer geraden Anzahl an Auswahlmöglichkeiten zwingt den Umfrageteilnehmer, eine 
+Tendenz abzugeben und nimmt die Möglichkeit, eine neutrale Option auszuwählen. 
+- 
+Die Festlegung auf sechs Stufen bei der Skala erfolgte aufgrund der Hinweise im Fachbuch 
+„Fragebogen“ von Rolf Porst (Porst, 2014, S.87f). Hierdurch werden dem Umfrageteilnehmer 
+eine ausreichende Anzahl an Auswahlmöglichkeiten gegeben, um präzise zu differenzieren zu 
+können, ohne durch eine zu feine Aufgliederung die Antwort zu erschweren (Porst, 2014, S.87f). 
+
+Begründung 
+10 
+ 
+- 
+Die Verwendung einer endpunktbenannten Skala umgeht folgende Problematik: 
+Die verbalisierte Benennung jedes einzelnen Skalenpunktes ermöglicht nicht, in der subjektiven 
+Wahrnehmung der Umfrageteilnehmer gleich großen Intervalle zwischen den Skalenpunkten zu 
+erzeugen. Dagegen kann davon ausgegangen werden, „dass endpunktbenannte Skalen den 
+Charakter intervallskalierter Variablen besitzen oder zumindest zu besitzen glaubhaft machen 
+wollen“ (Porst, 2014, S.94). Durch die Verwendung von endpunktbenannten Skalen können somit 
+den Skalenpunkten vereinfacht numerische Werte mit gleich großen Intervallen zwischen diesen 
+Skalenpunkten zugeordnet werden.  
+- 
+Die Antwortmöglichkeiten wurden von links nach rechts aufsteigend gewählt, da dies in den 
+europäischen Kulturen aufgrund der Schreibrichtung für Umfrageteilnehmer am üblichsten ist 
+(Porst, 2014, S.90). 
+Drei unabhängige Personen führten vor Versand der Umfrage Pretests durch. Im Rahmen der Pretests 
+konnten die Pretest-Teilnehmer Feedback zum Aufbau der Umfrage, zur Verständlichkeit der 
+Fragestellungen und der Antwortmöglichkeiten sowie zur Rechtschreibung und Grammatik geben. 
+Aufgrund der Pretests sowie Zeitmessungen des Autors wurde auch der voraussichtliche Zeitansatz zur 
+Beantwortung der Umfrage auf 4 – 8 Minuten bestimmt. 
+Nach Teilnahme des 15ten und damit letzten Teilnehmers wurden die Umfrageergebnisse anschließend 
+heruntergeladen und auf Basis der Daten mittels Excel graphische Auswertungen durchgeführt.  
+1.3 Entwicklung des Konzeptes zur Generierung von Einsatzerfahrung 
+Zur Entwicklung des Konzeptes wurden zuerst wesentliche Anforderungen an eben dieses aus den 
+Ergebnissen der Befragung der Schulleiter der LFS abgeleitet. Basierend auf diesen Anforderungen fand 
+ein Brainstorming statt, um unterschiedliche Konzepte zu generieren. Das Konzept, welches basierend auf 
+diesen Listen am meisten überzeugte, wurde ausformuliert und abschließend nochmals hinsichtlich der 
+Übereinstimmung mit den definierten Anforderungen überprüft. 
+2 Begründung 
+Im Folgenden wird die Auswahl der Methoden zur Erstellung dieser Facharbeit begründet. 
+2.1 Literaturrecherche 
+Die Methode der Literaturrecherche wurde gewählt, um das Vorhandensein von öffentlich verfügbaren 
+Informationen in Bezug zu den Forschungsfragen und/oder dem Arbeitsauftrag dieser Facharbeit zu 
+überprüfen. Gegebenenfalls vorhandenes Wissen sollte anschließend als Grundlage für die Beantwortung 
+der Forschungsfragen und der Bearbeitung des Arbeitsauftrages dienen. Aus Sicht des Autors ist die 
+Literaturrecherche die einzige effektive und effiziente Methode, um an mögliche öffentlich verfügbare 
+Informationen zu einem Thema zu gelangen. 
+2.2 Befragung der Schulleiter der LFS 
+Um die Forschungsfrage 1 („Fehlen dem Lehrpersonal entsprechende Einsatzerfahrungen?“) zu 
+beantworten, sowie Anforderungen an das Konzept zu definieren war es aus Sicht des Autors erforderlich, 
+Personen mit Expertenwissen zu diesen Themen zu befragen. Im Wesentlichen stehen hierzu zwei 
+Methoden zur Verfügung: 
+1. Expertenbefragung 
+2. Umfrage 
+Da im Rahmen dieser Facharbeit in Summe 15 LFS betrachten werden sollten (siehe bezüglich der 
+Abgrenzung des Themas Kapitel 2.2 des Teil I dieser Facharbeit), wurde in Hinblick auf die 
+Bearbeitungszeit und die maximale Seitenzahl dieser Facharbeit die Option 2 gewählt. Eine Online-
+Umfrage wurde deshalb verwendet, da hierdurch der Aufwand für die Schulleiter der LFS im Vergleich zu 
+anderen Methoden (Telefon-Interview oder Befragung vor Ort) am geringsten erschien, sowie der Zeitpunkt 
+der Teilnahme durch die Schulleiter der LFS selbst bestimmt werden konnte. 
+Um die Forschungsfrage 1 zu beantworten, musste aus Sicht des Autors erst geklärt werden, anhand 
+welches Kriteriums festgemacht werden kann, ob dem Lehrpersonal entsprechende Einsatzerfahrung fehlt. 
+Wie bereits in der Aufgabenstellung dieser Facharbeit beschrieben, ist die Kernaufgabe der LFS die Aus- 
+und Fortbildung von Feuerwehrleuten. Die zwei wesentlichen Kriterien für die Bewertung der LFS in Bezug 
+
+Literatur- und Quellendokumentation 
+11 
+ 
+zu dieser Kernaufgabe ist aus Sicht des Autors die Quantität und Qualität der Aus- und Fortbildungen. Die 
+Quantität an Aus- und Fortbildungen wird durch Fehlen von Einsatzerfahrung nicht direkt beeinflusst. Es 
+kann jedoch die Frage gestellt werden, ob sich durch ein Mehr von Einsatzerfahrung des Lehrpersonals 
+die Qualität der Ausbildung verbessern würde. Um diese Frage zu beantworten, existieren aus Sicht des 
+Autors im Wesentlichen zwei sinnvolle Optionen: 
+1. Befragung der feuerwehrtechnischen Ausbilder der LFS 
+2. Befragung der Schulleiter der LFS 
+Hinsichtlich des Inhaltes der Fragen sowie des notwendigen Wissens zu ihrer Beantwortung kann davon 
+ausgegangen werden, dass die Schulleiter der LFS die optimale Teilnehmergruppe darstellen. Grund 
+hierfür ist, dass die Schulleiter aufgrund ihrer Funktion einen ganzheitlichen Überblick über die eigene 
+Dienststelle besitzen. Hierdurch können sie z.B. Fragen zum (optimalen) prozentualen Anteil von 
+Einsatzpraktika an der Jahresarbeitszeit qualifiziert beantworten oder Möglichkeiten zur Kompensation der 
+Abwesenheit von feuerwehrtechnischen Ausbildern aufgrund von Einsatzpraktika abschätzen.  
+Aufgrund dessen wurde die Option 2 ausgewählt. 
+2.3 Entwicklung des Konzeptes zur Generierung von Einsatzerfahrung 
+Die Methode zur Entwicklung des Konzeptes zur Generierung von Einsatzerfahrung wurde ausgewählt, da 
+diese Methode bezüglich der Herangehensweise sehr flexibel ist und einen kreativen Gestaltungsprozess 
+ermöglicht. Andere Methoden (z.B. der „Design-Thinking-Prozess“) geben aus Sicht des Autors zu starre 
+Rahmenbedingungen vor oder waren auf die Aufgabenstellung nicht anwendbar. Aus der Aufgabenstellung 
+(„[s]kizzieren Sie ein effektives Konzept, durch welches Lehrpersonal der Feuerwehrschulen weiterhin an 
+Einsätzen teilhaben könnte“), ergibt sich, dass nur ein Konzept im Rahmen der Facharbeit vorgestellt 
+werden soll. Aus Sicht des Autors war es dennoch erforderlich, mehrere unterschiedliche Konzepte zu 
+entwickeln und diese gegeneinander abzuwägen. Hierdurch sollte das, in Hinblick auf die definierten 
+Anforderungen, beste Konzept im Rahmen dieser Facharbeit vorgestellt werden. Die Abwägung der 
+unterschiedlichen Konzepte findet sich in abgekürzter Version im Anhang A.5. 
+3 Literatur- und Quellendokumentation  
+Im Folgenden werden die Literaturrecherche, ihre Ergebnisse sowie die Auswahl der Literatur beschrieben. 
+3.1 Beschreibung der Literatur- und Quellensuche und der Datenbanken 
+Bei der Literaturrecherche wurden folgende sechs Datenbanken/Suchdienste verwendet, um Literatur 
+aufzufinden: 
+1. Themenliste der Facharbeiten der Prüfungskandidaten und Prüfungskandidatinnen für die 
+Laufbahngruppe 2.2 des feuerwehrtechnischen Dienstes 
+2. Fachdokumentation Brandschutzwesen der Forschungsstelle für Brandschutztechnik sowie des 
+Institutes für Brand- und Katastrophenschutz Heyrothsberge 
+3. Interne Bibliothek des Institutes für Brand- und Katastrophenschutz Heyrothsberge 
+4. Gemeinsamer Verbundkatalog der Bibliotheken des „Gemeinsamer Bibliothekverbund“ und des 
+„Südwestdeutscher Bibliotheksverbund“ 
+5. Google Scholar 
+6. Beck-Online 
+Durch den Autor wurde die Themenliste der Facharbeiten für die Prüfungsjahrgänge 1994 bis 2022 auf 
+Themen mit Bezug zu der hier vorliegenden Facharbeit überprüft. 
+Die Datenbanken/Suchdienste 2 bis 5 nach den obigen Auflistungen wurden mit Hilfe von 
+Schlüsselbegriffen sowie Kombinationen dieser durchsucht. 
+Die Datenbank Beck-Online wurde im Wesentlichen zur Recherche in juristischen Kommentaren 
+verwendet. 
+3.2 Übersicht über die Ergebnisse der Literatur- und Quellendokumentation 
+Die Themenliste der Facharbeiten wurde durch den Autor manuell auf Themen mit Bezug zu der hier 
+vorliegenden Facharbeit überprüft. Dabei wurden folgende Facharbeiten mit potenziellem Bezug zur 
+Facharbeit aufgefunden: 
+
+Literatur- und Quellendokumentation 
+12 
+ 
+1. Die dienstrechtliche Stellung des Lehrpersonals an zentralen Ausbildungsstellen (Tina 
+Brandwein, 2011) 
+2. Controlling im Bereich einer Landesfeuerwehrschule (Gunnar Range, 2019) 
+3. Lehrpersonal der Landesfeuerwehrschulen - Autodidakten oder Fachlehrer? (Markus Arich, 2019) 
+Die Datenbanken/Suchdienste 2 bis 5 nach der Liste aus Kapitel 3.1 des Teil II dieser Facharbeit wurden 
+auf folgende Begriffe sowie Kombinationen dieser Begriffe durchsucht: 
+• 
+Erfahrung 
+• 
+Einsatzerfahrung 
+• 
+Praxis 
+• 
+Ausbilder 
+• 
+Lehrkraft 
+• 
+Lehrpersonal 
+• 
+Lehrer 
+• 
+Ausbildungspersonal 
+• 
+Feuerwehrschule 
+• 
+Landesfeuerwehrschule 
+• 
+Austausch 
+• 
+Kooperation 
+• 
+Abordnung 
+Je nach Datenbank/Suchdienst und Begriff bzw. Kombination der Begriffe wurden mehrere 
+Suchergebnisse gefunden. Nach einer ausführlichen Durchsicht der Suchergebnisse konnte jedoch 
+festgestellt werden, dass keines der Ergebnisse direkten Bezug zu den Forschungsfragen und dem 
+Arbeitsauftrag dieser Facharbeit hatte. 
+Zusätzlich wurde über den Suchdienst „Google Scholar“ das Buch von Herrn Porst aufgefunden, dessen 
+Inhalt für den Autor die wesentliche Grundlage für die Erstellung der Umfrage darstellte. 
+Die Literaturrecherche in den juristischen Kommentaren zu den Besoldungsgesetzen der Bundesländer in 
+Beck-Online führte zum Auffinden der Literatur von Schwegmann et al., welche zur Definition des 
+Ausdruckes „Tätigkeit im Einsatzdienst“ herangezogen wurde. 
+3.3 Kriterien der Literatur- und Quellenauswahl 
+Die Literatur, welche im Rahmen dieser Facharbeit verwendet wurde, wurde auf Grundlage folgender 
+Kriterien ausgewählt: 
+1. Bezug zum Thema 
+2. Zitierwürdigkeit 
+Als grundsätzlich zitierwürdig gelten nach den Vorgaben des Institutes der Feuerwehr Nordrhein-Westfalen 
+(im Folgenden mit IdF NRW abgekürzt) folgende Arten von Literatur: 
+• 
+Originalarbeiten 
+• 
+Wissenschaftliche Fachbücher 
+• 
+Fachwörterbücher und -lexika 
+• 
+Dissertationen 
+• 
+Artikel in Fachzeitschriften 
+• 
+Electronic Journals (Burt et al, 2020 und Theuerkauf, 2012, zitiert nach IdF NRW, 2021, S.5) 
+Die Facharbeiten der Prüfungskandidaten und Prüfungskandidatinnen für die Laufbahngruppe 2.2 des 
+feuerwehrtechnischen Dienstes wurden durch den Autor ebenfalls als zitierwürdig eingestuft. Grund hierfür 
+ist, dass diese durch die Bewertung der Prüfungskommissionen auf ihre Qualität überprüft wurden. Da die 
+Themenliste der Facharbeiten nur solche Facharbeiten enthält, deren Autoren die Laufbahnprüfung 
+bestanden haben, steht fest, dass die Qualität der jeweiligen Facharbeit seitens der Prüfungskommission 
+als mindestens ausreichend angesehen wurde. 
+3.4 Zusammenfassende Beschreibung der ausgewählten Literatur und Quellen 
+Nach einer ausführlichen Literaturrecherche konnte keine Literatur mit direktem inhaltlichem Bezug zu den 
+Forschungsfragen und dem Arbeitsauftrag aufgefunden werden. Die drei Facharbeiten, welche im 
+
+Literatur- und Quellendokumentation 
+13 
+ 
+vorangegangenen Unterkapitel aufgelistet wurden, wiesen ebenfalls keinen direkten inhaltlichen Bezug 
+zum Thema dieser Facharbeit auf.  
+In Summe besteht das Literaturverzeichnis aus drei Vollbelegen: 
+1. „Nutzung und Einbindung externer Quellen“ (IdF NRW, 2021): 
+Die Inhalte des Dokumentes wurden seitens des IdF NRW als ergänzende Vorgabe zur Erstellung der 
+Facharbeit festgelegt. Das Dokument wurde verwendet, um die Zitierwürdigkeit von Dokumenten 
+festzulegen (siehe hierzu Kapitel 3.3 des Teil II dieser Facharbeit). 
+2. „Fragebogen – Ein Arbeitsbuch“ (Porst, 2014): 
+Dieses wissenschaftliche Fachbuch stellte, neben den Vorkenntnissen des Autors, die wesentliche 
+Grundlage für die Erstellung der Umfrage zur Befragung der Schulleiter der LFS dar. 
+3. „Besoldungsrecht des Bundes und der Länder – Kommentar“ (Schwegmann et al., 203): 
+Dieser juristische Kommentar zum Besoldungsrecht des Bundes und der Länder wurde zur Definition des 
+Ausdruckes „Tätigkeit im Einsatzdienst“ herangezogen. 
+
+Literaturverzeichnis 
+14 
+ 
+Literaturverzeichnis 
+ 
+IdF NRW. (2021). Nutzung und Einbindung externer Quellen. Münster. 
+Porst, R. (2014). Fragebogen - Ein Arbeitsbuch. Wiesbaden: Springer Fachmedien Wiesbaden. 
+Schwegman, B., Summer, R., Buchwald, A., Kathke, L., Kuhlmey, R., Leihkauff, W., . . . Zinner, B. (2023). 
+Besoldungsrecht des Bundes und der Länder - Kommentar. Heidelberg: Verlagsgruppe Hüthig 
+Jehle Rehm GmbH. 
+ 
+
+Anhänge 
+15 
+ 
+A. Anhänge 
+Es folgen die Anhänge A.1 bis A.5. 
+A.1 Liste der in der Umfrage befragten Schulleiter der LFS 
+Es folgt eine Aufzählung der in der Umfrage befragten Schulleiter der LFS. 
+Tabelle 1: Liste der in der Umfrage befragten Schulleiter der LFS (eigene Darstellung, 2023) 
+Bundesland 
+Dienststelle 
+Name 
+Baden-Württemberg 
+LFS Baden-Württemberg 
+Herr Lieb 
+Bayern 
+SFS Geretsried 
+Herr Dr. Mühlberger 
+Bayern 
+SFS Regensburg 
+Herr Emmerich 
+Bayern 
+SFS Würzburg 
+Herr Dr. Demke 
+Brandenburg 
+LSTE Brandenburg 
+Herr Rudolph 
+Hessen 
+HLFS 
+Herr Baumann 
+Mecklenburg-Vorpommern 
+LSBK Mecklenburg-Vorpommern Herr Hackenberg 
+Niedersachsen 
+NLBK 
+Herr Moravec 
+NRW 
+IdF NRW 
+Herr Penkert 
+RLP 
+LFKA 
+Herr Plattner 
+Saarland 
+LFWS Saarland 
+Herr Klein 
+Sachsen 
+LFS Sachsen 
+Herr Morgenstern 
+Sachsen-Anhalt 
+IBK Heyrothsberge 
+Herr Buchaly 
+Schleswig-Holstein 
+LFS Schleswig-Holstein 
+Herr Hansen 
+Thüringen 
+TLFKS 
+Herr Henze 
+ 
+ 
+ 
+
+Anhänge 
+16 
+ 
+A.2 Fragenstruktur sowie Begrüßungs- und Definitionsseite 
+ 
+ 
+Abbildung 5: Fragenstruktur (eigene Darstellung, 2023) 
+ 
+ 
+          
+    
+         
+     
+ 
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+  
+    
+    
+  
+    
+  
+    
+    
+    
+    
+    
+  
+  
+    
+          
+
+Anhänge 
+17 
+ 
+Die folgende Textpassage wurde den Umfrageteilnehmern auf der ersten Seite der Umfrage angezeigt: 
+ 
+ 
+ 
+ 
+ 
+ 
+Die folgenden Definitionen wurde den Umfrageteilnehmern auf der zweiten Seite der Umfrage angezeigt: 
+ 
+ 
+ 
+ 
+
+Anhänge 
+18 
+ 
+A.3 Vollständige Darstellung der Umfrageergebnisse 
+Es folgt die vollständige Darstellung der Umfrageergebnisse. Bei der Darstellung berücksichtigt sind jeweils 
+nur die Teilnehmer, die die jeweilige Frage aufgrund der Fragestruktur (siehe Anhang A.2) gesehen haben. 
+Auf der x-Achse sind jeweils die Teilnehmer in der zeitlichen Reihenfolge ihrer Teilnahme dargestellt. Daten 
+von Teilnehmern, an deren Dienststellen bereits Einsatzpraktika durchgeführt werden, werden blau 
+dargestellt. Die Datenpunkte der weiteren Teilnehmer werden orange dargestellt. 
+Zur Interpretation der Daten sind folgende Hinweise von Bedeutung: 
+Auswahloption ja/nein: 
+Es sind insgesamt drei unterschiedliche Antworten möglich gewesen: ja, nein, keine Antwort. Der Antwort 
+„ja“ wurde der Wert 1 zugewiesen, „keine Antwort“ der Wert 0 und der Antwort „nein“ der Wert -1. Die 
+Mittelwertbildung erfolgt dabei ohne Berücksichtigung der Option „keine Antwort“. 
+Freitextantwort: 
+Die Antworten wurden in Tabellenform dargestellt. Hinweise auf die Dienststelle des Teilnehmers in den 
+jeweiligen Antworten im Rahmen der Freitextfragen wurden zur Wahrung der Anonymität der weiteren 
+Umfrageteilnehmer entfernt und durch eine eckige Klammer mit Punkten ersetzt. Bei Verweisen auf 
+vorangegangene Fragen mittels Fragennummer wurde die jeweilige Fragennummer durch die im Rahmen 
+dieser Facharbeit einheitliche Konnotation ersetzt (siehe Anhang A.2). Dies wurde durch die Verwendung 
+von eckigen Klammern verdeutlicht. 
+Skalen-Frage Prozentangabe: 
+Bei den Skalen-Fragen wurde auf der y-Skala die Prozentangabe aufgetragen. Die Mittelwertbildung 
+erfolgte ohne Berücksichtigung der Option „keine Antwort“. 
+Sechsstufige Skala Bewertung: 
+Bei der endpunktbenannten sechsstufigen Skala wurde dem oberen Endpunkt „stimme voll und ganz zu“ 
+der Wert 6 zugewiesen und dem unteren Endpunkt „stimme überhaupt nicht zu“ der Wert 1 zugewiesen. 
+Die vier nicht weiter benannten Auswahlmöglichkeiten zwischen den zwei Endpunkten wurden 
+entsprechend der Begründung in Kapitel 1.2 des Teil II dieser Facharbeit linear zwischen den Werten der 
+beiden Endpunkte interpoliert und erhalten hierdurch die Werte 2,3,4 und 5. Der Möglichkeit „keine Antwort“ 
+wurde der Wert 0 zugewiesen. Die Mittelwertbildung erfolgt ohne Berücksichtigung der Option „keine 
+Antwort“. 
+ 
+ 
+Abbildung 6: Frage A001: Einsatzpraktika vorgesehen (eigene Darstellung, 2023) 
+     
+         
+                 
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+    
+                                                                      
+                                                                    
+         
+
+Anhänge 
+19 
+ 
+ 
+Abbildung 7: Frage B001: Ist-Anteil Einsatzpraktika an JAZ  (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 8: Frage B002: Soll-Anteil Einsatzpraktika an JAZ (eigene Darstellung, 2023) 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+   
+   
+     
+    
+                                                                      
+                                                                             
+         
+ 
+ 
+  
+  
+    
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+   
+   
+     
+    
+                                                                                  
+                                                                            
+         
+
+Anhänge 
+20 
+ 
+B003 
+Was waren wesentliche Gründe für die Einführung von Einsatzpraktika? 
+Teilnehmer 
+Inhalt 
+T2 
+praxisnahe Ausbildung 
+T6 
+Lehrkräfte 
+müssen 
+auf 
+aktuellem 
+Stand 
+sein, 
+um 
+Lehrgangsteilnehmende 
+einsatzbezogene Fragen qualifiziert beantworten zu können. 
+T11 
+Der Wunsch der Kolleginen und Kollegen nach entsprechenden Pratika. Insbesondere die 
+Kolleginnen und Kollegen die gerade die Laufbahnprüfung für den gehobenen Dienst 
+abgeschlossen haben, haben diesen Wunsch verstärkt geäußert. 
+T13 
+Aufrechterhaltung und Ausbau der praktischen Erfahrung, stärkere Authentizität in der 
+Lehre, Attraktivitätssteigerung der Tätigkeit im Landesdienst. 
+ 
+Hinweis: Die unter [B001] und [B002] genannten Zeitanteile beziehen sich auf diejenigen 
+Mitarbeiter, die Einsatzdienst fahren, nicht auf den gesamten Personalkörper. 
+Abbildung 9: Frage B003: Gründe für Einführung Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 10: Frage B004: Qualität Ausbildung und Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+   
+   
+    
+                                                                        
+                                  
+         
+       
+
+Anhänge 
+21 
+ 
+ 
+Abbildung 11: Frage B005: Freiwilligkeit Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+B006 
+In welchen Einsatzfunktionen (Gruppenführer, Zugführer, ...) werden die feuerwehrtechnischen 
+Ausbilder während ihres Einsatzpraktikums verwendet? 
+Teilnehmer 
+Inhalt 
+T2 
+- alles ist möglich (ist auf die jeweilige Qualifikation abgestimmt) 
+T6 
+Gruppenführer, Zugführer bis hin zur Stabsarbeit 
+T11 
+Entsprechend der Laufbahn mittlerer oder gehobener Dienst erfolgt die Verwendung als 
+Gruppen- oder Zugführer 
+T13 
+Grundsätzlich: ab Zugführer aufwärts, passend zur persönlichen Qualifikation und 
+Erfahrung. 
+Abbildung 12: Frage B006: Einsatzfunktion Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+    
+         
+                 
+      
+  
+  
+   
+   
+    
+                                                                               
+           
+         
+
+Anhänge 
+22 
+ 
+ 
+Abbildung 13: Frage B007: Auswahl Einsatzfunktion (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 14: Frage B008: Mitarbeit Fachabteilung während Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+    
+         
+                 
+      
+  
+  
+   
+   
+    
+                                                                                        
+                                                                                        
+                                                                    
+         
+    
+         
+                 
+      
+  
+  
+   
+   
+    
+                                                                                    
+                                                                            
+         
+
+Anhänge 
+23 
+ 
+ 
+Abbildung 15: Frage B009: Bearbeitung Angelegenheiten LFS während Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 16: Frage B010: Einsatzpraktika und Personalgewinnung (eigene Darstellung, 2023) 
+ 
+     
+         
+                 
+      
+  
+  
+   
+   
+    
+                                                                                    
+                                                                          
+                                         
+         
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+   
+   
+    
+                                                                                    
+                                                                                
+            
+         
+       
+
+Anhänge 
+24 
+ 
+ 
+Abbildung 17: Frage B011: Einsatzpraktika und Personalfluktuation (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 18: Frage B012: Kompensation Abwesenheit Ausbilder (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+   
+   
+    
+                                                                                     
+                                                                                    
+         
+       
+     
+         
+                 
+      
+  
+  
+   
+   
+    
+                                                                         
+                                                                                    
+                                 
+         
+
+Anhänge 
+25 
+ 
+ 
+Abbildung 19: Frage B013: Prozentualer Anteil Kompensation der Abwesenheit (eigene Darstellung, 2023) 
+ 
+B014 
+Wie wurde die Abwesenheit der feuerwehrtechnischen Ausbilder kompensiert? 
+Teilnehmer 
+Inhalt 
+T2 
+Wurde beim Erstellen der Jahresplanung berücksichtigt. 
+T6 
+Die Praktika werden im Rahmen der Fortbildung von Lehrkräften angeboten. Für die 
+Fortbildung stehen pauschal 10 Werktage pro Jahr und Kopf zur Verfügung. 
+T11 
+In der Planung werden für die Fortbildung jedes Kollegen 15 Fortbildungstage pro Jahr 
+eingeplant. Die Einsatzpraktia haben eine länge von 4 Wochen. Somit kann alle 2 Jahre 
+ein vierwöchiges Praktikum absolviert werden.Die verbleibende Fortbildungszeit kann für 
+andere Fortbildungen genutzt werden. 
+Abbildung 20: Frage B014: Andere Kompensationsmaßnahmen (eigene Darstellung, 2023) 
+ 
+   
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+  
+    
+                                                                               
+                                                                         
+                                              
+
+Anhänge 
+26 
+ 
+ 
+Abbildung 21: Frage C001: Einsatzpraktika in Planung (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 22: Frage C002: Einsatzpraktika wünschenswert (eigene Darstellung, 2023) 
+ 
+     
+         
+                 
+      
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+    
+                                                                                     
+                                                             
+         
+    
+         
+                 
+      
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+    
+                                                                                 
+                                                            
+         
+
+Anhänge 
+27 
+ 
+ 
+Abbildung 23: Frage C003: Soll-Anteil Einsatzpraktika an JAZ (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 24: Frage C004: Verbesserung Qualität Ausbildung durch Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+    
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+   
+   
+   
+     
+    
+                                                                                  
+                                                                            
+         
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                       
+                                  
+         
+       
+
+Anhänge 
+28 
+ 
+ 
+Abbildung 25: Frage C005: Freiwilligkeit Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                                         
+     
+         
+       
+
+Anhänge 
+29 
+ 
+C006 
+In welchen Einsatzfunktionen (Gruppenführer, Zugführer, ...) sollten aus Ihrer Sicht 
+feuerwehrtechnische Ausbilder während ihrer Einsatzpraktika verwendet werden? 
+Teilnehmer 
+Inhalt 
+T1 
+GF undZF 
+T3 
+abhängig von Zuordnung zu Lehrgängen  
+GF, ZF 
+T4 
+Gruppenführer, Zugführer, Leitstellendisponent 
+T7 
+Der Ausbildung angepasste Funktion.  
+Auch der EInsatz als Truppmann oder Truppführer kann positive Entwicklungen 
+unterstützen. 
+T8 
+In Abhängigkeit der Vor- und Ausbildung in allen Einsatzfunktionen. An […] sind auch 
+Ausbilder/Lehrkräfte im Arbeitnehmerverhältnis tätig. 
+T9 
+Dies sollte von der Funktion in der Ausbildung abhängig sein. Ausbilder, die z.B. 
+hauptsächlich in der Gruppenführung ausbilden, sollten auch in diesem Bereich im 
+Praktikum eingesetzt werden. 
+Generell ist die Teilnahme am Dienst aber bereits lehrreich, die Übernahme einer 
+Führungsfunktion damit nicht zwingend erforderlich. 
+T10 
+entsprechend der jeweiligen Laufbahngruppe vom Gruppen- bis Verbandsführer 
+T14 
+Grfü, 
+ZF ,  
+Stab 
+T15 
+Es ist zwischen Übernahme einer Einsatzfunktion ohne/mit Aufsicht und einer Teilnahme 
+an Einsätzen als Hospitant zu unterscheiden. Eine Funktionsübernahme erfordert ein 
+grundlegendes Konzept zur Einweisung in die Strukturen der aufnehmenden Feuerwehr 
+und ist lohnt sich vermutlich nur bei wiederkehrenden Praktika und wird auch auf die 
+Ebene Gruppenführer/Zugführer/Disponent ILS begrenzt sein. Andererseits kann auch die 
+Teilnahme an großen Einsatzlagen an der Seite eines I-/D- bzw. C-/B-Dienstes oder in 
+einem Stab neue Eindrücke und Erfahrungen vermitteln. 
+Abbildung 26: Frage C006: Einsatzfunktion Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+
+Anhänge 
+30 
+ 
+ 
+Abbildung 27: Frage C007: Auswahl Einsatzfunktion (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 28: Frage C008: Mitarbeit Fachabteilung während Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                                   
+                                                                                   
+         
+       
+
+Anhänge 
+31 
+ 
+ 
+Abbildung 29: Frage C009: Bearbeitung Angelegenheiten LFS während Einsatzpraktika (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 30: Frage C010: Einsatzpraktika und Personalgewinnung (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                                   
+                                                                          
+                                                 
+         
+       
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                                    
+                                                                       
+         
+       
+
+Anhänge 
+32 
+ 
+ 
+Abbildung 31: Frage C011: Einsatzpraktika und Personalfluktuation (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 32: Frage C012: Kompensation Abwesenheit Ausbilder an LFS (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+                                                                                    
+                                                              
+         
+       
+
+Anhänge 
+33 
+ 
+ 
+Abbildung 33: Frage C013: Prozentualer Anteil Kompensation Abwesenheit (eigene Darstellung, 2023) 
+ 
+C014 
+Wie könnte aus Ihrer Sicht die Abwesenheit der feuerwehrtechnischen Ausbilder kompensiert werden? 
+Teilnehmer 
+Inhalt 
+T1 
+Gastreferenten 
+T7 
+Durch zusätzliche Stellen wie in Frage [C012] beschrieben. 
+T9 
+Nur durch mehr Personal, bzw. nebenamtliche Lehrkräfte. 
+T10 
+Durch eine entsprechende Lehrgangsplanung. 
+Abbildung 34: Frage C014: Andere Kompensationsmaßnahmen (eigene Darstellung, 2023) 
+C015 
+Wieso ist das Vorhandensein von Einsatzpraktika aus Ihrer Sicht nicht sinnvoll? 
+Teilnehmer 
+Inhalt 
+T5 
+Einsatzpraktika über wenige Wochen sind in ihrem Erfahrungswert sehr zufallsabhängig. 
+Leerlaufzeiten in den Wachschichten sind nicht zu vermeiden. 
+ 
+Wir setzen daher eher auf gezielte Beteiligung unseres Lehrpersonals bei größeren 
+Einsätzen in der Umgebung der Schule (sog. Doku-Trupp-Alarm). Bei bestimmten 
+Einsatzsitchworten (über der Bagatellgrenze) erhalten wir einen Info-Alarm. Kollegen der 
+Schule rücken dann, je nach Verfügbarkeit. mit einem ELW1 an die Einsatzstelle aus und 
+bieten dort Dokumentation und Führungsunterstützung an. 
+ 
+Für bestimmte Spezialgeräte wird die Schule auch mitalarmiert. 
+ 
+Desweiteren ist der überwiegende Teil der Lehrkräfte in den Freiwilligen Feuerwehren in 
+der Umgebung ehrenamtlich tätig. 
+Abbildung 35: Frage C015: Warum Einsatzpraktika nicht sinnvoll (eigene Darstellung, 2023) 
+
+Anhänge 
+34 
+ 
+ 
+ 
+Abbildung 36: Frage D001: originäre Einsatzaufgaben vorhanden (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 37: Frage D002: Anteil originäre Einsatzaufgaben an JAZ (eigene Darstellung, 2023) 
+    
+         
+                 
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+    
+                                                                                   
+                                                                      
+         
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+     
+    
+                                                                                   
+                                                            
+         
+
+Anhänge 
+35 
+ 
+ 
+Abbildung 38: Frage D003: Anteil Unterrichtseinheiten an Gesamtwoche Ausbilder (eigene Darstellung, 2023) 
+ 
+ 
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+     
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+ 
+    
+                                                                                     
+                                                            
+                       
+         
+
+Anhänge 
+36 
+ 
+D004 
+Haben Sie weitere Anmerkungen oder Hinweise? 
+Teilnehmer 
+Inhalt 
+T1 
+ 
+T2 
+ 
+T3 
+ 
+T4 
+nein 
+T5 
+[Zu Frage D003:] 
+Prozentualer Anteil bezieht sich auf den gesamten Lehrkörper. Funktionsträger 
+(AbteilungsSchulleiter, SachgebietsSchulleiter) haben weniger Lehranteil. 
+ 
+Auch wenn Einsatzpraktika nicht regelhaft oder dienstplanmäßig eingeplant sind, werden 
+diese auf Wunsch der Kollegen im Rahmen von Fortbildungsmaßnahmen dennoch 
+ermöglicht. 
+T6 
+keine 
+T7 
+[Zu Frage D003:] 
+Enthalten hier sind die Vorbereitung, die Durchführung und die Nachbereitung der 
+Unterrichte.  
+Das Stundendeputat liegt bei regelmäßig 20 UStd. pro Woche. 
+T8 
+Zu Frage [D003]: Der Anteil schwankt in Abhängigkeit vom jährlichen Lehrgangsplan 
+T9 
+ 
+T10 
+ 
+T11 
+Die Arbeitszeit setzt sich aus den zu erbringenden Untersichtsstunden ( 22 x 45 min.), der 
+Vor- und Nachbereitungszeit von 30 min. pro. Unterrichtsstunde und der Zeit für 
+Sachgebietstätigkeit 
+und 
+"freie" 
+Arbeitszeit 
+für 
+Projekte 
+zusammen. 
+Die 
+AbteilungsSchulleiter haben 11 Unterrichtseinheiten und die FachgruppenSchulleiter 16 
+Unterrichtsstunden zu leisten. 
+T13 
+Siehe Anmerkungen zu Frage 4). 
+Entsprechende verstetigte Praxisabordnungen kommen derzeit für diejenigen Mitarbeiter 
+des gehpbenen feuerwehrtechnischen Dienstes in Betracht, die mehr als drei Jahre im 
+gehobenen Dienst bei uns tätig sind. 
+T14 
+Arbeitszeit wird neu geregeltt. es sollen (80% Ausbildung und 20% Projektarbeit 
+durchgeführt werden. Die (80 % Ausbildung unterteilen sich in 60 % Unterricht und 40 % 
+Fort- und Weiterbildung bzw. Arbeit an neuen Lehrinhalten. in den 40% ist die 
+Praktikumsarbeit enthalten.  Die UE bsesteht aus 60 min. davon 45 min. Aktiver unterricht 
+Rest Vo-r und Nachbereitung 
+Abbildung 39: Frage D004: weitere Anmerkungen (eigene Darstellung, 2023) 
+ 
+ 
+
+Anhänge 
+37 
+ 
+A.4 Kombinierte Darstellung von Umfrageergebnissen 
+Im Folgenden werden kombinierte Darstellungen von Ergebnissen aus Antworten zu zwei Fragen 
+dargestellt. Die kombinierte Darstellung ist nur für solche Fragen möglich gewesen, die denselben 
+Fragentyp verwenden (siehe Kapitel 1.2 des Teil II dieser Facharbeit) und, bei denen der Frageninhalt bis 
+auf die Verwendung des Konjunktivs sehr ähnlich/gleich ist. 
+Daten von Teilnehmern, an deren Dienststellen bereits Einsatzpraktika durchgeführt werden, werden blau 
+dargestellt. Die Datenpunkte der weiteren Teilnehmer werden orange dargestellt. 
+ 
+Abbildung 40: Kombinierte Darstellung B002/C003 (eigene Darstellung, 2023) 
+ 
+Abbildung 41: Kombinierte Darstellung B004/C004 (eigene Darstellung, 2023) 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+  
+ 
+    
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+     
+         
+                                                                                  
+                                                                            
+         
+                       
+                              
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+         
+                                                                              
+                                             
+         
+       
+                       
+                              
+
+Anhänge 
+38 
+ 
+ 
+Abbildung 42: Kombinierte Darstellung B007/C007 (eigene Darstellung, 2023) 
+ 
+ 
+Abbildung 43: Kombinierte Darstellung B010/C010 (eigene Darstellung, 2023) 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+         
+                                                                                    
+                                                                            
+              
+         
+       
+                       
+                              
+
+Anhänge 
+39 
+ 
+ 
+Abbildung 44: Kombinierte Darstellung B011/C011 (eigene Darstellung, 2023) 
+ 
+ 
+    
+    
+             
+                              
+ 
+ 
+ 
+ 
+                            
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+         
+                                                                                     
+                                                                                
+         
+       
+                       
+                              
+
+Anhänge 
+40 
+ 
+A.5 Darstellung weiterer Konzepte zur Generierung von Einsatzerfahrung 
+Das im Rahmen dieser Facharbeit dargestellte Konzept ist nur eine Möglichkeit von vielen. Neben dem 
+dargestellten Konzept wurden noch weitere Optionen eruiert, welche jedoch, zugunsten des im Teil I 
+dargestellten Konzeptes, verworfen wurden. Im Folgenden werden diese weiteren Möglichkeiten vorgestellt 
+und kurz erläutert, weshalb sie nicht ausgewählt wurden. Die Möglichkeiten 2 bis 5 sind auch ergänzend 
+zum im Teil I vorgestellten Konzept anwendbar. 
+1. Abordnungen von feuerwehrtechnischen Ausbildern zu relevanten Feuerwehren zur 
+Durchführung von Einsatzpraktika ohne Austauschsystem 
+ 
+Diese Möglichkeit wurde aufgrund der Anforderung 1 in Kapitel 4.3.1 („Die Abwesenheit der 
+feuerwehrtechnischen Ausbilder muss so vollständig wie möglich ohne zusätzliche Stellen für 
+feuerwehrtechnische Ausbilder kompensiert werden“) nicht gewählt. Für einzelne LFS kann diese 
+Möglichkeit dennoch eine valide Option darstellen, sofern die Abwesenheit der 
+feuerwehrtechnischen Ausbilder vollständig oder möglichst vollständig kompensiert werden kann. 
+Es sind auch Zwischenlösungen zwischen einem Konzept ohne Austauschsystem und einem 
+Konzept mit reinem Austauschsystem denkbar, insofern nur Teile der Abwesenheit der 
+feuerwehrtechnischen Ausbilder durch weitere Stellen für feuerwehrtechnische Ausbilder 
+kompensiert werden können. 
+ 
+2. Teilnahme an planbaren Einsätzen bei Feuerwehren (speziell im Bereich Stabsarbeit) 
+ 
+Die Anzahl an planbaren Einsätzen bei Feuerwehren ist nach Erfahrung des Autors bei den 
+meisten Feuerwehren Deutschlands so gering, dass ein prozentualer Anteil an der JAZ der 
+feuerwehrtechnischen Ausbilder in der Größenordnung von 8,46 % der JAZ durch die Teilnahme 
+an diesen Einsätzen nicht erreichbar scheint. Des Weiteren ist es bei solchen Lagen nicht immer 
+möglich, für den jeweiligen feuerwehrtechnischen Ausbilder interessante Einsatzfunktionen 
+sinnvoll zu besetzen. Beispiel: bei einer Großveranstaltung, welche im Rahmen der 
+Führungsstufe D abgearbeitet wird, können sich die Aufgaben eines Zugführers, welcher im 
+Rahmen dieser Großveranstaltung eingesetzt wird, wesentlich von den üblichen und für den 
+feuerwehrtechnischen Ausbilder interessanten Aufgaben unterscheiden. Aus diesen Gründen 
+wurde diese Möglichkeit nicht gewählt. 
+ 
+3. Teilnahme an Einsätzen im Rahmen des EU-Katastrophenschutzverfahrens durch Begleitung 
+von Landeskomponenten 
+ 
+Nach Einschätzung des Autors sind die Einsätze im Rahmen des EU-
+Katastrophenschutzverfahrens zum Zeitpunkt der Erstellung dieser Facharbeit anzahlmäßig zu 
+gering, um zu gewährleisten, dass ein prozentualer Anteil an der JAZ der feuerwehrtechnischen 
+Ausbilder in der Größenordnung von 8,46 % der JAZ erreicht werden kann. Des Weiteren können 
+nach Einschätzung des Autors i.d.R. kein großer Anteil der feuerwehrtechnischen Ausbilder einer 
+LFS gleichzeitig an einem solchen Einsatz teilnehmen, da der Lehrgangsbetrieb gleichzeitig 
+aufrecht erhalten bleiben soll. Aus diesen Gründen wurde diese Möglichkeit nicht gewählt. 
+ 
+4. Förderung der Einsatztätigkeit eines feuerwehrtechnischen Ausbilders in einer Freiwilligen 
+Feuerwehr 
+ 
+Die Anzahl der Einsätze einer Freiwilligen Feuerwehr hängen stark von der Einwohneranzahl und 
+den örtlichen Gegebenheiten der jeweiligen Gemeinde ab. Da eine LFS keinen direkten Einfluss 
+darauf hat, ob und wo ein feuerwehrtechnischer Ausbilder Mitglied einer Einsatzabteilung einer 
+Freiwilligen Feuerwehr ist, hat sie auch keinen Einfluss auf die Einsatzerfahrung, die der 
+Ausbilder über diese Tätigkeit sammeln könnte. Grundsätzlich erscheint es sehr sinnvoll, eine 
+Einsatztätigkeit eines feuerwehrtechnischen Ausbilders bei einer Freiwilligen Feuerwehr zu 
+fördern. Jedoch lassen sich allein durch diese Möglichkeit nicht die Erreichung der gewünschten 
+Einsatzerfahrung und die Übernahme von definierten Einsatzfunktionen, welche für den 
+feuerwehrtechnischen Ausbilder sinnvoll sind, garantieren. Aus diesen Gründen wurde diese 
+Möglichkeit nicht gewählt. 
+ 
+
+Anhänge 
+41 
+ 
+5. Teilnahme an Großeinsätzen im näheren räumlichen Umfeld der LFS. Die teilnehmenden 
+feuerwehrtechnischen Ausbilder können vor Ort z.B. als Führungsunterstützung und/oder 
+Dokumentationseinheit tätig werden (siehe Antwort in Abbildung 35). 
+ 
+Die Häufigkeit von Großeinsätzen im näheren Umfeld hängt stark vom Standort der jeweiligen 
+LFS ab. Nach Einschätzung des Autors sind solche Einsätze anzahlmäßig zu gering, um zu 
+gewährleisten, dass ein prozentualer Anteil an der JAZ der feuerwehrtechnischen Ausbilder in 
+der Größenordnung von 8,46 % der JAZ erreicht werden kann. Des Weiteren können nach 
+Einschätzung des Autors i.d.R. kein großer Anteil der feuerwehrtechnischen Ausbilder einer LFS 
+gleichzeitig an einem solchen Einsatz teilnehmen, da der Lehrgangsbetrieb aufrecht erhalten 
+bleiben soll. Aus diesen Gründen wurde diese Möglichkeit nicht gewählt. 
+ 
+6. Feuerwehrtechnische Ausbilder könnten bei Einsätzen mit Bezug zu Bereichen, in denen sie 
+Spezialkenntnisse haben, nach Anforderung als Fachberater tätig werden. Die 
+Fachberatertätigkeit könnte dann im Rahmen einer telefonischen Beratung oder einer Beratung 
+am Einsatzort erfolgen. 
+ 
+Bei dieser Möglichkeit wird sich die Anzahl der Einsätze für die einzelnen feuerwehrtechnischen 
+Ausbilder sehr wesentlich unterscheiden, wobei einige feuerwehrtechnische eventuell keinen 
+definierten Bereich haben, in welchem sie Spezialkenntnisse mitbringen. Somit lässt sich schwer 
+gewährleisten, dass alle interessierten feuerwehrtechnischen Ausbilder zu einem Anteil in der 
+Größenordnung von 8,46 % ihrer JAZ zum Einsatz kommen. Aus diesem Grund wurde diese 
+Möglichkeit nicht gewählt.  
+ 
+
+Eigenständigkeitserklärung 
+42 
+ 
+ 
+B. Eigenständigkeitserklärung  
+20.10.2023 
+Einsatzerfahrung für Ausbildungspersonal der Feuerwehrschulen 
+Luca Ruchser 

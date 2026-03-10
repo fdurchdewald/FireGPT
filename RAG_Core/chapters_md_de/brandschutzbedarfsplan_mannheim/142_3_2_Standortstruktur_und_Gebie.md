@@ -1,0 +1,4 @@
+# 3.2 Standortstruktur und Gebietsabdeckung
+
+- Standorte der Freiwilligen Feuerwehr  Zusammenfassende Bewertung des baulichen Zustands   Brandschutzbedarfsplan der Stadt Mannheim,   Stand: 04.04.2013  70  In  Fr  Ne  Wa  Fe  Se  Rh  N  Maßstab  0  1,5 km  Standorte FF     = Abteilung Feudenheim     = Abteilung Friedrichsfeld     = Abteilung Innenstadt     = Abteilung Neckarau     = Abteilung Nord      = Abteilung Rheinau     = Abteilung Seckenheim     = Abteilung Wallstadt  N  Wa  Fe  Se  Fr  Rh  Ne  In  Anmerkung: Für die im Rahmen des Projekts erstellten Simulationen zur  Gebietsabdeckung wurden in Abhängigkeit von 10 Straßenkategorien  (Autobahn,  Bundesstraße  außerorts,  Bundesstraße  innerorts,  Gemeindestraße, etc.) Durchschnittsgeschwindigkeiten zwischen 2,8 m/s  und  20,8 m/s zugrunde gelegt.
+

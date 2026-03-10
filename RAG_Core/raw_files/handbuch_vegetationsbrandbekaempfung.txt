@@ -1,0 +1,4488 @@
+Handbuch
+Vegetationsbrandbekämpfung
+Anleitung für die Thüringer Feuerwehren, 
+Gemeinden und Landkreise
+www.innen.thueringen.de/
+
+2
+3
+Disclaimer
+Zur besseren Handhabbarkeit dieser Broschüre insbesondere für den Online-Verwendung wur­
+den durch interaktive QR-Codes und Links entsprechende Rechtsvorschriften und Entschei­
+dungen verlinkt. 
+Als Anbieter dieser Broschüre sind wir gemäß § 7 Abs.1 Telemediengesetz (TMG) für eigene 
+Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Unser Angebot ent­
+hält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb 
+können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der ver­
+linkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die ver­
+linkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. 
+Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhalts­
+punkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen 
+werden wir derartige Links umgehend entfernen. Wir sind natürlich für Hinweise dankbar, so­
+fern ein Link nicht funktioniert oder die Quelle nicht mehr existent ist.
+Die folgende farbliche Kennzeichnung dient als Orientierungshilfe für das jeweilige Aufgaben­
+gebiet. Weitere Informationen dazu finden Sie in der Einleitung.
+Verwendungshinweis:
+Für eine einfachere Nutzung dieses Handlungsleitfadens wurden die maßgeblichen Gesetze 
+und Entscheidungen sofern möglich verlinkt. Dies ist erkennbar als blaue Unterstreichung.
+Eine Verknüpfung der vollständigen Gesetzestexte erfolgte in der Regel durch sog. QR-Codes 
+am Bildrand. Mit einer entsprechenden QR-App auf Ihrem Smartphone können diese einerseits 
+beim Lesen unterwegs aus dem Ausdruck herausgelesen werden und andererseits aber auch 
+direkt am Bildschirm angeklickt werden.
+Sollten Links etc. nicht funktionieren schreiben Sie uns einfach eine E-Mail oder rufen Sie an.
+Inhalt
+Vorwort	 	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+Abkürzungsverzeichnis 	
+	
+	
+	
+	
+	
+	
+	
+6
+Einleitung 	
+	
+	
+	
+	
+	
+	
+	
+	
+8
+1.	
+Allgemeine Informationen 	 	
+	
+	
+	
+	
+	
+9
+1.1	
+Übersicht über Thüringen 	
+	
+	
+	
+	
+	
+	
+9
+1.2	
+Waldbrandvorbeugung         	 	
+	
+	
+	
+	
+                10
+1.3	
+Waldbrand-Gefahrenindex (WBI)  	
+	
+	
+	
+	
+                10
+1.4	
+Flurbrandvorbeugung 	
+     	
+	
+	
+	
+	
+                11
+1.5	
+Grasland-Feuerindex (GLFI) 	 	
+	
+	
+	
+	
+                11
+1.6	
+Vegetationsbrandgefahr und deren Einflussfaktoren 	
+	
+               	                 11
+1.7	
+Persönliche Schutzausrüstung 	
+	
+	
+	
+                                  12
+2.	
+Einsatzvorbereitung 	
+	
+	
+	
+	
+	
+                14
+2.1	
+Alarm- und Einsatzpläne 	
+	
+	
+	
+	
+	
+                14
+2.2	
+Rettungs- und Brandschutzkarten 	
+	
+	
+	
+	
+                15
+2.3	
+Hinweise für die Beschaffung von Einsatzfahrzeugen 	
+	
+	
+                15
+2.4	
+Vorbereitungen vor der Brandsaison 	 	
+	
+	
+	
+                16
+2.5	
+Führungsorganisation  	
+	
+	
+	
+	
+                                  17
+2.6	
+Fernmeldeverbindungen 	
+	
+	
+	
+	
+	
+                18
+2.7	
+Aus- und Fortbildung 	
+	
+	
+	
+	
+	
+                19
+3.	
+Grundlagen der Vegetationsbrandbekämpfung 		
+	
+	
+                21
+3.1	
+Begriffe in der Vegetationsbrandbekämpfung 	 	
+	
+          	
+                21
+3.2	
+Vegetationsbrandarten  	
+	
+	
+	
+	
+	
+                22
+3.3	
+Ausbreitungsverhalten 	
+	
+	
+	
+	
+	
+                24
+3.4	
+Einsatzmittel bei der Vegetationsbrandbekämpfung 	
+	
+	
+                25
+3.5	
+Pump & Roll-Betrieb 	
+	
+	
+	
+	
+	
+                27
+3.6	
+Löscharbeiten bei den verschiedenen Brandarten 	
+	
+	
+                28
+3.7	
+Besonderheiten der Brandbekämpfung  	
+	
+	
+	
+                30
+3.8	
+Löschwasserversorgung 	
+	
+	
+	
+	
+	
+                34
+4.	
+Lagefeststellung 	 	
+	
+	
+	
+	
+	
+                37
+4.1	
+Grundsätzliches 	 	
+	
+	
+	
+	
+	
+                38
+4.2	
+Vorinformationen 	 	
+	
+	
+	
+	
+	
+                38
+4.3	
+Lageerkundung vor Ort 	
+	
+	
+	
+	
+	
+                39
+4.4	
+Kontrolle 	
+	
+	
+	
+	
+	
+	
+                40
+4.5	
+Lagemeldung  	
+	
+	
+	
+	
+	
+	
+                40
+5.	
+Beurteilung der Lage 	
+	
+	
+	
+	
+	
+                42
+5.1	
+Welche Gefahren bestehen für Menschen, Tiere, Sachwerte und Umwelt? 	
+                42
+5.2	
+Welche Gefahr muss zuerst an welcher Stelle bekämpft werden? 	 	
+                43
+5.3	
+Vor welchen Gefahren müssen sich die Einsatzkräfte schützen? 	
+	
+                44
+5.4	
+Welche Möglichkeiten bestehen für die Gefahrenabwehr? 	
+	
+                46
+5.5	
+Welche Vor- und Nachteile haben die verschiedenen Möglichkeiten? 	
+                52
+5.6	
+Welche Möglichkeit ist die Beste? 	
+	
+	
+	
+                                  53
+6.	
+Entschluss 	
+	
+	
+	
+	
+	
+	
+                54
+6.1	
+Ziele/Einsatzschwerpunkte 		
+	
+	
+	
+	
+                54
+6.2	
+Einteilung der Kräfte 	
+	
+	
+	
+	
+	
+                54
+6.3	
+Bewegungsabläufe/Ordnung des Raumes 	
+	
+	
+	
+                55
+6.4	
+Logistik/Versorgung  	
+	
+	
+	
+	
+	
+                55
+7.	
+Befehlsgebung 	
+	
+	
+	
+	
+	
+	
+                58
+8.	
+Informationen für Landkreise und kreisfreie Städte 	
+	
+	
+                59
+8.1	
+Einsatzleitung bei überörtlichen Gefahren 	
+	
+	
+	
+                59
+8.2	
+Feststellung und Bekanntgabe der Katastrophe 	
+	
+   	
+                60
+Relevant für:
+Landkreisverantwortliche
+Gemeindeverantwortliche
+Führungskräfte
+Einsatzkräfte
+TMG
+
+4
+5
+8.3	
+Einsatzleitung im Katastrophenfall 	
+	
+	
+	
+	
+                         60
+8.4	
+Anfordern von Materialien aus den KatS-Lägern 	
+	
+	
+                         61
+8.5	
+Lagemeldungen/Meldewege 	
+	
+	
+	
+	
+	
+      62
+9.	
+Kosten 	 	
+	
+	
+	
+	
+	
+	
+	
+      63
+9.1	
+Kostentragung bei örtlichen Einsätzen 	
+	
+	
+	
+	
+      63
+9.2	
+Kostentragung bei überörtlichen Einsätzen 	
+	
+	
+	
+	
+      63
+9.3	
+Kostentragung im Katastrophenfall 	
+	
+	
+	
+	
+	
+      64
+9.4	
+Kostentragung bei Amtshilfe durch andere Behörden 	
+	
+	
+	
+      64
+Quellen 	 	
+	
+	
+	
+	
+	
+	
+	
+	
+      65
+Liebe Kameradinnen und Kameraden,
+sehr geehrte Leserinnen und Leser, 
+ich erinnere mich noch gut an den großen Waldbrand bei Plaue im April 2019, bei welchem 
+ich mir ein Bild von den Arbeiten der eingesetzten Feuerwehren und Hilfsorganisationen so­
+wie der Polizei machen konnte. Es war beeindruckend, mit welchem Einsatz die hauptsächlich 
+ehrenamtlichen Helferinnen und Helfer die kräftezehrenden Arbeiten erfüllten und vor welche 
+Aufgaben und Anstrengungen diese vor Ort gestellt wurden.
+Es zeigte mir aber auch, dass unser Hilfeleistungssystem im Brandschutz, der Allgemeinen 
+Hilfe und im Katastrophenschutz immer wieder vor großen Herausforderungen steht. Die aktu­
+ellen Entwicklungen des Klimas mit immer höheren Temperaturen, immer mehr warmen Tagen 
+und immer weniger Niederschlag wirken sich auch auf die Feuerwehren und Hilfsorganisatio­
+nen aus. Nicht nur mehr Brände, sondern vor allem auch die Größe oder die besonderen An­
+strengungen, die im Gelände oder an Steilhängen nötig sind, stellen sie vor Mammutaufgaben.
+Diese Aufgaben können die Gemeinden und Landkreise nicht alleine stemmen, hier bedarf es 
+auch der weiterführenden Unterstützung vom Land. Das bezieht sich nicht nur auf die Beschaf­
+fung von Technik und Ausrüstung für die Katastrophenschutzeinheiten, die Förderung von Fahr­
+zeugen im Brandschutz und der Allgemeinen Hilfe oder die Förderung von Baumaßnahmen bei 
+Gerätehäusern – hier bedarf es auch der Unterstützung in Form von gezielten Fortbildungen, 
+wie in diesem Fall für die neuen Herausforderungen in der Vegetationsbrandbekämpfung.
+Bausteine hierfür sind, neben den in 2019 kurzfristig durchgeführten Tagesseminaren, z. B. 
+in Ilmenau, auch weiterführende Lehrgänge an der Thüringer Landesfeuerwehr- und Katastro­
+phenschutzschule zur Fortbildung von Kreisausbilderinnen und Kreisausbilder für die Trupp-
+ausbildung.
+Dieses Handbuch soll im Rahmen der Ausbildung und Wissensvermittlung unterstützen und 
+die wichtigsten Fakten und Inhalte für alle Beteiligten der eingesetzten Feuerwehren, der Ge­
+meinden oder der Landkreise zusammenfassen und die bei einem Vegetationsbrand beteilig­
+ten Stellen dabei unterstützen, diese großen Aufgaben zu bewältigen. 
+Ich bedanke mich bei allen, die sich im Freistaat Thüringen haupt- oder ehrenamtlich für die 
+Bewältigung dieser Herausforderungen engagieren und wünsche Ihnen eine informative Lektü­
+re. Kehren Sie immer gesund und wohlbehalten von Ihren Einsätzen zurück!
+Ihr 
+Georg Maier
+Thüringer Minister für Inneres und Kommunales
+Georg Maier,
+Thüringer Minister
+ für Inneres und Kommunales 
+
+6
+7
+Abkürzungsverzeichnis
+AS	
+	
+Autorisierte Stelle Digitalfunk Thüringen
+AT	
+	
+Angriffstrupp
+ATF	
+	
+Angriffstruppführer
+ATM	
+	
+Angriffstruppmann
+ATV	
+	
+All-Terain-Vehicle
+BBK	
+	
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+BOS	
+	
+Behörden und Organisationen mit Sicherheitsaufgaben
+BW	
+	
+Bundeswehr
+DGUV	
+	
+Deutsche Gesetzliche Unfallversicherung
+DIN	
+	
+Deutsches Institut für Normung
+DWD	
+	
+Deutscher Wetterdienst	
+DXT	
+	
+Digital Exchange for Tetra (digitale BOS Vermittungsstelle)
+EA	
+	
+Einsatzabschnitt
+EAL	
+	
+Einsatzabschnittsleiter
+EN	
+	
+Europäische Norm
+EZ	
+	
+Einsatzzug
+FFP	
+	
+filtering face piece (Schutzklassenbezeichnung für partikelfiltrierende 
+	
+	
+Halbmasken)
+FPN	
+	
+Feuerlöschkreiselpumpe Nordmaldruck
+FwDV	
+	
+Feuerwehrdienstvorschrift
+GF	
+	
+Gruppenführer
+GLFI	
+	
+Grasland-Feuerindex
+GMLZ	
+	
+Gemeinsames Melde- und Lagezentrum von Bund und Ländern
+GW	
+	
+Gerätewagen
+GW-L2	
+	
+Gerätewagen-Logistik 2
+HRT	
+	
+Hand Radio Terminal (Handfunkgerät)
+HuPF	
+	
+Herstellungs- und Prüfungsbeschreibung für eine universelle Feuerwehr-	
+	
+	
+schutzbekleidung
+KatS	
+	
+Katastrophenschutz
+KdoW	
+	
+Kommandowagen
+KLF-Th	
+	
+Kleinlöschfahrzeug-Thüringen
+KRITIS	
+	
+Kritische Infrastruktur
+KVK	
+	
+Kreisverbindungskommando
+LAB	
+	
+Löschwasseraußenlastbehälter
+LEZ	
+	
+Landeseinsatzzentrale
+LF	
+	
+Löschgruppenfahrzeug
+MA	
+	
+Maschinist
+ME	
+	
+Melder
+MKS	
+	
+Motorkettensäge
+MRT	
+	
+Mobile Radio Terminal (Fahrzeugfunkgerät)
+PHuSt TH		
+Polizeihubschrauberstaffel Thüringen
+PSA	
+	
+Persönliche Schutzausrüstung
+SBZ	
+	
+Sanitäts- und Betreuungszug
+SEG	
+	
+Schnell-Einsatz-Gruppe
+ST	
+	
+Schlauchtrupp
+STA	
+	
+Schlauchtransportanhänger
+STF	
+	
+Schlauchtruppführer
+STM	
+	
+Schlauchtruppmann
+TBS 	
+	
+Tetra Base Station (Tetra Basisstation)
+ThürBKG	 	
+Thüringer Gesetz über den Brandschutz, die Allgemeine Hilfe und den 
+	
+	
+Katastrophenschutz
+ThürKatSVO	
+Thüringer Katastrophenschutzverordnung
+TLF	
+	
+Tanklöschfahrzeug
+TLFKS	
+	
+Thüringer Landesfeuerwehr- und Katastrophenschutzschule
+TLVwA	
+	
+Thüringer Landesverwaltungsamt
+TMIK	
+	
+Thüringer Ministerium für Inneres und Kommunales
+TSF-W	
+	
+Tragkraftspritzenfahrzeug-Wasser
+UE	
+	
+Unterstützungseinheit
+UEA	
+	
+Untereinsatzabschnitt
+UEAL	
+	
+Untereinsatzabschnittsleiter
+UVV	
+	
+Unfallverhütungsvorschrift
+VegBbk	 	
+Vegetationsbrandbekämpfung
+VVThürKfVO	
+Verwaltungsvorschrift über die Erstattung der Einsatzkosten gemäß der
+	
+	
+Thüringer Verordnung über den Katastrophenschutzfonds
+WBI	
+	
+Waldbrand-Gefahrenindex
+WT	
+	
+Wassertrupp
+WTF	
+	
+Wassertruppführer
+WTM	
+	
+Wassertruppmann
+
+8
+9
+Das Land Thüringen versteht sich als grünes Herz Deutschlands, in welchem nach der letz­
+ten Bundeswaldinventur in den Jahren 2011/2012 330 Millionen Bäume gezählt wurden. Im 
+bundesweiten Durchschnitt steht Thüringen mit rund 34 Prozent bewaldeter Landesfläche an 
+siebter Stelle der Bundesländer. Neben den bewaldeten Flächen sind zudem in der Mitte und 
+dem Norden des Landes große, offene Flurstücke für die Landwirtschaft vorhanden.
+Der Klimawandel und die Erwärmung der Erde lassen Wissenschaftler und Forscher trotz der 
+Unsicherheiten über die regionalen Auswirkungen prognostizieren, dass die Gefahr von Bran­
+dereignissen der Vegetation aufgrund durchschnittlicher Temperaturerhöhungen und Trocken­
+heit mittel- und langfristig auch in Thüringen steigt. Die bereits aufgetretenen Ereignisse in 
+2018 und 2019 haben die möglichen Auswirkungen aufgezeigt.
+Somit stellen Vegetationsbrände, welche aufgrund der teils schwierigen topografischen Ge-
+gebenheiten schwer bekämpfbar sind und mit besonderen Mitteln bekämpft werden müssen, 
+neue Herausforderungen für die örtliche und überörtliche Gefahrenabwehr sowie insbesonde-
+re den Katastrophenschutz dar. 
+Dieses Handbuch zur Vegetationsbrandbekämpfung soll daher eine Grundlage zur Aus- und 
+Fortbildung sowie Informationsgrundlage für alle Thüringer Gemeinden, Landkreise und kreis-
+freien Städte sowie die, nach § 9 Abs. 1 Thüringer Brand- und Katastrophenschutzgesetz 
+(ThürBKG), zur Erfüllung der Aufgaben im Brandschutz eingesetzten Feuerwehren bilden.
+Auf Basis von zahlreichen Ausarbeitungen sowie Fachempfehlungen vieler bundesweit führen­
+der Organisationen und Fachkräften wurden die Informationen und Empfehlungen mit größter 
+Sorgfalt zusammengefasst und erstellt. Für die Richtigkeit, Vollständigkeit sowie Aktualität der 
+Inhalte kann jedoch keine Gewähr übernommen werden.
+Im Rahmen der Erarbeitung wurde Wert daraufgelegt, passgenaue Informationen und Vorge-
+hensweisen für die beteiligten Feuerwehren und/oder Behörden zu erstellen. Zum Beispiel für 
+Einsatzkräfte bei der körperlich anstrengenden Arbeit mit Strahlrohr oder Handwerkzeug im 
+Wald, für den Bereich der Führung und somit der Entscheidung zur taktischen Vorgehensweise 
+an der Einsatzstelle oder bei der Arbeit auf Landkreisebene. Die folgende farbliche Kennzeich­
+nung zu den einzelnen Themen erleichtert hierbei die Suche nach entsprechenden Inhalten für 
+das jeweilige Aufgabengebiet:
+Einleitung
+§ 9 ThürBKG
+Im Kapitel „Allgemeine Informationen“ sind zu folgenden Themen Informationen enthalten:
+	
+	
+	
+	
+1.1	
+Übersicht über Thüringen
+Das Land Thüringen zeichnet sich als vielseitiges Bundesland aus, dessen Landschaft sich in 
+den einzelnen Regionen sehr stark unterscheidet. Zum einen gibt es die Mittelgebirge, z. B. 
+den Thüringer Wald und den Harz, mit ihren ausgedehnten Wäldern und teils tiefen Tälern/
+Steilhängen oder andere hügelig bewaldete Gebiete, wie z.B. das Eichsfeld. Auch ausgedehn­
+te, offene Flurstücke, welche durch Wiesen oder landwirtschaftliche Nutzung gekennzeichnet 
+sind, finden sich z.B. im Thüringer Becken. 
+Aufgrund der unterschiedlichen Landschaften ergeben sich unterschiedliche Gefahrenpotenti­
+ale für verschiedene Arten von Vegetationsbränden. 
+Gerade in den offenen, landwirtschaftlich genutzten Bereichen (z.B. Getreidefeldern) besteht 
+in den Sommermonaten die Gefahr von großen, ausgedehnten und intensiven Flurbränden 
+(Flächenbränden).  Aber auch in den vielen Waldgebieten des Landes ist die Gefahr von Wald­
+bränden vorhanden. Die Thüringer Wälder bestehen in Summe zu 56% aus Nadelholz und zu 
+44% aus Laubholz. Etwa 28% der Wälder sind Reinbestände, von denen 21% auf Nadelholz- 
+und 7% auf Laubholz-Reinbestände entfallen. Die vorhandenen Mischbestände weisen meist 
+einen höheren Anteil an Nadelholz als an Laubholz auf. Dabei bleibt festzuhalten, dass Ge­
+biete mit Nadelholz deutlich anfälliger und in der Brandentste­
+hung und Brandausbreitung eher als Laubwälder betroffen 
+sind.
+Durch den ThüringenForst wurden 
+entsprechende Waldbrandrisikoge­
+biete im Land nach dem regionalen 
+Risikopotenzial für Waldbrände ein­
+geteilt.
+1.	 Allgemeine Informationen
+Nr.
+Themen
+Relevanz
+1.1
+Übersicht über Thüringen
+1.2
+Waldbrandvorbeugung
+1.3
+Waldbrand-Gefahrenindex (WBI)
+1.4
+Flurbrandvorbeugung
+1.5
+Grasland-Feuerindex (GLFI)
+1.6
+Vegetationsbrandgefahr und deren Einflussfaktoren
+1.7
+Persönliche Schutzausrüstung
+Abbildung 1: 
+Forstamtsstruktur im Freistaat
+geringes Waldbrandrisiko
+mittleres Waldbrandrisiko
+Bleicherode Südharz
+Leinefelde
+Heiligenstadt
+Hainich-
+Werratal
+Sondershausen
+Erfurt-Willroda
+Bad Berka
+Saalfeld-
+Rudolstadt
+Neustadt
+Schleiz
+Weida
+Gehren
+Neuhaus
+Sonnenberg
+Schönbrunn
+Heldburg
+Oberhof
+Kaltennordheim
+Schmalkalden
+Finsterbergen
+Bad Salzungen
+Marksuhl
+Frauen-
+wald
+Jena-
+Holzland
+Relevant für:
+Landkreisverantwortliche
+Gemeindeverantwortliche
+Führungskräfte
+Einsatzkräfte
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+1. Allgemeine
+Informationen
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+1. Allgemeine
+Informationen
+
+10
+11
+Durch ThüringenForst wurden die Bereiche der Forstämter Weida, Jena-Holzland, Neustadt, 
+Saalfeld-Rudolstadt, Bad Berka und Erfurt-Willrode aufgrund teils flächiger Kiefernbestände 
+und relativ trockener Böden als Gebiete mit mittlerem Waldbrandrisiko eingestuft. Die restli­
+chen Thüringer Forstämter sind Gebiete mit geringem Waldbrandrisiko. Trotz eines geringen 
+Waldbrandrisikos besteht dennoch durch unterschiedliche Faktoren (z.B. Totholz am Boden) 
+eine entsprechende Gefährdung durch Bodenfeuer.
+1.2	
+Waldbrandvorbeugung
+Die Waldbrandvorbeugung umfasst neben dem generellen Verhalten der Waldbesucher, z. B. 
+•	
+dem Einhalten des ganzjährigen Rauchverbotes oder 
+•	
+dem Entfachen von Feuer nur an gekennzeichneten Feuerstellen
+auch technische und organisatorische Maßnahmen der Waldeigentümer sowie zuständigen 
+Behörden. Technische Möglichkeiten werden vor allem durch forstwirtschaftliche und wald-
+bauliche Maßnahmen im Zuge der Waldbewirtschaftung erreicht, z. B.
+•	
+Anlegen von Schutz- und Wundstreifen
+•	
+Anlegen von Waldbrandriegeln z.B. durch Laubbäume
+•	
+Einrichtung und Unterhaltung von Löschwasserentnahmestellen
+•	
+Errichtung und Unterhaltung von Löschwasserbehältern
+•	
+Herrichtung von befestigten Zufahrten und Wegen
+Diese Maßnahmen sorgen für entsprechende Voraussetzungen zur Vorbeugung sowie zur Un­
+terstützung im abwehrenden Brandschutz. Durch Streifengänge der Behörden oder die Sper­
+rung des Waldes werden zudem, je nach Gefahrenstufe des Waldbrand-Gefahrenindex, weitere 
+Maßnahmen getroffen, um einer Entstehung von Bränden in bewaldeten Gebieten vorzubeu­
+gen.
+1.3	
+Waldbrand-Gefahrenindex (WBI) 
+Die tatsächlich vorherrschende Gefährdungslage in den einzelnen Thüringer Forstämtern wird 
+auf Grundlage der Forstreviere unter Berücksichtigung des Messnetzes des Deutschen Wet­
+terdienstes nach naturräumlichen bzw. klimatischen Gesichtspunkten durch den DWD tages­
+aktuell ermittelt. Je nach Anzahl der Vorhersageregionen können innerhalb eines Forstamtes 
+verschiedene Waldbrandgefahrenstufen (1-5) gelten.
+Das jeweils örtlich zuständige Thüringer Forst­
+amt gibt Auskunft über die eigenen aktuellen 
+Waldbrandgefahrenstufen in seinem Zustän­
+digkeitsbereich. Gleichermaßen ist der ent­
+sprechende Waldbrand-Gefahrenindex (WBI) 
+über den DWD mit den tagesaktuellen Gefah­
+renstufen online abrufbar.
+Gefahrenstufe Gefahr
+Farbe
+1
+sehr gering
+2
+gering
+3
+normal
+4
+hoch
+5
+sehr hoch
+Abbildung 2: 
+Darstellung des WBI
+Stand 13.05.2019
+1.4	
+Flurbrandvorbeugung
+Die Vorbeugung von Flurbränden (hauptsächlich Feldern) kann durch einfache Maßnahmen
+der Verantwortlichen anhand nachfolgender Beispiele umgesetzt werden:
+•	
+Feldraine mähen (Randstreifen des Feldes, vor der Ernte)
+•	
+Feldränder grubbern oder pflügen: das beugt im Falle eines Brandes der Ausbreitung 
+auf angrenzende Flächen vor
+•	
+Abgasanlagen der Maschinen auf Funkensicherheit prüfen
+•	
+Staubschutzeinrichtungen der Maschinen auf Funktionsfähigkeit prüfen
+•	
+Wellen und Achsen z.B. auf eingewickeltes Stroh prüfen, um Heißläufer zu verhindern
+•	
+keine Schweiß-/Schneidarbeiten und Betanken der Erntemaschinen auf Flächen mit 
+brennbaren Stoffen
+•	
+Feuerlöscher mitführen, um im Brandfall sofort Löschmaßnahmen einzuleiten
+•	
+empfehlenswert ist, bei extremer Trockenheit mindestens 3.000 Liter Löschwasser vor 
+Ort zu bevorraten (z.B. bei WBI/GLFI 4 oder 5)
+1.5	
+Grasland-Feuerindex (GLFI)
+Äquivalent zum Waldbrand-Gefahrenindex 
+gibt der DWD auch entsprechende Gefähr­
+dungsstufen 1-5 nach dem Grasland-Feue­
+rindex (GLFI) für lediglich bodenbewachse­
+ne Vegetation aus.
+Im Vergleich zum WBI ist der GLFI meist 
+gleich oder eine Gefahrenstufe höher, da 
+die Gefahr der Brandentstehung bei Gras 
+im Vergleich zu waldähnlicher Vegetation 
+bei gleichen klimatischen Bedingungen 
+und Voraussetzungen höher ist.
+1.6	
+Vegetationsbrandgefahr und deren Einflussfaktoren
+•	
+die Brandgefahr der Vegetation ist von mehreren Einflussfaktoren abhängig:
+o	
+Waldbestand bzw. der Bewuchs des Bodens
+o	
+klimatische Bedingungen
+o	
+Tages- und Jahreszeit
+•	
+vorstehende Faktoren sind auch für die Ausbreitung und den Bekämpfungserfolg von 
+Vegetationsbränden wesentlich
+Waldbestand/Bodenbewuchs
+•	
+der Bodenbewuchs sowie der Baumbestand bilden die Nahrung des Brandes und ste­
+hen somit in direktem Zusammenhang zur Brandentstehung und -ausbreitung
+Abbildung 3 
+Darstellung des GLFI
+Stand 13.05.2019
+Gefahrenstufe
+Gefahr
+Farbe
+1
+sehr gering
+2
+gering
+3
+normal
+4
+hoch
+5
+sehr hoch
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+1. Allgemeine
+Informationen
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+1. Allgemeine
+Informationen
+WBI
+GLFI
+
+12
+13
+•	
+dürre Gräser oder eine entsprechende Bedeckung des Bodens, u.a. mit Totholz, erhö­
+hen die Waldbrandgefahr und begünstigen die Brandentstehung und die Ausbreitung 
+eines Bodenfeuers
+•	
+besonders Nadelbäume und derartige junge Baumbestände sind wesentlich brandge­
+fährdeter als Laubbäume
+Klimatische Bedingungen, wie
+•	
+anhaltender Niederschlagsmangel,
+•	
+anhaltend hohe Lufttemperaturen,
+•	
+lange Sonnenscheindauer am Tage, 
+•	
+abnehmende Bodenfeuchtigkeit (unter 15%) sowie
+•	
+Luftfeuchtigkeit von unter 50%
+erhöhen die Gefahr von Bränden. Begünstigt wird eine Brandentstehung ebenfalls durch tro­
+ckene Luftströme und Wind.
+Jahreszeit/Tageszeit
+•	
+in den Frühjahrsmonaten um den April sowie im August ist die Brandgefahr durch die 
+ausgedörrte Vegetation oder die klimatische Situation am höchsten
+•	
+Tendenzen zeigen, dass die Gefahr in den Morgenstunden zunimmt und in den Mittags- 
+bis Nachmittagsstunden ihren Zenit erreicht, bevor sie in den frühen Abendstunden 
+wieder etwas abnimmt
+1.7	
+Persönliche Schutzausrüstung
+Die klassisch für die Innenbrandbekämpfung zur Verfügung stehende mehrlagige Schutzklei­
+dung nach EN 469 Leistungsstufe 2 in Verbindung mit umluftunabhängigem Atemschutz ist, je 
+nach Gefährdungslage, für die effektive Bekämpfung von Vegetationsbränden oft nicht oder 
+nur bedingt geeignet. Die warme Witterung in Verbindung mit der hohen körperlichen Anstren­
+gung der Einsatzkräfte stellt eine große Belastung und Anstrengung der eingesetzten Kräfte 
+dar. Zudem besteht im Rahmen der Vegetationsbrandbekämpfung eine völlig andere Gefähr­
+dungslage als bei der klassischen Brandbekämpfung im Innenangriff. 
+Insofern werden bei der Vegetationsbrandbekämpfung völlig differierende Anforderungen an 
+die Schutzkleidung im Vergleich zum Innenangriff gestellt. Bei der Vegetationsbrandbekämp-
+fung handelt es sich um Brände im Freien. Somit muss die Schutzkleidung einen Schutz vor 
+Flammenkontakt bzw. Hitzeeinwirkung und Funkenflug sowie einen entsprechenden Trage-
+komfort mit einer mechanischen Belastbarkeit bieten. Auf dieser Grundlage wird folgende PSA 
+für die Vegetationsbrandbekämpfung empfohlen:
+•	
+einlagige Feuerschutzjacke und -hose, z.B. nach DIN EN 469 Leistungsstufe 1
+•	
+Feuerwehrhelm mit Nackenschutz, möglichst leicht z.B. Halbschalenhelm
+•	
+Feuerwehrschutzhandschuhe
+•	
+Feuerwehrschutzstiefel
+•	
+eine Partikelfilter-Einwegmaske (nach EN 149, z.B. FFP2) ist für leicht verrauchte Berei­
+che einsetzbar (hierfür ist keine Atemschutztauglichkeit und Ausbildung erforderlich)
+•	
+Flammschutzhaube, um offene Hautpartien am Hals, Nacken und im Gesicht zu schüt­
+zen; alternativ kann ein Dreiecktuch verwendet werden
+•	
+Dichtschließende, hitzebeständige Schutzbrille
+•	
+einen Atemanschluss mit Filter (idealerweise A2B2E2K2-P3) als Fluchtgerät
+•	
+eine Warneinrichtung (Signalpfeife)
+Zudem empfiehlt sich eine langärmlige und feuchtigkeitsregulierende Unterbekleidung. Bei 
+der Verwendung der vorstehenden Einsatzschutzkleidung ist zu beachten, dass diese auf-
+grund von möglicher Verbrühungsgefahr im Einsatzgeschehen nicht benässt werden darf! 
+Die Entscheidung, von der klassischen Schutzbekleidung nach EN 469 Leistungsstufe 2 und 
+umluftunabhängigem Atemschutz beim Vorgehen abzuweichen, obliegt grundsätzlich nur dem 
+Einsatzleiter! Eine Abweichung ist abhängig von der jeweiligen Gefährdungslage zu beurteilen! 
+Im Zweifel entsprechend vorstehende Schutzausrüstung verwenden und einen frühzeitigen 
+Personaltausch organisieren bzw. gewährleisten.
+Die verantwortliche Führungskraft ordnet die zu benutzende Schutzausrüstung an und über­
+wacht deren Einsatz. Eine ständige Kontrolle und Neu-Einschätzung, ob die Schutzausrüstung 
+noch angemessen ist, ist vom Einsatzleiter (der jeweiligen Führungskraft) unabdingbar.
+Achtung! 
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+1. Allgemeine
+Informationen
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+1. Allgemeine
+Informationen
+
+14
+15
+Bereits im Vorfeld von möglichen Schadensereignissen können durch die zuständigen ge-
+meindlichen Behörden, Landkreise, kreisfreie Städte sowie die nach § 9 Abs. 1 ThürBKG ein­
+gesetzten Feuerwehren Maßnahmen zur Einsatzvorbereitung durch Planung und Organisation 
+getroffen werden. So kann der Einsatzerfolg positiv beeinflusst und der Einsatzablauf, gerade 
+zu Beginn von Einsätzen, optimiert werden. 
+Im Kapitel „Einsatzvorbereitung“ sind zu folgenden Themen Informationen enthalten:
+2.1	
+Alarm- und Einsatzpläne
+Generelles
+Eine entsprechende Alarm- und Einsatzplanung führt zu einer zielgerichteten Vorbereitung auf 
+ein mögliches Einsatzszenario und unterstützt eine schnellere Koordinierung im Schadenfall. 
+Dies trifft gerade im Bereich von größeren Einsatzlagen, wie einem ausgedehnten Vegetations­
+brand, zu. Die Alarm- und Einsatzplanung sollte deshalb mindestens umfassen:
+•	
+Festlegung des Ausrückebereiches
+•	
+Festlegungen zur Alarmierung von Mannschaft und Einsatzmitteln
+•	
+Festlegen von Sammelräumen und Bereitstellungsräumen
+•	
+Anschriften und Erreichbarkeiten von Personen und Einrichtungen, mit denen an der 
+Einsatzstelle ggf. zusammengearbeitet werden muss
+•	
+Standorte und Möglichkeiten der Alarmierung spezieller Kräfte und Einsatzmittel
+•	
+Plan der Löschwasserversorgung und Löschwasserförderung
+•	
+Kommunikationsplan
+•	
+Angaben zur Abgabe von Meldungen an Dienststellen und Behörden
+Ergänzt werden sollte die Planung durch weitere Einsatzunterlagen, z.B. Einsatzpläne für be­
+sondere Schutzbereiche oder Schutzobjekte.
+Auf Gemeindeebene
+In Gebieten mit entsprechendem Waldbestand, großen und offenen Flurstücken (Wiesen und 
+Felder) und der möglichen Gefährdung durch Vegetationsbrände gehört es auf Basis des § 3 
+Absatz 1 Nr 3 ThürBKG zu den Pflichtaufgaben der Gemeinden, Alarm- und Einsatzpläne aufzu­
+stellen, fortzuschreiben sowie untereinander abzustimmen.
+Nr. 
+Themen
+Relevanz
+2.1
+Alarm- und Einsatzpläne
+2.2
+Rettungs- und Brandschutzkarten des ThüringenForst
+2.3
+Informationen für die Beschaffung von Einsatzfahrzeugen
+2.4
+Vorbereitungen vor der Brandsaison
+2.5
+Führungsorganisation
+2.6
+Fernmeldeverbindungen
+2.7
+Aus- und Fortbildung
+Auf Landkreisebene
+Auch die Alarm- und Einsatzplanung ist gemäß § 6 Absatz 1 Nr. 3 ThürBKG eine grundlegende 
+Aufgabe der Landkreise bzw. kreisfreien Städte. Hierzu gilt insbesondere:
+•	
+Alarm- und Einsatzpläne aufzustellen
+•	
+Alarm- und Einsatzpläne fortzuschreiben
+•	
+Alarm- und Einsatzpläne, die mit den Alarm- und Einsatzplänen der Gemeinden sowie 
+der benachbarten Kreisen und kreisfreien Städten in Einklang stehen, soweit erforder­
+lich, abzustimmen
+Die Alarm- und Einsatzplanung erfolgt auf Landkreisebene für besondere Objekte im Kreis bzw. 
+für den Einsatz von Stützpunktfeuerwehren und Feuerwehren mit überörtlichen Aufgaben oder 
+als Rahmenalarm- und Einsatzplan für bestimmte Ereignisse, z.B. einen Waldbrand. Hierbei 
+sind die gleichen Grundlagen wie für Alarm- und Einsatzpläne der Gemeinden zu berücksich­
+tigen.
+2.2	
+Rettungs- und Brandschutzkarten
+Zur Unterstützung der eingesetzten Kräfte sowie der Einsatzleitung hinsichtlich weiterer Ent­
+scheidungen zur Lageerkundung und zur taktischen Vorgehensweise können entsprechende 
+Rettungs- und Brandschutzkarten des ThüringenForst mit einbezogen werden. Diese werden 
+über den ThüringenForst sowohl in digitaler Form als auch analog als Einsatzkarte erstellt. Die 
+Karten können von den Feuerwehren über das vor Ort zuständige Landratsamt abgefordert wer­
+den.
+In diesen Karten sind wichtige Informationen hinterlegt, wie z.B. 
+•	
+Ortsbezeichnungen
+•	
+für Lkw-Einsatzfahrzeuge befahrbare Wald- und Forstwege
+•	
+Wendemöglichkeiten für Fahrzeuge
+•	
+Anschlusspunkte der Wald- und Forstwege an das öffentliche Verkehrsnetz
+•	
+Forstrettungspunkte
+•	
+Löschwasserteiche, Löschwasserstaustellen, Wasserentnahmestellen
+Es wird empfohlen, entsprechende Ausführungen der Rettungs- und Brandschutzkarten auf 
+den jeweiligen Fahrzeugen mitzuführen (digital oder in Papierform), um im Schadenfall eine 
+bessere Koordinierung der Einsatzkräfte zu ermöglichen. Durch das Vorhandensein der Karten 
+wird den eingesetzten Kräften vor Ort zudem eine Möglichkeit gegeben, sich im Wald besser 
+orientieren zu können. Somit kann dieses Führungsmittel maßgeblich zum effektiveren Einsatz 
+der Feuerwehren beitragen.
+Eine Möglichkeit zur Vervielfältigung der Karten im Einsatzfall für externe Einheiten ist organi­
+satorisch sicherzustellen. Die Karten liegen zudem in den Zentralen Leitstellen vor und sind in 
+der Regel im verwendeten Einsatzleitsystem integriert.
+2.3	
+Hinweise für die Beschaffung von Einsatzfahrzeugen
+Bei der Beschaffung von Einsatzfahrzeugen zur Vegetationsbrandbekämpfung sind die ört­
+lich bzw. überörtlich gegebenen Gefahren von Brandereignissen der Vegetation sowie weitere 
+Gegebenheiten, z.B. die Topografie oder schmale Zuwegungen, zu berücksichtigen. Für eine 
+optimale Vegetationsbrandbekämpfung eignen sich geländegängige Fahrzeuge mit folgenden 
+technischen Merkmalen:
+•	
+Allradantrieb (Differentialsperren)
+2.	 Einsatzvorbereitung
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+2. Einsatz-
+vorbereitung
+
+16
+17
+•	
+möglichst wenig Fahrzeugüberhang, um große Böschungswinkel bei einer Hangfahrt zu 
+erreichen
+•	
+entsprechende Bodenfreiheit
+•	
+möglichst niedriges Gesamtgewicht und somit geringer Bodendruck sowie möglichst 
+tiefer Schwerpunkt
+•	
+eine geeignete Bereifung für die Geländefahrt, idealerweise mit veränderbarem Luft­
+druck
+•	
+Schutz des Unterbodens bzw. der Versorgungsleitungen des Fahrzeuges vor Hitze- und 
+Flammeneinwirkungen durch
+o	
+Selbstschutzeinrichtung (Sprühdüsen) 
+o	
+von den Herstellern angebotene geschützte Ausführungen der Versorgungsleitun­
+gen
+•	
+Pump & Roll Fähigkeit (siehe Kapitel 3.5)
+•	
+ggf. eine entsprechende Watfähigkeit
+Es muss nicht zwingend jedes für Vegetationsbrände vorgesehenes Einsatzfahrzeug über alle 
+Handwerkzeuge, Ausstattungen oder technischen Raffinessen verfügen. Vielmehr macht eine 
+sinnvolle und bedachte Verteilung und eine geordnete Verwendung von Mannschaft und Ein­
+satzmitteln Sinn.
+Beispielhaft lässt sich hier das Belademodul „Waldbrand“ nennen. Diese Zusatzbeladung 
+nach DIN 14800-18 Beiblatt 10 für Löschfahrzeuge beinhaltet nachfolgende Bestandteile zur 
+effektiven Vegetationsbrandbekämpfung:
+[Anmerkung: Bei Beladungsteilen, welche nur auf Wunsch des Bestellers vorhanden sein müs­
+sen, ist die Stückzahl in Klammern angegeben.]
+2.4	
+Vorbereitungen vor der Brandsaison
+Unabhängig von den gesetzlichen Aufgaben und den vorstehend genannten Punkten können 
+im Rahmen von vorbereitenden Maßnahmen bereits vor der Vegetationsbrandsaison (ca. April 
+bis September) viele einfache Maßnahmen durch die gemeindlichen Feuerwehren durchge­
+führt werden, um im Einsatzfall effektiver und schneller zum Einsatzerfolg zu gelangen:
+•	
+Alarm- und Einsatzpläne auf Aktualität prüfen
+•	
+Kontaktlisten von Eigentümern, Zuständigen, Forst etc. überprüfen
+•	
+Umgang und Arbeit mit Rettungs- und Brandschutzkarten üben
+•	
+Zuwegungen prüfen, z.B. auf Befahrbarkeit
+•	
+Ortskunde/Straßenkunde
+Bezeichnung
+Norm
+Anzahl
+Partikelfiltrierende Halbmaske EN 149 FFP 2 R D (wieder verwend­
+bar, mehr als eine Schicht)
+DIN EN 149
+10
+Schutzbrille, dicht am Auge schließend, tragbar in Kombination 
+mit dem Feuerwehrhelm, auch für Brillenträger geeignet
+DIN EN 166
+3
+Druckschlauch D 25-15-L1-K
+DIN 14811
+5
+C-D Übergangsstück
+DIN 14341
+2
+Hohlstrahlrohr mit Festkupplung D
+Durchflussmenge Q von etwa 100 l/min
+DIN EN 15182-2
+2
+Verteiler C-DCD mit Niederschraubventil (CV) oder Kugelhahn (CK)
+DIN 14345
+1
+Wiedehopfhacke mit Schneidenschutz
+1
+Feuerpatsche mit Stiel, 2,4m lang
+2
+Löschrucksack mit Befülleinrichtung (Inhalt etwa 20 Liter)
+2
+Anfahrhilfe „Sandblech“, Maße etwa 1500 mm x 400 mm
+(2)
+•	
+ggfs. Wasserentnahmestellen prüfen/vorbereiten
+•	
+Ausbildung der Einsatz- und Führungskräfte im Rahmen der Vegetationsbrandbekämp­
+fung wiederholen und auffrischen
+Vor allem die Zusammenarbeit mit den im Umkreis vorhandenen Feuerwehren oder Feuerweh­
+ren mit überörtlichen Aufgaben, Fachberatern und zuständigen Behörden sollte nochmals ab­
+gestimmt sowie in regelmäßigen Abständen geübt werden.
+2.5	
+Führungsorganisation 
+Die Führungsorganisation bildet nach Feuerwehrdienstvorschrift (FwDV) 100 „Führung und 
+Leitung im Einsatz“ eine Säule des Führungssystems. Die Führungsorganisation legt die Auf­
+gabenbereiche der Führungskräfte fest und gibt die Art und Anzahl der Führungsebenen vor. 
+Die Führungsorganisation stellt sicher, dass die Arbeit der Einsatzleitung bei jeder Art und Grö­
+ße von Gefahrenlagen oder Schadenereignissen reibungslos und kontinuierlich verläuft. Die 
+Einsatzleitung und somit die Führungsorganisation ist in ihrer Gliederung und ihrem Umfang 
+abhängig von der Gefahrenlage, dem Schadenereignis und den zu führenden Einheiten. Auch 
+die Einbindung von Fachberatern ist sinnvoll. 
+Im Rahmen der Vegetationsbrandbekämpfung, vor allem bei aufwachsenden Ereignissen, ist 
+es erforderlich, eine klare und definierte Führungsstruktur zu schaffen und auch vorzuplanen 
+(und in die Alarm-und Einsatzplanung zu integrieren). Eine entsprechende Einsatzabschnitts­
+bildung ist meist aufgrund von Größe des Ereignisses, räumlichem Ausmaß, schwierigen Zuwe­
+gungen, umfangreicher oder schwieriger Lageerkundung und/oder Unübersichtlichkeit in der 
+Regel sinnvoll. Hierbei wird eine Abschnittsbildung wie folgt empfohlen:
+•	
+Einsatzabschnitt (EA) Brandbekämpfung
+•	
+Einsatzabschnitt (EA) Löschwasserversorgung
+•	
+Einsatzabschnitt (EA) Bereitstellungsraum
+Sinnvoll ist, dass im EA Bereitstellungsraum nicht nur die Kräfte und Mittel gesammelt werden, 
+sondern sich auch, je nach Größe bzw. tatsächlicher Notwendigkeit, um Verpflegung, Versor­
+gung mit Betriebsstoffen, Logistik, Unterkunft, Betreuung etc. gekümmert wird. Es empfiehlt 
+sich dann auch, dies ggf. in Untereinsatzabschnitte (UEA) zu strukturieren.
+Je nach Erfordernis und Lageabhängigkeit können zudem weitere Einsatzabschnitte (z.B. me­
+dizinische Rettung, CBRN-Gefahrenabwehr etc.) oder in den Einsatzabschnitten weitere Un­
+terabschnitte gebildet werden und so die Struktur und die Führungsebenen vorgegeben und 
+angepasst werden. Hierbei ist die 2-5er Regel für die Führungskräfte zu beachten.
+Abbildung 4
+Beispiel einer vorgeplanten
+Führungsorganisation
+LtS
+EL
+Einsatzleitung
+Brandbekämpfung
+Löschwasser-
+versorgung
+EA
+EA
+EA
+EA
+UEA
+UEA
+UEA
+UEA
+Bereitstellungs-
+raum
+Einsatzabschnitt X
+FwDV 100
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+2. Einsatz-
+vorbereitung
+
+18
+19
+Die 2-5er Regel beschreibt eine Faustregel zur Führbarkeit von taktischen Einheiten. Kernaus­
+sage der Regel ist, dass eine Führungskraft zwischen zwei und fünf taktische Einheiten der 
+untergeordneten Führungsebene führen kann. Mehr als fünf taktische Einheiten müssen auf 
+mehrere Führer/Unterführer verteilt werden, welche dann von der übergeordneten Führungs­
+kraft geführt werden.
+2.6	
+Fernmeldeverbindungen
+Gerade bei aufwachsenden Einsätzen sind vorgeplante Strukturen der Fernmeldeverbindun­
+gen (Funknetzplan/Kommunikationsstruktur) von besonderer Bedeutung. Nur wenn Informati­
+onen fließen und die Empfänger erreichen, kann der Führungsvorgang der Führungskräfte rich­
+tig und kontinuierlich angewandt und der Einsatzerfolg gesichert werden. Es empfiehlt sich, im 
+Rahmen der Alarm- und Einsatzplanung/Erstellung von vorgeplanten Führungsstrukturen auch 
+die Fernmeldeverbindungen angepasst vorzuplanen, siehe folgende beispielhafte Abbildung: 
+ 
+Auftretende Schwierigkeiten im Einsatz müssen hierbei von vornherein berücksichtigt werden:
+•	
+ggf. gleichzeitiger Einsatz von Analog- und Digitalfunk an einer Einsatzstelle/einem Ein­
+satzabschnitt berücksichtigen (je nach technischer Ausstattung der Einheiten)
+o	
+es müssen somit ausreichend Funkgeräte von den Einheiten mitgebracht oder be­
+reitgestellt werden (z.B. Reserven des Kreises bzw. der kreisfreien Städte),
+•	
+Reichweitenprobleme/topografische Gegebenheiten
+o	
+Leistungsverstärkung der Handsprechfunkgeräte im Analogfunk 2m-Bereich durch 
+„+“-Kanäle nutzen (z.B. WU+)
+o	
+ggf. Zwischenposten zur Sicherung der Funkverbindung an besonderen topografi­
+schen Punkten einsetzen
+o	
+Repeater-Betrieb im Digitalfunk nutzen
+o	
+Leistungsverstärkung der TBS im Digitalfunk über die AS nutzen – Achtung Sende­
+leistung der HRT und MRT ist begrenzt
+o	
+ggf. Gatewaybetrieb nutzen (Achtung Netzbelastung der DXT-Stellen wird dadurch 
+erhöht)
+•	
+ggf. Bildung eines eigenen EA Fernmeldeverbindungen/Kommunikation, um Verbin­
+LtS
+Einsatzleitung
+Brandbekämpfung
+TMO Lts FW
+TMO EG 01
+TMO EG 03
+DMO 307_F
+DMO 308_F
+TMO EG 04
+DMO 309_F
+TMO ZW
+TMO EG 02
+EL
+Löschwasser-
+versorgung
+EA
+EA
+EA
+EA
+UEA
+UEA
+UEA
+UEA
+Bereitstellungs-
+raum
+Einsatzabschnitt X
+Abbildung 5
+Beispielhafte Abbildung einer
+vorgeplanten Fernmelde-
+verbindung 
+dungen per Funk, Telefon, Medien sicherzustellen oder Redundanzen einzurichten; 
+Überwachung des Funkbetriebes
+•	
+bei langen Einsatzzeiten auch die Zeiten zum Laden der Geräte berücksichtigen und 
+Reserven bilden
+Sollte ein so hoher Kommunikationsbedarf bestehen, dass die genutzte Basisstation nicht 
+ausreicht, kann seitens der Autorisierten Stelle (AS) Thüringen in Rufbereitschaft eine mobile 
+Basisstation für das Tetra-Netz angefordert werden. 
+2.7	
+Aus- und Fortbildung
+Grundsätzliches
+•	
+die Aus- und Fortbildung ist Grundstein für eine erfolgreiche Einsatzbewältigung im 
+täglichen und im außergewöhnlichen Schadenfall
+•	
+Zuständigkeiten sowie Verpflichtungen zur Durchführung von Aus- und Fortbildung fin­
+den sich in verschiedenen gesetzlichen Regularien oder aber eingeführten Feuerwehr­
+dienstvorschriften
+•	
+Landkreise sind gemäß dem § 6 Abs. 1 Nr. 5 und Nr. 6 ThürBKG in der Pflicht, für die 
+überörtliche Gefahrenabwehr oder im Bereich des Katastrophenschutzes (vgl. §32 
+ThürBKG sowie ThürKatSVO), Ausbildungen und Übungen durchzuführen
+•	
+insbesondere Übungen unterschiedlichster Lagen unter Einbeziehung verschiedener 
+Hilfsorganisationen oder weiterer Einheiten der Gemeinde/des Landkreises oder gar 
+des Katastrophenschutzes sind für die Bekämpfung von Vegetationsbränden unerläss­
+lich
+Aus- und Fortbildungsveranstaltungen
+•	
+sind notwendig, um Wissen und Fähigkeiten auf bestimmten Gebieten zu erlangen/
+aufzufrischen
+•	
+die Vegetationsbrandbekämpfung sollte in den Lehrgängen TM I und TM II mit inte-
+griert werden (Fortbildungsseminare für Kreisausbilder an der TLFKS nutzen!)
+•	
+nach Möglichkeit auf externe Angebote Dritter zurückgreifen, sofern Fachexpertise vor­
+handen
+Führungskräfteweiterbildungen
+Insbesondere die Führungskräfte auf allen Ebenen sollten sich mit dem Thema Vegetations-
+brandbekämpfung auseinandersetzen. Da solche Einsätze meist über einen längeren Zeit­
+raum, mit erhöhtem Kräfte- und Mittelbedarf sowie einer umfangreichen Führungsstruktur be­
+wältigt werden müssen, ist vor allem die Anfangsphase für den Einsatzerfolg essentiell. 
+Die örtlich zuständigen Führer müssen vor allem die Lageerkundung und die darauf aufbau­
+ende Abschnittsbildung und Befehlsgebung beherrschen. Überhastetes Vorgehen ist zu ver-
+meiden, da Fehlentscheidungen in Gebieten mit wenig Straßen/Wegen, engem Bewuchs, we­
+nig Löschwasser und Löschwasserentnahmestellen meist unumkehrbar sind. Hier sind primär 
+die Feuerwehren mit einem hohen Anteil an Wald- oder Agrarflächen gefordert. Der Landkreis 
+sollte dies kontrollieren und darauf aufbauend kommunalübergreifende Führungskräfteweiter­
+bildungen anbieten und durchführen.
+Übungen 
+•	
+dienen zur Überprüfung der Einsatzbereitschaft und der Funktionsfähigkeit von vorge­
+planten Strukturen und Einsatzabläufen
+•	
+zur Überprüfung des Ausbildungsstandes der Einsatzkräfte
+•	
+zur Förderung der Zusammenarbeit der Beteiligten
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+2. Einsatz-
+vorbereitung
+ThürKatSVO
+
+21
+20
+•	
+in waldbrandgefährdeten Gebieten sollten die Feuerwehren/Landkreise (z.B. mit Un­
+terstützung der Forstämter) regelmäßig Einsatzübungen durchführen, um
+o	
+Besonderheiten und Gefahren bei der Bekämpfung von Waldbränden kennenzuler­
+nen
+o	
+Löschwasserversorgung über lange Schlauchstrecken in unzugänglichen Waldge­
+bieten zu üben
+o	
+Wasserentnahmemöglichkeiten, Wegenetz, Ausweichstellen o.ä. zu erkunden
+Gemäß gültiger Thüringer Katastrophenschutzverordnung (ThürKatSVO) sind Übungen wie 
+folgt für die unteren Katastrophenschutzbehörden zu absolvieren:
+•	
+Planübungen und Alarmierungsübungen (jährlich)
+•	
+Stabsrahmenübungen (alle 2 Jahre)
+•	
+Vollübungen (alle 5 Jahre)
+Im folgenden Kapitel sind die Grundlagen zur Vegetationsbrandbekämpfung beschrieben. 
+Hierbei wurde, neben der Anwendung der für die Vegetationsbrandbekämpfung zur Verfügung 
+stehenden Einsatzmittel, auch Augenmerk auf besondere Vorgehensweisen, z.B. den Pump & 
+Roll Betrieb oder das Vorgehen an Steilhängen und auf munitionsbelasteten Flächen, gelegt.
+Weitere Grundsätzlichkeiten der Brandbekämpfung entsprechend den allgemein gültigen Re­
+gelwerken (z.B. FwDV, DGUV etc.) bleiben hiervon unberührt!
+3.1	
+Begriffe in der Vegetationsbrandbekämpfung
+Der Vegetationsbrand als Oberbegriff beschreibt ein Schadenfeuer, welches in 
+•	
+Flurbrände, z.B. Stoppeläcker, Brachflächen und Wiesen sowie
+•	
+Waldbrände
+unterteilt werden kann. Folgende grundsätzliche Begriffe in Verbindung mit der Vegetations­
+brandbekämpfung sind für die weiteren Ausführungen bedeutsam:
+Ankerpunkt
+Sicherer Platz (z.B. Straße oder Weg, verbrannte Fläche), an dem die Brandbekämpfungsmaß­
+nahmen taktisch sinnvoll möglichst immer beginnen.
+Direkter Angriff
+Beschreibt alle Maßnahmen, welche direkt mit einem Angriff auf das Feuer in Verbindung ste­
+hen (z.B. mit Handwerkzeugen oder Strahlrohren).
+Flanken
+Links und rechts der Flammenfront ausbreitendes Feuer mit geringerer Intensität/geringem 
+3.	 Grundlagen der Vegetations­
+brandbekämpfung
+Nr.
+Themen
+Relevanz
+3.1
+Begriffe in der Vegetationsbrandbekämpfung
+3.2
+Vegetationsbrandarten
+3.3
+Ausbreitungsverhalten
+3.4
+Einsatzmittel bei der Vegetationsbrandbekämpfung
+Werkzeuge zur Bodenbearbeitung/Brandbekämpfung
+Waldbrandsets zur Brandbekämpfung
+Löschrucksäcke zur Brandbekämpfung
+3.5
+Pump- und Roll-Betrieb mit Löschfahrzeugen
+3.6
+Löscharbeiten bei den verschiedenen Brandarten
+3.7
+Besonderheiten der Brandbekämpfung
+Brandbekämpfung an Steillagen
+Maßnahmen auf munitionsbelasteten Flächen
+Löschunterstützung aus der Luft
+3.8
+Löschwasserversorgung
+Inhaltsverzeichnis
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+1. Allgemeine
+Informationen
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+
+22
+23
+Abbildung 7
+Einflussfaktoren auf einen
+Vegetationsbrand
+Feuersaum.
+Flammenfront/Feuerfront
+In Windrichtung und Hauptausbreitungsrichtung gelegene Feuer mit großer Intensität.
+Flammenhöhe
+Entspricht der direkten Länge der Flammen vom 
+Boden aus betrachtet, senkrecht in die Höhe.
+Flammenlänge
+Entfernung der Flammenspitze vom Boden im 
+direkten Verlauf der Flamme gesehen (nicht die 
+Höhe der Flammen über dem Boden, da durch 
+Wind auch lange, geneigte Flammen entstehen 
+können).
+Flammensaum/Feuersaum
+Beschreibt die Breite bzw. Tiefe des Feuers im Randbereich am Boden.
+Indirekter Angriff
+Beschreibt alle Maßnahmen, die nicht mit der direkten Brandbekämpfung in Verbindung ste­
+hen (Anlegen von Schneisen, Wundstreifen etc.).
+Schwarzbereich
+Beschreibt den Bereich, welcher schon verbrannt ist, in welchem aber noch glimmende Anteile 
+oder Hitze vorhanden sind. 
+Spotfeuer
+Feuer, welches abseits des eigentlichen Brandgeschehens durch Funkenflug/Flugfeuer verur­
+sacht wurde.
+3.2	
+Vegetationsbrandarten 
+Die tatsächliche Art des Brandes ist von folgenden Faktoren abhängig:
+•	
+Vegetation/Bewuchs
+o	
+Eigenschaften
+o	
+Feuchtigkeitsgehalt
+•	
+Wetter
+o	
+Wind
+o 	 Temperatur
+o	
+Luftfeuchtigkeit
+•	
+Topografie	  
+o	
+Hangneigung und Hangausrichtung
+o	
+Ebene
+Grundsätzliches
+•	
+Vegetationsbrände folgen meist der typischen Form einer Ellipse
+•	
+der Brandherd ist nur im Bereich des Saumes zu finden, kann aber je nach Brandart und 
+Bewuchs unterschiedlich groß und intensiv ausfallen
+•	
+in Windrichtung liegt die Feuer- oder Flammenfront, diese breitet sich am schnellsten 
+aus
+•	
+die Flanken des Feuers breiten sich langsamer aus, wobei auf Windrichtungsänderung 
+T
+o
+p
+o
+g
+r
+a
+f
+i
+e
+V
+e
+g
+e
+t
+a
+t
+i
+o
+n
+W
+e
+t
+t
+e
+r
+besonderer Augenmerk gelegt werden muss
+•	
+hinter dem Feuersaum brennen oder schwelen noch Teile der Vegetation, ein Betreten 
+der verbrannten Fläche (schwarzer Bereich) ist aber in der Regel möglich
+ 
+Vegetationsbrände lassen sich wie folgt nach ihrer Art unterteilen:
+Bodenfeuer
+•	
+häufigste Art des Vegetationsbrandes in Deutschland, meist Flurbrand
+•	
+es brennt die Bodenvegetation (z.B. Wiesen, Felder) und abgestorbenes Material am 
+Boden
+•	
+Flammenlänge bis 2 Meter
+•	
+hellgrau aufsteigender Rauch
+Erdfeuer
+•	
+entsteht aus einem Bodenfeuer
+•	
+es verbrennt organisches Material unter der Bodenoberfläche (z.B. in Torf- und Moorge­
+bieten)
+•	
+das Feuer breitet sich sehr langsam und unabhängig vom Wind im Untergrund kreisför­
+mig aus
+•	
+es besteht immer die Gefahr, dass das Erdfeuer sich zu einem Bodenfeuer entwickelt 
+oder dieses wieder anfacht
+Flugfeuer/Funkenflug
+•	
+beschreibt eine Ausbreitungsart, welche bei stärkerem Wind und hoher Hitzeentwick­
+lung vorkommt
+•	
+beschleunigt maßgeblich die Brandausbreitung, vor allem auch im Hinblick auf weitere 
+Feuer oder das dadurch mögliche Zusammenlaufen von verschiedenen Einzelbränden 
+(Spotfeuer)
+•	
+tatsächliche Ausbreitung ist maßgeblich von der Windstärke und dem thermischen Auf­
+trieb des Vegetationsbrandes abhängig und nicht pauschal bestimmbar – kann bis zu 
+mehreren Kilometern betragen!
+•	
+es bestehet die Gefahr, dass die Löschmannschaften durch Flugfeuer eingeschlossen 
+werden
+•	
+Einrichtung von Beobachtungsposten, Rückzugswegen und Sicherheitszonen beson­
+ders wichtig! –> siehe Kapitel 5.3, Sicherheitshinweise (LACES-Regel)
+Spotfeuer
+linke Flanke
+rechte Flanke
+Rückseite
+Entzündungspunkt
+Flammenfront
+Abbildung 8
+mögliche Form eines
+Vegetationsbrandes
+Flammenhöhe
+Flammenlänge
+Flammensaum
+Abbildung 6
+Flammenhöhe und Flammenlänge
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+24
+25
+Kronen- und Wipfelfeuer
+•	
+Brand der Baumkronen
+•	
+entsteht aus einem Bodenfeuer und eilt diesem (meist aufgrund des Windes oder der 
+Topografie) voraus
+•	
+ein andauerndes Kronenfeuer wird von einem Bodenfeuer genährt und kann auf Dauer 
+nicht ohne dieses bestehen
+•	
+charakteristischer dunkelgrauer bis schwarzer Rauch, da in den Kronen dicht benadel­
+tes oder grünes Brennmaterial vorhanden ist
+•	
+durch gleichzeitiges Flugfeuer können neue Brandherde entstehen
+Stammfeuer
+•	
+beschreibt das Brennen von Einzelstämmen (z.B. durch Blitzschlag oder Menschen 
+hervorgerufen)
+•	
+Feuer läuft in der Regel in trockenen und hohlen Stämmen ab
+•	
+meist auf einen oder einzelne Stämme begrenzt
+•	
+es besteht die Gefahr, dass sich der Stammbrand zum Bodenfeuer ausbreitet
+Vollfeuer
+•	
+seltene und intensivste Art des Waldbrandes
+•	
+Feuer des Bodens und der Baumkronen
+•	
+ein Vollfeuer entsteht immer aus einem Bodenfeuer
+•	
+dunkelgrauer bis schwarzer Rauch, da in den Kronen dicht benadeltes oder grünes 
+Brennmaterial vorhanden ist
+•	
+Flammenlänge ist je nach Höhe des Baumbestandes und ggf. einer Hanglage abhängig 
+und kann bis zu mehreren 10 Metern betragen
+•	
+durch gleichzeitiges Flugfeuer können neue Brandherde entstehen
+3.3	
+Ausbreitungsverhalten
+Das Ausbreitungsverhalten der jeweiligen Brandarten ist unterschiedlich und wird zudem von 
+mehreren Faktoren beeinflusst, z.B.
+•	
+Menge an brennbarem Material
+•	
+Trockenheit des brennbaren Materials
+•	
+topografische Gegebenheiten
+•	
+Windeinflüsse
+Gerade bei aufkommendem Wind kann sich die Intensität und die Ausbreitung des Feuers mas­
+siv entwickeln und verstärken, auch Richtungsänderungen durch das Drehen des Windes sind 
+möglich und zu berücksichtigen.
+Brände in Hang- oder Steillagen, wie sie in bergigen Gebieten vorkommen, sind besonders 
+kritisch. Hierbei ist zu beachten (siehe Abbildung 9):
+•	
+schnelle und extreme Brandausbreitung bergauf durch thermische Aufbereitung der 
+Brandart
+Ausbreitung
+Bodenfeuer auf Freifläche, z.B. Stoppelfeld
+0,2 km/h bis 11 km/h
+Bodenfeuer im Wald
+10 m/h bis 1,2 km/h
+Vollfeuer im Wald
+bis zu mehreren km/h
+Stammfeuer
+auf einzelne Stämme beschränkt
+Erdfeuer
+sehr langsam, einige Meter je Tag, unabhän­
+gig vom Wind, kreisförmig
+Funkenflug/Flugfeuer
+bis zu mehreren 100 m oder Kilometer!
+Vegetation
+•	
+Herabrollen von Glut und brennenden Bestandteilen nach unten
+•	
+Achtung: Auch Herabrollen oder Herabstürzen von Steinen/Geröll talwärts möglich
+•	
+Eine Brandbekämpfung ist in der Regel nicht effektiv und gefährlich! (siehe Kapitel 3.7)
+3.4	
+Einsatzmittel bei der Vegetationsbrandbekämpfung
+Werkzeuge zur Bodenbearbeitung/Brandbekämpfung
+Feuerpatsche/Brandpatsche	
+•	
+die Patsche über den Feuersaum bewegen
+•	
+leicht an den Boden drücken und über den Feuersaum ziehen/drücken
+•	
+das Feuer nicht ausschlagen! Es wird 
+vielmehr ausgestrichen/ausgedrückt (er­
+stickende Wirkung durch Trennung des 
+Brennstoffes vom Sauerstoff)
+•	
+ein Schlagen auf die Flammen bewirkt ein 
+Anfachen des Feuers oder einen Funken­
+flug
+Verschiedene Schaufeln/Spaten
+•	
+mit Schaufeln oder Spaten kann ähnlich 
+wie bei der Feuerpatsche vorgegangen wer­
+den
+•	
+mittels Sand- oder Erdwurf auf den Feuersaum kann das Feuer überer­
+det und gelöscht werden	
+Wiedehopfhacke	
+•	
+Bearbeiten des Bodens, Wundstreifen herstellen und/oder zum Weg­
+ziehen von Gegenständen
+•	
+kleine Bäume, Büsche sowie jegliches Brennmaterial kann ent­
+fernt werden
+Verschiedene Multifunktionswerkzeuge
+•	
+ausgestattet mit verschiedenen, kombinierten Arbeitsgeräten 
+Abbildung 9
+Brandausbreitung an Hängen
+Abbildung 10
+Feuerpatsche
+aufgeheizte Luft
+frische Luft
+Aufheizung:
+Schnelle und extreme 
+Brandausbreitung 
+bergauf durch thermi-
+sche Aufbereitung der 
+Vegetation
+Brennende Teile und 
+Geröll rollen bergab
+Abbildung 11
+Beispiele von Schaufeln oder 
+Spaten zur Brandbekämpfung
+Abbildung 12
+Wiedehopfhacke zur
+Bodenbearbeitung
+Abbildung 13
+Multifunktionswerkzeug zur Boden­
+bearbeitung 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+26
+27
+Achtung! 
+Abbildung 14
+Waldbrandset im Rucksack 
+•	
+Rechen, Hacken zur Bodenbearbeitung
+•	
+Anlegen eines Wundstreifens auf Waldböden
+•	
+scharf geschliffene Haue durchtrennt Wurzeln, oder entfernt Büsche (Brandgut)
+Ein alleiniger Einsatz von Handwerkzeugen ist in der Regel nicht zielführend, ein Nachlöschen 
+mit Wasser unerlässlich.
+Weiterhin können für eine defensive Einsatztaktik auch Einreißhaken, Astsägen, Motorketten­
+sägen und ähnliches eingesetzt werden, um Wundstreifen im Wald anzulegen oder Brennma­
+terial zu entfernen. Auch einfache Mittel und Maßnahmen zur Brandbekämpfung können sehr 
+effektiv sein, z.B.:
+•	
+Auskehren oder Ausschlagen, beispielsweise mit Nadelbaum-Ästen
+•	
+Austreten von kleinen Feuern
+•	
+Löschen mit Kleinlöschgeräten
+Waldbrandsets zur Brandbekämpfung
+•	
+bestehen meist aus 2-3 D-Strahlrohren und D-Druckschläu­
+chen sowie einem C-DCD Verteiler (inkl. Übergangsstücken)
+•  	 sind in Schlauchtragekörbe oder Rucksäcke gepackt
+Auch provisorisch oder selbst zusammengestellte vergleichbare 
+Sets eignen sich, um effektiv die Brandbekämpfung bei Vegetati­
+onsbränden durchzuführen und auch bei Fahrzeugen mit kleinem 
+Wassertank in der Erstphase wirkungsvolle Maßnahmen einzulei­
+ten.
+Auf den landeseigenen LF20-KatS wird (in Anlehnung an die DIN 14800-18 Beiblatt 10) das 
+Belademodul Waldbrand mit folgender Ausstattung mitgeführt:
+Informationen zum Vorgehen mit den Waldbrandsets:
+•	
+Schläuche mit Strahlrohr können seitlich aus dem Rucksack oder durch Aufklappen des 
+Rucksackes entnommen/ausgelegt werden
+•	
+Wasserversorgung zum C-DCD Verteiler durch zuvor verlegte C-Schläuche, gespeist über 
+Fahrzeuge oder B-Leitungen mit entsprechendem Verteiler
+Löschrucksäcke zur Brandbekämpfung
+Auf dem Markt sind verschiedene Löschrucksäcke in teils 
+unterschiedlichen Größen verfügbar. Die Rucksäcke verfü­
+gen über einen circa 20 Liter fassenden Tank (je nach Versi­
+on und Hersteller). Über eine Handpumpe, meist kombiniert 
+mit einer Löschmittelauswurfsvorrichtung (Düse oder Strahl­
+rohr), wird das Wasser aus dem Rucksack versprüht.
+Einsatz: Bei kleineren Flurbränden/Bodenfeuern oder für Nachlöscharbeiten, um gezielt Was­
+ser auszubringen (z.B. bei Glutnestern). Zur Erhöhung der Eindringtiefe des Löschmittels kann 
+auch Netzmittel verwendet werden.
+3.5	
+Pump & Roll-Betrieb
+Pump & Roll beschreibt die Fähigkeit eines Fahrzeuges, dass während der Löschwasserabgabe 
+das Fahrzeug gleichzeitig bewegt werden kann. Um diese Variante effektiv im Einsatzfall anzu­
+wenden, bedarf es
+•	
+technischer Voraussetzungen des Fahrzeuges (Fahrzeug muss es technisch können)
+•	
+taktischer Voraussetzungen des Einsatzes (die Brandbekämpfung muss damit sicher 
+und möglich sein)
+•	
+personeller Voraussetzungen (Personal muss darin ausgebildet und eingewiesen sein)
+Vorgehensweise im Einsatzfall
+•	
+D-Schlauch an Pumpenausgang kuppeln
+•	
+D-Leitung über den Fahrzeugspiegel nach vorn verlegen (mit Arbeitsleine sichern, z.B. 
+Mastwurf oder Prusik-Knoten)
+•	
+Pumpe einrücken und Wasser fördern, dabei das Fahrzeug langsam vorwärts bewegen
+•	
+während der langsamen Fahrt kann durch die Löschmannschaft vor dem Fahrzeug Was­
+ser abgegeben werden
+•	
+vom Ankerpunkt aus am Feuersaum entlangfahren und das Feuer durch Wasserabgabe 
+löschen
+•	
+Einheitsführer bewegt sich auf Höhe des Löschtrupps
+•	
+weitere Trupps mit Handwerkzeugen (und 2. Strahlrohr) führen Nachlöscharbeiten 
+durch, alternativ 2. Fahrzeug mit Strahlrohr hinter dem 1. Fahrzeug
+•	
+Flammenfront seitlich bekämpfen und somit von den Seiten (über die Flanken) „einfan­
+gen“
+Weitere Hinweise
+Die tatsächliche Einsetzbarkeit der Pump & Roll-Fähigkeit bei der Vegetationsbrandbekämp-
+fung ist fahrzeugabhängig, da mitunter zu hohe Geschwindigkeiten (meist ab ca. 6 km/h) ge-
+fahren werden müssen, um die fest eingebaute, über den Fahrzeugmotor angetriebene Feu-
+erlöschkreiselpumpe zu nutzen. Geschwindigkeiten ab 6 km/h sind jedoch für die fußläufige 
+Brandbekämpfung mit Strahlrohr neben dem Fahrzeug zu schnell. Die tatsächliche Eignung 
+des jeweiligen Fahrzeuges ist zu prüfen (bzw. die Pump&Roll-Fähigkeit und die zu fahrende 
+Geschwindigkeit im Rahmen der Ausschreibung von Fahrzeugen näher zu definieren).
+Eine Wasserabgabe über den Werfer im Pump & Roll-Betrieb ist bei einigen Fahrzeugen tech­
+nisch möglich. Aufgrund der zu hohen Wasserabgabe ist dies jedoch inneffizient und Wasser­
+verschwendung. Zudem stellt dies in Bezug auf die UVV eine unnötige Gefährdung dar.
+•	
+Pump & Roll bedarf enger Abstimmung zwischen Maschinist und Führungskraft sowie 
+Einsatzkräften
+•	
+untereinander abgestimmte Handzeichen verwenden für Vorwärts/Rückwärts/Stop
+•	
+Pump & Roll-Betrieb regelmäßig üben
+•	
+Sicherheit beachten bei Bandbekämpfung aus dem Schwarzen Bereich
+•	
+Nie mit dem Fahrzeug vor die gelöschte Flanke bewegen!
+•	
+Wassersparend arbeiten, Durchflussmengen beachten und ggfs. regulieren!
+•	
+Auf die Sicherung des Fahrzeuges achten (ggf. 2. Rohr oder Schnellangriff)!
+Abbildung 15
+Löschrucksack
+Bezeichnung
+Norm
+Anzahl
+Partikelfiltrierende Halbmaske EN 149 FFP 2
+DIN EN 149
+10
+Schutzbrille, dicht am Auge schließend, tragbar in Kombination 
+mit dem Feuerwehrhelm, auch für Brillenträger geeignet
+DIN EN 166
+3
+Druckschlauch D 25-15-KL1-2-K
+DIN 14811
+4
+C-D Übergangsstück
+DIN 14341
+2
+Hohlstrahlrohr ohne Griff, mit Festkupplung D; Durchflussmenge Q 
+von etwa 100 l/min
+DIN EN 15182
+2
+Verteiler CK
+DIN 14345
+1
+Achtung! 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+Prusik-Knoten
+
+28
+29
+Sollte das Fahrzeug über keine Pump & Roll-Funktion verfügen, kann diese Vorgehensweise 
+abgewandelt wie folgt zum Einsatz kommen (raupenmäßig):
+•	
+Trupp führt Brandbekämpfung durch, bis die Schlauchleitung ausgelegt ist
+•	
+Fahrzeug zieht ohne Druck am Strahlrohr und mit ausgeschalteter Pumpe vor, Trupp 
+nimmt Schlauch in Buchten oder mit Wasser gefüllt gerollt (Loops), z.B. über die Schul­
+ter, auf
+•	
+die Pumpe wird wieder eingeschaltet
+•	
+anschließend erfolgt wieder die Brandbekämpfung des Trupps, welcher sich weiter 
+nach vorn bewegt
+•	
+Vorgehen wiederholt sich
+•	
+Einsatz eines 2. Maschinisten zur Bedienung der FPN sinnvoll
+3.6	
+Löscharbeiten bei den verschiedenen Brandarten
+Bei Vegetationsbrandeinsätzen kommt aufgrund der positiven Eigenschaften in Bezug auf 
+das Wärmeaufnahmevermögen und die dadurch entstehende Löschwirkung meist Wasser 
+als Löschmittel zum Einsatz. Der Einsatz von Löschwasser ist jedoch bei größeren Einsätzen 
+in der Regel aufgrund der zumindest zu Beginn des Einsatzes nicht vorhandenen oder nicht 
+ausreichenden Wasserversorgung limitiert. Somit sollte, wenn lagebezogen möglich, zunächst 
+sparsam und effektiv mit dem vorhandenen Löschwasser umgegangen werden (Einsatz von 
+Handwerkzeugen und D-Rohren und Löschrucksäcken). Grundsätzlich sollten bei den Löschar­
+beiten folgende Faktoren berücksichtigt werden:
+•	
+mit Wasser nur Brandabschnitte mit offenen Flammen und einer intensiven Flammen­
+entwicklung bekämpfen
+•	
+Ablöschen von Feuern mit C- und idealerweise D-Rohren meist ausreichend (aufgrund 
+der ausgebrachten Löschwassermengen und der noch möglichen Manövrierbarkeit der 
+Löschleitungen [Gewicht])
+•	
+zum Bekämpfen des Feuersaums und zur Verhinderung einer Ausbreitung Sprühstrahl 
+einsetzen, komplettes Ablöschen und Nachlöschen des Feuersaumes erst in einem 
+späteren Schritt mit einem weiteren Löschfahrzeug oder Löschmannschaften
+•	
+nachdem der Außensaum des Feuers gelöscht ist, kann mit Ablöschen der gesamten 
+Brandfläche begonnen werden
+•	
+bevor das Löschfahrzeug ggfs. auf verbrannter Fläche postiert wird, muss die beabsich­
+tigte Standfläche komplett abgelöscht werden!
+Zusätzlich differieren die durchzuführenden Löscharbeiten aufgrund der verschiedenen Bran­
+darten:
+Bodenfeuer
+•	
+bei geringer Flammenlänge (bis 1 m) mit Handwerkzeugen bekämpfen
+•	
+Einsatz von Strahlrohren nur zur direkten Brandbekämpfung
+•	
+Wasser zunächst nur auf Feuersaum abgeben, um weitere Ausbreitung zu verhindern
+•	
+Einsatz von Vollstrahl bei großer Feuerintensität/Hitzeentwicklung (größerer Wurfweite 
+und längerem abgelöschten Feuersaum)
+•	
+Einsatz des Sprühstrahls bei geringer Feuerintensität bzw. direkt vor dem Strahlrohr­
+führer
+•	
+Möglichkeit des abwechselnden Einsatzes von Voll- und Sprühstrahl beim Vorrücken; 
+Feuersaum mit Vollstrahl von weiterweg nach nah zu sich heran ablöschen, dann mit 
+Sprühstrahl weiter vor gehen
+•	
+komplettes Ablöschen und Nachlöschen des Feuersaumes erst in einem späteren 
+Schritt mit weiteren Löschfahrzeug oder weiteren Einsatzkräften
+Zu beachten ist, dass aufgrund des geringen Querschnittes von D-Schläuchen in Verbindung 
+mit der Durchflussmenge von ca. 100 l/min deutliche Druckverluste entstehen. Durch das Ver­
+längern der D-Schläuche können somit auch bei kurzen Strecken sehr schnell Druckverluste in 
+solcher Höhe entstehen, dass der Strahlrohrdruck am Hohlstrahlrohr für ein optimales Sprüh­
+bild nicht mehr gewährleistet ist! Aufgrund der massiv geringeren Druckverluste ist vor Erhö­
+hung des Förderdruckes das Verlängern der B- oder C-Leitungen durchzuführen.
+Erdfeuer
+•	
+Feuer/Glimmen von organischen Stoffen im Untergrund ist schwer zu löschen
+•	
+aufgrund der Eindringtiefe mit Vollstrahl arbeiten oder Löschlanzen einsetzen
+•	
+Sprühstrahl wenig bis gar nicht wirksam
+•	
+nach Möglichkeit brennbares Material vom Boden entfernen, um ein Ausbreiten zum 
+Bodenfeuer zu verhindern 
+•	
+Ausbreitung kann, je nach Lage und Tiefe, durch umfassende Gräben (Spaten, Pflug, 
+Bagger o. ä.) verhindert werden (gerade bei größeren Brandflächen zweckmäßig)
+Flugfeuer
+•	
+im Idealfall im Entstehungsbrandstadium löschen
+•	
+bei Gefahr von Funkenflug oder Flugfeuer ausreichend Reserven an der Einsatzstelle/in 
+Bereitstellungsräumen bilden, um direkt tätig werden zu können
+Kronen- oder Wipfelfeuer
+•	
+eine Bekämpfung des Kronenfeuers ist, je nach Höhe, meist schwierig bis unmöglich: 
+Löschangriffe rein auf Kronenfeuer von unten oder von oben durch Luftunterstützung 
+sind meist erfolglos und Löschmittelverschwendung
+•	
+Brandbekämpfung nur bei ausreichender Geräte- und Wasserversorgung überhaupt 
+sinnvoll und durchführbar
+•	
+ein andauerndes vorauseilendes Kronenfeuer kann nicht ohne entsprechendes Boden­
+feuer bestehen
+Stammfeuer
+•	
+regulär mit Wasser löschen, idealerweise von oben
+•	
+alternativ Hohlräume, wenn möglich, mit Erde abdichten und Feuer ersticken
+•	
+Baum fällen und am Boden ablöschen
+Vollfeuer
+•	
+kann auf Dauer nur bestehen, wenn es durch ein starkes und heißes Bodenfeuer ge­
+nährt wird
+•	
+Vollfeuer ist aufgrund seiner Thermik, enormen Hitzeentwicklung und der Ausbrei­
+tungseigenschaften deutlich schwieriger zu bekämpfen als ein reines Bodenfeuer
+•	
+Vollfeuer ist abhängig vom Bodenfeuer – ohne Bodenfeuer kein Vollfeuer!
+•	
+luftgebundene Einheiten können die Ausbreitung des Feuers verlangsamen
+•	
+bodengebundene Kräfte können ein Vollfeuer in der Regel nicht löschen
+•	
+aufgrund der thermischen Aufbereitung, der großen Energie und der sehr großen Hitze­
+entwicklung ist der Einatz von B-Rohren bezüglich der Löschwasserlogistik nicht effizi­
+ent
+•	
+effizientere Brandbekämpfung möglich, wenn das Vollfeuer zu einem Bodenfeuer wird
+Es ist darauf zu achten, dass aufgrund des Kronenbrandes Teile der Bäume abstürzen können.
+Achtung! 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+30
+31
+3.7	
+Besonderheiten der Brandbekämpfung 
+Brandbekämpfung an Steilhängen (mittels Seiltechnik)
+•	
+unter Steilhang versteht man einen Berghang (oder Teile davon) mit über 30° Neigung
+•	
+Löschen von Vegetationsbränden in Hängen aufgrund der Zugänglichkeit mit herkömm­
+lichen Methoden nicht möglich
+•	
+bei Erforderlichkeit der Brandbekämpfung von Hängen frühzeitig über den Einsatz von 
+Hubschraubern nachdenken
+•	
+steht kein Hubschrauber zur Verfügung oder müssen tiefgründige Nachlöscharbeiten 
+durchgeführt werden, ist meist nur der gesicherte Zugang von oben möglich
+•	
+wenn die Gefährdung der Einsatzkräfte zu hoch ist, eine defensive Taktik (Feuer bren­
+nen lassen) wählen
+•	
+durch die Ausbreitung des Feuers nach oben besteht die Erschwernis, einen geeigne­
+ten und sicheren Anschlagpunkt und Standplatz für den Haltenden zu finden 
+•	
+es besteht die Gefahr des Absturzes (durch Wegrutschen der Einsatzkraft oder Herab­
+fallen von z.B. Steinen, Baumstämmen oder Einsatzmitteln), weshalb die Einsatzkräfte 
+bei Arbeiten im Steilhang gesichert werden müssen
+•	
+die Sicherung/der Anschlagpunkt muss sich zwingend auf der Bergkuppe befinden, da 
+der Haltende sich nicht im absturzgefährdeten Bereich aufhalten darf
+•	
+da sich das Feuer in der Regel an Hängen nach oben ausbreitet, ist eine Brandbekämp­
+fung in unmittelbarer Nähe zur Flanke des Feuers zu vermeiden
+Aufgrund der erhöhten Gefährdung und der körperlich anstrengenden Arbeit im Steilhang, ver­
+bunden mit der geringen Schlagkraft gegen ein sich ausbreitendes Feuer, sollte die bodenge­
+bundene Brandbekämpfung an diesen Hängen als letzte Wahl angesehen werden. Verstärkt 
+wird dies durch erschwerte und langsame Rückzugsmöglichkeiten und die Gefahr, dass das 
+Sicherungsseil durch Glut oder Feuer beschädigt wird.
+Empfohlene Einsatztechnik
+Wenn möglich sollten hitzebeständige Aramid-Seile und Aramid-Bandschlingen verwendet 
+werden. Die Fasern schmelzen bei hohen Temperaturen nicht, sondern beginnen ab ungefähr 
+500°C zu verkohlen. Dadurch sind eventuelle Glutnester keine Gefahr für die Einsatzkräfte.
+Medizinische Absicherung
+Empfehlenswert ist bei Arbeiten im Steilhang (sowie generell bei der Waldbrandbekämpfung), 
+dass in unmittelbarer Nähe zur Einsatzstelle geeignetes medizinisches Personal vorgehalten 
+wird. Hier bietet es sich an, Einheiten der Bergrettung frühzeitig nachzufordern und dem ent­
+sprechenden Einsatzabschnitt anzugliedern. 
+Kommunikation und Sicherheitsposten
+Aufgrund von Bewuchs, Form und Länge des Hanges ist die Kommunikation meist einge­
+schränkt, weshalb die gesicherte Einsatzkraft und der Haltende in Funkkontakt stehen müs­
+sen.  Werden durch Seile oder Leinen gesicherte Einsatzkräfte zu Arbeiten in Steilhängen tätig, 
+müssen immer Posten zur Beobachtung des Feuers eingesetzt werden, welche dauerhaften 
+Funkkontakt halten, um bei Gefahr (z.B. durch sich drehenden Wind oder Wiederaufflammen) 
+einen sofortigen Rückzug einleiten können, da die Seile oder Leinen nicht hitzebeständig sind.
+Einsatzmöglichkeiten
+Folgende Einsatzmöglichkeiten bestehen grundsätzlich:
+Achtung! 
+Einsatzmöglichkeit 1
+Zur Bekämpfung von Glutnestern und Restlöscharbeiten sollte in sicherer Entfernung zur ehe­
+maligen Feuerflanke gesichert abgestiegen werden, um dann mit Zwischensicherungen zu 
+den Glutnestern horizontal vorzugehen (siehe Abbildung 16). Bei dieser Variante muss ein 
+Kernmantel-Dynamikseil, z.B. aus dem Set-Absturzsicherung oder mit Hilfe von Bergrettungs­
+einheiten, verwendet werden, da diese Seile die bei einem Sturz auftretende Fallenergie auf­
+nehmen können. Des Weiteren müssen die Einsatzkräfte Auffanggurte tragen. Der Feuerwehr­
+haltegurt und die Feuerwehrleine sind hierfür nicht geeignet.
+Einsatzmöglichkeit 2
+Des Weiteren ist denkbar, dass Einsatzkräfte in sicherer Entfernung zur Feuerflanke am Steil­
+hang Schneisen zur Verhinderung einer seitlichen Brandausbreitung anlegen. Dabei kann in 
+der Falllinie gearbeitet werden (siehe Abbildung 17). Der Einsatz von Kernmantel-Dynamiksei­
+len und Auffanggurten wird empfohlen.
+Einsatzmöglichkeit 3
+Zum sicheren Auf- und Absteigen zu im Steilhang befindlichen Stellen ist der Aufbau von Seil­
+geländern empfehlenswert. Hierbei handelt es sich um Seile oder Feuerwehrleinen, welche 
+an z.B. Bäumen befestigt wurden. Die Einsatzkräfte können sich, indem sie sich mittels Hal­
+te- oder Auffanggurt in die Seilgeländer einhängen, gesichert in steilem Gelände bewegen. 
+Das ist besonders wichtig, wenn Einsatzkräfte schweres Gerät transportieren oder über geringe 
+„Trittsicherheit“ verfügen. Vor Einbruch der Dunkelheit sollten zwingend derartige Sicherungen 
+aufgebaut werden, um das Verletzungsrisiko zu verringern oder einen Absturz bei Nacht zu 
+S
+S
+EK
+EK
+Haltender/Sicherer
+Einsatzkraft
+Anschlagpunkt
+Zwischensicherung
+Seil/Leine
+Abbildung 16
+Einsatzbeispiel 1 
+horizontaler Vorstieg zur Feuerflanke
+Abbildung 17
+Einsatzbeispiel 2 
+gesicherte Arbeit in der Falllinie
+S
+S
+EK
+EK
+Haltender/Sicherer
+Einsatzkraft
+Anschlagpunkt
+Seil/Leine
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+32
+33
+vermeiden. Wenn möglich, sollten auch hier externe Kräfte der Bergrettung zum Aufbau solcher 
+Systeme nachgefordert werden.
+Maßnahmen auf munitionsbelasteten Flächen
+•	
+Brände auf munitionsbelasteten Flächen oder Munitionsverdachtsflächen sind beson­
+ders anspruchsvoll, da derartige brennende Flächen meist eine Gefahr für angrenzende 
+Gemeinden und eine besondere Gefährdung für die Beteiligten darstellen
+•	
+Brandbekämpfung auf den beschriebenen Flächen ist mit den vorhandenen Fähigkei­
+ten bei den Feuerwehren oder KatS-Einheiten nicht möglich
+•	
+ausreichender Schutz der Fahrzeuge oder des Einsatzpersonals kann nicht gewährleis­
+tet werden, sodass Brandbekämpfungsmaßnahmen auf munitionsbelasteten Flächen 
+oder Verdachtsflächen nicht durchgeführt werden können
+•	
+Betreten der sogenannten „Roten Zonen“ (belasteten oder verdächtigen Flächen) ist 
+aufgrund der Gefährdung durch Kampfmittel untersagt
+•	
+indirekte Brandbekämpfungsmaßnahmen, z.B. durch Anlegen von Schaumsperren 
+oder dem Herstellen von Schneisen auf ausgewiesenen, geräumten Fahrwegen oder 
+geräumten angrenzenden Flächen, können die einzigen Maßnahmen sein
+•	
+nach derzeitigem Stand der Technik und Forschung sind die Sicherheitsabstände ge­
+mäß FwDV 500 zwingend einzuhalten
+•	
+daraus resultierend gestalten sich auch die vorstehenden Maßnahmen meist schwierig
+•	
+der Einsatz von Hubschraubern kann aufgrund der Gefahren und dem nicht ausreichen­
+den Schutz der Luftfahrttechnik nicht durchgeführt werden
+•	
+Fachberater oder Verbindungspersonen der Bundeswehr können aufgrund ihrer Orts- 
+und Fachkenntnisse Unterstützung geben
+•	
+Einsatzmittel der Bundeswehr, z.B. gepanzertes Gerät, sind ebenfalls als Unterstützung 
+möglich, es bedarf aber genauer Kunde über die Belastung und ausreichenden Schut­
+zes durch das Spezialgerät
+Es bleibt anzumerken, dass die Entscheidung über den Einsatz von gepanzertem Gerät auf ent­
+sprechenden Flächen grundsätzlich beim Einsatzleiter und dem Gesamtverantwortlichen liegt. 
+Sollte, z.B. aufgrund von technischen Defekten o. ä., das Gerät in dem Gefährdungsbereich 
+havarieren, sind Rettungsmaßnahmen ohne Weiteres nicht möglich. Anhand der vorhandenen 
+Gefahren muss durch den Einsatzleiter abgewägt werden, ob der Einsatz von gepanzerter Tech­
+nik und dem zugehörigen Personal auf belasteten oder verdächtigen Flächen unbedingt not­
+wendig ist. Dies sollte nur im äußersten Notfall bzw. bei Gefahr für Menschenleben tatsächlich 
+in Erwägung gezogen werden.
+Einsatzleiter
+Landeseinsatzzentrale (LEZ)
+PHuSt TH
+GMLZ
+Bundesländer
+Landespolizeien
+Bundespolizei
+Zentrale Leitstelle
+Landkreis/kreisfreie Stadt
+Anforderung über 
+LEZ
+Anforderung über 
+KVK
+Voralarmierung
+KVK
+Thüringen
+Bundesrepublik
+Anforderung
+nicht verfügbar
+nicht verfügbar
+ja
+ja
+ja
+Kreisverbindungskommando (KVK)
+Landeskommando
+Kommando Territoriale Aufgaben
+Löschunterstützung aus der Luft
+Zur Brandbekämpfung oder Unterstützung kann ein Hubschrauber angefordert werden. Hierzu 
+wird auf die folgende Abbildung zu vorgeplanten Abfrage- bzw. Anforderungswegen verwiesen:
+Hubschrauber eignen sich besonders für:
+•	
+die Erkundung
+•	
+das Führen von Einsatzkräften
+•	
+den Transport von Einsatzkräften und Geräten
+•	
+zum Löschen von Bränden mittels Löschwasseraußenlastbehälter (LAB)
+Je nach Verfügbarkeit von Hubschraubern der Landes- oder Bundespolizei sowie der Bundes­
+wehr sind unterschiedlich lange Flugzeiten bis zum Eintreffen am Einsatzort einzukalkulieren. 
+Diese können nicht pauschalisiert werden, sind im Einsatzfall für die taktische und zeitliche 
+Planung des Einsatzes entsprechend anzufragen und zu berücksichtigen.
+Die Kommunikation mit dem angeforderten Hubschrauber ist im Digitalfunk (der Rufgruppe 
+„ZW“ des jeweiligen Landkreises) möglich. Es ist zu empfehlen, gegebenenfalls einen Einsatz­
+unterabschnitt zu bilden.
+Die notwendigen Löschwasseraußenlastbehälter werden bei der Landes- und Bundespolizei 
+am Hubschrauberstandort in der Regel vorgehalten und im Inneren des Hubschraubers ver­
+lastet zur Einsatzstelle gebracht. Es muss daher eine Landemöglichkeit für das Anbringen des 
+LAB vorhanden sein. Gegebenenfalls muss eine separate Anforderung der LAB getätigt werden 
+(im Rahmen der Anforderung der Hubschrauber zu klären). LAB werden auch zentral an der 
+TLFKS vorgehalten. Gegebenenfalls müssen entsprechende Behälter auch bei anderen Stellen 
+mitsamt Flughelfern angefordert werden.
+Bei Ankunft des Hubschraubers ist eine Lageeinweisung für das Hubschrauberpersonal not­
+wendig. Ein anfänglicher Einweisungsflug über das Schadensgebiet bietet sich an. Der Hub­
+schrauber mit LAB sollte in Schwerpunktgebieten eingesetzt werden. Dies sind insbesondere:
+•	
+Siedlungsränder
+•	
+Brandstellen, die mit Löschfahrzeugen nicht oder schwer zu erreichen sind
+•	
+Gebiete, in denen eine Löschwasserversorgung nicht oder nicht schnell genug aufge­
+baut werden kann
+•	
+Bereiche, in denen der Brand aufgrund der Lage  nicht unter Kontrolle gebracht werden 
+kann (z.B. Flugfeuer)
+Abbildung 19
+Anforderungsschema für
+Hubschrauber
+EK
+EK
+EK
+EK
+EK
+EK
+Einsatzkraft
+Anschlagpunkt
+Festpunkte
+Seil/Leine
+Abbildung 18
+Einsatzbeispiel 3
+ Aufbau eines Seilgeländers
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+34
+35
+Für die Brandbekämpfung und die Landemöglichkeiten werden folgende Anforderungen an die 
+gewählten Flächen gestellt:
+Wasserentnahmestellen
+•	
+mögliche Wasserentnahmemöglichkeiten sollten im Rahmen der Lageerkundung be­
+kannt sein, z. B.
+o	
+Teich oder See
+o	
+direkte Befüllung durch Feuerwehr
+o	
+mobile Löschwasserfaltbehälter (siehe Kapitel 3.8)
+•	
+Wassertiefe mindestens 1,5 bis 3,0 m (je nach Behältergröße), 
+•	
+frei von Schlamm, Fremdkörpern, Hindernissen, Bewuchs und Strömung
+Die Wasserentnahmestellen oder Aufnahmestellen für die Hubschrauber sollten möglichst nah 
+am jeweiligen Einsatzgebiet liegen. Nur so kann eine möglichst große Anzahl an Abwürfen und 
+ein effektiver und wirtschaftlicher Einsatz der Hubschrauber gewährleistet werden.
+Landemöglichkeiten
+•	
+Größe der Landemöglichkeit: mindestens 35 x 35 m für Außenlastbehälter bis 900 l, 
+darüber hinaus mindestens 50 x 50 m
+•	
+ebenes Gelände
+•	
+keine Senken
+•	
+Bewuchs nicht höher als 30 cm
+•	
+Landemöglichkeit und nächste Umgebung frei von losem Material
+•	
+mit Fahrzeugen gut erreichbar
+•	
+keine Freileitungen in der Nähe
+3.8	
+Löschwasserversorgung
+•	
+Löschwasserversorgung ist bei größeren Vegetationsbränden ein zentraler Punkt, um 
+den Einsatzerfolg zu sichern
+•	
+aufgrund des teils umfangreichen Ausmaßes muss hierzu ein Einsatzabschnitt gebildet 
+werden, welcher auch in Unterabschnitte gegliedert werden kann oder muss
+•	
+eine Untergliederung kann sich nach den örtlichen Gegebenheiten, unterschiedlich 
+angewendeten Taktiken oder Möglichkeiten richten und obliegt grundsätzlich der Ent­
+scheidung der Einsatzleitung bzw. des Abschnittsleiters
+Im Rahmen der Brandbekämpfung bieten sich mehrere Möglichkeiten an, die Wasserversor­
+gung aufzubauen:
+•	
+Pendelverkehr mit LF/TLF
+•	
+Wasserversorgung über lange Schlauchstrecken
+•	
+Unterstützung durch Land- bzw. Forstwirte mit Löschwasserbehältern, z.B. Güllefässern
+•	
+grundsätzlich ist die Wasserversorgung von einer oder mehreren leistungsfähigen 
+Löschwasserentnahmestellen abhängig
+•	
+je nach örtlichen Gegebenheiten bedarf es hierzu mehrerer Optionen, z.B. der Entnah­
+me aus dem zentralen Netz der Wasserversorger in unmittelbarer Nähe (z.B. von einer 
+Ortschaft) oder in Kombination mit der Entnahme aus einem offenen, unerschöpflichen 
+Gewässer
+•	
+besteht eine Löschwasserentnahmestelle aus einem Fluss oder Bach muss sicherge­
+stellt sein, dass die benötigte Löschwassermenge nachfließt, um langfristig die Versor­
+gung zu sichern
+•	
+bei Entnahmestellen in Flüssen oder Bächen hat sich die Nutzung von Leiterteilen mit 
+Folie, Sandsäcken zum Anstauen oder mobilen Staustellen (z.B. Modell Biber, verlastet 
+auf den landeseigenen LF 20-KatS) bewährt
+•	
+teilweise sind Staustellen in den Wäldern vorgesehen oder bereits vorbeugend errich­
+tet worden (in den Rettungs- und Brandschutzkarten des ThüringenForst eingezeich­
+net)
+Pendelverkehr
+•	
+die Einrichtung eines Pendelverkehrs mit Tanklöschfahrzeugen ist in der Praxis meist 
+die erste Option, um dem Löschwasserbedarf am Einsatzort entgegenzuwirken
+•	
+eine tatsächliche, kontinuierliche Versorgung mit Löschwasser durch den Pendelver­
+kehr mit Löschfahrzeugen ist planerisch schwer sicherzustellen
+•	
+unterschiedlich große Löschwassertanks, ungleichmäßige Taktung der Fahrzeuge, die 
+Einbindung enorm vieler Fahrzeuge und die Risiken eines Fahrzeugausfalls im Wald 
+machen dies zu einer Herausforderung
+•	
+beim Einsatz von Pendelverkehr ist aufgrund des planerischen Aufwandes ein EA bzw. 
+UEA notwendig
+•	
+große TLF zum Pendeln einsetzen
+•	
+ggfs. Lotsen für Ortsunkundige 
+•	
+Wasserübergabepunkt definieren
+•	
+in größeren Lagen kann mit einem Pendelverkehr meist nur die Erstphase überbrückt 
+werden
+Ziel muss immer sein, eine stabile und ausreichende unabhängige Wasserversorgung einzu­
+richten. Eine auf die Dauer ausgelegte Versorgung im Pendelverkehr ist nicht zielführend und 
+nicht sinnvoll.
+Wasserübergabepunkte
+•	
+bei einer Löschwasserversorgung über lange Schlauchstrecken ist es planerisch sinn­
+voll, Wasserübergabepunkte zu definieren
+•	
+Übergabepunkte können in unterschiedlicher Art ausgeführt sein, als Fahrzeug mit 
+Wassertank oder als Behälter (Prinzip der offenen Schaltreihe)
+•	
+entsprechend groß dimensionierte Behälter, von welchen die im Einsatz befindlichen 
+Einheiten/Löschfahrzeuge zentral versorgt werden, sind sinnvoll – so verkürzt man die 
+Wege für Fahrzeuge oder kann die Versorgung an diesen Stellen mitunter auch in ande­
+re, weiter verzweigte Bereiche aufteilen
+•	
+Voraussetzung ist die Leistungsfähigkeit der verwendeten Feuerlöschkreiselpumpen 
+und die Kapazität entsprechender Behälter
+•	
+möglichst großer Puffer, um Wechsel beim Pendeln bzw. unterschiedliche Wasserabga­
+be oder Pumpenausfällen/Schlauchplatzern zu überbrücken
+•	
+sinnvoll sind diese aber nur, wenn z.B. Faltbehälter in entsprechender Größe benutzt 
+werden, um die Wasserversorgung über mehrere Minuten zu überbrücken und mög­
+lichst 10 Minuten eine kontinuierliche Wasserabnahme ermöglichen (z.B. selbstauf­
+richtende Behälter mit Fassungsvermögen von bis zu mehreren 10.000 Litern)
+•	
+in Landkreisen mit entsprechendem Risiko eines ausgedehnten Waldbrandes ist die 
+Vorhaltung solcher Behälter sinnvoll und empfehlenswert
+•	
+aus diesen kann z.B. auch eine Auftankung von Hubschraubern mit Löschwasser 
+durchgeführt werden – somit können weitere taktische Möglichkeiten bei der Brandbe­
+kämpfung nutzbar gemacht werden
+•	
+die Löschwasserversorgung von Wasserübergabepunkten kann auch durch die Unter­
+stützung von Hubschraubern stattfinden – inwiefern der Einsatz lediglich zum Wasser­
+transport sinnvoll erscheint, ist lageabhängig zu entscheiden
+Achtung! 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+3. Grundlagen
+der VegBbk
+
+37
+36
+Die Lagefeststellung beschreibt den ersten Teil des Führungsvorganges nach FwDV 100. Grund­
+sätzlich ist die Lage die Gesamtheit aller Tatsachen, Umstände und Zustände an einer Einsatz­
+stelle und deren Umgebung, welche das Einsatzgeschehen und die Rettungsarbeiten beein­
+flussen können. 
+Sie umfasst das Sammeln und Aufbereiten von Informationen über Art und Umfang der Gefah­
+renlage/Schadenlage sowie über die Dringlichkeit und Möglichkeit einer Abwehr und Beseiti­
+gung vorhandener Gefahren und Schäden.
+Im Kapitel „Lagefeststellung“ sind hierzu auf dieser Grundlage folgende Informationen ent­
+halten:
+4.	 Lagefeststellung
+Nr. 
+Themen
+Relevanz
+4.1
+Grundsätzliches
+4.2
+Vorinformationen
+4.3
+Lageerkundung vor Ort
+4.4
+Lagemeldung
+4.5
+Kontrolle
+Weitere Möglichkeiten
+Zur Wasserförderung kann die THW Fachgruppe Wasserschaden/Pumpen eingesetzt werden. 
+Die Fachgruppen verfügen über unterschiedliche Pumpentypen, welche von 1.000 Liter pro Mi­
+nute bis zu 15.000 Liter pro Minute fördern können. Saug- und Druckschläuche werden ebenso 
+vorgehalten, so dass die Fachgruppe autark eine Förderstrecke aufbauen und betreiben kann.
+Auch Landwirte mit Güllefässern oder der Forst mit Maschinen und provisorischen Löschwas­
+serbehältern können unterstützend tätig werden. Die Einsatzmöglichkeiten sind unterschied­
+lich und den tatsächlich vor Ort zur Verfügung stehenden Mitteln anzupassen. Gegebenenfalls 
+sind Adapter für Anschlüsse oder Zugfahrzeuge für Tankfässer etc. notwendig.
+ 
+Inhaltsverzeichnis
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+4. Lagefeststellung
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+
+38
+39
+LAGEFESTSTELLUNG
+LAGEBILD
+Möglichkeiten der Informationsgewinnung
+ergibt sich aus den Einzelinformationen zu:
+Erstinformation
+- Leitstelle
+- Führungsmittel
+- Übergeordnete Führungskräfte
+ALLGEMEINE LAGE
+ORT   ZEIT   WETTER
+SCHADENSEREIGNIS/
+GEFAHRENLAGE
+SCHADEN:
+- Schadensart
+- Schadensursache
+SCHADENOBJEKT
+- Art
+- Größe
+- Material
+- Konstruktion
+- Umgebung
+SCHADENUMFANG
+- Menschen
+- Tiere
+- Sachwerte
+- Umwelt
+SCHADENSABWEHR/
+GEFAHRENABWEHR
+FÜHRUNG:
+- Führungsorganisation
+- Führungsmittel
+EINSATZKRÄFTE
+- Stärke
+- Gliederung
+- Verfügbarkeit
+- Ausbildung
+- Leistungsvermögen
+EINSATZMITTEL
+- Fahrzeuge
+- Geräte
+- Löschmittel
+- Verbrauchsmaterial
+Lageerkundung
+1. Frontalansicht
+2. Befragung von Personen
+3. Erkundung der Hauptangriffswege
+4. Gesamt- oder Rundumansicht
+1.
+2.
+3.
+Abbildung 20
+Darstellung zur Lagefeststellung
+4.1	
+Grundsätzliches
+Die Lageerkundung und Feststellung basiert auf folgender Grundlage:
+ 
+4.2	
+Vorinformationen
+Bei der Vegetationsbrandbekämpfung hat die Erkundung und Lagefeststellung oberste Priori­
+tät, um passgenaue Maßnahmen einzuleiten und den Einsatz abzuarbeiten. Folgende Möglich­
+keiten zum Erhalt von Lageinformationen noch vor dem Eintreffen am Schaden- und Gefahren­
+ort sind grundsätzlich vorhanden:
+•	
+Informationen 
+durch 
+Alarmierung/Ein­
+satzauftrag
+•	
+Informationen von übergeordneten Füh­
+rungskräften
+•	
+Informationen 
+aus 
+Führungsmitteln 
+(Alarm- und Einsatzplan, erarbeitet im 
+Rahmen der Einsatzvorbereitung)
+•	
+Meldungen von sonstigen Behörden, 
+Sachkundigen oder der Bevölkerung
+4.3	
+Lageerkundung vor Ort
+Die Lageerkundung vor Ort ist in 4 Phasen eingeteilt, wobei die Reihenfolge der Durchführung 
+vor Ort nicht vorgegeben ist:
+•	
+Frontalansicht des Schadenobjektes
+•	
+Befragung von beteiligten Personen
+•	
+Rundumerkundung/Gesamtansicht
+•	
+Zugangsmöglichkeiten/Zuwegungen
+Die 4-Phasen der Erkundung zum Erlangen eines Schadenbildes sollen grundsätzlich durchge­
+führt werden und sind Kernpunkte, die im Rahmen des Führungsvorganges zu beachten sind. 
+Die Lageerkundung ist jedoch aufgrund verschiedener Faktoren in der Regel bei der Vegetati­
+onsbrandbekämpfung besonders schwierig oder teilweise nicht vollständig möglich:
+•	
+Lokalisierung des Brandes, ggfs. ungenaue Angaben bei der Alarmmeldung
+•	
+meist keine Personen zur Befragung oder Informationsgewinnung vor Ort
+•	
+unbekannte oder schwierige Zugänglichkeiten und Zuwegungen
+•	
+topografische Besonderheiten, z.B. Steil- und Hanglagen, unwegsames Gelände
+•	
+die Brandausdehnung sowie die Intensität des Feuers in der Gesamtheit ist aufgrund 
+der Größe meist schwierig einzuschätzen oder gar nicht zu erfassen
+•	
+schwierige Gegebenheiten bei der Löschwasserversorgung
+Eine detaillierte und umfassende Lageerkundung ist jedoch unerlässlich, da auf Grundlage 
+dieser Informationen die notwendigen Maßnahmen zur Gefahrenabwehr veranlasst werden 
+müssen. Aufgrund vorstehender Probleme oder Unwägbarkeiten bedarf es meist deutlich mehr 
+Zeit, um eine umfassende Lageerkundung durchzuführen.
+Im Rahmen der Erkundung müssen, neben den üblichen Erkundungsschwerpunkten, beson­
+dere Faktoren berücksichtigt werden, um das Lagebild zu vervollständigen, die Gefahrenlage 
+korrekt zu erfassen und die folgerichtigen Entscheidungen zur Art der Einsatzdurchführung/
+Ordnung des Raumes etc. zu treffen. Auf folgende Faktoren sollte bei einem Vegetationsbrand 
+besonders geachtet werden:
+•	
+Art des Brandes (z.B. Bodenfeuer, Vollfeuer o.ä.)
+•	
+Windstärke und Windrichtung sowie mögliche Änderung der Windrichtung
+•	
+umliegende Infrastruktur bzw. Vegetationsart (z.B. schnell brennbar)
+•	
+bereits vorhandene Ausbreitung/Brandentwicklung und Intensität des Feuers
+•	
+Hauptausbreitungsrichtung des Feuers
+•	
+besondere Geländegegebenheiten (z. B. Hänge)
+•	
+Erreichbarkeit des Feuers/Zuwegungen, Wendemöglichkeiten (auch für Fluchtwege)
+•	
+Wasserentnahmestellen/Löschwasserversorgung
+•	
+Sonneneinstrahlung (aufgrund der durch die Sonneneinstrahlung vorhandenen Erhit­
+zung und leichteren Entzündung der Vegetation)
+Abbildung 21
+der Führungsvorgang
+B
+e
+f
+e
+h
+l
+s
+g
+e
+b
+u
+n
+g
+L
+a
+g
+e
+f
+e
+s
+t
+s
+t
+e
+l
+l
+u
+n
+g
+E
+r
+k
+u
+n
+d
+u
+n
+g
+/
+K
+o
+n
+t
+r
+o
+l
+l
+e
+P
+l
+a
+n
+u
+n
+g
+E
+n
+t
+s
+c
+h
+l
+u
+s
+s
+/
+B
+e
+u
+r
+t
+e
+i
+l
+u
+n
+g
+Lage/Auftrag
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen 
+der VegBbk
+1. Allgemeine
+Informationen
+5. Beurteilung
+der Lage
+4. Lagefeststellung
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+4. Lagefeststellung
+
+40
+41
+All diese Informationen bilden maßgeblich die Grundlage für die Sicherheit der Einsatzkräfte 
+und den Einsatzerfolg!
+Der frühzeitige Einsatz von Drohnen oder des Polizeihubschraubers (sofern verfügbar) zur Er­
+kundung ist zu empfehlen. Es ist jedoch zu beachten, dass ein kombinierter Einsatz von Droh­
+nen und Hubschraubern nicht möglich ist, da das gefährdungspotential zu hoch ist. Es wird auf 
+die „Empfehlungen für Gemeinsame Regelungen zum Einsatz von Drohnen im Bevölkerungs­
+schutz“ des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) verwiesen.
+Bereits in der Vorplanung von Einsätzen ist zu prüfen, ob die jeweiligen Gelände mit Munition 
+belastet sein könnten. Entsprechende Handlungsmöglichkeiten sind mit Sachverständigen 
+bzw. Eigentümern im Vorfeld zu erörtern (–> siehe Kapitel 3, Einsatzmaßnahmen auf muniti­
+onsbelasteten Flächen).
+Taktische Einheiten zur Bekämpfung des Vegetationsbrandes sollten erst nach abgeschlos-
+sener Lageerkundung in die befohlenen Bereiche entsandt werden. Vorher ist (vor allem für 
+externe Kräfte) ein Bereitstellungsraum anzufahren. Die erkundeten An- und Abfahrtswege 
+zur Brandstelle und zu den Löschwasserentnahmestellen sollten zum Beispiel durch Absperr­
+band, Verkehrsleitkegel etc. markiert werden. Sind erstmal taktische Einheiten in einen Wald­
+weg falsch eingefahren, ist ein Rückzug nur noch mit großer Mühe möglich.
+4.4	
+Kontrolle
+Die Kontrolle wird erstmals beim 2. Durchlauf des Führungsvorganges initiiert und durchge­
+führt. Hierbei ist es besonders wichtig, neben dem
+•	
+Überprüfen, ob die befohlenen Maßnahmen wirken, auch
+•	
+die Lage neu zu erkunden, ggfs. Lageänderungen wahrzunehmen.
+Anhand dieser Feststellungen muss der Führungsvorgang erneut durchlaufen werden und die 
+Lage aufgrund neuer Erkenntnisse gegebenenfalls neu bewertet, geplant und befohlen wer­
+den. Jede Führungskraft ist hierfür selbst verantwortlich. Je nach Ausmaß des Einsatzes sind 
+die Kontrollmaßnahmen auch auf die EAL oder UEAL zutreffend:
+LtS
+EL
+Einsatzleitung
+Brandbekämpfung
+Löschwasser-
+versorgung
+EA
+EA
+EA
+EA
+UEA
+UEA
+UEA
+UEA
+Bereitstellungs-
+raum
+Einsatzabschnitt X
+Kontrollverantwortung des UEAL
+Kontrollverantwortung des EAL
+Kontrollverantwortung des EL
+Gesamtverantwortung des EL
+Abbildung 22
+schematische Darstellung der
+Kontroll- und Gesamtverantwor­
+tung der eingesetzten Führer und 
+Unterführer
+Drohnen- 
+Empfehlungen
+4.5	
+Lagemeldung 
+Entsprechende Lagemeldungen der Führungskräfte an übergeordnete Stellen/Leitstellen sol­
+len nach dem einheitlichen „MELDEN“ Schema erfolgen:
+Hierdurch ist sichergestellt, dass den über- bzw. nachgeordneten Stellen als auch gegebenen­
+falls weiterhin anrückenden Einsatzkräften eine dezidierte Information zur Lage mitgeteilt wird. 
+Aufgrund der meist schwierigen Anfahrt ist es sinnvoll, weitere Informationen (z.B. über Sam­
+mel- oder Bereitstellungsräume) in die Meldungen zu integrieren, auch bei noch nicht vollstän­
+dig vorliegenden Erkundungsergebnissen. 
+M eldender
+E
+insatzstelle
+L
+agemeldung
+D
+urchgeführte Maßnahmen
+E
+ingesetzte Kräfte und Mittel
+N
+achforderungen
+Achtung! 
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen 
+der VegBbk
+1. Allgemeine
+Informationen
+5. Beurteilung
+der Lage
+4. Lagefeststellung
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+4. Lagefeststellung
+
+42
+43
+Die Beurteilung der Lage ist die Abwägung, wie der Auftrag zur Gefahrenabwehr mit den zur 
+Verfügung stehenden Mitteln unter den Einflüssen Ort, Zeit und Wetter am besten durchgeführt 
+werden kann. Die Beurteilung muss auf einer zielgerichteten Auswertung der Informationen 
+aus der Lagefeststellung beruhen. Hierbei werden insgesamt 6 Fragen beantwortet: 
+5.1	
+Welche Gefahren bestehen für Menschen, Tiere, Sachwerte 
+und Umwelt?
+Anhand der Erkundungsergebnisse lassen sich die Gefahren vor Ort identifizieren. Hierzu wird 
+die folgende Gefahrenmatrix angewendet:
+Abbildung 23
+Die Gefahrenmatrix
+5.	 Beurteilung der Lage
+Nr.
+Themen
+Relevanz
+5.1
+Welche Gefahren bestehen für Menschen, Tiere, Sachwerte und 
+Umwelt?
+5.2
+Welche Gefahr muss zuerst an welcher Stelle bekämpft werden?
+5.3
+Vor welchen Gefahren müssen sich die Einsatzkräfte schützen?
+     Sicherheitsregeln
+5.4
+Welche Möglichkeiten bestehen für die Gefahrenabwehr?
+     Defensive Taktik
+     Offensive Taktik
+5.5
+Welche Vor- und Nachteile haben die verschiedenen Möglichkeiten?
+5.6
+Welche Möglichkeit ist die Beste?
+Gefahren
+für
+    durch
+Atemgifte
+Angst-
+reaktion
+Ausbreitung
+Atomare
+Strahlung
+chem.
+Stoffe
+Erkrankung/
+Verletzung
+Explosion
+Elektrizität
+Einsturz /
+Absturz
+Welche  Gefahren müssen bekämpft werden?
+Menschen
+Tiere
+Umwelt
+Sachwerte
+Vor welchen Gefahren müssen sich Einsatzkräfte schützen?
+Manschaft
+Gerät
+relevant
+nicht relevant
+Die Gefahrenmatrix ist beispielhaft und grundsätzlich für alle Schadenszenarien anwendbar. 
+Im speziellen Fall des Vegetationsbrandes sind in der Regel nicht alle oder nur in bestimm­
+ten Voraussetzungen alle Gefahren (z.B. Atomare Strahlung, Elektrizität) tatsächlich auch vor-
+handen.
+Die größte Gefahr bei Vegetationsbränden ist in der Regel die Ausbreitung. In Abhängigkeit 
+von Steilhängen oder in der Nähe zum Brand liegenden Siedlungen, Gehöften oder anderen zu 
+schützenden Objekten können weitere Gefahren erkannt werden. Insbesondere die Sicherheit 
+der Einsatzkräfte muss berücksichtigt werden. Hierzu wird auf die weiteren Ausführungen in 
+diesem Kapitel verwiesen.
+5.2	
+Welche Gefahr muss zuerst an welcher Stelle bekämpft wer­
+den?
+Auf Grundlage der durch die Gefahrenmatrix festgestellten Gefahren ist anschließend eine 
+Reihenfolge der Abarbeitung der erkannten Gefahren durch den Einsatzleiter zu definieren. 
+Anhand der Rechtsgüterabwägung gilt in der Reihenfolge der Gefahrenbekämpfung grundsätz­
+lich:
+1.	 Gefahr für Menschen
+2.	 Gefahr für Tiere
+3.	 Gefahr für Umwelt
+4.	 Gefahr für Sachwerte
+Demnach gilt der unbestrittene Grundsatz der Einsatzlehre 
+„Menschenrettung geht allen anderen Maßnahmen vor!“
+Dies beschreibt auch im 1. Punkt die sogenannte „Goldene Regel der Brandbekämpfung“:
+1.	 Menschenrettung geht vor Brandbekämpfung
+2.	 größte Gefahr zuerst beseitigen 
+3.	 Brand abriegeln
+4.	 Brand umfassen
+Dies bedeutet jedoch nicht zwangsläufig, dass in jedem Fall die erste Einsatzmaßnahme der 
+Feuerwehr das Retten von Menschen vor einer möglichen Gefahr sein muss. Wenn Rettungs­
+aktionen schwierig oder zeitintensiv sind, kann es vorteilhafter sein, die Menschen zunächst 
+dort zu belassen, wo sie sich gerade aufhalten und sie so lange wirkungsvoll vor der Gefahr zu 
+schützen, bis diese beseitigt ist (vgl. FwDV 100 unter Punkt 3.2.2.1). 
+Aufgrund der meist im Rahmen der Vegetationsbrandbekämpfung veränderten Gefahrenla­
+ge oder dem völlig unterschiedlichen Brandverhalten in Verbindung mit der Ausbreitungsge­
+schwindigkeit verändert sich die Priorisierung der Abarbeitung von Gefahren im Rahmen der 
+Vegetationsbrandbekämpfung wie folgt:
+1.	 Gefährdung/Schutz von Menschen 
+2.	 Gefährdung/Schutz von Tieren
+3.	 Gefährdung/Schutz von Strukturen (Gebäude, Straßen, Versorgungsleitungen)
+4.	 Gefährdung/Schutz vollbrandgefährdeter oder schnell verbrennender Vegetation
+Diese Priorisierung bildet die Grundlage für die weitere taktische Vorgehensweise. In den meis­
+ten Fällen eines Vegetationsbrandes besteht keine Gefahr für Betroffene oder Verletzte, so dass 
+diese Fälle keine zeitkritischen Ereignisse darstellen, um vordergründig eine Menschenrettung 
+einzuleiten. 
+FwDV 100
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+44
+45
+Daraus schlussfolgernd hat die Sicherheit der eingesetzten Kräfte oberste Priorität. Insofern 
+ergibt sich eine veränderte Gewichtung der einsatztaktischen Maßnahmen, wie folgt:
+1.	 Sicherheit und Gesundheit aller Einsatzkräfte
+2.	 Verhinderung der Ausbreitung auf Gebäude oder enorme Sachwerte/KRITIS
+3.	 Verhinderung der Ausbreitung auf leicht brennbare Vegetation
+4.	 Eindämmung des Brandes
+Eine schnellstmögliche Eingrenzung des Brandes ist, nach der Sicherheit der Einsatzkräfte, 
+vordergründig. Ein komplettes Ablöschen des Feuers ist meist nicht möglich und in der Regel 
+auch nicht unbedingt gleich erforderlich.
+ 
+5.3	
+Vor welchen Gefahren müssen sich die Einsatzkräfte schüt­
+zen?
+In Abhängigkeit von den auf Grundlage der Gefahrenmatrix erkannten Gefahren sind die Gefah­
+ren für die Einsatzkräfte nicht zu vernachlässigen und besonders zu berücksichtigen! Es wird 
+hierzu auf die vorstehenden Ausführungen verwiesen.
+Grundsätzlich ist eine rettungsdienstliche Absicherung der Einsatzkräfte, vor allem bei länger 
+andauernden Ereignissen oder im Atemschutzeinsatz, einzurichten. Um den Regelrettungs­
+dienst des betroffenen Gebietes zu entlasten und nicht langfristig zu binden, können hier vor­
+geplante Strukturen, z.B. von aufgestellten SEG-Einheiten oder durch Teileinheiten des KatS-
+SBZ, eingebunden werden. 
+Ein Schutz der Einsatzkräfte kann z.B. wie folgt durchgeführt werden:
+•	
+geeignete PSA
+•	
+geeignete erweiterte PSA, z.B. Set Absturzsicherung
+•	
+(umluftunabhängiger) Atemschutz
+•	
+besondere Gefahrenbereiche oder Sperrbereiche definieren und den Einsatzkräften 
+mitteilen
+•	
+angepasste/besondere Ausbildung
+•	
+Abstand zu den Gefahrenpunkten/Schwerpunkten
+•	
+Rückzug in sichere Bereiche (Sicherheitszonen)
+•	
+geeignete und ausreichende Verpflegung und Flüssigkeitszufuhr für Einsatzkräfte (sie­
+he Kapitel 6.4)
+•	
+ausreichende Pausen für Einsatzkräfte
+Die Auflistung ist nicht abschließend und soll lediglich Möglichkeiten aufzeigen. Der Schutz 
+der eingesetzten Kräfte ist entsprechend lageangepasst durchzuführen und hat in den meisten 
+Fällen der Vegetationsbrandbekämpfung oberste Priorität.
+Sicherheitsregeln
+Bei der Vegetationsbrandbekämpfung haben sich folgende Sicherheitsregeln entwickelt, wel­
+che bei der Auswahl der Taktik in Verbindung mit dem Ergebnis der Lageerkundung zu berück­
+sichtigen sind:
+•	
+Fahrzeuge grundsätzlich in Fluchtrichtung aufstellen, so dass bei einer möglichen La­
+geänderung jederzeit eine Flucht gewährleistet ist
+•	
+ggf. Fahrzeuge über die Zuwegung im Wald rückwärts an die Einsatzstellen heranfahren
+•	
+Rollschläuche wegen der schnelleren Lösbarkeit der Schlauchkupplungen vom Fahr­
+zeug im Falle eines Rückzuges einsetzen, die Rohre über einen Verteiler vornehmen
+•	
+Wege im Wald müssen freigehalten werden, um diese als Fluchtwege oder als Anfahrts­
+wege für weitere Kräfte einzusetzen
+•	
+Begegnungsverkehr sollte vermieden und eine Einbahnregelung für Zu- und Abfahrten 
+von Fahrzeugen im Einsatzgebiet (an Bereitstellungsräumen oder Wasserentnahme­
+stellen) bevorzugt werden
+•	
+aus Selbstschutzgründen muss es immer möglich sein, ein weiteres C- oder D-Rohr 
+bzw. das S-Rohr vorzunehmen (z.B. bei einer Lageänderung nicht alle Druckabgänge 
+belegen und immer etwa 300 bis 400 Liter Wasser im Tank zurückhalten)
+•	
+aufgrund der Brandgefahr niemals Fahrzeuge mit heißen Abgasanlagen auf trockene 
+Feldern oder Bereiche stellen
+•	
+die beabsichtigte Standfläche komplett ablöschen/benässen, bevor Fahrzeuge auf der 
+abgebrannten Seite des Feuers (Schwarzbereich) postiert werden
+Neben den vorstehenden Sicherheitshinweisen findet speziell die LACES-Regel Anwendung 
+und beschreibt weitere Sicherheitshinweise:
+Beobachter stellen (Lookout)
+•	
+Beobachter hat die Aufgabe, die Kräfte vor Gefahren zu warnen
+•	
+Beobachter steht an taktisch günstiger Position und hat Überblick über die Einsatzstel­
+le, kann also sehen, wie und wohin sich das Feuer entwickelt
+•	
+Beobachter warnt bei plötzlichen Wetteränderungen (Wind) oder Flugfeuer und der Ent­
+stehung von weiteren Feuern (Funkenflug)
+•	
+eindeutiges Rückzugssignal durch Einsatzleiter bestimmen, um bei einer Lageände­
+rung auch unter schwierigen Verhältnissen eine schnelle Räumung des gefährdeten 
+Bereichs durchführen zu können
+•	
+Einsatz einer Drohneneinheit kann bei größeren Einsatzlagen zielführend sein
+Ankerpunkt setzen (Anchor point)
+•	
+beschreibt die beste Position, um eine Schneise oder einen Angriff zu beginnen
+•	
+Ankerpunkt ist eine feste Barriere, wie eine Straße, ein Fluss, ein altes verbranntes Ge­
+biet o.ä.
+•	
+den Ankerpunkt sichern, z.B. mit S-Rohr
+•	
+Niemals ohne Ankerpunkt über die Flanken angreifen! 
+Kommunikation sicherstellen (Communications)
+•	
+Verbindung zur Einsatzleitung/übergeordneten Führungsebene und innerhalb der Ein­
+heit besonders wichtig
+•	
+besteht keine Verbindung, ist die Gefahr groß, von plötzlichen Lageänderungen über­
+rascht zu werden
+•	
+Kommunikation ist für die Taktikabstimmung oder für weitere Meldungen/Informatio­
+nen wichtig
+Fluchtwege (Escape routes)
+•	
+jeder Einsatzabschnitt muss über einen vorher ausgesuchten Fluchtweg verfügen
+•	
+Fluchtweg muss allen Einsatzkräften bekannt sein
+•	
+Fluchtweg sollte möglichst brandlastarm sein und zu einer Sicherheitszone führen
+L
+ookout
+Beobachter stellen
+A
+nchor point
+Ankerpunkt setzen
+C
+ommunication
+Kommunikation sicherstellen
+E
+scape routes
+Fluchtwege
+S
+afety zones
+Sicherheitszonen
+Achtung! 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+46
+47
+Möglichkeit
+Erläuterungen
+Angriff
+unmittelbare Bekämpfung einer Gefahr mit den geeigneten Mitteln und 
+ausreichenden Kräften
+Retten/In-Sicher­
+heit-Bringen
+gefährdetes Subjekt oder Objekt wird aus dem unmittelbaren Gefahren­
+bereich entfernt
+Schützen/Vertei­
+digen
+wenn eine Gefahr nicht direkt bekämpft werden kann, kann die Umge­
+bung vor Einwirkungen dieser geschützt und weitere Ausbreitung verhin­
+dert werden
+Rückzug
+kann notwendig werden:
+o  wenn Kräfte und Mittel nicht ausreichen
+o  aus Eigenschutzgründen (Explosions-, Einsturz- oder Einschlussgefahr)
+o  wenn der Gefahr durch eine der 3 vorstehenden Möglichkeiten nicht 
+begegnet werden kann
+Sicherheitszonen (Safety zones)
+•	
+Sicherheitszonen sind Bereiche, in denen die Einsatzkräfte ohne weitere Schutzmaß­
+nahmen vor dem Feuer in Sicherheit sind und der Feuersaum die Einsatzkräfte nicht 
+gefährdet
+•	
+beispielsweise eine Straße, ein felsiges Gebiet oder ein Gewässer
+•	
+Sicherheitszone muss vorher definiert und bekannt gegeben werden!
+ 
+5.4	
+Welche Möglichkeiten bestehen für die Gefahrenabwehr?
+Grundlegend bestehen folgende Möglichkeiten bzw. taktische Varianten zur Gefahrenabwehr:
+Hinsichtlich der Brandbekämpfung von Vegetationsbränden ist meist eine völlig andere Ge­
+fährdung als beim klassischen Gebäudebrand vorhanden, welche sich auch erheblich auf die 
+Einsatztaktik auswirkt. 
+Taktische Varianten (Möglichkeiten) der Vegetationsbrandbekämpfung
+Bei der Vegetationsbrandbekämpfung unterscheidet man grundsätzlich in zwei taktische Vari­
+anten, welche, je nach Lage vor Ort, auch kombiniert zum Einsatz kommen können:
+Vegetationsbrand
+defensive Taktik
+offensive Taktik
+Feuer laufen lassen
+Angriff mit...
+...Handwerkzeug
+...Strahlrohr
+Wundstreifen anlegen
+Schaumsperre anlegen
+kombinierte Taktik
+Welche Einsatzmaßnahmen und somit welche Taktik angewendet werden können, richtet sich 
+neben der Ausbreitungsgeschwindigkeit und der vorhandenen Vegetation sowie Zuwegungen, 
+Topografie etc. in Verbindung mit der vorgefundenen Lage auch nach der Flammenlänge. Hier­
+bei ist allgemein zu beachten:
+Defensiv ausgerichtete Taktik
+Eine defensive Taktik bedeutet, dass eine direkte Brandbekämpfung nicht erfolgt, da
+•	
+diese nicht in der notwendigen Schnelligkeit möglich ist,
+•	
+es absehbar ist, dass sich das Feuer aufgrund von topografischen Hindernissen oder 
+Gegebenheiten nicht weiter ausbreiten kann oder
+•	
+die Gefahr für die Einsatzkräfte zu groß ist.
+Mögliche defensive Taktiken:
+•	
+Feuer laufen lassen
+•	
+Wundstreifen anlegen
+•	
+Schaumsperre anlegen
+Feuer laufen lassen
+Wenn sich das Feuer z.B. auf einen Grünstreifen, einen Weg oder ein Gewässer zu bewegt 
+und in der Kürze der Zeit ein koordinierter und schlagkräftiger Löschangriff nicht mehr bewerk­
+stelligt werden kann, kann es eine taktische Entscheidung sein, dass Feuer in diese Bereiche 
+laufen zu lassen (da sich das Feuer dort nicht weiter ausbreiten kann und/oder erlischt).
+•	
+Bereiche in der Windrichtung überwachen,
+•	
+weitere Feuer durch Flugfeuer/Funkenflug müssen umgehend abgelöscht werden
+Wundstreifen anlegen
+Wundstreifen beschreiben Flächen, welche brandlastfrei sind und über welche sich das Feuer 
+nicht weiter ausbreiten kann. Sie können auf verschiedene Arten angelegt werden, z.B.:
+•	
+durch Umpflügen mit land- oder forstwirtschaftlichem Gerät
+•	
+durch das Aufreißen des Bodens mittels Handwerkzeugen
+•	
+durch Beräumen von Bäumen oder brennbarer Vegetation mit Maschinen
+•	
+die Maßnahmen bedürfen Zeit und müssen in Einklang mit dem Ausbreitungsverhalten 
+des Feuers stehen
+•	
+aufgrund des Zeitbedarfes und der damit verbundenen gewährleistenden Sicherheit 
+Flammenlänge
+Bevorzugte Taktik Vorgehen
+bis ca. 1 Meter 
+(hüfthoch)
+offensiv
+Einsatz von Handwerkzeugen bzw. Löschrucksä­
+cken und Kleinlöschgeräten
+bis ca. 2 Meter 
+(mannshoch)
+offensiv
+Einsatz von C- oder D-Strahlrohren, in der Regel 
+D-Strahlrohre ausreichend
+ab 2 Meter
+eher defensiv als 
+offensiv
+Bekämpfung (z.B. der Feuerfront) ist äußerst ris­
+kant und nur in Ausnahmefällen bei ausreichender 
+Wasserversorgung und dem Einsatz von mehreren 
+Strahlrohren durchzuführen (z.B. Riegelstellung)
+ab 3 Meter
+defensiv
+aufgrund möglicher extremer/schneller/unbere­
+chenbarer Brandausbreitung defensive Maßnah­
+men einleiten
+Achtung! 
+Abbildung 24
+Taktische Möglichkeiten beim
+Vegetationsbrand
+Achtung! 
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+48
+49
+muss der Wundstreifen in ausreichender Entfernung zum Feuer angelegt werden
+•	
+ein Wundstreifen beginnt immer an einem Ankerpunkt
+•	
+ein Wundstreifen sollte überwacht werden, um ein Ausbreiten des Feuers über diesen 
+zu verhindern (Löschbereitschaft)
+•	
+der Wundstreifen muss komplett frei von brennbaren Material sein, um die Ausbrei-
+tung des Feuers zu verhindern und somit den Vegetationsbrand zu stoppen – ein nicht 
+sachgerecht angelegter Wundstreifen verschwendet Ressourcen und führt nicht zum 
+gewünschten Einsatzerfolg 
+Vorgehensweise beim Anlegen des Wundstreifens
+Die Breite des Wundstreifens ist abhängig von der Art des Feuers und muss etwa zweimal so 
+breit wie die Flammenlänge sein. Bei einem in Vollbrand stehenden Wald mit Bäumen von z.B. 
+30 m Höhe macht es wenig Sinn, einen Wundstreifen mitten im Wald anzulegen (Aufwand, Zeit 
+berücksichtigen).
+Der Wundsteifen wird zunächst in einfacher Breite hergerichtet und anschließend durch wei­
+tere Trupps/Mannschaften auf die zweifache Breite (der Flammenlänge) erweitert. Gegebe­
+nenfalls kann ein vorhandener Weg genutzt und schnell geräumt oder verbreitert werden, um 
+umfangreiche und zeitintensive Maßnahmen der Herstellung eines Wundstreifens effizienter 
+darzustellen.
+Je nach taktischer Aufstellung sowie den tatsächlich zur Verfügung stehenden Einsatzmitteln 
+kann eine Gruppe zum Anlegen eines Wundstreifens beispielhaft wie folgt ausgerüstet sein: 
+Die alternative Ausrüstung des Schlauchtrupps mit Löschrucksäcken – und demzufolge dem 
+Sicherstellen der Löschbereitschaft für die eingesetzten Kräfte – ist aufgrund der indirekten 
+Maßnahmen, in der Regel abseits und abgelegen der Flammenfront, nicht zwingend erforder-
+Mann­
+schaft
+Einsatzmittel zur Vegetationsbrand­
+bekämpfung
+Aufgabe
+GF
+-
+führt die taktische Einheit, ist für die 
+Sicherheit der Einheit verantwortlich
+MA
+-
+der Maschinist kann je nach Erfordernis 
+den AT oder WT/ST unterstützen
+ATF
+Motorkettensäge (MKS)
+Beräumen des geplanten Wundstreifens 
+von Bäumen, Sträuchern etc.
+ATM
+ggf. Axt, Pulaski, Wiedehopfhacke
+unterstützt den ATF, Beräumen von Bäu­
+men, Sträuchern etc.
+ME
+ggf. Axt, Pulaski, Wiedehopfhacke
+unterstützt den AT, Beräumen von Bäu­
+men, Sträuchern etc.
+WTF
+Multifunktions-Handwerkzeug, z.B. 
+Gorgui, McLeod-Tool, Rechen
+Bodenbearbeitung, Brandlastfreiheit 
+herstellen
+WTM
+Multifunktions-Handwerkzeug, z.B. 
+Gorgui, McLeod-Tool, Rechen
+Bodenbearbeitung, Brandlastfreiheit 
+herstellen
+STF
+Multifunktions-Handwerkzeug, z.B. 
+Gorgui, McLeod-Tool, Rechen
+Bodenbearbeitung, Brandlastfreiheit 
+herstellen
+STM
+Multifunktions-Handwerkzeug, z.B. 
+Gorgui, McLeod-Tool, Rechen
+Bodenbearbeitung, Brandlastfreiheit 
+herstellen
+lich. Dies kann im Zweifel dennoch durchgeführt werden und ist am Ende lage- bzw. auftrags­
+bezogen zu beurteilen.
+Einsatzmöglichkeiten anderer Behörden/Organisationen zum Anlegen von Wundstreifen:
+•	
+Räumgerät des THW
+•	
+forst- oder landwirtschaftliches Gerät von Land- bzw. Waldeigentümern
+•	
+Berge- und Räumpanzer der Bundeswehr
+•	
+Maschinen von externen Firmen (z.B. Harvester)
+Schaumsperre anlegen
+•	
+effektiv, um die Ausbreitung eines Bodenfeuers zu verhindern
+•	
+mindestens 50 cm breite Sperre (Mittelschaum) – Standzeit beachten!
+•	
+Vegetation darf nicht zu hoch sein, damit das Feuer die Schaumsperre nicht überspringt
+•	
+Flächen in Windrichtung sollten überwacht werden (Löschbereitschaft)
+•	
+Feuer können sich im Boden ausbreiten (Moor), ständige Kontrolle hinter der Schaum­
+sperre ist notwendig 
+•	
+Einsatz von Schaummittel mit der unteren Wasserbehörde klären, idealerweise im Rah­
+men der Einsatzvorbereitung (z.B. in Trinkwasserschutzgebieten)
+•	
+entsprechenden Bedarf von Schaummittel nicht unterschätzen – die Maßnahme ist nur 
+wirkungsvoll bei ausreichend Schaummittelvorrat!
+Offensiv ausgerichtete Taktik
+Eine offensiv ausgerichtete Taktik beschreibt alle Maßnahmen, die direkt mit einem Angriff 
+auf das Feuer in Verbindung stehen sowie alle unterstützenden Maßnahmen hierzu. Mögliche 
+taktische Ansätze für eine direkte Brandbekämpfung:
+1. Angriff über die Flanken (mit dem Wind)
+2. Angriff auf die Feuerfront mit dem Wind (aus dem Schwarzbereich)
+3. Angriff auf die Feuerfront entgegengesetzt der Windrichtung 
+     bzw. Hauptausbreitungsrichtung (aus dem Grünbereich)
+1. Angriff über die Flanken (mit dem Wind)
+•	
+vom Ankerpunkt aus beginnt der Angriff auf den Feuersaum durch das Aufrollen der 
+Flanken mit dem Wind, Ankerpunkt sichern!
+•	
+Angriff mit Handwerkzeugen, Strahlrohen und Pump & Roll-Funktion möglich
+•	
+Löschtrupps, Fahrzeuge oder eine Kombination aus beiden bewegen sich am Feuer­
+saum entlang und löschen diesen ab
+•	
+Möglichkeit der Ablöschung des Feuersaums aus dem grünen oder schwarzen Bereich
+•	
+je nach Intensität oder verfügbaren Einsatzmitteln können die Löschmannschaften 
+oder Fahrzeuge auch hintereinander an einer Flanke zum Ablöschen und anschließend 
+direkten Nachlöschen oder über beide Flanken gleichzeitig eingesetzt werden
+Achtung! 
+Möglichkeit B
+Möglichkeit A
+Möglichkeit A
+Abbildung 25
+Angriff über die Flanken
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+50
+51
+2. Angriff auf die Feuerfront mit dem Wind (aus dem Schwarzbereich)
+Sicherer als der Angriff der Feuerfront gegen den Wind ist die Bekämpfung der Feuerfront aus 
+dem Schwarzbereich heraus. Hier ist jedoch insbesondere auf 
+•	
+die Ausbreitungsgeschwindigkeit und 
+•	
+den Schutz des Fahrzeuges auf der verbrannten Fläche 
+zu achten. Beim Einsatz von Fahrzeugen auf der verbrannten Fläche muss das Fahrzeug tech­
+nisch für einen Einsatz auf dem Schwarzbereich ausgerüstet sein, sonst droht ein Fahrzeugde­
+fekt/Fahrzeugausfall!
+Statischer Aufbau
+Wenn das Feuer sich schnell und extrem ausbreitet, ist es komplex und schwierig, die Lösch­
+maßnahmen aus dem Schwarzbereich heraus mit der Ausbreitungsgeschwindigkeit zeitlich in 
+Einklang zu bringen; das Feuer kann schneller als die notwendigen Löschmaßnahmen sein 
+und „läuft“ somit weg. 
+Arbeiten mit Fahrzeugen Pump & Roll
+Ziel dieser möglichen Einsatztaktik ist es ebenfalls, die Feuerfront aufzuspalten, um so die 
+hauptsächliche Ausbreitung des Feuers in Windrichtung zu verhindern. Anschließend er­
+folgt die Bekämpfung der Flanken (gegen den Wind oder mit dem Wind), ebenfalls aus dem 
+Schwarzbereich heraus.
+3. Angriff auf die Feuerfront entgegengesetzt der Windrichtung bzw. Hauptausbrei­
+tungsrichtung (aus dem Grünbereich)
+•	
+effektive Vorgehensweise, da der Bereich der intensivsten Brandentwicklung direkt an­
+gegriffen wird und entgegen der Hauptausbreitungsrichtung Maßnahmen zur Verhinde­
+rung der Brandausbreitung ergriffen werden
+•	
+die Feuerfront wird aufgespalten und das Feuer dann über die Flanken bekämpft
+Abbildung 28
+Gefahr des Flammenüberschlags
+Achtung! 
+Abbildung 26
+Angriff aus Schwarzbereich
+Windrichtung
+1. 
+2. 
+2. 
+Das Vorgehen kann je nach Lage 
+•	
+durch Löschmannschaften mit Handwerkzeugen und Löschrucksäcken,
+•	
+durch wasserführende Fahrzeuge im Pump & Roll-Betrieb bzw. raupenmäßigem Pump 
+& Roll Betrieb oder
+•	
+durch den Einsatz von Löschmannschaften mit Schlauchleitungen 
+erfolgen. Bei einem statischen und nicht mobilen Angriff, wie dem Einsatz von Schlauchleitun­
+gen, ist auf die Deckungsbreite, notwendiges Schlauchmaterial etc. zu achten.
+•	
+ein Angriff gegen die Hauptausbreitungsrichtung oder bei aufkommendem Wind ist 
+besonders gefährlich (Ausbreitungsgeschwindigkeit und Arbeiten in Hitze und Rauch 
+des Feuers)
+•	
+Angriff auf die Flammenfront nur bis max. 2 Meter Flammenhöhen und bei Windstille, 
+da ansonsten die Gefährdung der Einsatzkräfte durch die Ausbreitung des Feuers und 
+des Rauchs zu hoch ist. Es besteht Lebensgefahr durch das Überrollen des Feuers oder 
+den Einschluss der Einheit durch das Feuer! (Abbildung 26)
+•	
+Alternativ mit dem Wind aus dem Schwarzbereich oder über die Flanken angreifen)
+Einsatzmöglichkeiten von Einsatzfahrzeugen
+Löschfahrzeuge/Tanklöschfahrzeuge
+•	
+geeignet sind Fahrzeuge mit mindestens 1000 Litern Tankvolumen
+•	
+LF/TLF können für eine direkte Brandbekämpfung eingesetzt werden, es sollten jedoch 
+die Zuwegungen zu den Einsatzorten beachtet werden, da schwere TLF (z.B. TLF 4000) 
+mitunter auf den Waldwegen einsacken oder zu groß sind und Wege nicht passieren 
+können
+•	
+empfehlenswert ist der Einsatz von kleineren, wendigen und geländegängigen TLF 
+(2000) auf den Wegen, idealerweise mit „Pump & Roll Funktion“
+•	
+je nach Waldweginfrastruktur können auch kleinere Fahrzeuge (mit weniger als 2000 
+Liter Wasser) eingesetzt werden (Vorteile: kleiner, wendiger, geringerer Bodendruck)
+•	
+Tanklöschfahrzeuge mit größerem Wassertank können im Zuge der Löschwasserversor­
+gung Aufgaben des Wassertransportes übernehmen oder an Wasserübergabepunkten 
+(z.B. an großen/befestigten Wegen im Wald) positioniert werden
+•	
+LF20 KatS-Th mit Schlauchmaterial für Schlauchstrecke, Faltbehälter und Anstausys­
+tem zur Herrichtung von Wasserentnahmestellen oder Wasserübergabepunkten
+•	
+LF/KLF-Th mit STA zur Errichtung einer langen Wegestrecke
+Erster Angriﬀ
+auf die Feuerfront
+Zweiter Angriﬀ
+über die Flanken
+Zweiter Angriﬀ
+über die Flanken
+Abbildung 27
+Angriffsschema
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+52
+53
+Schlauchwagen/GW-L2 mit Ausrüstungsmodul “Wasserversorgung”
+•	
+originär zur Einrichtung/Unterhaltung einer Löschwasserversorgung über lange 
+Schlauchstrecke
+•	
+Schlauchreserve bzw. Pumpenreserve
+Drehleitern
+•	
+zur Lageerkundung und Lagefeststellung in der Frühphase des Einsatzes
+•	
+als Beobachtungspunkte (Sicherheitsregeln – Look out)
+•	
+Gateway- oder Repeater-Funktion zur Sicherstellung der Kommunikation im durch­
+schnittenen Gelände/Wald
+Rüstwagen 
+•	
+für technische Unterstützung im Einsatz, z.B. Befreien von festgefahrenen Fahrzeugen 
+oder der Bereitstellung von Einsatzmitteln
+Geländegängige Kleinfahrzeuge (z.B. Pick-Ups oder ATV)
+•	
+Pick-Ups als KdoW, GW oder ATV der Feuerwehren oder Bergrettung
+•	
+zur Lageerkundung und Kontrolle
+•	
+Übermittlung von Nachrichten an die Einsatzabschnitte bzw. eingesetzten Einheiten im 
+unwegsamen Gelände,
+•	
+Versorgungsfahrten (Material, Verpflegung)
+•	
+Gateway- oder Repeater-Funktion zur Sicherstellung der Kommunikation im durch­
+schnittenen Gelände/Wald
+•	
+als Krad-Melder
+Löschmittelauswahl zur Unterstützung der gewählten Einsatztaktik
+•	
+gut geeignet sind Sand oder der Mineralboden des Waldes, womit kleine Brände durch 
+Überwurf gelöscht bzw. erstickt werden
+•	
+Wasser ist aufgrund des hohen Wärmeaufnahmevermögens effektiv, es bedarf bei grö­
+ßeren Einsätzen aber auch entsprechende Mengen an Wasser (siehe vorstehende In­
+formationen zur Löschwasserversorgung)
+•	
+Wasser mit Schaumbildner als Zusatz kann die Wirksamkeit des Wassers als Löschmit­
+tel verbessern, Löschwasser kann tiefer in das Brandgut (Boden) eindringen – der Ein­
+satz muss lageabhängig erfolgen, in Absprache mit der unteren Wasserbehörde bzw. 
+ThüringenForst
+•	
+Schaum, Druckluftschaum oder Gelbildner als Zusatz zum Löschwasser sind für die 
+direkte Brandbekämpfung weniger geeignet, hiermit können aber gefährdete und zu 
+schützende Objekte gesichert werden
+•	
+beim Einsatz von Schaum als Löschmittel vorher unbedingt die Einsetzbarkeit mit der 
+zuständigen Behörde (untere Wasserbehörde, ThüringenForst) abstimmen (im Idealfall 
+im Rahmen der Einsatzvorbereitung)
+5.5	
+Welche Vor- und Nachteile haben die verschiedenen Möglich­
+keiten?
+Anhand der, je nach Lage, anwendbaren taktischen Möglichkeiten (auch in deren Kombinati­
+on) werden die jeweils dazu gehörigen Vor- und Nachteile betrachtet. Hierbei empfiehlt es sich, 
+folgende Kernpunkte zu berücksichtigen:
+•	
+Sicherheit (Unfallgefahren, Sicherheit der Einsatzkräfte)
+•	
+Schnelligkeit (erforderlicher Zeitaufwand bis zum Wirksamwerden der Maßnahmen, 
+Rüstzeiten beachten)
+Achtung! 
+Abbildung 29
+Abwägen der Vor- und Nachteile
+•	
+Erfolgsaussicht (Wirksamkeit in Erwägung gezogener Maßnahmen)
+•	
+Umweltverträglichkeit (Abwägung, welche Einsatzmaßnahme größere Umweltschäden 
+hervorrufen – löschen oder brennen lassen?)
+•	
+Aufwand (Material-, Personal-, Kostenaufwand)
+•	
+Gesamtwirkung (nach außen, Auswirkung auf andere Einsatzmaßnahmen)
+Grundsätzlich sollen die vorstehenden Punkte Hilfestellung geben, um im nächsten Schritt des 
+Führungsvorgangs die taktischen Möglichkeiten oder eine Kombination von Möglichkeiten zu 
+wählen. 
+5.6	
+Welche Möglichkeit ist die beste?
+Abschließend muss im Rahmen der Lagebeurteilung abgewo­
+gen werden, welche Maßnahme oder Kombination aus Maß­
+nahmen lagebezogen die beste ist und die meisten Vorteile 
+mit sich bringt.
+ 
+Im Rahmen der Vegetationsbrandbekämpfung muss ein besonderes Augenmerk auf die Si­
+cherheit der Einsatzkräfte gelegt werden, da es hier meist „nur“ um die Verhinderung der Aus­
+breitung des Feuers als Gefahrenschwerpunkt geht!
+Inhaltsverzeichnis
+1. Allgemeine
+Informationen
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+5. Beurteilung
+der Lage
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+54
+55
+Der Entschluss ist die Entscheidung über die Art der Einsatzdurchführung und somit das folge­
+richtige Ergebnis aus der Beurteilung der Lage. Im Entschluss müssen die durchzuführenden 
+Maßnahmen und die einzusetzenden Mittel besonders berücksichtigt werden.
+Im Kapitel „Entschluss“ sind Informationen wie folgt enthalten:
+6.1	
+Ziele/Einsatzschwerpunkte
+Die anhand der Beurteilung der Lage festgestellte größte Gefahr bildet den Einsatzschwer­
+punkt. Hier werden die meisten Einsatzkräfte und Einsatzmittel zur Beseitigung der Gefahr 
+eingesetzt.
+In der weiteren Folge können sich anhand der Priorisierung aus der Beurteilung der Lage mög­
+licherweise weitere Einsatzschwerpunkte ausbilden, welche anschließend nacheinander oder 
+durch nachzualarmierende Kräfte abgearbeitet werden müssen.
+Wie bereits beschrieben, steht bei der Vegetationsbrandbekämpfung in der Regel die Sicher­
+heit der Einsatzkräfte an oberster Stelle. Daran anschließend können sich folgende Einsatz­
+schwerpunkte ergeben: 
+•	
+Verhinderung der Ausbreitung auf Gebäude oder enorme Sachwerte/KRITIS
+•	
+Verhinderung der Ausbreitung auf leicht brennbare Vegetation
+•	
+Eindämmung des Brandes
+6.2	
+Einteilung der Kräfte
+Die gedankliche Einteilung der Kräfte erfolgt anhand der zuvor durchgeführten Beurteilung der 
+Lage. Anhand der geplanten Gefahrenabwehrmaßnahmen erfolgt die gedankliche Sammlung 
+von Einsatzaufträgen für die verschiedenen Einheiten (Teileinheiten). Die Einteilung der Kräfte 
+und Mittel ist auch von den zum Zeitpunkt der Beurteilung verfügbaren Einsatzkräften, Einsatz­
+mitteln, Löschwasser etc. abhängig.
+Weitere Überlegungen, welche aufgrund der Beurteilung und Priorisierung der Gefahren (Priori­
+sierung der Gefahrenabwehrmaßnahmen) zugrunde stehen, sind folgende:
+•	
+Reichen die vorhandenen Kräfte aus, um die Aufgaben zu erfüllen?
+•	
+Sind genügend Geräte zur Aufgabenerfüllung vorhanden?
+•	
+Reicht die Löschwasserversorgung aus?
+6.	 Entschluss
+Nr. 
+Themen
+Relevanz
+6.1
+Ziele/Einsatzschwerpunkte
+6.2
+Einteilung der Kräfte
+6.3
+Bewegungsabläufe/Ordnung des Raumes
+6.4
+Logistik/Versorgung
+•	
+Kann meine Einheit genug Löschwasser fördern?
+•	
+Welche Spezialtechnik wird zur Aufgabenerfüllung benötigt?
+•	
+Welche Behörden oder Fachberater müssen zusätzlich nachgefordert werden?
+6.3	
+Bewegungsabläufe/Ordnung des Raumes
+•	
+Ordnung des Raumes für einen strukturierten und gezielten Einsatz bereits in der An­
+fangsphase wichtig
+•	
+frühzeitig entsprechende Strukturen schaffen (z.B. Einsatzabschnitte/Einsatzunterab­
+schnitte o.ä.)
+•	
+gefährdete Bereiche, Arbeitsbereiche, Absperrbereiche, Ankerpunkte, Sicherheitszo­
+nen und Rückzugssignale bestimmen und allen bekannt geben
+•	
+Bereitstellungsraum oder Bereitstellungsräume mit Führung bilden, um überörtlich tä­
+tige Einheiten oder KatS-Einheiten einen zentralen Anlaufpunkt vorzugeben
+•	
+An- und Abfahrtswege zu Einsatzabschnitten und Bereitstellungsräumen definieren
+ •	 Sicherheitsregeln und ggf. Einbahnstraßenregelungen beachten
+•	
+Wasserentnahmestellen, Wasserübergabepunkte, Wassermenge und Wasservertei­
+lung zu den einzelnen Einsatzabschnitten planen
+•	
+Ort der Einsatzleitung festlegen
+Die Ordnung des Raumes kann z.B. durch Rettungs- und Brandschutzkarten oder Lagepläne 
+der Bundeswehr zu den Übungsplätzen oder andere zur Verfügung stehende Führungsmittel 
+unterstützend geplant und visualisiert werden.
+Standort Einsatzleitung/Befehlsstelle
+Die Befehlsstelle (mobil oder stationär) ist Sitz der Einsatzleitung. Dort laufen alle Informa­
+tionen zusammen. Gerade bei aufwachsenden Ereignissen mit Großschadenscharakter sind 
+ausreichend Sitz-, Kommunikations- und Besprechungsplätze zu gewährleisten. Der Betrieb 
+der Befehlsstelle wird von Führungseinheiten (Führungstrupp bis Führungsgruppe) unterstützt.
+Beispielhafte Anforderungen an eine Befehlsstelle:
+•	
+außerhalb des Gefahrenbereiches
+•	
+Ausbreitungsrichtung (Wind, topografische Gegebenheiten, Vegetation) beachten
+•	
+nicht zu weit weg vom Einsatzgeschehen, aber keine Behinderung der Einsatzkräfte
+•	
+Erreichbarkeiten sicherstellen (Funk, Mobiltelefon, ggf. Fernsprechanschlüsse)
+•	
+Kennzeichnung der Befehlsstelle (Magnetschilder, Rote Blitzleuchte)
+•	
+den eingesetzten Führungskräften den Standort der Einsatzleitung/Befehlsstelle mit­
+teilen
+•	
+Möglichkeit zur Nutzung von umfangreichen Führungsmitteln
+•	
+bei größeren Ereignissen stationäre Befehlsstellen nutzen bzw. einrichten
+6.4	
+Logistik/Versorgung 
+Bereits bei kleineren Einsatzlagen, nicht nur im Rahmen der Vegetationsbrandbekämpfung , 
+bekommt die Logistik/Versorgung eine wichtige Bedeutung. Gerade aber bei aufwachsenden 
+und größeren Einsätzen ist dieser Punkt zentral für den Einsatzerfolg und daher dringend mit zu 
+berücksichtigen. Einsätze über mehrere Stunden oder Tage stellen die Feuerwehr in folgenden 
+Bereichen vor besondere Herausforderungen:
+•	
+Betriebsmittel für Fahrzeuge und Geräte (Kraft- und Schmierstoffe)
+•	
+Ersatzteile für Geräte und Fahrzeuge
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+1. Allgemeine
+Informationen
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+5. Beurteilung
+der Lage
+6. Entschluss
+
+56
+57
+•	
+Verpflegung der Einsatzkräfte mit Getränken und Essen
+•	
+Personalreserven und Personalablösung
+•	
+Toiletten, ggf. Duschen
+•	
+ggf. Schlafmöglichkeiten
+Verpflegung/Getränke
+•	
+Arbeiten im Rahmen der Vegetationsbrandbekämpfung sind aufgrund topografischer 
+Gegebenheiten, hoher Temperaturen, schwieriger und anstrengender Löscharbeiten 
+sowie teilweise langer Einsatzzeiten kräftezehrend
+•	
+Versorgung mit Getränken für die Einsatzkräfte muss ab Beginn des Einsatzes sicherge­
+stellt sein, meist über auf Fahrzeugen mitgeführte Getränke
+•	
+bei länger andauernden Ereignissen müssen kurzfristig ausreichend Getränke an der 
+Einsatzstelle oder in entsprechenden Sicherheitszonen/Übergabepunkten/Bereitstel­
+lungsräumen zur Verfügung stehen
+•	
+vom Einsatzleiter (den Führungskräften) ist darauf zu achten, dass die Einsatzkräfte vor 
+und während des Einsatzes genügend trinken
+•	
+dem Körper vor dem Einsatz und während der Brandbekämpfung möglichst etwa 1 Liter 
+pro Stunde zuführen
+•	
+logistischen Aufwand hierfür beachten und mit einplanen
+•	
+isotonische Getränke/Sportgetränke, Apfelschorlen und Wasser besonders geeignet
+•	
+Flaschen mit Pfand (Glas oder Plastik) aufgrund der Rückführungslogistik bzw. den teils 
+enormen Pfandbeträgen möglichst vermeiden
+•	
+Vereinbarungen oder Abstimmungen mit lokalen Händlern durch die gemeindlichen 
+Feuerwehren oder die Landkreise sind vorab zu treffen, um eine kurzfristige Abrufbar­
+keit zu gewährleisten und sicherzustellen (Bereitstellung sowie die Logistik)
+•	
+gegegebenfalls sind ausreichende Reserven an Getränken zu schaffen
+•	
+eine Essensversorgung auch bei lokalen/gemeindlichen Einsätzen über längere Ein­
+satzdauer sollte, z.B. in Abstimmung mit lokalen Händlern, vorgeplant werden und ist 
+ein wichtiger Punkt, um die Einsatzfähigkeit/Durchhaltefähigkeit und Motivation der 
+Einsatzkräfte zu unterstützen
+•	
+eine Speisenversorgung empfiehlt sich aufgrund der notwendigen Logistik und Hygie­
+ne zentral aufzubauen, die Maßnahmen sind entsprechend der Lage vor Ort zu bewer­
+ten und zu planen
+•	
+es empfehlen sich leicht verdauliche Kohlenhydrate, damit der Blutzuckerspiegel mög­
+lichst konstant bleibt
+•	
+SBZ vom KatS kann bei Großschadensereignissen oder dem Katastrophenfall für die 
+Versorgung zum Einsatz kommen, es ist jedoch eine Vorlaufzeit von 4-6 Stunden zu 
+berücksichtigen
+Betriebsstoffe
+•	
+frühzeitig prüfen, welche Betriebsstoffe erforderlich sind
+•	
+bei andauernden Einsätzen ist die Versorgung mit Betriebsstoffen enorm wichtig, um 
+dauerhafte Löschmaßnahmen sicherzustellen
+•	
+Gemeinden bzw. Stützpunktfeuerwehren oder Landkreise sollten Vorkehrungen in 
+Form von Bevorratung oder Abstimmung mit Tankstellen zur Sicherstellung treffen
+•	
+behelfsmäßige Versorgung über Kanister kann an größeren Einsatzstellen dezentral 
+über Stunden oder Tage nicht funktionieren (da meist nicht genug Behälter zur Verfü­
+gung stehen oder der Aufwand der Koordinierung und Verteilung zu hoch ist)
+•	
+mobile Versorgung mit Betriebsstoffen muss sichergestellt werden
+•	
+empfehlenswert ist es, z.B. in Bereitstellungsräumen zentrale Versorgungsstellen ein­
+zurichten
+•	
+kann zugleich kombiniert werden mit ggf. erforderlichen (feldmäßigen) Reparaturstel­
+len/Instandsetzungsbereichen für Geräte, um Ausfallzeiten zu minimieren und die Ein­
+satzfähigkeit sicherzustellen
+•	
+Einbindung von Einheiten des Katastrophenschutzes des Landes Thüringen oder mög­
+lichen Facheinheiten des THW ist äußerst empfehlenswert
+Personal/Einsatzkräfte
+•	
+Einsatzbedingungen sind aufgrund der meist hohen Temperaturen in Verbindung mit 
+kräftezehrender Arbeit und ggf. topografischen Besonderheiten bei der Vegetations­
+brandbekämpfung besonders anstrengend und erschöpfend
+•	
+Einsatzzeiten können nicht pauschal benannt werden
+•	
+Ruhezeiten und Regenerationszeiten beachten und für das eingesetzte Personal ein­
+planen 
+•	
+regelmäßiger Personaltausch der eingesetzten Kräfte besonders wichtig und frühzeitig 
+zu planen (Anmarschwege, Einsatzbereitschaft berücksichtigen)
+•	
+frühzeitig auch Feuerwehren/Einsatzkräfte von nicht betroffenen Gebieten im eigenen 
+Zuständigkeitsbereich berücksichtigen
+•	
+Grundschutz der Gemeinden im Brandschutz sowie der allgemeinen Hilfe muss jedoch 
+immer gewährleistet bleiben
+•	
+bei Großschadensereignissen auch frühzeitig KatS-Einheiten aus anderen KatS-Behör­
+den einbinden, um Personal und ggf. spezielle Technik für Vegetationsbrände in den 
+Einsatz zu bringen – Grundschutz wird somit weiter gewährleistet
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+1. Allgemeine
+Informationen
+6. Entschluss
+7. Befehlsgebung
+8. Aufgaben
+LK/Kreisfreie Städte
+9. Kosten
+5. Beurteilung
+der Lage
+6. Entschluss
+
+59
+58
+Der Befehl ist die Anordnung an die Einsatzkräfte, Maßnahmen zur Gefahrenabwehr und zur 
+Schadensbegrenzung auszuführen. Durch den Befehl wird der Entschluss in die Tat umgesetzt.
+Im Rahmen der Vegetationsbrandbekämpfung wird in aller Regel (außer bei Kleinsteinsätzen) 
+ein Einsatz mit Bereitstellung erfolgen müssen. Dies ist darin begründet, dass beim Eintreffen 
+noch nicht alle Lageinformationen für eine umfassende Beurteilung vorliegen.
+Mitunter ist es sogar möglich, dass weder Zuwegungen noch Brandausmaß, Ausbreitungsver­
+halten etc. bekannt sind und erst umfassend erkundet werden müssen, so dass die Einheiten 
+zunächst in einen Sammel- bzw. Bereitstellungsraum geführt werden, bis die Lagefeststellung 
+abgeschlossen wurde und die Maßnahmen aus der Beurteilung der Lage geplant sind bzw. 
+befohlen werden können.
+Es macht keinen Sinn, noch vor einer Lageerkundung, punktuell Maßnahmen zu beginnen, 
+wenn nicht alle Faktoren berücksichtigt wurden und somit die Einsatzziele oder Schwerpunkte 
+noch nicht klar durch den Einsatzleiter definiert sind.
+Bezüglich der Einsatzbefehle bzw. dem Einsatz Mit- und Ohne-Bereitstellung wird auf die
+FwDV 3 verwiesen.
+7.	 Befehlsgebung
+FwDV3
+Zusätzlich zu den gemäß ThürBKG und anderen Rechtsvorschriften beschriebenen Aufgaben 
+der Landkreise sollen im Folgenden Hinweise beziehungsweise weitere Informationen in Be­
+zug auf die Aufgaben im Rahmen der Vegetationsbrandbekämpfung bzw. deren Vorbeugung 
+und vorbereitenden Maßnahmen genannt werden:
+8.1	
+Einsatzleitung bei überörtlichen Gefahren
+Grundsätzlich liegt die Gesamteinsatzleitung bei gemeindlichen (örtlichen) Einsätzen gemäß 
+§ 23 Abs. 1 Nr. 1 ThürBKG beim Bürgermeister bzw. bei einem Beauftragten. Die Einsatzleitung 
+liegt am Gefahren- und Schadenort (gemäß § 24 Abs. 1 ThürBKG) bei dem Einsatzleiter der 
+örtlich zuständigen Feuerwehr bzw. dem Einsatzleiter der zuerst eintreffenden Feuerwehr.
+Das Merkmal der Überörtlichkeit knüpft hierbei an die bestehende Gefahrenlage an. Dies ver­
+deutlicht § 6 Abs. 1 Nr. 4 ThürBKG, wonach die Landkreise u. a. die zur wirksamen Bekämpfung 
+von überörtlichen Gefahren notwendigen Maßnahmen zu treffen haben. 
+Eine überörtliche Gefahr liegt dann vor, wenn diese als eine zusammenhängende Gefahr oder 
+in der Summe von Einzelgefahren unterschiedlicher Art mehrere Gemeinden erfasst bzw. zu 
+erfassen droht und bei der zur Abwehr ein auf Kreisebene gemeinsames (d.h. vom Landrat 
+oder seinem Beauftragten geleitetes und nicht nur koordiniertes) Vorgehen notwendig ist (und 
+somit die Gesamteinsatzleitung bei diesem liegt).
+Ob Einsatzmaßnahmen die Abwehr überörtlicher Gefahren bezwecken, bemisst sich aus­
+schließlich nach objektiven Gesichtspunkten. Hierbei sind die Gesamtumstände des Einzel­
+falles zu berücksichtigen. Ein Einsatz im Rahmen des überörtlichen Brandschutzes bzw. der 
+überörtlichen Allgemeinen Hilfe liegt beispielsweise nicht schon allein deshalb vor, weil eine 
+Stützpunktfeuerwehr unter Einsatz z.B. eines Gefahrgutzuges zur Gefahrenabwehr in eine 
+Nachbargemeinde ausrückt. Abhängig vom konkreten Einzelfall kann es sich auch um einen 
+nachbarschaftlichen Hilfeleistungseinsatz (i. S. d. § 4 ThürBKG) im Rahmen der örtlichen Auf­
+gabenerfüllung handeln.
+8.	 Informationen für Landkreise 
+und kreisfreie Städte
+Nr. 
+Themen
+Relevanz
+8.1
+Einsatzleitung bei überörtlichen Gefahren
+8.2
+Feststellung und Bekanntgabe der Katastrophe
+8.3
+Einsatzleitung im Katastrophenfall
+8.4
+Anforderung von Materialien aus KatS-Lagern
+8.5
+Lagemeldungen/Meldewege
+Inhaltsverzeichnis
+6. Entschluss
+7. Befehlsgebung
+9. Kosten
+5. Beurteilung
+der Lage
+8. Aufgaben
+LK/Kreisfreie Städte
+5. Beurteilung
+der Lage
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+7. Befehlsgebung
+
+60
+61
+Abbildung 30
+Darstellung der notwendigen
+Schritte zur Bekanntgabe der
+Feststellung der Katastrophe
+8.2	
+Feststellung und Bekanntgabe der Katastrophe
+Eine Katastrophe im Sinne des § 25 ThürBKG ist ein Ereignis bei dem 
+•	
+Leben oder Gesundheit einer Vielzahl von Menschen,
+•	
+die natürlichen Lebensgrundlagen,
+•	
+erhebliche Sachwerte oder
+•	
+die lebensnotwendige Versorgung der Bevölkerung 
+in ungewöhnlichem Ausmaß gefährdet oder geschädigt werden und die Gefahr nur abgewehrt 
+werden kann, wenn die Behörden, Dienststellen, Organisationen, Einheiten, Einrichtungen 
+und eingesetzten Kräfte unter einheitlicher Leitung zusammenwirken. Die einheitliche Leitung 
+stellt in dem Fall der Gesamteinsatzleiter (Bürgermeister/Landrat oder Beauftragter) mit sei­
+nem zugehörigen KatS-Stab dar.
+Die untere Katastrophenschutzbehörde stellt den Eintritt (und das Ende) der Katastrophe fest 
+(§ 34 ThürBKG). Auf dieser Grundlage leiten sich für die untere KatS-Behörde folgende Aufga­
+ben ab:
+•	
+Mitteilung des Katastrophenfalles an die übergeordneten KatS-Behörden (TLVwA und 
+TMIK – siehe Kapitel 8.5)
+•	
+Mitteilung der Katastrophe an benachbarte KatS-Behörden (soweit erforderlich)
+•	
+Feststellung der Katastrophe muss der Öffentlichkeit in geeigneter Weise bekannt ge­
+geben werden (z.B. Warn-Apps, Pressemitteilung, regionale und überregionale Medi­
+en, Lautsprecherfahrzeuge, Sirenen)
+ 
+8.3	
+Einsatzleitung im Katastrophenfall
+Gemäß § 35 ThürBKG in Verbindung mit § 27 ThürBKG leitet die Katastrophenschutzbehörde 
+den Katastrophenschutzeinsatz.
+Der Katastrophenschutz-Stab wird vom Leiter des Stabes als politisch-gesamtverantwortliche 
+Komponente einberufen und leitet den Einsatz. Eine entsprechende Führungsstruktur könnte 
+schematisch wie folgt aufgegliedert werden:
+Feststellung und Bekanntgabe
+des Katastrophenfalls
+Mitteilung
+unverzüglich
+Mitteilung
+soweit erforderlich
+Mitteilung
+in geeigneter Weise
+TLVwA
+TMIK
+benachbarte
+KatS-Behörde
+Öffentlichkeit
+1. Schritt
+2. Schritt
+3. Schritt
+ 
+8.4	
+Anfordern von Materialien aus den KatS-Lägern
+Durch den Freistaat werden in insgesamt 4 dezentral organisierten Katastrophenschutzlagern
+•	
+Nord in Nordhausen
+•	
+Ost in Bad Köstritz
+•	
+Süd in Hildburghausen
+•	
+Mitte in Erfurt
+verschiedene Einsatzmittel vorgehalten, welche auch im Rahmen der Vegetationsbrandbe-
+kämpfung zum Einsatz kommen können. Hierbei handelt es sich z.B. um Löschrucksäcke, 
+Werkzeuge zur Bodenbearbeitung, Waldbrandrucksäcke, Kettensägen, gasdichte Schutzbril­
+len, FFP3-Masken, Zelte u.v.m. Die Anforderung von Materialien aus den KatS-Lagern erfolgt 
+auf Grundlage des folgenden Ablauforganigramms über das TLVwA:
+Abbildung 32
+schematische Darstellung zur 
+Anforderung von Material aus den 
+KatS-Lagern
+LtS
+A-Dorf
+B-Stadt
+EA
+EA
+EA
+UEA
+UEA
+UEA
+UEA
+Einsatzabschnitt X
+KatS
+Stab
+Süd-West
+Nord
+Ost
+UUEA
+UUEA
+UUEA
+Unter-Einsatz-
+abschnitt X
+Landrat/Oberbürgermeister oder Beauftragter
+Katastrophenschutzlager
+des Freistaates Thüringen
+Abholung durch Anfordernde
+(mindestens 2 Personen)
+Telefonische Anfrage 
+zur Freigabe
+der Anforderung
+Telefonische Freigabe 
+der Anforderung
+Anforderung an das 
+KatS-lager
+Thüringer Landesverwaltungsamt
+1. Schritt
+2. Schritt
+3. Schritt
+Anforderungsformular
+an TLVwA per Fax
+unverzüglich
+4. Schritt
+Lager NORD
+Lager OST
+Lager MITTE
+Lager SÜD
+Abbildung 31
+Darstellung einer möglichen Füh­
+rungsstruktur im Katastrophenfall 
+Inhaltsverzeichnis
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+1. Allgemeine
+Informationen
+8. Aufgaben
+LK/Kreisfreie Städte
+6. Entschluss
+7. Befehlsgebung
+9. Kosten
+5. Beurteilung
+der Lage
+8. Aufgaben
+LK/Kreisfreie Städte
+
+63
+62
+Die zugehörigen Kontaktdaten zu den Rufbereitschaften liegen den zuständigen anfordernden 
+Stellen vor oder können bei Bedarf über die Landeseinsatzzentrale der Polizei Thüringen ab­
+gefragt werden.
+Die Anforderung von Ausrüstung kann, unabhängig von der Feststellung einer Katastrophe, 
+jederzeit erfolgen. 
+8.5	
+Lagemeldungen/Meldewege
+Im Hinblick auf regionale oder überregionale Großschadensereignisse oder dem Feststellen 
+der Katastrophe gemäß § 34 ThürBKG im Bereich der Vegetationsbrandbekämpfung gelten zur 
+Sicherstellung eines einheitlichen Informationsaufkommens und eines effektiven Meldesys­
+tems – durchgängig von der Ebene der Landkreise und kreisfreien Städte über das Thüringer 
+Landesverwaltungsamt an das Thüringer Ministerium für Inneres und Kommunales – bereits 
+konkrete Festlegungen.
+Von den unteren Katastrophenschutzbehörden ist ein vorgegebenes Meldeformular an das 
+Thüringer Landesverwaltungsamt zu versenden und zu melden (Bekanntgabe mit Schreiben 
+vom 08.01.2018): 
+•	
+jederzeit auf Anforderung
+•	
+lagebezogen nach eigenem Ermessen
+•	
+der Eintritt und das Ende einer Katastrophe nach § 34 ThürBKG
+•	
+sobald der Koordinierungsstab beim Thüringer Landesverwaltungsamt aufgerufen wur­
+de, insbesondere bei folgenden regionalen und überregionalen Schadensereignissen/
+Großschadensereignissen: 
+a) Ereignisse, die eine hohe Öffentlichkeitswirksamkeit aufweisen
+b) Ereignisse, bei denen eine Vielzahl von Menschen (>100) betroffen sind
+c) Einsätze mit getöteten Einsatzkräften
+d) Einsätze mit mind. 100 Einsatzkräften und/oder 
+e) Einsätze mit gewalttätigen Übergriffen auf Einsatzkräfte
+Im Rahmen eines Vegetationsbrandes können durch den Einsatz von Sondertechnik oder an­
+deren Behörden in Verbindung mit viel Feuerwehrpersonal und Technik mitunter nicht uner­
+hebliche Kosten entstehen. Entsprechende Regelungen zu den Kosten, Kostentragungen etc. 
+finden sich im 6. Abschnitt des ThürBKG. 
+Im Kapitel „Kosten“ sind Informationen zu folgenden Themen enthalten:
+9.1	
+Kostentragung bei örtlichen Einsätzen
+Die Gemeinden erfüllen ihre Aufgaben im Brandschutz und der allgemeinen Hilfe als Pflicht­
+aufgabe im eigenen Wirkungskreis (§ 2 Absatz 2 ThürBKG). Dies bedeutet, dass die Gemeinden 
+die Kosten des Feuerwehreinsatzes für örtliche Einsätze auf eigenem Gemeindegebiet selbst 
+tragen (§ 44 Abs. 2 Nr. 1 ThürBKG), sofern kein Verursacher hierfür ermittelt und belangt wer­
+den kann (vgl. § 48 ThürBKG).
+Bei Einsätzen auf eigenem Gemeindegebiet, zu welchen auch Feuerwehren der Nachbarge­
+meinden eingesetzt werden, greift der § 4 ThürBKG. Die Feuerwehren leisten sich auf Anfor­
+derung des Einsatzleiters gegenseitig Hilfe, sofern deren eigene Aufgaben hierdurch nicht er­
+heblich gefährdet werden. Die geleistete Hilfe erfolgt grundsätzlich unentgeltlich! Auf Antrag 
+hat die Gemeinde, der Hilfe geleistet wurde, die tatsächlich entstandenen Kosten der zu Hilfe 
+gerufenen Feuerwehren zu tragen.
+9.2	
+Kostentragung bei überörtlichen Einsätzen
+Die vorstehenden Ausführungen zur Kostentragung bei Einsätzen zur Abwehr örtlicher Gefah-
+ren gelten grundsätzlich auch bei Einsätzen zur Abwehr überörtlicher Gefahren (siehe Kapitel 
+8.1).  Das heißt, der Landkreis als Aufgabenträger des überörtlichen Brandschutzes und der 
+überörtlichen Allgemeinen Hilfe trägt grundsätzlich die Kosten des Einsatzes und zwar unbe­
+schadet der Regelungen zur gegenseitigen Hilfe sowie unabhängig davon, wer die Einsatzlei­
+tung wahrnimmt oder die Maßnahme angeordnet hat. 
+Ausgenommen sind jedoch die Kosten für Feuerwehren mit gemeindeeigener Ausrüstung 
+und sonstiger Einrichtungen der Gemeinden des Gefahrengebietes (§ 44 Abs. 1 und 2 Nr. 2 
+ThürBKG). Die Regelung zur gegenseitigen Hilfe der Landkreise als Aufgabenträger des überört­
+lichen Brandschutzes und der überörtlichen Allgemeinen Hilfe gilt, auch im Verhältnis zu den 
+kreisfreien Städten (entsprechend § 6 Abs. 3 ThürBKG).
+9.	 Kosten
+Nr. 
+Themen
+Relevanz
+9.1
+Kostentragung bei örtlichen Einsätzen
+9.2
+Kostentragung bei überörtlichen Einsätzen
+9.3
+Kostentragung im Katastrophenfall
+9.4
+Kostentragung bei Amtshilfe durch andere Behörden
+Inhaltsverzeichnis
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+2. Einsatz-
+vorbereitung
+3. Grundlagen
+der VegBbk
+4. Lagefeststellung
+1. Allgemeine
+Informationen
+8. Aufgaben
+LK/Kreisfreie Städte
+
+64
+65
+9.3	
+Kostentragung im Katastrophenfall
+Die Kosten der Maßnahmen im Zuge eines Katastrophenfalls trägt der Landkreis als originärer 
+Aufgabenträger des Katastrophenschutzes. Hierzu gilt ebenfalls § 44 Abs. 2 Satz 2 ThürBKG 
+(vgl. Nr. 9.2). Für den Katastrophenfall wurde eigens ein Katastrophenschutzfond eingerichtet, 
+über welchen die Erstattung von Einsatzkosten auf Antrag bei der zuständigen Bewilligungsbe­
+hörde erfolgt (§ 45 ThürBKG). Die Inanspruchnahme des Katastrophenschutzfonds richtet sich 
+nach § 3 der Thüringer Verordnung zum Katastrophenschutzfonds (ThürKfVO) und der Verwal­
+tungsvorschrift zur ThürKfVO.
+Dies bedeutet, dass die Träger der Einheiten zunächst die anfallenden Rechnungen einschließ­
+lich der Arbeitsentgelterstattungen begleichen und diese Ausgaben den Landkreisen aufgrund 
+ihrer Kostentragungspflicht zur Erstattung vorlegen. Der Landkreis erstattet den Gemeinden 
+die ihnen entstandenen Ausgaben und kann dann beim Vorliegen der Voraussetzungen die 
+Erstattung aus dem Katastrophenschutzfonds beantragen. 
+Unbenommen hiervon sind natürlich bilaterale Vereinbarungen zwischen den Gemeinden und 
+Landkreisen möglich, die aber nicht zu Lasten Dritter, insbesondere der Arbeitgeber, abge­
+schlossen werden können. 
+ 
+9.4	
+Kostentragung bei Amtshilfe durch andere Behörden
+Die Amtshilfe der Behörden ist im Grundgesetz der Bundesrepublik Deutschland, dem Verwal­
+tungsverfahrensgesetz des Bundes sowie im Thüringer Verwaltungsverfahrensgesetz geregelt. 
+Hierbei ist grundsätzlich festzuhalten, dass sich Behörden gegenseitig auf Ersuchen Hilfe leis­
+ten.
+Zu den Voraussetzungen und Grenzen der Amtshilfe, wird auf die §§ 4 ff. Thüringer Verwal-
+tungsverfahrensgesetz verwiesen.
+Die im Rahmen der Amtshilfe bei der ersuchten Behörde angefallenen Kosten können auf An­
+forderung durch die ersuchende Behörde erstattet werden, wenn Sie im Einzelfall 25,00 Euro 
+übersteigen (keine Verwaltungskosten, nur tatsächlich angefallene Kosten für Material oder 
+Betriebsstoffe etc.). Kosten im Zusammenhang mit der Amtshilfe, welche von durch die er­
+suchte Behörde beauftragten Dritten gestellt werden, müssen durch die ersuchende Behörde 
+erstattet werden. 
+Dies bedeutet zum Beispiel, dass bei der Anforderung von Hubschraubern zur Brandbekämp­
+fung die tatsächlich angefallenen Kosten für den Hubschraubereinsatz durch die ersuchende 
+Behörde auf Antrag der ersuchten Behörde getragen werden muss.
+ThürVwVfG
+ThürKfVO
+Quellen
+Agrarheute: Feldbränden vorbeugen: 8 Tipps damit nichts anbrennt, Onlineartikel, 07.08.2015
+Cimolino, Dr. Ulrich: Vegetationsbrandbekämpfung, ecomed-storck GmbH, 2015
+Cimolino, Dr. Ulrich; Südmersen, Jan und Neumann, Nicolas: Standard-Einsatz-Regel Vegetati­
+onsbrandbekämpfung, ecomed-storck GmbH, 2019
+DFV-Fachempfehlung: Sicherheit und Taktik im Waldbrandeinsatz, 10.07.2018
+Ferch, Herbert und Melioumis, Michael: Führungsstrategie – Großschadenslagen beherrschen, 
+W. Kohlhammer GmbH, 2011
+Feuerwehr-Magazin: Sonderheft Richtiges Vorgehen bei Wald- und Flächenbränden, 01/2016
+Feuerwehr Magazin: Flächenbrand: Tipps für die Einsatztaktik, Onlineartikel, 22.06.2018
+Kaulfuß, Susanne und Hofmann, Felix: Online-Handbuch Waldbrand – Waldbrandbekämp-
+fung; 04/2011
+Kaulfuß, Susanne und Chtioui, Yvonne: Online-Handbuch Waldbrand, 16.03.2017
+KFV Heidekreis: Seminarunterlagen Einsatztaktik Vegetationsbrand für kommunale Feuerweh­
+ren, 05.01.2017 
+Landesfeuerwehr- und Katastrophenschutzschule Thüringen: Lehrgangsbegleitende Unterla-
+gen „Gruppenführer in der Feuerwehr“, 05/2017
+Landratsamt Aschaffenburg/Kreisbrandinspektion: Ausrüstung zur Vegetationsbrandbe-
+kämpfung für die Feuerwehren, 03/2012
+Ministerium für Inneres, ländliche Räume und Integration Schleswig-Holstein: Empfehlungen 
+zur Waldbrandvorsorge und Waldbrandbekämpfung, 23.08.2007
+Niedersächsische Akademie für Brand- und Katastrophenschutz: Lehrgangsbegleitende Un-
+terlagen „Zugführer“, 11.11.2015
+Staatliche Feuerwehrschule Würzburg: Merkblatt Vegetationsbrände,11/2019
+Waldbrandteam: Verein für Wald- und Flächenbrandbekämpfung e.V.: Präsentation Vegeta-
+tionsbrandbekämpfung, 05.04.2019 
+Inhaltsverzeichnis
+4. Lagefeststellung
+3. Grundlagen
+der VegBbk
+2. Einsatz-
+vorbereitung
+1. Allgemeine
+Informationen
+9. Kosten
+9. Kosten
+8. Aufgaben
+LK/Kreisfreie Städte
+7. Befehlsgebung
+6. Entschluss
+5. Beurteilung
+der Lage
+
+Herausgeber:
+Thüringer Ministerium für Inneres und Kommunales 
+Steigerstraße 24 
+99096 Erfurt
+Redaktion:	
+Stephan Koch (TMIK, Referat 24) und Patrick Wagner (TLFKS) 
+Layout: 	 	
+Referat M2, Presse-/Öffentlichkeitsarbeit
+Titelbild:		
+Marcus Heinz, MH PHOTOART & MEDIEN
+	
+	
+Ausgabe 1.0 | Stand 05/2020
+www.innen.thueringen.de/

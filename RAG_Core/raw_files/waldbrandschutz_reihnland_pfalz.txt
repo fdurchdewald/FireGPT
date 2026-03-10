@@ -1,0 +1,5322 @@
+WALDBRANDSCHUTZ 
+RHEINLAND-PFALZ
+Kompendium
+
+
+3
+mit über 840.000 Hektar Wald und einem Anteil 
+von circa 42 Prozent an der Landesfläche zählt das 
+Bundes­land Rheinland-Pfalz zu einem der waldreichs­
+ten Bundes­länder der Bundesrepublik. Mit dem fort­
+schreitenden Klimawandel steigt das Waldbrandrisiko 
+signifikant: Während in den vergangenen 20 Jahren die 
+jährliche Anzahl von Waldbränden regelmäßig unter 50 
+lag, kam es im Jahr 2022 in Rheinland-Pfalz – begünstigt 
+durch einen sehr heißen und trockenen Sommer – zu 
+einer Vervierfachung der Waldbrandfläche. Da in der 
+Zukunft, neben größeren und intensiveren Brandverläu­
+fen, auch mit einer Verlängerung der Waldbrandsaison 
+zu rechnen ist, ist die Thematik von großer Bedeutung. 
+Nach Anzahl und Flächengröße war das Thema in der 
+forstlichen Problemlandschaft zwar nicht dominant, das 
+mediale Interesse war und ist jedoch v. a. saisonal sehr 
+groß, da das Thema im Problembewusstsein der Bevöl­
+kerung tief verankert ist.
+Mit der Aktualisierung des rheinland-pfälzischen 
+Rahmen­-Alarm- und Einsatzplans „Waldbrand“ sowie 
+dem Konzept „Wald- und Vegetationsbrandbekämpfung“ 
+im ersten Quartal 2020 wurden weitere Schritte im 
+Waldbrandschutz unternommen. Beispielhaft zu ­nennen 
+sind Besprechungsrunden auf Ebene der Forstämter 
+und Feuerwehren, die auch mit Blick auf gemeinsame 
+­Rettungs- und Waldbrandübungen stattfinden, Fahr­
+trainings im Wald, Fort- und Weiterbildungen sowie 
+weiterer Maßnahmen wie etwa die Öffentlichkeitsarbeit. 
+Eingebettet sind diese Maßnahmen in übergeordnete 
+Strategien zum vorbeugenden Brandschutz durch Beglei­
+tung und Unterstützung der Wälder hin zu mehr Resilienz 
+im Klimawandel – etwa durch die Einbringung von Laub­
+bäumen, die weniger brandgefährdet sind. 
+Das vorliegende Kompendium dient 
+der Information und Beratung der 
+Forstämter und Waldbesitzenden 
+mit Blick auf die Zusammenarbeit, 
+insbesondere mit Feuerwehren der 
+­Verbandsgemeinden und Kreise. 
+Ähnlich dem Rahmen-Alarm- und Einsatzplan 
+handelt es sich beim vorliegenden Kompendium um 
+einen Rahmen, der an die örtlichen Verhältnisse an­
+zupassen ist. Nicht jedes Element im Kompendium 
+muss umgesetzt werden, vielmehr sollen Möglich­
+keiten aufgezeigt werden.
+Nach den Rückmeldungen an die Zentralstelle 
+der Forstverwaltung hat sich in zahlreichen Forst­
+ämtern eine lebendige Kultur des Austauschs, Übens 
+und Informierens etabliert. Im Fall der Fälle kann 
+der forstliche Sachverstand so bedarfsweise in die 
+Stabsarbeit der Einsatzleitung eingebracht werden. 
+„In Krisen Köpfe kennen“ ist eine ganz wesentliche 
+Voraussetzung für ein schnelles, sicheres und wirk­
+sames Handeln. So wie auch im  Jahr 2022 beim 
+Brand  am Hambacher Schloss, wo Landesforsten 
+bis in die Abendstunden in der technischen Einsatz­
+leitung Hambach beratend tätig war.
+Die Gliederung des Kompendiums ist prozessorien­
+tiert. Nach Schilderung des Hintergrundes und der 
+Grundlagen (Kapitel 1) folgt die Prävention, Vor­
+bereitung und Waldbrandverhütung (Kapitel 2), die 
+Erkennung und Reaktion: Waldbrandbe­kämpfung 
+(­Kapitel 3) und endet mit der Nachbereitung 
+(­Kapitel 4). In Infoboxen finden sich ergänzende 
+­Hinweise.
+Bringen wir die Verantwortungs­
+gemeinschaft Waldbrand­
+schutz ­zusammen und ­gehen 
+das Thema aktiv an!
+Mit herzlichen Grüßen
+Sehr geehrte 
+Damen und Herren, 
+Katrin Eder
+Staatsministerin für Klimaschutz, 
+Umwelt, Energie und Mobilität
+Rheinland-Pfalz
+
+
+1.	Hintergrund
+a.	 Normative Grundlagen
+8
+b.	 Waldfläche und Waldeigentum
+10
+c.	 Waldentwicklung
+12
+d.	 Waldbrandrisikogebiete
+13
+2.	Prävention, Vorbereitung und ­Waldbrandverhütung
+a.	 Informationen zur Gefahrenlage
+14
+b.	 Gefahrenanalyse
+18
+c. 	 Löschwasserversorgung und Wasserentnahmestellen
+22
+d. 	 Technische Maßnahmen
+30
+e. 	 Kartenmaterial
+31
+f. 	 Waldbauliche Maßnahmen
+32
+g. 	 Öffentlichkeitsarbeit: ­Informations- und Pressearbeit
+33
+h. 	 Bildungsangebote, Bildungsarbeit und unterjähriger Austausch und 
+regelmäßige Übungen
+34
+i. 	 Präventive Maßnahmen bei steigender Waldbrand­gefährdung
+36
+3.	Erkennung und ­Reaktion: Waldbrand­bekämpfung
+a. 	 Alarmplan
+37
+b. 	 Waldbrandmeldung
+37
+c. 	 Einsatzfall: Unterstützung im Brandfall durch Forstleute
+38
+d. 	 Kommunikation
+41
+4.	Nachbereitung
+a. 	 Einsatznachbesprechungen
+41
+Anhang
+Kriterien für die Gefährdungseinschätzung und Lagebeurteilung im Brandfall
+42
+Checkliste
+43
+INHALT
+5
+
+6
+1. HINTERGRUND
+1. Hintergrund
+Waldwachstum und Waldgesundheit waren in Rhein­
+land-Pfalz viele Jahrzehnte durch atlantisch geprägte 
+Witterung in den Sommermonaten beeinflusst. Mit 
+der Häufung sogenannter Trockenjahre verschlech­
+tert sich allerdings die Gesundheitssituation der 
+Laub- und Nadelwälder. Gleichzeitig verschärft sich 
+die Gefährdungssituation gegenüber Waldbrand. 
+Dies lässt sich auch anhand von Zahlenmaterial 
+belegen, wie es der langjährige Trend für den Wald­
+brandgefahrenindex über die letzten rund 60 Jahre 
+aufzeigt.  Sukzessive steigt die Anzahl der Tage mit 
+Waldbrandstufe 4 und 5. Dies zeigen auch die Jahre 
+2018 bis 2020 und 2022. Große Hitze, austrocknen­
+de Winde und mehrwöchige Trockenheit führten zu 
+flächendeckend hohen oder höchsten Indexwerten. 
+Die Folge waren außerordentlich trockene Böden, 
+ausgetrocknete Vegetation, absterbende Waldgesell­
+schaften und vermehrt Totholz. Dies war in weiten 
+Teilen von Rheinland-Pfalz der Fall. 
+Wärme und brennbares Material sind 
+neben Sauerstoff die Bedingungen im 
+Verbrennungsdreieck, die erforderlich 
+sind für einen Brand. 
+In Rheinland-Pfalz gehen besonders warm-tro­
+ckene Bedingungen mit einer höheren Anzahl an 
+Brandereignissen und größeren Waldbrandflächen 
+einher. Für die Zukunft werden längere und intensi­
+vere Warmphasen erwartet, verbunden mit einem 
+erhöhten Waldbrandrisiko. Aufgrund dieser prognos­
+tizierten Entwicklung fußen Waldbrandkonzepte auf 
+einem lebendigen Austausch und Miteinander vor 
+allem auf Ebene der örtlich zuständigen Feuerwehren 
+und Forstämter. 
+Die Waldbrandstatistik Rheinland-Pfalz dokumen­
+tiert für den Zeitraum von 1999 bis 2022, dass 
+Waldbrände nach Zahl und Fläche bisher in einem 
+vergleichbar geringen Umfang vorgekommen sind. 
+Im langjährigen Durchschnitt betrug die Anzahl an 
+Waldbränden unter 50 bei einer Gesamtfläche von 
+unter 10 Hektar pro Jahr. Bei einer Gesamtwaldflä­
+che von circa 840.000 Hektar Wald entspricht das 
+einem Anteil von weniger als 0,001 Prozent. Im Jahr 
+Abbildung 1: Waldbrandindex 1961–2022 Rhein-
+land-Pfalz. Die Berechnungsgrundlage fußt auf 
+dem Kanadischen Waldbrandindex (sog. Fire 
+Weather Index, FWI), der als weltweiter Standard 
+auch in Deutschland verwendet wird.
+Abbildung 2: Waldbrand im August 2022 am 
+trockenen Südhang vom Hambacher Schloss, 
+Neustadt an der Weinstraße. Mit circa 4 Hektar 
+Waldbrandfläche der seit Jahrzehnten größte 
+Waldbrand in Rheinland-Pfalz. 
+Abbildung 3: Lennebergwald nahe Mainz
+
+7
+1. HINTERGRUND
+2022 ­haben sich in Rheinland-Pfalz Fläche und An­
+zahl jedoch vervierfacht. Eine ähnliche Größenord­
+nung wurde im Sommer 2003 (Jahrhundertsommer) 
+erreicht.
+Landesforsten führt eine Waldbrandstatistik, 
+die den Wald i. S. des Gesetzes abdeckt (vgl. § 3 
+LWaldG). Diese wird am Ende eines jeden Jahres 
+aktualisiert. Daneben werden separat Meldungen 
+von Polizei und Feuerwehr erfasst, die sich in der 
+Regel auf Vegetationsbrände (z. B. Alleen, Flur­
+gehölzstreifen und -gruppen, Grasland) beziehen. 
+Vegetationsbrände sind der Oberbegriff, in dem 
+Waldbrände aufgehen. Alle Waldbrände sind dem­
+nach Vegetationsbrände, aber nicht alle Vegeta­
+tionsbrände sind im Umkehrschluss Waldbrände.
+Waldbrände sind in Rheinland-Pfalz nur selten 
+Naturereignisse und haben hier keine Bedeutung in 
+der natürlichen Entwicklung von Waldökosystemen. 
+In der Regel kamen Klein- und Bodenfeuer vor, die 
+einen vergleichsweise geringen Schaden verursach­
+ten. Vollfeuer oder Wipfelfeuer, die durch Wind und 
+Vegetation in kurzer Zeit weite Strecken vereinnah­
+men können, kamen bisher nicht vor. 
+Auswirkungen kleiner Flächenbrände auf die Wald­
+ökologie sind glücklicherweise zumeist gering. Die 
+bewährte Grundstruktur der Feuerwehr konnte in 
+den zurückliegenden Perioden die Waldbrandfläche 
+regelmäßig unter 1 Hektar halten. 
+Im langjährigen Mittel der Jahresverläufe sind das 
+Frühjahr (April) und der Hochsommer (Juli/August) 
+besonders von Waldbränden betroffen. Vor dem 
+Austrieb bieten trockene Vorjahresvegetation und 
+Laub am Boden leicht entzündliches Brandmaterial. 
+Im Frühjahr besteht eine erhöhte Gefahr von Boden­
+bränden. Mit einer Verlängerung der warm-trocke­
+nen Vegetationszeit in den Herbst ist eine längere 
+Waldbrandsaison möglich. Je nach Witterung im 
+Winterhalbjahr besteht keine bis eine geringe Gefahr. 
+Bei anhaltender Trockenheit Ende Dezember (ohne 
+Schnee) kann Silvesterfeuerwerk jedoch problema­
+tisch sein durch Entzündung von leicht brennbarem 
+Bodenmaterial.
+In der Regel handelt es sich um menschliches 
+Fehlverhalten, das zum Waldbrand führt. Häufige 
+Ursachen sind dabei weggeworfene Zigaretten, nicht 
+fachgerechte Abbrennarbeiten und feuergefährliche 
+Abbildung 4: Anzahl (oben), Fläche (Mitte) und 
+mittlere Auftretenshäufigkeit (unten) der Wald-
+brände in Rheinland-Pfalz von 1999 bis 2022
+ANZAHL
+FLÄCHE
+AUFTRETENSHÄUFIGKEIT
+
+8
+1. HINTERGRUND
+Betriebsarbeiten, Brandstiftung und Feuerwerkskör­
+per. Die einzige, jedoch seltene natürliche Ursache 
+für Waldbrände in Rheinland-Pfalz wären Blitzschlä­
+ge, die im Sommer in Form von schwer zu löschen­
+den Erdfeuern auftreten könnten.
+Die Folgen von Feuern auf Gesellschaft, Natur und 
+Waldbewirtschaftung sind zahlreich. Sie reichen von 
+ökonomischen Folgen wie Eigentumsverlust, Zerstö­
+rung von Produktionsstätten und kritischer Infrastruk­
+tur bis hin zu Räumungskosten, vernichteten Wald­
+orten, Bekämpfungs- und Wiederaufforstungskosten 
+und Todesfällen. Ökologische Auswirkungen sind die 
+Beeinträchtigung von Nährstoff-, Luft- und Wasser­
+haushalt oder Schadstofffreisetzungen und Störungen 
+der Pflanzen-, Pilz- und Tierwelt bis hin zu Erosion 
+durch Brand. Auch aus Gründen der klimafreundlichen 
+Bereitstellung und Verwendung des heimischen Öko­
+rohstoffs Holz sind Vitalitäts- und Waldverluste zu 
+verhindern. Waldbrände sind damit stets zu vermei­
+den oder schnellstmöglich einzudämmen.
+a. Normative Grundlagen
+Gesetzlich geregelt ist die Waldbrandprävention in 
+den einschlägigen Bestimmungen im rheinland-pfäl­
+zischen Landeswaldgesetz (LWaldG) vom 30.11.2000 
+in § 15 und § 24. Forstpersonal und Forstbehörden 
+bringen sich beratend und unterstützend ein. Eine 
+Waldbrandbekämpfung findet durch sie nicht statt.
+Regelungen zur Gefahrenbeseitigung bzw. Wald­
+brandbekämpfung finden sich im Landesbrand- und 
+Katastrophenschutzgesetz (LBKG) vom 02.11.1981 in 
+der jeweils gültigen Fassung in Verbindung mit dem 
+Rahmen-Alarm- und Einsatzplan Waldbrand (RAEP 
+WB) und dem Konzept Wald- und Vegetationsbrand­
+bekämpfung (WBr). Grundsätzlich sind die Behörden 
+und Organisationen mit Sicherheitsaufgaben (BOS), 
+wie beispielsweise Feuerwehr und Technisches Hilfs­
+werk, für die Gefahrenabwehr zuständig. Die Einsatz­
+leitung der Feuerwehr entscheidet über die Art und 
+Weise der Unterstützung.
+Link zu den Dokumenten: 
+https://bks-portal.rlp.de/brandschutz/alarm-und-
+einsatzplanung/fahrzeugger%C3%A4t-waldbrand
+Als Aufbau- und Ablaufkonzept dient der Rahmen-
+Alarm- und Einsatzplan mit den einschlägigen Alarm- 
+und Einsatzplänen auf Ebene der Kreise und Ver­
+bandsgemeinden in Verbindung mit dem vorliegenden 
+Kompendium und den örtlichen Forstamtskonzepten. 
+Weitere Grundlagen für Feuerwehren, Forstbehörden 
+und Behörden und Organisationen mit Sicherheitsauf­
+gaben ergeben sich aus den Vorschriften bzw. Merk­
+blättern zum Wegebau, den einschlägigen Feuerwehr­
+dienstvorschriften, diversen DIN-Vorschriften sowie 
+Abbildung 5: Waldbrand und dessen Akteurinnen und Akteure 
+Bürgerinnen und 
+Bürger
+Institutionen der 
+Lehre u. Ausbildung, 
+z. B. Schulen, 
+Universitäten
+Öffentliche 
+Entscheidungsträger
+Private Firmen
+z. B. Versicherungen, 
+Forst-Holz-Kette, Technologie-
+ﬁrmen, landwirtschaftliche 
+Betriebe
+Waldbewirtschaftung
+Feuerwehr, First 
+Responder etc.
+WALDBRAND
+
+9
+1. HINTERGRUND
+gen mit Geboten und Verboten, die bei Maßnahmen 
+des vorbeugenden Brandschutzes eine Rolle spielen 
+können, ist an dieser Stelle hingewiesen:
+•	 §§ 13 ff. Bundesnaturschutzgesetz: Eingriffsrege­
+lung, Vermeidung und Kompensation erheblicher 
+Beeinträchtigungen durch Eingriffe in Natur und 
+Landschaft
+•	 Schutzgebiete und Objekte nach §§ 23–30 
+BNatSchG wie bspw. Naturschutzgebiete, Natio­
+nalpark Hunsrück-Hochwald, Landschaftsschutz­
+gebiete und gesetzlich geschützte Biotope (z. B. 
+Moore, Quellen, Bäche, Wälder trocken-warmer 
+Standorte oder Hangschuttwälder)
+•	 § 40 Bundesnaturschutzgesetz
+•	 § 44 Bundesnaturschutzgesetz: besonders ge­
+schützte Arten
+•	 Regelungen zu Naturwaldreservaten insbesondere 
+§ 19 LWaldG: Zweck u. a. Forschung, Biomonito­
+ring, Belassen von Totholz und Grundsatz einer 
+Feuerbekämpfung 
+•	 NATURA-2000-Gebiete 
+	- FFH-Lebensraumtypen nach Anhang I sowie 
+Tier- und Pflanzenarten nach Anhang II und IV 
+der FFH-Richtlinie 
+	- Vogelschutzgebiete (Anhang I der Vogelschutz­
+richtlinie)
+Informationen zu bspw. internationalen oder 
+­nationalen Schutzgebieten sind online abrufbar 
+unter dem Landesinformationssystem der Natur­
+schutzverwaltung (kurz: LANIS): 
+https://geodaten.naturschutz.rlp.de/
+Informierend, beratend und unterstützend kann 
+qualifiziertes Forstamtspersonal der Feuerwehr­
+einsatzleitung zur Seite stehen. Die Rolle der so­
+genannten Fachberatung Forst ist nicht im Detail 
+definiert. Im Allgemeinen sind je nach Alarmstufe 
+qualifizierte Forstamtsbeschäftigte mit Ortskenntnis 
+im Einsatzfall durch die Feuerwehr hinzuzuziehen. 
+Die konkreten Anforderungen müssen auf örtlicher 
+Ebene zwischen Forstamt und Feuerwehr abgespro­
+chen werden (z. B. mithilfe eines Anforderungskata­
+logs unter Beachtung der Verantwortlichkeiten und 
+Routinen). Aus der Rolle der Fachberatung sind keine 
+Einsatzleit- oder Führungsbefugnisse abzuleiten.
+der Naturschutzgesetzgebung. Regelungen im Privat- 
+und Kommunalwald sind zu berücksichtigen.
+Nach § 15 und § 24 Landeswaldgesetz (LWaldG) 
+herrscht der Grundsatz eines ganzjährigen Feuerver­
+bots im Wald.
+Dieser Grundsatz kennt in mehreren Fällen Ausnah­
+men, entweder mit Genehmigung durch das örtlich 
+zuständige Forstamt als untere Forstbehörde oder 
+wenn ein Abstand von mehr als 100 Metern zum 
+Wald i. S. der Walddefinition nach § 3 LWaldG ge­
+geben ist. Die weiteren Ausnahmen nach § 24 Abs. 3 
+LWaldG: 
+1.	 „Personen, denen der Wald gehört oder die ein 
+Nutzungsrecht daran besitzen,
+2.	 Personen, die im Wald beschäftigt sind, 
+3.	Jagdausübungsberechtigte bei der Jagdausübung, 
+4.	Personen bei der Ausführung behördlich angeord­
+neter oder genehmigter Arbeiten, 
+5.	das Anzünden und Unterhalten von Feuer in einer 
+vom Forstamt errichteten oder von ihm geneh­
+migten Feuerstelle, 
+6.	das Anzünden und Unterhalten von Feuer in einer 
+Anlage, die behördlich, insbesondere bau- oder 
+gewerberechtlich, genehmigt wurde [oder] 
+7.	 das Grillen auf Grundstücken am Wald mit zu­
+gelassener Wohnbebauung.“
+Nach der Gefahrenabwehrverordnung-Himmels­
+laternen vom 31. August 2009 in der jeweils gülti­
+gen Fassung ist es nach § 1 in Rheinland-Pfalz „[…] 
+verboten, unbemannte ballonartige Flugkörper, bei 
+denen der Auftrieb durch Erwärmung der im Bal­
+lonkörper enthaltenen Luft mittels einer eigenen 
+Feuerquelle mit festen, flüssigen oder gasförmigen 
+Brennstoffen erzeugt wird (Himmelslaternen), in den 
+Luftraum aufsteigen zu lassen. Himmelslaternen sind 
+insbesondere die im Handel unter dieser oder einer 
+ähnlichen Bezeichnung, wie ‚Fluglaterne‘, ‚Kong-
+Ming-Laterne‘, ‚Skylaterne‘, ‚Partyballon‘ oder ‚Minia­
+tur-Heißluftballon‘, bekannten Flugkörper.“
+Informationen zu naturschutzrechtlichen Bestim­
+mungen finden sich bei den Unteren Naturschutzbe­
+hörden oder Forstämtern. Auf einschlägige Regelun­
+
+10
+1. HINTERGRUND
+10
+Mitentscheidend für ein Gelingen ist sicherlich, dass 
+die Rolle der Fachberatung bereits in der Phase der 
+Prävention beginnt (z. B. Informationen zu Risiko­
+gebieten, gemeinsame Wegebefahrungen), um als 
+Kontaktperson dem örtlich zuständigen Revier bzw. 
+Forstamt ein Gesicht zu geben.
+Nach dem Rahmen-Alarm- und Einsatzplan Wald­
+brand (RAEP Waldbrand) kommt den Forstleuten in 
+den fünf Alarmstufen eine beratende Funktion zu, 
+wenn es im Wald brennt. Bereits in der Prävention 
+gibt es allerdings einige Punkte, die die Fachberatung 
+einbringen kann, dazu zählen exemplarisch und nicht 
+abschließend:
+Organisatorische Maßnahmen
+•	 Aktualisierung der Kontaktdaten (Revierabgren­
+zungen mit der zuständigen Revierleitung, Wald­
+eigentumsverhältnisse)
+•	 Zurverfügungstellung von Kartenmaterial (Revier­
+karten mit besonders gefährdeten Waldbereichen, 
+Rettungspunkte, Wasserentnahmestellen usw.)
+	- Landeslizenz für BOS bereits verfügbar
+•	 Erkundungsfahrten mit Feuerwehrfahrzeugen auf 
+Waldwegen
+•	 Waldbrand- und Rettungsübungen
+•	 Unterstützung durch Forstmaschinen zum Freiräu­
+men von Wegen (Liste von Unternehmerinnen und 
+Unternehmern)
+Löschwasserversorgung und 
+­technische Maßnahmen
+•	 Förderung des Wasserrückhalts im Wald generell
+•	 Gefahrenanalyse in Abstimmung mit örtlicher 
+Feuerwehr und Prüfung der Anlage/Reaktivierung 
+von Maßnahmen der Löschwasservorhaltung im 
+Wald
+•	 Unterhaltung und Instandsetzung eines ausrei­
+chend dichten Wegenetzes
+Waldbauliche Maßnahmen
+•	 Langfristige Entwicklung laubbaumreicher Wälder 
+mit einer grundsätzlich geringeren Brandlast
+•	 Anlage oder Förderung von brandhemmender 
+Vegetation, insbesondere entlang kritischer Infra­
+struktur, z. B. waldnaher Wohnbebauung
+Kommunikation
+•	 Jährliches Frühjahrstreffen der örtlichen Forstleute 
+mit den örtlich zuständigen Brand- und Katastro­
+phenschutzinspekteurinnen und -inspekteuren der 
+Landkreise und kreisfreien Städte und der Wehrlei­
+tung der Gemeinden
+•	 Kontinuierliche Kommunikationsarbeit,
+z. B. Amtsblätter, Presse, Newsletter, soziale Me­
+dien usw.
+•	 Anbringen der professionellen Warnschilder an 
+neuralgischen Punkten, z. B. an Schutzhütten, 
+Waldparkplätzen, Wanderwegen, Wegekreuzungen 
+usw.
+•	 Informationen zur Smartphone-App „Hilfe im 
+Wald“
+b. Waldfläche und 
+Waldeigentum
+Jeder Quadratmeter in Rheinland-Pfalz hat eine 
+Eigentümerin oder einen Eigentümer. Eine wie auch 
+immer gestaltete Wildnis gibt es im engeren Sinne 
+daher nicht. § 2 des rheinland-pfälzischen des Lan­
+deswaldgesetz (LWaldG) unterscheidet drei Eigen­
+tumsarten, den Staats-, Kommunal- und Privatwald. 
+Zuständig für den Bundeswald in Rheinland-Pfalz 
+ist der Bundesforstbetrieb Rhein-Mosel mit dem 
+Standort in Baumholder. Die Sparte Bundesforst ist 
+Teil der Bundesanstalt für Immobilienaufgaben. In 
+Rheinland-Pfalz handelt es sich überwiegend um 
+Liegenschaften, die militärisch genutzt werden, z. T. 
+mit Kampfmitteln oder militärischen Altlasten (z. B. 
+Truppenübungsplätze mit möglicherweise muni­
+tionsbelasteten Standorten). Der Staatswald im 
+Bundeseigentum hat einen Anteil von 1,6 Prozent an 
+der Gesamtfläche (Daten der Bundeswaldinventur 
+2012). 
+Kontakt zum Bundesforstbetrieb Rhein-Mosel:
+Grünbacher Weg 7 
+55774 Baumholder
+Das Land Rheinland-Pfalz hat einen Waldeigentums­
+anteil von circa 25,6 Prozent. Dieser befindet sich 
+überwiegend im südlichen Landesteil. 
+
+11
+1. HINTERGRUND
+Der Privatwald hat einen Anteil von circa 26,7 Pro­
+zent und ist aufgrund von Realteilung in der Regel 
+stark parzelliert, womit den über 300.000 Wald­
+besitzenden im Durchschnitt 6.000 Quadratmeter 
+gehören. Viele private Waldbesitzende sind über 
+sogenannte Waldbauvereine organisiert.
+Der Körperschaftswald hat einen Anteil von circa 
+46,1 Prozent. Besonders charakteristisch für Rhein­
+land-Pfalz ist der hohe Kommunalwaldanteil mit fast 
+der Hälfte der Fläche. In Rheinland-Pfalz besitzen 
+über 2.000 Gemeinden Wald. Schwerpunktmäßig 
+befindet sich dieser im Norden vom Bundesland. 
+Große waldbesitzende Gemeinden sind die Stadt 
+Koblenz oder die Stadt Neustadt an der Weinstraße.
+Der Wald in Rheinland-Pfalz umfasst eine Gesamt­
+fläche von rund 840.000 Hektar Wald, wovon rund 
+20 Prozent auf den Pfälzerwald entfallen. Insgesamt 
+ist die Landesfläche zu 42 Prozent bewaldet. Hohe 
+und höchste Bewaldungsprozente werden im Pfälzer­
+wald erreicht, die niedrigsten in der Region Rheinhes­
+sen. Rheinland-Pfalz zählt zusammen mit Hessen zu 
+den waldreichsten Bundesländern, denn im bundes­
+weiten Schnitt sind rund ein Drittel der Fläche mit 
+Wald bedeckt. 
+Das Gemeinschaftsforstamt rheinland-pfälzischer 
+Prägung ist in Fragen des Waldeigentums ein zent­
+raler Kontaktgeber. Neben der Bewirtschaftung des 
+Landeswaldes werden Körperschafts- und Privat­
+wälder betreut oder beraten. Die 44 Forstämter 
+decken hoheitlich den gesamten Bereich von Rhein­
+land-Pfalz ab. Ausgenommen sind die Flächen des 
+Nationalparks Hunsrück-Hochwald und des Bundes­
+forstbetriebs Baumholder, die der Aufsicht durch das 
+Ministerium bzw. die Zentralstelle der Forstverwal­
+tung unterliegen.
+Kontakt zur Zentralstelle der Forstverwaltung:  
+Le Quartier-Hornbach 9
+67433 Neustadt an der Weinstraße
+Das Waldbildungszentrum liegt in Hachenburg, von 
+wo aus digital oder in Präsenz Aus- und Fortbildun­
+gen für Interne (Landesforstenbeschäftigte) und 
+Externe (z. B. Feuerwehrleute) angeboten werden.
+Kontakt zum Waldbildungszentrum: 
+In der Burgbitz 4 
+57627 Hachenburg
+Adress- und Kontaktlisten sind auf der Website des 
+jeweiligen Forstamtes zu finden, abrufbar unter: 
+forstaemter.wald.rlp.de
+Kontakt und Austausch auf Ebene der Aufsichts- und 
+Dienstleistungsdirektion (ADD) als auch mit der 
+Feuerwehr- und Katastrophenschutzakademie (LFKA) 
+erfolgen mit der Zentralstelle der Forstverwaltung im 
+sogenannten Fachbeirat Waldbrandschutz und nicht 
+über die örtliche Ebene der Forstämter.
+Bei der Aufsichts- und Dienstleistungsdirektion (ADD) 
+nimmt das für Brand- und Katastrophenschutz zustän­
+dige Referat 22 im Auftrag der Fachabteilung im Innen­
+ministerium zentral-operative Aufgaben im Bereich 
+Brand- und Katastrophenschutz wahr.
+Kontakt zur Aufsichts- und Dienstleistungsdirektion: 
+Willy-Brandt-Platz 3 
+54290 Trier
+Die Feuerwehr- und Katastrophenschutzakademie 
+(LFKA) in Koblenz ist die zentrale Ausbildungsstätte 
+der Freiwilligen Feuerwehren, der Berufs- und Werk­
+feuerwehren und der anderen Hilfsorganisationen in 
+PRÜM
+DAUN
+BITBURG
+NEUERBURG
+WITTLICH
+COCHEM
+ZELL
+SIMMERN
+TRABEN-
+TRARBACH
+TRIER
+HOCHWALD
+SAARBURG
+BIRKENFELD
+BAD SOBERNHEIM
+SOONWALD
+KUSEL
+OTTERBERG
+DONNERSBERG
+BAD DÜRKHEIM
+HAARDT
+ANNWEILER
+WASGAU
+WESTRICH
+KAISERSLAUTERN
+JOHANNISKREUZ
+HINTER-
+WEIDENTHAL
+BIENWALD
+PFÄLZER
+RHEINAUEN
+RHEINHESSEN
+KASTELLAUN
+BOPPARD
+NASTÄTTEN
+LAHNSTEIN
+NEUHÄUSEL
+KOBLENZ
+AHRWEILER
+DIERDORF
+RENNEROD
+ALTENKIRCHEN
+HILLESHEIM
+ADENAU
+HACHENBURG
+GEROLSTEIN
+NLP
+Waldbildungszentrum, 
+Hachenburg
+Zentralstelle der Forstverwaltung, 
+Neustadt
+Abbildung 6: Übersichtskarte von 
+­Landesforsten Rheinland-Pfalz 
+
+12
+1. HINTERGRUND
+Rheinland-Pfalz. Daneben bündelt sie die Beratung 
+zu Fragen der Feuerwehr- und Katastrophenschutz­
+technik, ist Beratungs- und Koordinierungsstelle 
+„Psychosoziale Notfallversorgung“ und regelmäßiger 
+Tagungsort.
+Kontakt zur Feuerwehr- und Katastrophen­
+schutzakademie: 
+Lindenallee 41–43
+56077 Koblenz
+c. Waldentwicklung
+Über alle Waldbesitzarten hinweg lässt sich die Baum­
+artenentwicklung der letzten Jahrzehnte anhand der 
+vergangenen drei Bundeswaldinventuren in den 
+Jahren 1987, 2002 und 2012 zahlenmäßig nachver­
+folgen. Die Baumarten liefern in unterschiedlicher 
+Ausprägung das Brennmaterial, das neben Sauerstoff 
+und Hitze die Voraussetzung für einen Brand ist. 
+Betrachtet man die Waldlandschaftsentwicklung in 
+dem 25-jährigen Zeitraum unter dem Aspekt der 
+Menge an brennbarem (Trocken-)Material, ist diese 
+gekennzeichnet durch einen Flächenanstieg an 
+risikoärmeren Laubbäumen. Dagegen haben wald­
+brandgefährdete Baumarten wie Fichte und Kiefer in 
+Rheinland-Pfalz über die letzten Jahrzehnte in ihrem 
+Flächenumfang abgenommen. Hierbei zeigt die Fichte 
+einen besonders starken Flächenrückgang, der sich in 
+den Jahren nach 2012 infolge von Borkenkäfer­
+massenvermehrungen noch weiter fortgesetzt hat. 
+Abbildung 8: Frischer Stockausschlag einer Eiche 
+auf der Brandfläche unterhalb des Hambacher 
+Schlosses im Oktober 2022
+Abbildung 7: Waldlandschaftsentwicklung in Rheinland-Pfalz über die letzten rund 30 Jahre anhand der Bundes­
+waldinventuren von 1987, 2002 und 2012. Weitere Informationen online unter: ­www.bundeswaldinventur.de 
+
+13
+1. HINTERGRUND
+Nadelbäume besitzen anders als Laubbäume hohe 
+Ölgehalte in den Nadeln und meist Harze in den 
+verholzten Anteilen, womit sie leicht entzünd­
+lich und gut brennbar sind. Sie bilden zumindest in 
+Reinkulturen oft eine leicht brennbare Reisig- und 
+Rohhumusauflage am Boden. Bei Laubbäumen fällt 
+diese in der Regel geringer aus. Nach einem Brand 
+können Laubbäume wie Weiden, Pappeln und Eichen 
+mittels Stockausschlag aus dem Wurzelwerk wieder 
+austreiben. Die Eiche hat den Vorteil einer stark bor­
+kigen Rinde, womit weniger intensive und schnelle 
+Bodenfeuer eine geringere Schadwirkung entfalten. 
+Bundesweit besitzt Rheinland-Pfalz die höchsten 
+Eichenanteile.
+Strukturreichtum sowie Anteile an geschwächten 
+Bäumen und eine Anreicherung an zumeist gut ge­
+trocknetem Alt- und Totholz, insbesondere liegen­
+dem Totholz, können jedoch mögliche Löscharbeiten 
+behindern. Trockenschäden besonders in Laubwäl­
+dern, häufig in Kombination mit schadverstärkenden 
+Organismen oder Krankheiten, führen zu erhöhten 
+Absterberaten. Zu nennen sind hier beispielhaft das 
+Eschentriebsterben oder die Rußrindenkrankheit an 
+Bergahorn. Perspektivisch wird es zu einer weiteren 
+Totholzerhöhung kommen, sowohl in bewirtschaf­
+teten Wäldern als auch in besonderem Maße in 
+Schutzgebieten (z. B. Nationalpark Hunsrück-Hoch­
+wald, Kernzonen Biosphärenreservat). 
+Totholz ist ein elementarer Teil natur­
+naher Waldgesellschaften mit hoher 
+Artenvielfalt. 
+d. Waldbrandrisikogebiete
+Die Waldflächen von Rheinland-Pfalz wurden gemäß 
+der Verordnung (EWG) Nr. 2158/92 vom 23. Juli 
+1992 in Gebiete mit unterschiedlicher Risikoklasse 
+eingestuft:
+•	 A = hohes Waldbrandrisiko (rot)
+•	 B = mittleres Waldbrandrisiko (orange)
+•	 C = niedriges Waldbrandrisiko (gelb)
+In Rheinland-Pfalz sind keine Gebiete mit hohem 
+Waldbrandrisiko eingestuft. Eingestufte Gebiete mit 
+mittlerem Waldbrandrisiko (B) sind:
+•	 Landkreise Südliche Weinstraße und Germersheim
+•	 Landkreis Neustadt an der Weinstraße
+•	 Gebiete der kreisfreien Stadt Kaiserslautern und 
+des Landkreises Kaiserslautern, die zum Land­
+stuhler Bruch gehören (saarländisch-pfälzische 
+Moorniederung)
+Alle übrigen Waldflächen von Rheinland-Pfalz sind 
+als Gebiete mit niedrigem Waldbrandrisiko ein­
+gestuft. In Deutschland erfolgt die Abgrenzung auf 
+Landkreisebene.
+Unabhängig von den Waldbrandrisikogebieten kann 
+die Einstufung der örtlichen Gefahrenanalyse zu 
+einem erhöhten Gefahrenpotenzial und einer höhe­
+ren Einstufung führen, sodass stets die örtliche Ein­
+schätzung im Jahresverlauf notwendig ist. Kulturge­
+prägte Kiefernwälder, zum Beispiel am Ostabfall des 
+Pfälzerwaldes, die auf trockenen Hanglagen in Höhen 
+zwischen 200 und 600 Metern über Meereshöhe in 
+einer warm-trockenen Klimatönung wachsen, zeigen 
+zunehmend lichte Waldstrukturen mit leicht ent­
+zündbarem Brennmaterial (z. B. tief beastete, kurze 
+Kiefernbäume, Gras, Heidekraut). Ein ähnliches Bild 
+zeigt sich auch im Lennebergwald nahe Mainz.
+Auf Ebene der Orts- oder Verbandsge­
+meinde ist deshalb ­gleichermaßen das 
+örtliche Wald­brandrisiko zu prüfen.
+Abbildung 9: Die rheinland-pfälzischen Kreise mit 
+ihrem eingestuften Waldbrandrisiko (gelb = gering, 
+orange = mittel) auf der Grundlage der  Verordnung 
+(EWG) Nr. 2158/92 vom 23. Juli 1992
+
+14
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+2. Prävention, Vorbereitung 
+und ­Waldbrandverhütung
+a. Informationen zur Gefahrenlage
+Zur Beurteilung der Waldbrandgefahr informiert der Deutsche Wetter­
+dienst (DWD) seit 2012 über den Waldbrandgefahrenindex (WBI). Diese 
+Waldbrandgefahrendarstellung beruht auf meteorologischen Daten für eine 
+bestimmte Region, wie den Mittagswerten der Lufttemperatur, der relativen 
+Luftfeuchtigkeit, der Windgeschwindigkeit und der 24-stündigen Nieder­
+schlagsmenge sowie ggf. Schneehöhenmessungen. 
+Die Darstellung beinhaltet auch eine Prognose für die kommenden vier 
+Tage. Der Index wird in der Regel im Zeitraum von März bis Oktober her­
+ausgegeben und umfasst fünf Gefahrenstufen, angelehnt an internationale 
+Standards (1 = sehr geringe Gefahr, 2 = geringe Gefahr, 3 = mittlere Gefahr, 
+4 = hohe Gefahr, 5 = sehr hohe Gefahr). 
+In Rheinland-Pfalz treten überwiegend Bodenfeuer auf, in deren Folge sich 
+dann Waldbrände entwickeln. Für Waldbereiche mit offeneren Grasland­
+schaften kann daher die Berücksichtigung von Bodenfeuchte und Grasland­
+feuerindex hilfreich sein. Nach Aussage des DWD handelt es sich bei diesem 
+Index um „offenes, nicht abgeschattetes Gelände mit abgestorbener Wild­
+grasauflage ohne grünen Unterwuchs“. 
+Unter dem Link waldbrandgefahr.wald.rlp.de sind folgende Informationen zusammengestellt:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 10: Waldbrandgefahrenindex (links), Bodenfeuchte unter Gras, sandiger Lehm (Mitte) 
+und Graslandfeuerindex (rechts). Die kartenmäßige Darstellung gibt einen ersten Überblick über die 
+­Gefahrensituation von Waldbränden und bildet einen Teil der Gefahrenabschätzung.
+
+15
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Die Grafiken bieten vor allem in der Zusammenschau einen ersten Ein­
+druck der Gefahrenlage, der um die örtliche Entzündungs- und Brenn­
+fähigkeit ergänzt werden sollte. Wesentliche Beurteilungskriterien vor Ort 
+sind das Brennmaterial (insbesondere Anfälligkeit der unterschiedlichen 
+Baumarten oder Waldgesellschaften gegenüber Brand) und der phäno­
+logische Entwicklungsstand (z. B. Risikosenkung von Waldbränden mit 
+abgeschlossener Blattentfaltung in den Baumkronen). 
+Die örtliche Behördenebene ist bei der Festlegung von Maßnahmen oder 
+Alarmstufen nicht an die Indizes gebunden. Vielmehr ergänzen Informa­
+tionen zur überregionalen und prognostizierten Wetterlage oder zum 
+Brandgeschehen die Einstufung und Ableitung von Maßnahmen (z. B. 
+Information von Dienst­stellen).
+Die Vegetationsform sagt nicht abschließend etwas über die Brandlast 
+und Brandgefährdung aus. Eine Brach- wie auch eine Nassfläche mit 
+Schilf können in Mitteleuropa hoch gefährdet sein. Im trockenen Früh­
+jahr kann das Schilf Brandbeschleuniger sein, in einem nassen Sommer 
+brandhemmend wirken. Entscheidend ist also bei der Betrachtung der 
+Vegetationsform, die in der folgenden Grafik nach der Wassermenge und 
+dem Wassergehalt (z. B. Holzfeuchte) differenziert, die Frage der Entzünd­
+barkeit und Brandlast in der jeweiligen Jahreszeit und bei der beeinflus­
+senden Witterung.
+Abbildung 11: Lennebergwald nahe Mainz mit Schutzhütte und Infotafel Waldbrand. 
+Der Link waldbrandgefahr.wald.rlp.de ist auf den Infotafeln abgedruckt, worüber man sich tagesaktuell 
+und in Sekundenschnelle über die Gefahrensituation informieren kann.
+
+16
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+WASSERFLÄCHEN / AUEN
+GRASLAND
+NASSFLÄCHEN / MOOR
+NIEDRIG
+Risiko / Gefährdung     
+16
+
+17
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+MISCHWALD
+LAUBWALD
+NADELWALD
+HOCH
+      und Zündfähigkeit
+17
+
+18
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+b. Gefahrenanalyse
+Bäume produzieren von Natur aus Zweige, Blätter 
+oder Nadeln. Mehr oder wenig konstant steht damit 
+brennbares pflanzliches lebendes oder totes Material 
+zur Verfügung. Folglich geht es nicht allein darum, ob 
+Biomasse vorhanden ist, sondern in welcher Form, 
+von welcher Art und Konsistenz, wo sie vorkommt 
+und wie sie zum Beispiel verteilt ist. Bei der eigent­
+lichen Bewertung geht es neben der Wahrscheinlich­
+keit bzw. Häufigkeit um die Abschätzung der mögli­
+chen Intensität sowie die Exposition und Anfälligkeit 
+von Schutzgütern.
+In Rheinland-Pfalz sind Bodenfeuer am häufigsten, 
+bei denen die Verbrennung von Feinmaterial domi­
+niert. Stärker dimensioniertes Holz hat regelmäßig 
+eine längere Branddauer, verbunden mit einer höhe­
+ren Glutproduktion und einer deutlicheren Gefahr 
+eines Schwelbrands. Schwelende Materialien können 
+durch den Wind leichter verfrachtet werden. 
+Das Wissen um die gängige bzw. zu erwartende Wald­
+brandentwicklung in Kombination mit den unten ste­
+henden Faktoren ist wichtig bei der Maßnahmenwahl 
+der Waldbrandprävention sowie der Priorisierung und 
+Positionierung im Fall der Brandbekämpfung. 
+Das Gefahrenpotenzial eines Waldbrandes ist je nach 
+Waldlandschaft unterschiedlich und wird neben der 
+Brandlast von Topografie und Wetter mitbestimmt. Die 
+Umweltbedingungen an einem Standort sind wenig 
+beeinflussbar. Die Brandlast ist als solche erkennbar 
+und kann präventiv in Maßnahmen berücksichtigt 
+werden. Sinnvoll ist daher die Identifizierung von als 
+gefährlich eingestuften Brandlasten im Gelände und 
+deren Verteilung in der Waldlandschaft. Wichtig ist in 
+jedem Fall die grobe Klassifizierung der Vorkommen 
+unterschiedlicher Brandlastentypen (z. B. Grasvege­
+tation, Nadelwald), die in örtlichen Konzepten unter­
+schiedlich dargestellt sein können, bspw. in einer Karte 
+mit Risikobereichen.
+Weitere Größen, die bei der Beurteilung des Gefahren­
+potenzials eine entscheidende Rolle spielen:
+•	 Windgeschwindigkeit
+•	 Windrichtung
+•	 Niederschlag
+•	 Luftfeuchte
+•	 Temperatur 
+•	 Sonneneinstrahlung
+•	 Jahreszeiten
+•	 Häufigkeit von Störungen
+•	 LandnutzungsformMTT_ATT
+GERING
+Entscheidungshilfe zur Beurteilung 
+des Gefahrenpotenzials
+HOCH
+Wahrscheinlichkeit (Häufigkeit)
+Abschätzbar über Feuerstellen in der Gegend, alte Waldbrandflächen im 
+­Zusammenhang mit Witterungsbedingungen
+Intensität (Einschätzung des Brandverhaltens)
+(Aspekte: Art, Menge und Verteilung von Brennmaterial, Größe der Waldfläche, 
+Witterung, z.B. Wind, Trockenheit, Hitze, Niederschlag, Feuchte)
+Exposition von Schutzgütern und Vermögenswerten 
+(Schutzgut Mensch; z. B. Nähe zu Wohnbebauuung und anderer Infrastruktur 
+wie Sportstätten)
+Anfälligkeit der Schutzgüter
+(z. B. Holzhaus im Wald)
+Tabelle 1: Mit zunehmender Menge an brennbarem Material (z. B. Totholz) erhöht sich die potenzielle 
+Brandlast. Berücksichtigung der räumlichen Nähe zu kritischer Infrastruktur (z. B. Solarparks, Windkraft­
+anlagen, Umspannwerke) und möglicher Auswirkungen von Waldbränden (z. B. Flammen, Hitze, Rauch). 
+Gleichermaßen ist die Nähe und Ausstattung der nächsten Feuerwehr einzubeziehen.
+
+19
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Abbildung 12: Hilfsschema zur Gefahrenanalyse bei Biomasse und Totholz. 
+Entsprechend der Ziele und Grundsätze der ökologischen Waldentwicklung in Rheinland-Pfalz kommt es zu 
+keinem flächigen Arbeiten, sondern zu punktwirksamem Handeln (Maßnahmen- und Mitteleinsatz), wo­
+durch insbesondere der Anfall von verwertbarem Holz forciert wird unter Berücksichtigung der Standards 
+im ­Natur- und Artenschutz, der Nährstoffnachhaltigkeit und der Arbeitssicherheit. 
+•	 Vorherrschender Waldtyp
+•	 Waldaufbau
+•	 Waldzustand und -dichte (Waldinnenklima)
+•	 Hangneigung
+•	 Exposition
+•	 Höhenlage
+•	 Entfernung zur nächsten Wasserentnahmestelle
+•	 Entfernung zur Wegeinfrastruktur
+•	 Bodenfeuchte
+•	 Weitere topografische Indikatoren
+In vielen Waldbrandfällen der letzten Jahre war die 
+Brandentwicklung dadurch geprägt, dass das Feuer 
+den Hang hinauflief. Mit der Thermik (Kamineffekt) 
+und der hangoberseitig leichter erreichbaren Brand­
+last spielt die Topografie bei der Betrachtung von 
+Gefahrenbereichen eine sehr große Rolle.
+Im Jahresverlauf kommt es zu jahreszeittypischen 
+Gefahrenniveaus. Anhaltende oder wiederkehrende 
+Hitzewellen können eine Gefahrensituation ver­
+schärfen. Idealerweise werden die Gefahrenniveaus 
+in Abstimmung mit Beauftragten der Feuerwehr, 
+des Forstamtes, Eigentümerinnen und Eigentümern 
+sowie weiteren Betroffenen besprochen.
+Die grobe Einwertung bzw. Klassifizierung zur Ab­
+schätzung der Brandintensität erfolgt anhand der 
+quantitativen Fragen: Wie viel brennbares Material 
+welcher Dimension und Baumart ist vorhanden 
+und wie ist dessen Tendenz zur Austrocknung bzw. 
+Sensitivität oder Reaktion auf Umweltbedingungen? 
+Ziel ist die bessere Beurteilung und Einschätzung von 
+Brandverläufen, wobei die maßgebliche Größe die 
+Holzfeuchte ist, d. h. der Wasseranteil im Vergleich 
+zu trockenem Material. Je höher der Wasseranteil, 
+desto mehr Hitze bzw. Wärmeenergie wird für die 
+Verdunstung benötigt und desto langsamer brennt 
+das Holz. 
+Wenn Bäume Holzfeuchte verlieren, dann trocknen 
+diese meist von der Krone beginnend abwärts, be­
+kommen frühzeitig braune Blätter und sterben mög­
+licherweise. Symptome, die regional in ihrer Intensi­
+tät, ihrem Umfang und damit auch ihrer Tragweite 
+unterschiedlich sind – insgesamt jedoch zunehmen.
+Die nachfolgende Darstellung zeigt Eigenschaften 
+und Bedingungen verschiedener Brandlasten und 
+deren Einfluss auf die Ausbreitung von Waldbränden.
+Biomasse
+Lebend
+Dünn
+ (z. B. gesunde Äste und 
+Zweige)
+Junge Nadelbäume 
+(10–40-jährige) 
+mit ihren ätherischen Ölen 
+problematisch, Gefahr eines 
+Vollbrandes
+Laubbaumförderung
+(z. B. vitaler Buchen, Eichen)
+•	 Ästung
+•	 Regelmäßige Waldpflege
+•	 Erhalt und Förderung eines 
+Waldinnenklimas
+Dünn
+(z. B. Reisig, abgebrochene 
+Äste, Durchforstungsmaterial)
+Schnelle Holzfeuchte­
+änderung und schneller 
+Holzabbau
+meist Hauptbrandlast bei Boden­
+feuern (Lignin bei Naldel­holz!)
+Schließung der 
+­Nährstoffkreisläufe 
+•	 Regelmäßige Waldpflege
+•	 Erhalt und Förderung eines 
+Waldinnenklimas
+Schließung der 
+­Nährstoffkreisläufe 
+•	 Regelmäßige Waldpflege
+•	 In Einzelfällen klein schnei­
+den und Boden­kontakt 
+herstellen 
+•	 Erhalt und Förderung eines 
+Waldinnenklimas
+Grob 
+(z. B. gesunde Starkäste, 
+Bäume)
+Längere Feuerdauer
+höhere Glutproduktion, höhere 
+Gefahr eines Schwelbrands
+Mischwald
+•	 Erhalt und Förderung eines 
+Waldinnenklimas
+•	 Regelmäßige Waldpflege
+Grob 
+ (z. B. starkes Kronenmaterial, 
+Totholzbäume)
+Längere Feuerdauer
+höhere Glutproduktion, höhere 
+Gefahr eines Schwelbrands
+Tot 
+Holzdimension
+Zustand bzw. 
+­Zersetzungsgrad
+Brandverhalten
+Maßnahme
+
+20
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Totholz ist so wie alles übrige lebende organische Material potenziell brennbar. Im 
+Allgemeinen gilt, dass dünnes Material schneller seinen Holzfeuchtegehalt ändert 
+als stärkere Dimensionen. Totes Material ändert wiederum seinen Holzfeuchtegehalt 
+schneller als lebendes Material. Untersuchungen aus Naturwaldreservaten der For­
+schungsanstalt für Waldökologie und Forstwirtschaft (FAWF) zeigen zur Abbaubarkeit 
+von Totholz, dass die Verweildauer zunimmt mit abnehmendem Bodenkontakt, Zunah­
+me der Dimension oder deren Kombination. Kleine Dimensionen reagieren sensitiver 
+auf Umweltveränderungen (austrocknend). Zusätzlich gilt: Je mehr Lignin im Holz ist, 
+desto schwerer ist der Abbauprozess und desto länger dauert er. Nadelhölzer werden 
+i. d. R. deutlich langsamer zersetzt als Laubhölzer. Für die Brandtemperatur (den „Heiz­
+wert“) gilt, je mehr Lignin im Holz enthalten ist, desto höher der Wert. Das Brandver­
+halten kann je nach situativer Gegebenheit unterschiedlich sein. 
+Bei den Überlegungen zur Gefahrenanalyse handelt es sich um situative Entscheidun­
+gen, da insbesondere die Akkumulation sowie Umsetzungs- und Einarbeitungsrate 
+von Totholz in den Boden standortabhängig sind. Bei der konstanten oberirdischen 
+Zuführung an Totholz sollte eine Balance zwischen Zuführungsrate einerseits und 
+Zersetzungsrate andererseits gefunden werden. Gerade in waldbrandgefährdeten 
+Bereichen sollten Standorte nicht überfordert werden mit hohen Akkumulationen an 
+oberirdischer Biomasse, die über viele Jahre nicht zersetzt werden. Eine Abbaubarkeit 
+muss gewährleistet sein. Darauf abgestimmt erfolgt die konkrete Maßnahmenwahl, die 
+dies begünstigt (z. B. Kleinschneiden, um besseren Bodenkontakt herzustellen, v. a. bei 
+Kieferkronen). 
+Bei der Umsetzung der rheinland-pfälzischen Nährstoffnachhaltigkeits-Richtlinie kann 
+dies Niederschlag finden, indem im Sinne eines Regel-Ausnahme-Verhältnisses der Aus­
+nahmetatbestand Waldbrandschutz ergänzt ist, womit in begründeten Ausnahmefällen 
+von der Regelung abgewichen werden kann (z. B. eine Baumlänge um ein Schutzobjekt). 
+In derartigen Fällen handelt es sich um Präventionsmaßnahmen zur Gefahrenabwehr 
+und damit nicht um forstwirtschaftliche Maßnahmen im engeren Sinne.
+In begründeten Ausnahmefällen kann neben der Vermeidung die Entfernung von 
+stehendem Totholz aus Brandschutzgründen zweckmäßig sein (z. B. in der Nähe von 
+Wohngebieten, die Entnahme von trockenem Kalamitätsholz) oder die Schaffung von 
+laubbaumreichen Waldbrandschutzzonen geboten sein. Derartige Zonierungen können 
+auslaufende, bremsende laubbaumreiche Strukturen umfassen und bieten meist einen 
+sicheren Ausgangspunkt für das taktische Vorgehen der Feuerwehr.
+Die Entnahme von Totholz stellt keine forstwirtschaftliche Maßnahme dar und ist da­
+her im Einklang mit FSC® und der Richtlinie zur Nährstoffnachhaltigkeit.
+Neben flachgründigen Böden mit geringem Wasserspeicher, frühzeitigem Wasserman­
+gel und Trockenheitssymptomen sind unzersetzte, teppichartige Humusauflagen aus 
+Nadelstreu nicht nur aus Sicht des Nährstoffhaushalts problematisch, sondern auch, da 
+diese leicht austrocknen, leicht entzündlich und gut brennbar sind. Je stärker dimensio­
+niert die Auflage, desto ungünstiger zumeist die assoziierten Folgen (z. B. Bildung und 
+Ausbreitung von verdeckten Glutnestern). Laubstreu hat aus Sicht des Brandschutzes 
+dagegen eine günstigere hemmende Eigenschaft.
+Eine besondere Herausforderung stellen Flächen mit ehemaligen Kampfmitteln dar. Im 
+Fall der Brandbekämpfung kann durch das Löschwasser Munition aus tieferen Boden­
+horizonten freigelegt werden. Hinzu kommt, dass die metallische Ummantelung der 
+Kampfmittel durch Korrosion zunehmend abgebaut ist. Dem Grundsatz nach sollte 
+immer von einer Munitionsbelastung ausgegangen werden, der in Einzelfällen (z. B. 
+Truppenübungsplatz Baumholder) besondere Beachtung zuteilwerden sollte.
+
+21
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+In der Zusammenschau dieser vielschichtigen 
+Aspekte werden die Bedeutung präventiver Wald­
+brandverhütung und konsequenter Maßnahmen­
+planung deutlich. Im Grunde genommen geht es 
+um eine Abwägung zwischen naturschutzfach­
+lichen Zielen und Ausrichtungen der Waldbewirt­
+schaftung, z. B. 
+•	 Schutz natürlicher Lebensräume für eine Vielfalt 
+an Tier- und Pflanzenarten,
+•	 Erhalt der Abläufe der auf Totholz angewiesenen 
+Arten,
+•	 Totholz als Humuslieferant und günstig für 
+Bodenfruchtbarkeit, Wasserspeicherung und 
+Gesundheit kommender Wälder
+mit denen des Brandschutzes, z. B.
+•	 der potenziellen Gefahr gegenüber kritischer 
+Infrastruktur, 
+•	 Gefahr für Leib und Leben.
+Ziel ist es, mögliche negative Auswirkungen von 
+Bränden zu verringern, entweder über die Brand­
+schwere oder -intensität durch einen präventiven 
+Umgang mit brennbarem Material. Grundsätzlich 
+brennt alles Holz und je trockener, desto besser. 
+Dabei bleibt festzuhalten, dass (Tot-)Holz nicht die 
+Ursache für einen Waldbrand darstellt, sondern 
+menschliches Fehlverhalten. 
+21
+
+22
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+c. Löschwasserversorgung und 
+Wasserentnahmestellen
+Ein Baustein in Konzepten zur Waldbrandpräven­
+tion und -bekämpfung gerade in abgelegenen oder 
+schwer erreichbaren Regionen ist die kontinuierliche 
+Wasserversorgung. Im Wald kann regelmäßig auf 
+keinerlei Wasserhydranten und selten auf Löschwas­
+serteiche zurückgegriffen werden, der Transport von 
+Löschwasser spielt deshalb eine bedeutende Rolle. 
+Durch Wasserentnahmestellen entfällt der aufwen­
+dige Transport von Wasser in den Wald. Mögliche 
+Wasserentnahmestellen, auf die im Folgenden noch 
+näher eingegangen wird, sind:
+1.	 Unterirdische Löschwasserbehälter (z. B. Zisterne 
+nach DIN 14230)
+2.	 Natürliche offene Gewässer (Teich, Woog, Fließ­
+gewässer)Löschwasserteiche nach DIN 14210
+3.	Löschwasserbrunnen nach DIN 14220 
+Auf temporäre mobile Behälter wird im Anschluss an 
+diese vier Möglichkeiten eingegangen. Sie sind aller­
+dings weder ein Teil der Rettungskarte Forst noch ein 
+Bestandteil der forstlichen Förderung.
+Sofern nicht bereits geschehen, müssen Einrichtun­
+gen der Löschwasservorhaltung von Forstamt und 
+Feuerwehr gemeinsam kartiert und begutachtet 
+werden. In vielen Fällen werden sie unbrauchbar sein, 
+da Wasserentnahmestellen zugewachsen, verlandet 
+oder komplett verschwunden sind. 
+Die Löschwasserversorgung basiert auf einem örtlich 
+abgestimmten Konzept, das Art, Anzahl, Menge und 
+Verteilung von Wasserentnahmestellen im Verbund 
+mit den technischen Möglichkeiten der Feuerwehr, 
+der naturalen Ausgangssituation und der Gefähr­
+dungssituation berücksichtigt.
+Unter Beteiligung der Waldbesitzenden, der Ver­
+bandsgemeinde bzw. des Kreises und der fachlich 
+berührten Behörden (z. B. Wasserbehörde, Natur­
+schutz) sollten Gefährdungsanalyse und Status quo 
+(z. B. Löschwassermenge) jährlich oder anlassbezogen 
+durch die Vertretung von Forstamt und Feuerwehr 
+überprüft werden. Für die Entnahmestellen besteht 
+die Möglichkeit der Digitalisierung im Rahmen des 
+Wegeaktualisierungsverfahrens als Teil der Rettungs­
+karte. 
+Sofern eine Instandsetzung oder Unterhaltung aber 
+möglich und notwendig erscheint, bietet folgende 
+exemplarische Vorgehensweise einen Anhalt.
+A) Bedarfsanalyse 
+Wo gibt es Löschwasserentnahmestellen? 
+•	 Kartierung möglicher Entnahmestellen und 
+Priorisierung aufgrund der räumlichen Lage im 
+Forstamt, in angrenzenden Revieren und der Lage 
+zueinander als Teil des örtlichen Waldbrandkon­
+zeptes
+In welchem Zustand sind die Löschwasserentnah­
+mestellen?
+•	 Naturschutzstatus (z. B. § 30 BNatSchG Biotope 
+oder andere Flächen, die aufgrund rechtlicher Vor­
+schriften dauerhaft geschützt sind oder auf denen 
+Maßnahmen untersagt sind)
+•	 Wassertiefe im Sommer, ggf. Tiefenmessung: Ver­
+ständnis für Gewässer im Wald schaffen (z. B. pe­
+riodisches Austrocknen, Verschlammen mit Algen)
+•	 Wie viel Wasser kann entnommen werden (z. B. 
+Pumpleistung 150 Liter/Minute, 800 Liter/Minu­
+te)? Welche Anforderungen sind dann zu erfüllen 
+(z. B. gewisser Abstand zwischen Pumpenober­
+kante und Wasseroberfläche)?
+•	 Kann das Wasser aus offenen Entnahmestellen zur 
+Verschmutzung der Pumpen führen (z. B. durch 
+Schlamm, kleine Steine)?
+Sind die Löschwasserentnahmestellen gut erreich­
+bar (Kennzeichnung, Zufahrt, Zuwegung)?
+•	 Fachliche Begutachtung mit der Feuerwehr 
+•	 Wende-, Abstell- und Ausweichmöglichkeiten, 
+Platz für Pumpe oder Fahrzeug, Lichtraum, Entnah­
+mestelle(n), Randbewuchs, Eignung zur Wasser­
+entnahme durch Hubschrauber etc.).
+•	 Insbesondere bei großen Flächengebieten ist auf 
+eine gute Erreichbarkeit auch mit entsprechendem 
+Equipment zu achten. Dazu gehört u. a. ein or­
+dentlicher Waldwegebau mit ausreichend dimen­
+sioniertem Lichtraumprofil.
+
+23
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Wo werden feuerwehrseitig zusätzliche Entnahme­
+stellen benötigt? 
+•	 Bedarfsanalyse basiert auf dem Status quo und 
+einer Gefahrenanalyse unter Berücksichtigung der 
+Waldbrandrisikogebiete
+•	 Dokumentation, dass die vorhandenen Löschwas­
+serentnahmestellen vollumfänglich auf Nutzung 
+oder Ertüchtigung geprüft wurden. Erst danach 
+kommt die Neuanlage in Betracht. Ziel ist es, 
+einen Eingriff in Natur und Landschaft als auch 
+höhere Finanzvolumen zu vermeiden.
+•	 Die Neuanlage oder Verbesserung von Löschwas­
+serentnahmestellen unterliegt den naturschutz- 
+und wasserrechtlichen Bestimmungen. Diese sind 
+in der Regel als Eingriff in Natur und Landschaft 
+zu werten und durch die Naturschutz- und Was­
+serbehörden genehmigen zu lassen. Im Fall einer 
+Förderung sind die Genehmigungen bei Antrag­
+stellung vorzulegen. 
+B) Technische Anforderungen an 
+die Wasserentnahmestellen
+•	 Die Löschwasserentnahmestelle muss in der örtli­
+chen Löschwasserkonzeption gemäß den Vorgaben 
+des Rahmen-Alarm- und Einsatzplanes Waldbrand 
+Rheinland-Pfalz (RAEP Waldbrand) und dem ört­
+lichen Alarm- und Einsatzplan (AEP) in der jeweils 
+gültigen Fassung berücksichtigt sein.
+•	 Eine Zuwegung bzw. Anbindung zum nächsten 
+LKW-fähigen Weg (NavLog-Klasse 1) mit direktem 
+Anschluss muss zwingend vorhanden sein.
+	- Vgl. DIN 14090 (Flächen für die Feuerwehr auf 
+Grundstücken): befestigter Weg mit einem 
+Lichtraumprofil von mindestens 3,0 Metern 
+Breite und 3,5 Metern Höhe. Normale Forstwe­
+ge werden nach einem geometrischen Richt­
+wert angelegt, der diese Anforderungen erfüllt. 
+Bewegungsflächen für die Feuerwehr nach DIN 
+14090 sollten mit einer Kennzeichnung ver­
+sehen sein, damit diese freigehalten werden. Die 
+Bewegungsfläche muss für eine Achslast von 10 
+Tonnen und eine Gesamtmasse von 16 Tonnen 
+ausgelegt sein. Gleiches gilt für die Zufahrtswe­
+ge. Bei der Planung der Bewegungsfläche muss 
+die geodätische Saughöhe beachtet werden. 
+	- Wendemöglichkeiten sollten in direkter Nähe 
+bestehen, z. B. für einen Pendelverkehr.
+•	 Bei Planung und Ausführung der Vorhaben zu 
+Löschwasserentnahmestellen sind die anerkannten 
+Regeln der Deutschen Vereinigung für Wasser­
+wirtschaft, Abwasser und Abfall e. V., Arbeitsblatt 
+DWA-A904, Oktober 2005 in ihrer jeweils gelten­
+den Fassung zu beachten.
+•	 Die technischen Anforderungen können über ein 
+Gutachten zusammengefasst werden unter Betei­
+ligung betroffener Behörden und der Sondierung 
+der Erfolgsaussichten, sofern Genehmigungen 
+notwendig sind.
+Unterirdische Löschwasserbehälter
+•	 Die Anforderungen an unterirdische Löschwasser­
+behälter werden in der DIN 14230 geregelt. Sie 
+lassen sich durch ihr Fassungsvermögen in drei 
+verschiedene Größen unterteilen: 
+	- 75 bis 150 Kubikmeter 
+(kleine Löschwasserbehälter)
+	- 150 bis 300 Kubikmeter 
+(mittlere Löschwasser­behälter)
+	- ab 300 Kubikmeter 
+(große Löschwasserbehälter)
+•	 Das Fassungsvermögen kann durch zwei verschie­
+dene bauliche Varianten erreicht werden. Es findet 
+entweder eine Nutzung eines einzelnen unterirdi­
+schen Behälters statt, der die gesamte Löschwas­
+sermenge fassen kann, oder es werden mehrere 
+unterirdische Behälter im Verbund genutzt. Die 
+Behälterform darf dabei beliebig gewählt werden, 
+sodass sie den örtlichen Verhältnissen angepasst 
+ist. Der Behälter muss jedoch so ausgeführt 
+werden, dass er begehbar ist. Diese Notwendig­
+keit dient der Durchführung von Inspektionen und 
+Reinigungen. Eine Möglichkeit zur Umsetzung 
+besteht durch den Einbau eines Serviceschachtes. 
+Weitergehend benötigt der Löschwasserbehälter 
+eine Saugleitung sowie ein Entlüftungssystem. 
+Dabei ist zu beachten, dass bei einer Ausführung 
+ohne Pumpensumpf der Wasserspiegel unterhalb 
+des Saugkopfes nicht mit in das Fassungsvermö­
+gen eingerechnet werden darf.
+•	 Unterirdische Löschwasserbehälter verursachen 
+in der Anschaffung und im Einbau hohe Kosten 
+im fünfstelligen Bereich. Sie sind allerdings in 
+Bezug auf Instandhaltung und Wartung einfacher 
+zu handhaben als beispielsweise ein Löschwas­
+serteich. Durch das geschlossene System ist das 
+
+24
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Löschwasser vor Umwelteinflüssen geschützt. So 
+kann eine Vereisung im Winter oder Verlandung 
+durch Sediment verhindert werden.
+•	 Als bauliche Anlage stellt der unterirdische 
+Löschwasserbehälter einen Eingriff in Natur und 
+Landschaft i. S. des § 14 BNatSchG dar. Unter 
+Umständen sind eine baurechtliche Genehmigung 
+und eine Waldumwandlungsgenehmigung nach 
+§ 14 LWaldG notwendig mit entsprechenden 
+Ausgleichsmaßnahmen; in der Regel sollte dies 
+nicht der Fall sein, da die betreffenden Flächen als 
+Nichtholzboden dem Wald i. S. des Gesetzes zuzu­
+ordnen sind.
+•	 Für Waldlandschaften können auch geringere Was­
+sermengen (45 bis 60 Kubikmeter) hilfreich sein, 
+dies ist örtlich zu prüfen. 
+•	 Bestandserhebungen weiterer Möglichkeiten der 
+Löschwasserversorgung (z. B. zum Vorkommen 
+von Zisternen in bebauten Gebieten in räumlicher 
+Nähe zu Wald). Eine Abstimmung zwischen Ge­
+meinde und Kreis wird hierzu empfohlen.
+Natürliche Gewässer
+•	 Natürliche offene Gewässer bieten in der Regel 
+eine unerschöpfliche Wasserquelle, sofern auch 
+während und nach Trockenperioden nachweislich 
+eine ausreichende Schüttung/ein ausreichender 
+Wasservorrat vorhanden ist (z. B. nachweisbar über 
+Messungen). Sie können in fließende und stehende 
+Gewässer unterteilt werden. Dazu zählen Bäche, 
+Flüsse, Kanäle, natürliche Weiher, Seen, Wooge, 
+Talsperren und Hafenbecken.
+•	 Wichtige Faktoren für eine Wasserentnahmestelle 
+an natürlichen Gewässern sind vor allem die Zu­
+gänglichkeit und Bewegungsfläche für die Feuer­
+wehr. Idealerweise bietet die Bewegungsfläche 
+Platz für mehrere Tragkraftspritzen oder Fahrzeug­
+pumpen, damit eine parallele Löschwasserentnah­
+me stattfinden kann. Weitergehend sollte darauf 
+geachtet werden, dass der Höhenunterschied 
+zwischen Wasserspiegel und Pumpe nicht mehr 
+als 3 Meter betragen sollte. Bei einem höheren 
+Größenunterschied nimmt die Förderleistung der 
+Feuerlöschkreiselpumpen rapide ab.
+•	 An schwer zugänglichen Uferstellen besteht die 
+Möglichkeit, fest verlegte Saugleitungen zu installie­
+ren. Durch eine schwenkbare Ausführung kann eine 
+Verschlammung verhindert werden. Die Sauglei­
+tung wird so erst im Einsatzfall zu Wasser gelassen.
+•	 Hingewiesen sei neben der DIN 14244 (Löschwas­
+ser‐Sauganschlüsse – Überflur und Unterflur) auch 
+darauf, dass nach heutigem Stand der Technik viele 
+Feuerwehren auf andere Weise Wasser schöpfen 
+können (z. B. Schwimmsaugkorb).
+•	 Auch fließende Gewässer, die sehr wenig Wasser 
+führen, können als Wasserentnahmestelle dienen. 
+Durch den Einsatz von mobilen Stausystemen 
+werden die Gewässer im Einsatzfall aufgestaut, 
+sodass die Mindestwassertiefe für die Förderung 
+des Wassers erreicht wird. Ein normaler Saugkorb 
+der Größe A benötigt eine Wassertiefe von min­
+destens 30 Zentimetern, um Wasser fördern zu 
+können. Bei Gewässern mit einer niedrigeren Was­
+sertiefe oder starker Bodenverschlammung gibt es 
+eine Alternative. Die Schwimmsauger, oder auch 
+Schwimmsaugkörbe genannt, können bereits ab 
+einer Wassertiefe von fünf Zentimetern eingesetzt 
+werden. Dabei saugen sie nur das Oberflächenwas­
+ser ab, sodass das Ansaugen von Sediment verhin­
+dert wird, damit die Pumpe nicht verstopft.
+•	 Wasserentnahmestellen, die noch in den 1980er-
+Jahren angelegt wurden, z. T. nach den strengen 
+Anforderungen an Löschwasserteiche gem. DIN 
+14210, entwickelten sich in den Folgejahren durch 
+sehr extensive Inbetriebnahme regelmäßig zu Ge­
+wässern mit alleiniger Funktion als Feuchtbiotop. 
+Erfahrungen der letzten Jahre zeigen dabei, dass 
+die Einrichtung einer Wasserentnahmestelle ohne 
+hohen Aufwand möglich ist. Die Erfüllung der 
+DIN 14210 ist nicht verpflichtend, sofern folgende 
+Punkte berücksichtigt werden:
+	- Abstimmung mit den fachlich berührten Behör­
+den zur Beurteilung  der u. a. naturschutzfach­
+lichen Wertigkeit des Gewässers
+	- Ggf. wasserwirtschaftliche Untersuchung auf 
+Schadstoffe im Boden
+	- Geringe ingenieurbiologische Maßnahmen
+	- Landschaftsangepasste und ggf. ökologisch 
+hochwertige Veränderungen
+Stehende Gewässer, die ertüchtigt werden, sollten 
+nicht verlandet sein, um eine ausreichende Menge 
+an Löschwasser zu bevorraten. Mit geringem 
+Mittel- und Maschineneinsatz ist eine (Wieder-)
+Herstellung einer Wasserentnahmestelle möglich, 
+die z. B. einen befestigten Zugang zum Gewässer, 
+eine Feuerwehr-Bewegungsfläche und eine vertief­
+te Wasserstelle für den Saug- und Entnahmevor­
+gang der Pumpe umfasst. Die örtliche Verbringung 
+von Erdaushub kann zur Böschungsstabilisierung 
+
+25
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+genutzt werden oder mittels Verziehen zur Anlage 
+von Feuchtbiotopen. 
+•	 Beachtet werden muss die Notwendigkeit der 
+Prüfung von Ingenieurbauwerken (vgl. DIN 1076, 
+z. B. bei Dämmen als Stützbauwerke).
+•	 Die regelmäßige Pflege und Instandhaltung von 
+Wasserentnahmestellen ist notwendig und je 
+nach Situation mit unterschiedlich hohen Be­
+triebskosten verbunden; der Nutzen ist besonders 
+bei kleinen Wassermengen meist gering. In der 
+Mehrzahl der Fälle sind die Betriebskosten höher 
+als bei unterirdischen Löschwasserbehältern. In 
+Waldlandschaften muss regelmäßig Grünpflege 
+am Objekt betrieben werden, damit der Teich nicht 
+zuwächst. Weitergehend entsteht Sediment durch 
+Äste und Blätter, die in den Teich fallen. Auch diese 
+müssen regelmäßig entfernt werden.
+•	 Für die Reaktivierung oder Unterhaltung eines 
+Gewässers als Wasserentnahmestelle ist ggf. eine 
+wasserrechtliche Genehmigung erforderlich. Im 
+digitalen Wasserbuch sind Wasserrechte (z. B. 
+Art, Nutzung, Hauptzweck, Nebenzweck, Status) 
+online frei abrufbar: https://geoportal-wasser.
+rlp-umwelt.de/servlet/is/8464/
+Abbildung 13: Ertüchtigte Wasserentnahmestellen 
+im Forstamt Bienwald: Saustegweiher, Koordinaten: 
+49.03658°, 8.10152° (links) und Mundatweiher, 
+­Koordinaten: 49.0323°, 8.075° (rechts) 
+Löschwasserteiche
+•	 Löschwasserteiche dienen der Vorhaltung von 
+Wasser an bestimmten Orten, damit im Falle eines 
+Brandes ausreichend Löschwasser zur Verfügung 
+steht. Sie kommen dann zum Einsatz, wenn eine 
+anderweitige Löschwasserversorgung nicht exis­
+tiert oder für die vorherrschende Brandlast unzu­
+reichend vorhanden ist. Die DIN 14210 (Künstlich 
+angelegte Löschwasserteiche) stellt Anforderun­
+gen an einen Löschwasserteich, um Klarheit über 
+die Eigenschaften zu liefern. Demnach müssen die 
+Umfassungswände und der Teichboden abgedich­
+tet sein. Der Teichboden darf kein starkes Gefälle 
+aufweisen und es müssen 0,5 Meter breite Stufen 
+vom Teichrand bis auf den Grund führen. Für die 
+Wasserförderung benötigt ein Löschwasserteich 
+ein fest eingebautes Saugrohr oder einen Saug­
+schacht. Diese müssen so ausgeführt sein, dass 
+sie zu jeder Zeit eisfrei bleiben. Das Zulaufrohr für 
+die Wasserentnahme benötigt eine Antiwirbel­
+platte. Darüber hinaus gibt es Anforderungen an 
+die Dimensionierung des Saugschachtes und des 
+Zulaufrohres in Abhängigkeit vom Nutzvolumen. 
+Um den Löschwasserteich abzusichern, wird in der 
+DIN eine komplette Einfriedung gefordert. Diese 
+muss mindestens 1,1 Meter hoch sein und benötigt 
+ein Tor mit einer Schließeinrichtung für die Feuer­
+wehr. Ein wichtiger Punkt ist auch, dass fließende 
+Gewässer nicht durch einen Löschwasserteich 
+hindurchfließen dürfen. Sollte ein angrenzendes 
+Gewässer oder Regenwasser für die Befüllung des 
+Teiches dienen, so darf es nur über einen Sand­
+fang eingeleitet werden. Diese umfangreichen 
+Bedingungen an einen Löschwasserteich führen zu 
+hohen Baukosten im fünfstelligen Bereich. In den 
+Anschaffungskosten sind Löschwasserteiche und 
+unterirdische Löschwasserbehälter somit ver­
+gleichbar. 
+•	 Die DIN-Norm 14210 (Künstlich angelegte Lösch­
+wasserteiche) gibt Hinweise zur heutigen Anlage 
+oder Reaktivierung. Zu beachten ist, dass sie pri­
+
+26
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+mär dem Objektschutz im Wald dient (z. B. Gast­
+haus im Wald). Für Waldlandschaften sind aber 
+auch kleinere Wassermengen als die dort genann­
+ten 1.000 Kubikmeter häufig ausreichend. Das 
+betrifft auch das Vorhandensein eines Saugrohrs, 
+das möglichweise durch Sedimente zugeschlammt 
+wird und auf das verzichtet werden kann. Größere 
+erforderliche Baumaßnahmen können so vermie­
+den werden. 
+Löschwasserbrunnen
+•	 Mithilfe von Löschwasserbrunnen kann Löschwas­
+ser aus dem Grundwasser entnommen werden. 
+Die Anforderungen für derartige Brunnen sind in 
+der DIN 14220 (Löschwasserbrunnen) geregelt. 
+Zwei verschiedene Möglichkeiten werden in der 
+Praxis zur Wasserförderung umgesetzt. Die erste 
+Möglichkeit besteht darin, das Wasser über einen 
+Saugbetrieb zu fördern. Dies ist nur möglich, so­
+lange die geodätische Saughöhe von 7,5 Metern 
+eingehalten werden kann. Sollte der Grundwasser­
+spiegel tiefer liegen oder während des Saugvor­
+gangs unter diese Marke fallen, so muss die zweite 
+Variante gewählt werden. Hierbei wird in dem 
+Löschwasserbrunnen eine Tiefpumpe installiert, 
+die das Wasser nach oben pumpt. Auf diesem Weg 
+wird das Problem der geodätischen Saughöhe um­
+gangen. Löschwasserbrunnen werden auf Grundla­
+ge ihrer Ergiebigkeit in drei Größen unterteilt:
+	- 400 bis 800 Liter pro Minute (kleine Löschwas­
+serbrunnen)
+	- 800 bis 1.600 Liter pro Minute (mittlere Lösch­
+wasserbrunnen)
+	- ab 1.600 Liter pro Minute (große Löschwasser­
+brunnen)
+•	 Von großer Wichtigkeit ist eine Gewährleistung 
+der Fördermenge für einen Zeitraum von 2 Stun­
+den. Vorher darf die Wasserquelle nicht erschöpft 
+sein.
+•	 Im Bundesland Brandenburg kommen bereits ver­
+stärkt Löschwasserbrunnen in Waldgebieten zum 
+Einsatz. Die Kosten für den Bau befinden sich im 
+vierstelligen Bereich und sind somit niedriger als 
+beispielsweise bei einem unterirdischen Lösch­
+wasserbehälter. Es empfiehlt sich, ein- bis zweimal 
+im Jahr die Funktion sowie die Fördermenge zu 
+kontrollieren. 
+•	 Da es sich bei Löschwasserbrunnen in der Regel 
+nicht um Bauobjekte handelt, sind sie baugeneh­
+migungsfrei. Eine Installation bedarf einer wasser­
+rechtlichen und naturschutzfachlichen Genehmi­
+gung. 
+Resümierend lässt sich festhalten, dass verschie­
+denste Methoden zum Vorhalten von Löschwasser 
+existieren, die unterschiedliche Vor- und Nachteile 
+haben. Es bedarf der Berücksichtigung der jeweiligen 
+Gegebenheiten, um die ideale Methode auszuwäh­
+len. Die Normen stellen Anforderungen an die ver­
+schiedenen Umsetzungsmöglichkeiten, um Klarheit 
+über die Eigenschaften und Bedingungen zu schaffen, 
+was der Qualitätssicherung dient. Eine DIN-Norm 
+stellt lediglich eine Empfehlung dar und ist nicht 
+verpflichtend (Deutsches Institut für Normung e. 
+V.). Die Normen stellen aber Anforderungen an die 
+verschiedenen Umsetzungsmöglichkeiten bezüglich 
+der Eigenschaften von Produkten, Dienstleistungen 
+oder Verfahren, was der Qualitätssicherung dient 
+und schaffen damit eine Standardisierung. Zugleich 
+gewährleistet eine DIN-Norm eine gewisse Rechts­
+sicherheit.
+Abbildung 14: Kopfstation eines Tiefbrunnens bei 
+Quast, Lübtheener Heide
+
+27
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Vergleich LöschwasserentnahmestellenMTT_ATT
+Nr. Löschwasserent­
+nahmestellen
+Vorteile und Nutzen
+Nachteile
+Ungefährer 
+­Kostenrahmen
+1
+•	 Unterirdischer 
+Löschwasser­
+behälter (z. B. 
+Zisterne nach 
+DIN 14230)
+•	 Behälterform kann an örtliche Verhältnisse 
+angepasst werden
+•	 Instandhaltung und Wartung einfacher zu 
+handhaben im Vergleich zu Löschwassertei­
+chen nach DIN 14210
+•	 Löschwasser ist in dem geschlossenen Sys­
+tem vor Umwelteinflüssen geschützt (z. B. 
+Vereisung im Winter, Verlandung durch Sedi­
+ment kann verhindert werden)
+•	 Auflagen des Natur­
+schutzes, wasserrecht­
+liche Belange
+•	 Hohe Anschaffungs- und 
+Einbaukosten
+•	 Im Fall der DIN-Norm 
+14230 muss der Be­
+hälter so ausgeführt 
+werden, dass er begeh­
+bar ist (für Inspektion 
+und Reinigung), z. B. 
+durch den Einbau eines 
+Serviceschachts.
+•	 Fünf- bis sechs­
+stelliger Bereich 
+•	 Anschaffungs­
+kosten vergleich­
+bar mit Lösch­
+wasserteichen 
+nach DIN 14210
+2
+•	 Natürliche 
+­offene Gewässer
+•	 Löschwasserreserve, die nach Kapazität und 
+Zugänglichkeit schnell erhoben werden kann
+•	 Häufig handelt es sich um unerschöpfliche 
+Wasserquellen (z. B. Bäche, Flüsse, Kanäle, 
+natürliche Weiher, Seen, Hafenbecken)
+•	 Zugänglichkeit und Bewegungsfläche meist 
+gegeben oder einfach herstellbar
+•	 An schwer zugänglichen Uferstellen lassen 
+sich fest verlegte (schwenkbare) Saugleitun­
+gen installieren, sodass eine Verschlammung 
+verhindert werden kann. 
+•	 Einsatz mobiler Stausysteme  oder 
+Schwimmsaugkörbe und damit auch Nut­
+zung von fließenden Gewässern, die sehr 
+wenig Wasser führen
+•	 Maßnahmen der Ertüchtigung lassen sich  – 
+je nach natürlichen Gegebenheiten – kosten­
+sparsam realisieren (sollte i. d. R. auch für die 
+Pflege und Instandhaltung zutreffen). 
+•	 Häufig nicht zugäng­
+lich oder weitestgehend 
+verlandet (z. B. Teiche, 
+Weiher, kleine Fließge­
+wässer), sodass nur eine 
+unzureichende Menge 
+an Wasser vorhanden ist
+•	 Umbau von bestehen­
+den Fischteichen oder 
+Weihern, um der DIN-
+Norm 14210 zu entspre­
+chen, ist sehr aufwendig, 
+i. d. R. wirtschaftlich 
+nicht tragbar, Geneh­
+migung aufgrund der 
+Nutzungsänderung wäre 
+notwendig
+•	 Äste, Blätter und Sedi­
+ment müssen regelmä­
+ßig entfernt werden.
+•	 Drei- bis sechs­
+stelliger Bereich
+3
+•	 Löschwasser­
+teiche nach DIN 
+14210
+•	 Hohe Standards, die zwar für Waldlandschaf­
+ten ungeeignet sind, dafür aber im Objekt­
+schutz v. a. im urbanen Raum eine Löschwas­
+serversorgung gewährleisten können
+•	 Im Wald i. d. R. unge­
+eignet, da kein örtlich 
+festgelegter Objekt­
+schutz (Ausnahme z. B. 
+Gaststätten o. Ä.)
+•	 Hohe Bau- und Instand­
+haltungskosten
+•	 Pflege- und Unterhal­
+tungsaufwand
+•	 Sehr hohe Verduns­
+tungsrate im Sommer
+•	 Häufig nennenswerte 
+Fremdstoffanteile, da­
+durch Störungen bei den 
+Pumpen
+•	 Fünf- bis sechs­
+stelliger Bereich
+4
+•	 Löschwasser­
+brunnen nach 
+DIN 14220
+•	 Geringer Eingriff in Natur und Landschaft
+•	 Überschaubarer Wartungsaufwand zur Kont­
+rolle (ein- bis zweimal pro Jahr) von Funktion 
+und Fördermenge
+•	 Entnahme aus Tiefen, 
+die auch für das Trink­
+wassernetz genutzt 
+werden
+•	 Vierstelliger 
+­Bereich
+
+28
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+C) Maßnahmenplanung, 
+­Ausschreibung und Vergabe
+•	 Grobe Kostenschätzung zur Beseitigung der 
+­Mängel und Klärung der Finanzierung; prüfen, ob 
+evtl. Fördermöglichkeiten bestehen
+•	 Mit kleinen Baumaßnahmen gehen weniger Pro­
+bleme und Einschränkungen bei der Waldbrand­
+prävention einher (z. B. in verschiedenen Bereichen 
+keine bauliche Genehmigung notwendig; anders 
+bei einer Anfahrt, die zwar für Fahrzeuge über 20 
+Tonnen geeignet ist, die aber nicht in das Waldbild 
+passt) 
+•	 Praktikable Möglichkeiten diskutieren (z. B. Spund­
+wand einziehen zur Entnahme mit Saugkorb  und 
+-schlauch)
+•	 Sondierung der Erfolgsaussichten, sofern Geneh­
+migungen notwendig sind
+•	 Objekte und Maßnahmen sind ausgewählt.
+•	 Beteiligung betroffener Behörden, Sondierung der 
+Erfolgsaussichten, sofern Genehmigungen not­
+wendig sind
+•	 Mittel und Genehmigungen sind beantragt.
+•	 Ausschreibung (z. B. verschiedene Ausbaugrade, 
+Szenarien)
+D) Durchführung und Abrechnung 
+der Leistungen
+•	 Abnahme der Leistung
+•	 Welche Pflege ist notwendig (z. B. Art und Intensi­
+tät)? In welchem Zustand ist die Anfahrtskante? 
+Wie ist die Zuständigkeit für die Pflege und Unter­
+haltung?
+E) Beschilderung, Kartierung und 
+Digitalisierung
+Jede DIN-gerechte Wasserentnahmestelle ist in 
+Anlehnung an die DIN 4066 an Ort und Stelle zu 
+beschildern.
+Grundsätzlich hat jede Wasserentnahmestelle, die 
+digitalisiert wird, folgende Kriterien zu erfüllen:
+•	 Ganzjährige Wasserverfügbarkeit (zu prüfen in den 
+Sommermonaten)
+•	 Mindestmenge an Wasser (z. B. mehr als 45.000 
+bis 60.000 Liter)
+•	 Klärung mit Feuerwehr, inwieweit DIN-Mindest­
+menge oder weniger ausreicht aufgrund kleinerer 
+Zisternen
+•	 Ganzjährige Anfahrbarkeit und freie Bewegungs­
+fläche für Feuerwehrfahrzeuge
+•	 Eingabe im Betriebs-GIS (WaldIS-rlp) von Landes­
+forsten Rheinland-Pfalz, verbunden mit der min­
+destens jährlichen Überprüfung und Kontrolle, ggf. 
+Pflege und Unterhaltung inklusive Dokumentation 
+und Qualitätssicherung
+•	 Wasserentnahmestelle ist Teil der Rettungskarte 
+Forst (NavLOG)
+•	 Der offizielle Auftrag der Verwaltung zur Daten­
+pflege hat den Stichtag 1. März eines jeden Jahres 
+für Pflege, Aktualisierung und Neuanlage. Am 
+Prozessende steht die Datenabgabe an die NavLog 
+GmbH, die die Daten aufbereitet und den Behör­
+den und Organisationen mit Sicherheitsaufgaben 
+(BOS) zur Verfügung stellt. Die Symbole sind ab­
+gestimmt mit dem Ministerium des Innern und für 
+Sport.
+Besonders in niederschlagsarmen Gegenden mit we­
+niger Oberflächenwasser sollten weitere Möglichkei­
+ten der Löschwassernutzung geprüft werden. Dazu 
+zählen die Bundespolizei (z. B. straßenfähige Wasser­
+werfer), landwirtschaftliche Betriebe (z. B. mobile 
+Löschwasserbehälter, Wassercontainer bzw. Tanks 
+mitsamt Fahrgestellen, Wasserblasen bzw. Falttanks 
+o. Ä.), die bei der Wasservorhaltung und dem Was­
+sertransport unterstützen können. Zu Beginn einer 
+Brandsaison können die Maßnahmen an strategisch 
+ausgewählten Punkten im Gelände positioniert 
+werden, um für einen möglichen Einsatz gerüstet 
+zu sein. Denkbar ist auch die temporäre Vorhaltung 
+einzelner Maßnahmen, bis andere Entnahme- oder 
+Vorhaltearten verfügbar sind. Zu berücksichtigen ist 
+bei der Auswahl auch immer die Verhältnismäßigkeit, 
+Flexibilität, Wassermenge und Anfälligkeit gegenüber 
+Vandalismus. Daneben können Industrieanlagen, die 
+größere Wassermengen vorhalten, oder Wasserlei­
+tungen als Löschwasserleitungen im oder nahe dem 
+Wald einen weiteren Baustein eines örtlichen Wald­
+brandkonzepts bilden.
+
+29
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Überlegungen zur maximalen Löschentfernung 
+Die Waldwegedichten sind landesweit sehr unterschiedlich. Während in den meisten Fällen 
+die Wegeabstände so gering sind, dass mit normaler Schlauchausstattung (s. u.) die Zwi­
+schenbereiche mit Löschwasser erreichbar sind, gibt es aber auch Fälle, bei denen die Ab­
+stände vermutlich zu groß sind.
+Betrachtet man nun die Gefahrenabwehrstruktur, insbesondere den RAEP Waldbrand, so ist 
+in der Regel bei Alarmstufe 1 ein Löschfahrzeug mit einem mindestens 1.000 Liter fassen­
+den Löschwassertank vorhanden. Dabei liefern die B-Schläuche das Wasser bis zu einem 
+Verteiler, danach kommen die C-Schläuche zum Einsatz, die das Wasser in die Breite vertei­
+len.
+Nach dem Konzept „Wald- und Vegetationsbrandbekämpfung in Rheinland-Pfalz“ müssen 
+Gemeinden mindestens eine Zusatzbeladung „Vegetationsbrand“ vorhalten, insofern ein 
+Risiko für Wald- und Vegetationsbrände besteht. Dort enthalten sind unter anderem D-
+Schläuche und D-Hohlstrahlrohre. Somit wird hier mit C- und D-Schläuchen vorgegangen. 
+Diese haben einen geringeren Durchmesser, was von Vorteil ist, da im Wald das benötigte 
+Löschwasser durch die Löschwassertanks der Löschfahrzeuge oder durch das Verlegen von 
+Schlauchleitungen (lange Wegestrecke) herbeigeführt werden muss und so ein größerer 
+zeitlicher Puffer vorhanden ist, um weiteres Löschwasser nachzuführen. Somit ergeben sich 
+zwei verschiedene Vorgehensweisen:MTT_ATT
+Verwendung von B- und C-Schläuchen:
+Verwendung von C- und D-Schläuchen:
+	Höhere Löschleistung
+	Niedrige Druckverluste
+	Größere Löschwassermenge zum Füllen der 
+Schlauchleitung
+	Höheres Gewicht
+	Höhere Kraftanstrengung
+	Weniger sparsamer Einsatz des Löschwassers
+	Geringere Löschwassermenge zum Füllen der 
+Schlauchleitung
+	Geringeres Gewicht
+	Weniger Kraftanstrengung
+	Sparsamerer Einsatz des Löschwassers
+	Geringere Löschleistung
+	Höhere Druckverluste
+Unter der Annahme einer Höhenzunahme von 35 Metern (25 Prozent Steigung) ergibt sich 
+für beide Möglichkeiten eine theoretische maximale bzw. sinnvolle Löschentfernung von 
+circa 140 Metern.
+Die maximale Löschentfernung von einem Waldweg bis zur ­Brandstelle 
+beträgt circa 140 Meter.
+Die Forstämter sollten im Rahmen der Strategieplanungen überprüfen, wo sich Waldgebie­
+te befinden, bei denen die Wegeabstände so groß sind, dass evtl. Partien nicht mit Lösch­
+wasser erreichbar wären. Diese Waldorte sind zu kartieren und mit den örtlichen Feuerweh­
+ren mögliche Alternativen zu erörtern. Berücksichtigung finden kann hier die Prüfung von 
+Zu- und Abfahrten, Einbahnstraßenregelungen oder Möglichkeiten eines Kreisverkehrs.
+Entsprechend des § 3 LBKG ist eine „den örtlichen Verhältnissen entsprechende Feuerwehr auf­
+zustellen und mit den erforderlichen baulichen Anlagen und Einrichtungen auszustatten […]“. 
+Allgemeingültige Empfehlungen sind daher nicht oder nur eingeschränkt möglich. Entscheidend 
+sind die Verhältnisse vor Ort, die die Verantwortlichen jährlich prüfen. 
+
+30
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+d. Technische Maßnahmen
+Waldarbeiten gehen heute mit keinerlei Funkenflug 
+mehr einher. 
+Alle technischen Maßnahmen müssen im Einklang 
+mit Naturschutzrecht sein (z. B. gesetzlich geschützte 
+Biotope nach § 30 BNatSchG, Natura-2000-Gebie­
+te). Zu den technisch-betrieblichen Maßnahmen bei 
+feuergefährdeten Betrieben zählen:
+•	 Walderschließung (z. B. gefährdeter größerer 
+Waldbereiche) und deren Unterhaltung und In­
+standsetzung
+•	 Offenhalten der Zufahrtswege in den Wald für 
+Rettungs- und Feuerwehrfahrzeuge (inkl. Wege­
+schranken mit einheitlichen Schlüsseln)
+•	 Entnahmestellen für Löschwasser und deren be­
+darfsweise Reaktivierung, Anlage oder Ausbau
+•	 In Abstimmung mit örtlichen Dienststellen für 
+Brandschutz Auswahl von Hubschrauberlande­
+stellen
+•	 Prüfung von Handgeräten und Feuerlöschern (z. B. 
+auf Einsatzfähigkeit)
+•	 In Gefahrenbereichen und während der Wald­
+brandsaison keine Holzpolterung, Lagerung von 
+Kronenholz oder gehacktem Material an brandex­
+ponierten Stellen 
+•	 Obwohl kein rechtlicher Mindestabstand gegeben 
+ist, ist die Empfehlung für den Abstand von Wohn­
+bebauung zu Wald 35 Meter.
+Anforderungen an die Basiserschließung ergeben 
+sich aus den forstbetrieblichen Erfordernissen, der 
+Sicherstellung der Ausbaustandards der Holzab­
+fuhr, der Rettungskette Forst und dem Schutz des 
+Waldes gegenüber Waldbrand. Die Zielwegedichte 
+im Bereich eines Forstamtes wird forstamtsweise 
+und je Transportgebiet festgelegt. Wichtigstes 
+Kriterium dabei ist die Hangneigung.. Nach den 
+Hangneigungsklassen bis 20 Prozent beträgt sie 20 
+Laufmeter/Hektar und ab 21 Prozent beträgt sie 
+30 Laufmeter/Hektar. 
+Eine Auswahl an Informationen und Kennzahlen 
+nach dem Handbuch Walderschließung zum Stan­
+dard LKW-Weg (NavLog Wegeklasse 1):
+•	Bauweise: i.d.R. Sand-Wasser-gebunden aus 
+scharfkantig und kubisch gebrochenem Natur­
+steinmaterial mit ausreichender Härte und 
+gleichmäßiger Korngrößenverteilung von Fein-, 
+Mittel- und Grobkorn in unterschiedlicher Korn­
+größenabstufung, siebliniengerecht (sog. Mine­
+ralbeton)
+•	Fahrbahnbreite i .d. R. 3,5 Meter, mindestens 3 
+Meter (auf 3 Meter Breite muss die Tragfähigkeit 
+gewährleistet sein) 
+•	Ausweichstellen (soweit erforderlich)
+•	Wendeplatten
+•	Lichtraumprofil (mindestens 4 Meter breit und 
+4,2 Meter hoch, an Polter- und Lagerplätzen ist 
+ein entsprechend großzügigeres Lichtraumprofil 
+zu schaffen)
+•	Kurvenradius flaches Gelände: i. d. R. 30 Meter 
+(NavLog); mindestens jedoch 20 Meter (RLW 
+2016); steiles Gelände: mindestens 12 Meter 
+(RLW 2016)
+•	Längsneigung Fahrbahn (Steigung/Gefälle): 
+i. d. R. bis maximal 8 Prozent (in Ausnahmefällen 
+bis maximal 12 Prozent)
+•	Querneigung Fahrbahn: 4 bis 6 Prozent beidseitig 
+(Rundprofil); in engen Kurven 6 Prozent einseitig 
+zum Kurveninneren
+•	Maximal zulässige Einzelachslast: maximal 11,5 
+Tonnen
+•	Wendemöglichkeit: Wendeplatte von circa. 25 
+Meter Durchmesser oder Wendehammer mit cir­
+ca 30  Meter Gesamttiefe (einschließlich vorge­
+lagerter Wegebreite) und 5 Meter Breite, dessen 
+Einmündung mit einem Radius von mindestens 5 
+Metern nach beiden Seiten gerundet ist
+Für eine gezielte feuerwehrtechnische Fahrzeugauf­
+stellung und ein koordiniertes Vorgehen ist neben 
+dem Netz an ganzjährig oder periodisch befahrbaren 
+Wegen die regelmäßige Pflege und Instandsetzung 
+der Wegeinfrastruktur notwendig. 
+
+31
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+e. Kartenmaterial
+Auf Landesebene besteht seit 2020 eine Lizenzverein­
+barung mit der NavLog GmbH für Behörden und Orga­
+nisationen mit Sicherheitsaufgaben (kurz BOS). Damit 
+kann auf eine einheitliche Grundlage zurückgegriffen 
+werden, sowohl für die präventive Arbeit als auch für den 
+Einsatzfall. Die Karten können digital oder analog bei 
+der Aufstellung eines Lagebilds, der Planung der Einsatz­
+taktik oder der Einsatznachbereitung eingesetzt werden. 
+Bezugssystem ist das UTM-Koordinatensystem, was bei 
+der Ortsangabe und -findung wichtig ist. 
+Für Rheinland-Pfalz umfasst das Kartenwerk rund 180 
+Karten, die unter anderem auf mehr als 12.500 Rettungs­
+punkten basieren. Diese Karten werden jährlich aktua­
+lisiert und und sind über das Brand- und Katastrophen­
+schutzportal abrufbar. 
+Die Aktualisierung der Karten erfolgt auf Revier- und 
+Forstamtsebene. Dort werden die Wegedaten jährlich 
+kontrolliert. Die Rettungspunkte sind den örtlichen BOS 
+in der Regel bekannt. Rettungspunkte können von BOS 
+angefahren werden. 
+Informationen in der Rettungskarte Forst:
+•	 Ortsbezeichnungen
+•	 Wald
+•	 Fahrwege im Wald und deren Anschluss an das öffent­
+liche Wegenetz
+	- Blau = ganzjährige Befahrbarkeit
+	- Rot = periodische Befahrbarkeit
+•	 Wende- und Ausweichstellen
+•	 Rettungspunkte
+•	 Grenzen (z. B. Landesgrenze, Landkreisgrenze)
+•	 Höhenlinien
+•	 Löschwasserentnahmestellen im Wald 
+Mit der „Hilfe im Wald“-App können im Wald hilfe­
+suchende Menschen in allen Waldbesitzarten ihren 
+Standort – basierend auf dem Rettungspunkt – an die 
+Leitstelle und die Rettungskräfte weitergeben. 
+Daneben besitzen die Integrierten Leitstellen in Rhein­
+land-Pfalz die Möglichkeit, mithilfe der Technologie 
+„Advanced Mobile Location“ (kurz AML) den Standort 
+über den Telefonanruf zu ermitteln.
+Abbildung 15: Rettungskarte
+Abbildung 17: Startbildschirm 
+der „Hilfe im Wald“-App
+Abbildung 16: Rettungskette Forst 
+Anfahrpunkt: 6013-755  
+Achtung: Die Ziffern nicht mit der 
+Telefonnummer ver­wechseln!
+NOTRUF 112
+790
+788
+910
+899
+880
+875
+874
+926
+895
+756
+920
+863
+808
+848
+924
+781
+780
+927
+889
+835
+881
+878
+872
+820
+929
+769
+932
+861
+860
+811
+810
+806
+792
+784
+888
+921
+829
+827
+824
+902
+931
+897
+764
+796
+753
+934
+908
+864
+816
+805
+846
+842
+900
+832
+891
+831
+830
+871
+930
+903
+772
+768
+917
+809
+766
+803
+763
+758
+754
+923
+815
+854
+795
+789
+836
+822
+883
+879
+901
+877
+828
+826
+873
+869
+868
+913
+773
+770
+896
+915
+760
+799
+892
+751
+922
+821
+867
+817
+801
+800
+906
+798
+843
+791
+841
+837
+786
+785
+839
+885
+834
+882
+776
+775
+771
+898
+765
+757
+797
+752
+925
+862
+904
+909
+905
+856
+907
+853
+912
+849
+911
+782
+928
+825
+779
+778
+777
+840
+890
+886
+833
+823
+774
+767
+893
+914
+933
+894
+755
+866
+818
+865
+814
+855
+812
+787
+783
+919
+887
+838
+884
+876
+807
+761
+759
+916
+819
+859
+813
+918
+852
+804
+845
+844
+794
+406
+406
+408
+408
+410
+410
+412
+412
+414
+414
+416
+416
+7°50'0"E
+7°50'0"E
+7°49'0"E
+7°49'0"E
+7°48'0"E
+7°48'0"E
+7°47'0"E
+7°47'0"E
+7°46'0"E
+7°46'0"E
+7°45'0"E
+7°45'0"E
+7°44'0"E
+7°44'0"E
+7°43'0"E
+7°43'0"E
+7°42'0"E
+7°42'0"E
+7°41'0"E
+7°41'0"E
+7°40'0"E
+7°40'0"E
+50°30'0"N
+50°30'0"N
+50°29'0"N
+50°29'0"N
+50°28'0"N
+50°28'0"N
+50°27'0"N
+50°27'0"N
+50°26'0"N
+50°26'0"N
+50°25'0"N
+50°25'0"N
+50°24'0"N
+50°24'0"N
+5584
+5584
+5586
+5586
+5588
+5588
+5590
+5590
+5592
+5592
+5594
+5594
+R e t t u n g s k a r t e  R h e i n l a n d - P f a l z
+Blatt 5512 Montabaur
+Notfall Ruf-Nr: 112
+Legende
+Anfahrpunkt für Rettungsfahrzeug
+!022
+Löschwasserteich
+Schranke
+!
+-
+Forstamtsgrenze
+Standard LKW Weg  (uneingeschränkt befahrbar)
+Sonstiger LKW Weg (eingeschränkt befahrbar)
+PKW Weg
+Datenstand: TK25-2014 bis 2018; Rettungspunkte-12/2020; Wege-04/2021
+Diese Daten sind urheberrechtlich geschützt. Vervielfältigung nur mit Erlaubnis des 
+Herausgebers Landesforsten RLP - Z.d.F.
+Geobasisinformationen der Vermessungs- und Katasterverwaltung Rheinland-Pfalz.  
+© GeoBasis-DE/LVermGeoRP, Genehmigung 11/2001
+5512
+Anschluss Blatt 5412
+Anschluss Blatt 5612
+Anschluss Blatt 5511
+Anschluss Blatt 5513
+
+32
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Auf örtlicher Ebene kann Kartenmaterial mit spezi­
+fischen Informationen nachgehalten werden. 
+In räumlicher Nähe zu Landesgrenzen ist zu beach­
+ten, dass benachbarte Länder nicht dargestellt wer­
+den. Entsprechendes Kartenmaterial ist dahingehend 
+zu prüfen und ggf. vorzuhalten.
+f. Waldbauliche Maßnahmen
+Ziel von waldpflegenden Maßnahmen ist der Er­
+halt, die Wiederherstellung oder die Steigerung der 
+Widerstands- und Erholungsfähigkeit von Wäldern 
+gegenüber biotischen Störungen wie Insektenmas­
+senvermehrungen und abiotischen Störungen wie 
+Dürre, Hitze oder Waldbränden. 
+Die waldbaulichen Maßnahmen der vergangenen 
+30 Jahre führten in Rheinland-Pfalz zu einer natura­
+len Ausgangssituation, in der die Branddisposition 
+der Wälder vielerorts vermindert wurde. Mit dem 
+Blick auf die nächste Waldgeneration zeigt sich eine 
+An der Wegscheid
+Auf der Horst
+Am Warberg
+Oberm Eichenborn
+Auf dem Rehkampf
+Aliment
+Galgen-
+wiese
+köpfel
+Am Tiefenweg
+Am
+Krahl
+Am Höllenberg
+Mittelgewann
+Am
+Honigberg
+Am Langensumpf
+An der Fahrt
+Kalten Born
+Am Gonsenheimer
+Ober dem Laubeutel
+Domanialwald
+Bornwald
+Am Hang
+Gemeindewald
+Brandholz
+Gleisberg
+Steinbein
+Bei der Oberlache
+Königsklinger Aue
+Zwanzig Morgen
+An der Finther
+Gemarkung
+Leimenrech
+Der Deutsche
+Herrnwald
+Weisensand
+Am Hinterwald
+Sandhof
+Die Kleine Prall
+Im Budenheimer Weg
+Im Fahrengrund
+Sauwiesen
+Schweiggärten
+Am Plaul
+Lange Äcker
+Hinterm Reckarsch
+Giesaue
+Am
+Klingelborn
+Am Finther Weg
+Wasserrost
+Dreigemarkberg
+Das Wörth
+Heidesheimer Straße
+Hinterer Berg
+an der Mainzer Straße
+Bolenwies
+Hinter
+der
+Mühle
+Im Sägwinkel
+Hinter
+dem
+Bornwald
+An der
+In den
+Oberwiesen
+Hinter dem Sandhof
+Lenneberg
+Am Lochwald
+Am Gemeindewald
+Am
+Langenberg
+Am Prall
+Eulenrech
+Königsklinger Aue
+An dem Fatzer
+Am
+Geifen
+Am Krippchen
+Ober der Oelwiese
+Im Wörth
+Achtzehn Morgen
+Am Gemeindewald
+Zehnt-
+frei
+An der Tränke
+Auf der Platt
+Auf dem Fatzer
+Am Feilkirsch
+Vor der Königsklinger Aue
+Eulenrech
+und Finther Weg
+Niederfeld
+Auf dem
+Krahl
+An der
+Mainzer Straße
+Bubenbaum
+Am Leinpfad
+Am Leimenrück
+An der Finther
+Gemarkung
+Am Königsborn
+Obere Steinbein
+Nebelwiese
+Hipperich
+Oberes
+Wäldchenloch
+Giesaue
+In der Wolfskaute
+Unteres
+Jungenstück
+An der Tränke
+Am Zwergschlag
+Hinter dem
+Am Käsebrod
+und Heiligenhaus
+An der Wasserrolle
+Am Schleifweg
+Am
+Kehlweg
+Geiers-
+Untere
+Im oberen Heuweg
+Im
+Heßler
+Im Holderbusch
+In den
+Oberwiesen
+Hinterm
+Ober der
+Ersten Rutsch
+Rosental
+Ober der Weid
+Gänseleichter
+Pechborn
+Am
+Kalkofen
+Im Fieber
+In den
+Am mittleren Heuweg
+Auf dem
+Feilkirsch
+Schindkaute
+Vorderer Geiersberg
+Halben
+Mond
+Ober der Sauwiese
+Reckarsch
+Im Budenheimer Weg
+Nonnenaue
+Im Schäfersborn
+Zwischen
+dem oberen
+Lange Morgen
+Am Höllenberg
+Am Heiligen Stock
+Hinter der Kapelle
+Auf der Aue
+Am Finther Berg
+Gäßches Aue
+An der Mainzer Straße
+Eulenrech
+Sieben-
+morgen
+In der
+Plies
+In der Weid
+Am Klausweg
+Am Steinweg
+Horst
+Vor dem 
+Horst
+Hesseln
+und unteren
+Mombacher Weg
+An der Kühtränk
+Auf der Platt
+In der
+Die Kießäcker
+Mittlere Steinbein
+Am
+Holderbusch
+An der
+Mainzer Straße
+An der Krummen Zeil
+Am
+Jungen-
+stück
+Auf der
+Auf der
+Haarbeine
+Frenz-
+berg
+Mittelgewann
+Horn
+Vor der
+In der Klaus
+Feilkirsch
+Kleiner Berg
+Hinter der
+Kapelle
+Am
+Breiten Stein
+Im Weidental
+Langenberg
+Am Hauweg
+Vorm Orbel
+Am Klausweg
+Wildenstein
+An dem
+Gelben Sand
+Aue
+Bohnenäcker
+Im Steckroth
+Lenneberg
+Am Honigberg
+Im Hübrich
+Schwarzen-
+berg
+Hintere Bein
+Auf der
+Weide
+Am
+An der
+Schließe
+Der Hinterwald
+Im
+Vor der Königsklinger Aue
+Auf den
+An Kühners
+Heiligen Büschen
+Im Loch
+Auf dem Wildenstein
+Am Finther Rech
+An der
+Heidesheimer Straße
+Am
+Kehlweg
+Am Weiher
+Kuckucksberg
+An der Kühunter
+Ernstborn
+In den
+Langen Morgen
+wald
+Am
+Wendelinus
+Im Orbel
+Auf dem
+Wörthchen
+in der Gekrümmten Weid
+Der Fahrengrund
+Am Leinpfad
+Münchwald
+Wiesen
+Im Weiler
+Mittlere Heuweg
+Auf dem Rehkampf
+Am Mühlweg
+In der Oelwiese
+Münch-
+Finther
+Rech
+Im unteren Geiersberg
+Sauarm
+Dreispitz
+Am
+Finther Kreuz
+Bein
+Im Breiten Heßler
+Bernhardsborn
+An der Alten
+Lettenkaut
+Sandmühlen
+Der Sandbruch
+Auf dem Horn
+Kuhäcker
+Bernhardsborn
+Am Sandmüllerweg
+Auf dem Berg
+Die Sechs
+Morgen
+Ochsenwiese
+Eulen-
+rech
+Unteres Wäldchenloch
+Hintere
+Kießäcker
+Am Henneberg
+Vor der
+Weidenrech
+Katharinenwiesen
+In der Aue
+Palmen
+Fatzer
+Kalten
+Born
+Im
+Im Laubeutel
+Sauarm
+Höllenberg
+Im Klotz
+Bei der
+Sandmühle
+DB
+DB
+DB
+DB
+F
+F
+5
+200
+100
+110
+150
+180
+190
+140
+130
+90
+120
+100
+110
+120
+130
+120
+190
+130
+160
+110
+90
+120
+N a t u r s c h u t z g e b i e t
+s  c  h  u  t  z  -
+Naturschutzgebiet
+N a t u r s c h u t z-
+g e b i e t
+g  e  b  i  e  t
+N a t u r s c h u t z g e b i e t
+H  a  d  e  r  a  u  e
+N a t u r s c h u t z g e b i e t
+g  e  b  i  e  t
+K  ö  n  i  g  s  k  l  i  n  g  e  r 
+M a i n z e r  S a n d f l o r a
+w   a   l   d
+N  a  t  u  r  -
+L   e   n   n   e   b   e   r   g  -
+N a t u r s c h u t z g e b i e t
+M a i n z e r  S a n d f l o r a
+A  u  e
+N  a  t  u  r  s  c  h  u  t  z  - 
+N a t u r s c h u t z g e b i e t
+Naturschutzgebiet
+G
+o
+ns
+ba
+c
+h
+T o t e r 
+A r m
+Horstgraben
+S
+enkgra
+ben
+Königs
+b
+o
+r
+n
+b
+ac
+h
+S
+ü
+l
+z
+b
+ac
+h
+Km 507
+Km 505
+Km 510
+Km 508
+Km 506
+Km 509
+Km 511
+60
+643
+60
+G
+on
+sb
+ac
+h
+6
+17
+18
+643
+60
+4
+643
+Mz.-Gonsenheim
+Mz.-Mombach
+Heidesheim
+Budenheim
+Niederwalluf
+   Eltville
+ am Rhein
+Uhlerborn
+S i e d l u n g
+Grillhütte
+pl.
+R ö m e r q u e l l e 
+Sieben-Weiher-
+Hütte
+Umspann-
+Waldkinder-
+garten
+Kapelle
+Kleingärten
+gärten
+pl.
+Bürgerhaus
+G o l f p l a t z
+Reit-
+Sandmühle
+Reitschule
+Waldschwimmbad
+werk
+Burg
+Crass
+Kreuzerhof
+Waldorf-
+anlage
+Heiligen-
+Hütte
+pl.
+Uhlerborner
+Hütte
+kath.
+Budenheimer
+Wasserwerk
+W a l d f r i e d h o f
+Waldfriedhof
+Jugend-
+zentrum
+Umspann-
+Ortsver-
+waltung
+gärten
+Wendelinus-
+kapelle
+kath.
+G o l f p l a t z
+Tennis-
+Klein-
+Tennis-
+Kleingärten
+kath.
+Tennis-
+pl.
+ev.
+Annenruh-
+Hütte
+Gasilhane
+Bücherei
+Golfplatz
+Kurzplatz
+Driving-
+Range
+Quelle
+Schloss
+Freizeit-, Sport-u.
+Erholungspark
+Franz-Stein-
+Hütte
+ev.
+Wertstoffhof
+Vierzehn-
+Nothelfer-
+Kapelle
+Grünes Haus
+Klein-
+Bolzpl.
+G o l f p l a t z
+Rathaus
+Sandhof
+gärten
+schule
+werk
+Forsthaus
+Rheingoldruhe
+wohnh.
+EnChristo-
+Gemeinde
+Kriegersmühle
+Kleingärten
+(Golfplatz)
+Hütte
+Freizeitanlage
+Reit-
+Tennispl.
+Bolzpl.
+Klein-
+kath.
+Jugend-
+zentrum
+Wendelinus-
+heim
+Bolz-
+Waldsporthalle
+Mausoleum
+Klausmühle
+gärten
+Neumühle
+Klein-
+Lenneberg-
+turm
+Studenten-
+Rathaus
+Gas-
+mess-
+stat.
+gärten
+Bolz-
+schule
+pl.
+Klein-
+Lagerhalle
+Gemeindewerke
+Claushof
+gärten
+Klein-
+Bolz-
+kath.
+Polizei-
+Autobahn-
+station
+Kurfürstliche
+Burg
+Friedhof
+Pump-
+werk
+Eulenmühle
+Weinbauamt
+p a r k
+Bücherei
+Entsorgungszentrum
+Budenheim
+plätze
+T i e r -
+kath.
+Karl-Brand-
+Hütte
+Gemeinde-
+werke
+Schloss Waldthausen
+Sü
+d
+-
+str.
+Nonnenauwe
+g
+st
+r.
+Un
+tere
+r He
+uweg
+Rö
+m
+e
+r
+-
+str.
+Budenheimer
+Kurt-
+Schumacher-
+Str.
+Albu
+s-
+str.
+Taunus-
+str.
+weg
+Ernst-Krebs-Str.
+La
+h
+r-
+W
+eg
+Achatius-
+weg
+Taubenberg-
+str.
+Geschw
+.-
+Scholl-Str.
+Philipp-Försch-S
+tr.
+Gerhart-
+Hauptmann-
+Str.
+Brecht-
+Wald-
+Gisela-
+Abels-
+Stein-
+gasse
+M
+erkur-
+Mitt
+l
+er
+er
+ 
+H
+e
+uweg
+Jahn-
+str.
+An der Feil
+-
+kirsc
+h
+Kirch-
+str.
+Ge
+o
+r
+g-
+Bü
+ch
+n
+er-
+St
+r.
+Lenne-
+weg
+Waldstr.
+We
+ndeli
+nus-
+Mosel-
+str.
+Str.
+Wi
+esenstr.
+Bec
+h-
+Am Rehkampf
+Mittelweg
+str.
+Goetheweg
+Finther
+An
+nenruhschneise
+Burgs
+tr.
+Rohr-
+berg-
+str.
+milch-
+str.
+A
+m
+M
+ü
+h
+l
+gr
+aben
+J
+u
+liu
+s
+-Lebe
+r-
+Str.
+An
+der
+O
+chsenwiese
+Orchideen-
+weg
+Max-
+Ern
+st
+bo
+rn
+-
+s
+ch
+neis
+e
+Wil
+hel
+m-
+str.
+Jöst-
+ A
+lt
+e Fi
+nth
+er Straße
+Gonsbachstr.
+str.
+Rhei
+n
+San
+d-
+müh
+l
+e
+Palmen-
+weg
+Al
+fr
+e
+d
+-
+Nobel-
+Sertorius-
+Ber
+g-
+str.
+den
+Erlen
+An
+Mainzer Landstraße
+Heides
+he
+imer
+Wörth-
+str.
+Rich
+a
+rd-
+Wa
+gner
+-
+Str
+.
+Heß
+ler-
+Silbe
+r
+-
+gras-
+weg
+B
+u
+d
+e
+n-
+S
+and
+müh
+l-
+ C
+a
+r
+l
+o
+-
+P
+l
+in
+i
+u
+s-
+w
+e
+g
+G
+eiersköpp
+e
+lwe
+g
+Schrey-
+Str.
+Steig
+e
+Wies
+moorer
+Str.
+Am Hundacker
+Ha
+upt
+-
+s
+tr
+.
+W
+ald
+th
+ausenstr.
+Am
+R
+o
+s
+e
+ng
+as
+se
+Mittelweg
+Schul-
+gäß-
+chen
+Ta
+unu
+s-
+str.
+Langen-
+su
+mpf-
+w
+e
+g
+str.
+Schiller-
+G
+eneral-Clay
+-
+Str.
+Wendelinus-
+weg
+Am
+Lang
+en-
+stü
+ck
+str.
+ Pfarrer-   Bechtolsheime
+r-
+W
+a
+l
+terslebe
+n
+e
+r
+ Str.
+Nero
+ta
+l-
+weg
+He
+ilige
+n-
+weg
+str.
+Kirch-
+ne-
+Kirchstraße
+Ernst-
+Ludwig-
+Str.
+Be
+rli
+ne
+r 
+St
+r.
+Stolze-
+A
+m
+Warberg
+Gonsenheimer
+Str.
+str.
+Uhlerborner
+Weg
+A
+n
+de
+r
+Fahrt
+Mörikew.
+Burghof-
+str.
+P
+an-
+kratiu
+s-
+str.
+Scala-Platz
+T
+riftstr.
+Neue Str.
+Kelten-
+Neue Kirch
+st
+r.
+Am
+Rhein
+Schulstr.
+str.
+Freiherr-
+v
+om
+-
+St
+ein-
+Str.
+Herder-
+Le
+inpfad
+str.
+M
+ühlweg
+Guten
+berg-
+Am
+Eichendorff-
+Hasel-
+n
+ußg.
+Obere
+r Mombacher
+Bein
+Ha
+upt-
+Lenneberg-
+hohle
+Fin
+the
+r
+Am
+Grimmen
+M
+i
+t
+tl
+erer H
+euweg
+ Am
+Schwarzen
+Weg
+Am Grasweg
+Am
+Forst-
+haus
+Heides
+heimer
+S
+tr
+.
+Planck-
+Rheinallee
+Ufers
+tr
+.
+Eleonoren-
+K
+a
+k
+-
+teen-
+w
+e
+g
+Sandkiefern-
+weg
+Am
+Rehkamp
+f
+Neuland
+str.
+B
+randtschneise
+Heinr.-v.-
+Stephan-Str.
+Brändströmstr.
+S
+tein-
+heim
+e
+r
+Str.
+Am
+Fatzerbrünn
+che
+n
+Kirch
+str.
+Blüche
+rstr
+.
+Sandmü
+ll
+e
+rw
+eg
+Sä
+gewerk
+B
+ech
+bor
+n-
+Fis
+ch
+er-
+g
+ass
+e
+An
+Heßler-
+Lang-
+str.
+Feil-
+kirschshöhe
+Sc
+hil
+le
+r-
+str.
+Am L
+oh
+Pestalozzistr.
+Gonsenheimer
+Str.
+Ad.-Riese-
+Str.
+Wald-
+str.
+W
+e
+st
+-
+H
+e
+ilig
+en
+-
+Budenheimer
+W
+eg
+Hippergstr.
+S
+iebenm
+o
+rgen-
+str.
+B
+r
+esl
+au
+erStr
+.
+U
+h
+ler
+b
+orn
+er
+ 
+An der Alten
+Reithalle
+A
+lic
+e-
+str.
+Ora
+nie
+n-
+schn
+eise
+bogen-
+I
+m
+ 
+ 
+ 
+W
+ald
+Kurze Schneise
+Vogels
+-
+gesang
+-
+weg
+Mühlw
+eg
+Mittelschneise
+Am
+E
+g
+stedter
+s
+ch
+ne
+is
+e
+An der
+Oberbrücke
+Gonsenheim
+er
+St
+r.
+U
+n
+iv
+ersitä
+ts
+-
+Unterer H
+euw
+e
+g
+Mz.-Gonsenheim
+Sonnen-
+berg-
+st
+r.
+Auf dem
+Krahl
+str.
+Kloster-
+s
+tr.
+R
+osme
+rtha
+-
+Nord-
+str.
+str.
+he
+imer
+Weg
+Kiefernweg
+Friedri
+c
+h
+-
+s
+tr.
+Jahnstr.
+str.
+Schmitt-
+Ernst-Abbe-Str
+.
+Binger
+Str.
+Öl
+wiese
+n
+-
+s
+tr.
+Eich
+Mainzer
+Str.
+Sportfeld
+Am
+Lemmchen
+Str.
+Jupiterweg
+Breite
+Nau
+b
+erg-
+s
+tr.
+M
+itt
+e
+l-
+s
+t
+r.
+Mühlweg
+I
+n
+d
+u
+st
+r
+i
+e
+-
+weg
+Im
+Schäfers-
+born
+Kraus
+-
+Str.
+Am
+Jude
+n
+fried-
+Luisen-
+weg
+Am
+Hanach
+Löns-
+weg
+R
+aiff
+eisenstr.
+Am Palmen
+Wilh.-
+Raabe-
+Wallufer
+Str.
+Gu
+te
+nber
+gstr.
+Stefa
+nstr.
+Feld-
+str.
+Manfred-
+von
+-
+Richthofe
+n-S
+tr.
+Sa
+c
+k-
+Konrad-
+weg
+L
+ein-
+pfad
+Tiefen-
+ Reinh.-
+Schneider-
+Str.
+str.
+Budenberg-
+Al
+te Finther 
+Straße
+Wallufer
+Str.
+Str.
+Weg
+Eulenrechschneise
+Eichen-
+weg
+Hebbel-
+weg
+Kre
+uz-
+str
+.
+Am
+Sonnen-
+glück
+Buchenweg
+Carl-
+Zuckmayer-Str.
+m
+o
+rgen-
+Friedens-
+Am
+Eichendorffstr.
+Al
+tm
+ünster-
+schneise
+Friedri
+ch-
+str.
+Josef-
+Ludwig-
+Platz
+lager
+Elsa-
+Renth-
+Thumschneise
+Str.
+Am
+Hanach
+A
+uf
+der
+Str.
+Krumme
+ze
+ilweg
+Ge
+org-
+Unkelhä
+u
+ß
+er
+-
+S
+tr.
+Sportfeld
+Ludwigs-
+schneise
+Wies
+moore
+r
+S
+tr
+.
+Friedri
+ch-
+Eber
+t-
+Str.
+Hinter-
+Friedric
+h
+-
+str.
+Morgen-
+st
+r.
+Am Gr
+o
+ß
+en Sand
+Wendelin-
+Poststr.
+chen
+Storm-
+Dionysiusstr.
+Budenheimer
+F
+uch
+sschneise
+B
+in
+g
+er
+Str.
+Leinpfad
+R
+hein-
+str.
+Eulenrechschneise
+Her
+mann-Ehlers-Str.
+Len-
+Unterer H
+eidesheimer Weg
+Lah
+nst
+r.
+Mi
+ttle
+re
+R
+h
+ein
+str.
+Mainzer
+Landstr.
+U
+hland-
+str.
+s
+chn
+ei
+se
+Ke
+tte
+ler
+-
+str
+.
+An
+d
+e
+r
+Hasenqu
+elle
+Altmünster-
+schneise
+Gr
+a
+be
+n-
+g
+as
+s
+e
+Fränzenbe
+rgstr.
+Kapellen-
+Wei
+n-
+Landstr.
+Taunusstr.
+Str.
+g.
+Hauwe
+g
+Lindenstr.
+hof-
+str.
+Brandtschneise
+F
+uch
+ss
+c
+hn
+e
+i
+s
+e
+Hauweg
+Weinbergstr.
+Mainzer
+Hauptmann
+-
+Str.
+s
+chneis
+e
+Wei
+n
+-
+h
+ohle
+str
+.
+Jahn-
+str.
+He
+ili
+genw
+eg
+Main
+zer
+Schill-
+s
+tr.
+Rheingaustr.
+B
+urkard-
+Stein-  
+  
+    weg
+St
+r.
+str.
+Vier-
+Untere Bahnstr.
+Main
+zer
+Weg
+Kir
+c
+hg
+.
+W
+eg
+Breite
+Mosel
+str.
+Arndtstr.
+Mittl
+er
+e
+r 
+H
+eu
+w
+eg
+str.
+Neu-
+weg
+Brücken-
+str.
+H
+üg
+elsc
+hn
+eise
+Sertoriu
+sr
+i
+n
+g
+ring
+Schäferstr.
+Schw
+a
+r
+zenb
+e
+rg
+weg
+Kohlen
+sc
+h
+n
+e
+ise
+Stockbornstr.
+Fontane-
+weg
+Wil
+helm-
+str.
+Uferstr.
+Am
+Heide
+sheimer
+Weg
+Am
+S
+andho
+f
+Pionierschneise
+Immelmannstr.
+Am Fahrengrund
+str.
+Klosterstr.
+Maler-
+Balduin-
+str.
+Leinpfad
+P
+fa
+rrstr.
+Im
+Sterzel
+Nachti-
+gallen-
+weg
+Mainzer Landstraße
+der
+quelle
+Gebra
+nnte Sc
+hneise
+Annenruhschneise
+Ann
+enruhschneise
+str.
+haus
+-
+Mombacher
+S
+tr.
+Str.
+An 
+der
+Wildb
+ach-
+brüc
+ke
+In der
+Kalbspflicht
+Gerhard-
+Sier
+storpffstr.
+Hilde-
+gardis
+str.
+weg
+Goet
+z-
+str
+.
+Margare
+tens
+tr
+.
+Finther
+Bleichstr.
+Braendström-
+damm
+Am
+Sülzbach
+Ba
+tt
+e
+ri
+e-
+Elle
+n-
+Pfarrer-Gr
+im
+m
+-
+S
+tr.
+schneise
+Am
+Katharinen-
+M
+ühlweg
+Ulmenstr.
+Garte
+n-
+Arndtweg
+Freienbornstr.
+str.
+Stauffenber
+g-
+Str.
+Str.
+A
+nnen
+ru
+h
+s
+chn
+e
+i
+s
+e
+str.
+Isola-della-
+Hechtenkaute
+Klausw
+e
+g
+str.
+Mühl-
+In den Vierzehn
+Morgen
+Vierzeh
+n
+-
+Nothelfer-
+Str.
+Frie
+d
+richs-
+bergweg
+Heidesheim
+Im
+Krautgarten
+Obere    Wald-   str.
+Wolfs-
+Konstantin-
+     weg
+M
+i
+e
+r
+endorff-Str.
+Z
+ur
+Ob
+e
+rl
+a
+che
+Engel-
+Fing
+e
+rkrau
+tweg
+K
+l
+o
+st
+ers
+tr.
+Annastr.
+Fint
+her
+S
+tr.
+Am
+Geier
+s
+köpf
+el
+Str.
+Se
+rtoriu
+srin
+g
+Lein-
+pfad
+Nonnenauweg
+der
+H
+erman
+n-Lö
+ns
+-W
+e
+g
+Mainz
+Uhlerborn
+Leinpfad
+R
+hein-
+H
+e
+i
+d
+e
+shei
+mer
+Str.
+U
+hlerborner
+Auf dem
+Steinchen
+Gebra
+nnte
+ Schn
+eise
+berg
+Ob
+ere
+Bahn
+str.
+b
+orn
+-
+A
+m Königsb
+orn
+Gren
+zweg
+Platz
+von
+Mo
+nt
+ri
+ch
+a
+rd
+Finth
+e
+r
+Str.
+Str
+.
+In
+der
+Römer-
+Grenzweg
+Weg nach der Klaus
+A
+m
+Hang
+Rhein-
+Kirchstr.
+Friedrichs-
+str.
+W
+al
+dth
+.s
+tr.
+Mz.-Mombach
+str.
+Luisenstr.
+Fuchs
+s
+c
+h
+n
+eise
+L
+eergas
+se
+Theodor
+-K
+ö
+rn
+e
+r-St
+r.
+Schlo
+s-
+serg.
+Lein
+pfad
+Str.
+Ellenb.-
+Kurze Schneise
+weg
+Schul-
+Am
+Wäldch
+enloch
+Jahn-
+str.
+Mittelschneis
+e
+R
+heinstraß
+e
+Ludwigs-
+schneise
+str
+Palm
+enw
+e
+g
+Sch
+iller
+str.
+berg-
+Oberwallufer
+S
+tr.
+Landstr
+.
+str.
+Becker-
+O
+be
+rer 
+Heu
+weg
+Str.
+Buden-
+Schmiede-
+gasse
+M
+ittel-
+sc
+hne
+ise
+Am
+Bornwald
+Rilkewe
+g
+Am
+Heidesheimer
+Weg
+Am
+hof
+Ge
+br
+a
+nnte Schneis
+e
+s
+c
+hn
+ei
+se
+Kat
+zen-
+lo
+ch-
+sch
+n
+ei
+se
+An
+der
+Wa
+ldsporthalle
+Taunus-
+str.
+Domitianst
+r
+.
+Goldreg
+e
+nstr.
+Unter
+e
+Rhei
+n-
+str
+.
+Schwa-
+nen-
+gäß.
+Kapellen-
+Mühlweg
+Unt
+ere Ste
+fa
+n
+st
+r.
+heimer
+Weg
+Bunkenweg
+Ste
+in
+-
+Sert
+ori
+u
+sr
+in
+g
+Heine-
+weg
+Händel-
+str.
+Krummezeilweg
+Str.
+Parkallee
+str.
+Rhei
+ng
+au
+er
+S
+tr.
+Zehnthof-
+ Am Waldfriedhof
+Herm
+a
+n
+n
+-L
+ö
+n
+s
+-
+W
+e
+g
+Am
+H
+ei
+nr
+ic
+h-
+Gä
+rtn
+er
+-Str.
+Mainz
+er
+Land
+str.
+Ro
+s
+mertha-
+An
+der
+P
+ra
+ll
+sc
+h
+neise
+gas
+se
+Prof-
+Karl-
+Bohland-
+Str.
+Kirchg
+.
+klippen-      weg
+Mombacher
+Str.
+Ma
+rkt-
+s
+tr.
+Herbachstr.
+Ea
+ubon
+n
+er
+Str.
+sc
+hne
+ise
+Im
+Klümb-
+str.
+weg
+Thüringer Str.
+Ne
+rota
+l-
+Graben-
+Bornweg
+Lein-
+pfad
+Oranien-
+Lenneberg-
+str.
+Str.
+C
+ampus
+Budenheim
+Mozart-
+Ba
+h
+n-
+str.
+An den
+Fuchslöche
+rn
+Hermann-Löns-
+Str.
+Rh
+einstr.
+Wallufer
+Str.
+An der
+Sandbach
+Elisabethen-
+Am Alten Horn
+Birken-
+weg
+Graf-
+gasse
+Am
+Eulenre
+c
+h
+Sch
+leif-
+weg
+Sa
+n
+d-
+w
+eg
+mühl-
+Crevestr.
+Kehl-
+weg
+str.
+Autobahndreieck
+Sandmüllerweg
+S
+on
+n
+e
+nb
+e
+rg
+-
+str.
+str.
+Am Kief
+ern
+wald
+Guten-
+berg
+-
+st
+r.
+Schmiede
+-
+gäßch.
+A
+m 
+Reiterweg
+Bertholt-
+Busch-
+weg
+Am Eiskeller
+Eaubonner Str.
+Kurze Schne
+ise
+Str.
+In
+d
+er
+Au
+e
+Frey
+gäßche
+n
+platz
+platz
+A
+m
+H
+e
+s
+s
+en
+-
+d
+e
+n
+k
+m
+a
+l
+Butter-
+berg-
+reul
+weg
+Str.
+Goethe-
+str.
+Kolping-
+st
+r.
+str.
+Hauptstr.
+Kehl-
+Jakob-
+str.
+Finther Str.
+Schul-
+Pal
+m
+en
+w
+e
+g
+K
+irc
+hga
+sse
+Egsted
+t
+e
+r
+Binger
+Str.
+Im
+Gehren
+Z
+wan
+zig-
+Mo
+rge
+n-
+Weg
+Bogen-
+Friedrich-
+Ebert-Pl.
+Erwin-
+Ko
+hlenschneise
+Weg
+Thü
+rin
+ger
+Str.
+Ma
+rt
+ing.
+str.
+Hei
+ligenwe
+g
+Marien-
+Str.
+st
+r.
+ Am
+Geisköpfel
+L 42
+4
+K 4
+9
+K 639
+L 4
+23
+K 638
+K 
+10
+K 10
+K 638
+K
+ 1
+8
+K 6
+38
+L 423
+L 42
+3
+L 423
+L 423
+L 422
+L 422
+L 
+4
+22
+L 423
+L 422
+K 33
+L 
+42
+4
+L 422
+L 422
+L
+ 4
+22
+K
+ 63
+8
+K 49
+5914/602
+5914/606
+5915/760
+5914/604
+5915/751
+5915/754
+5915/752
+5914/607
+5915/759
+5914/603
+5914/605
+5915/753
+5915/756
+5915/761
+5915/757
+5915/750
+5915/755
+5914/601
+5915/762
+5914/600
+5915/758
+1
+3
+4
+10
+2
+7
+9
+15
+5
+14
+8
+6
+12
+13
+11
+38
+55
+39
+55
+40
+55
+41
+55
+42
+55
+37
+4
+38
+4
+39
+4
+40
+4
+41
+4
+42
+4
+43
+4
+brandgefährdeter Nadelbestand
+Standard LKW-Weg
+(uneingeschränkt befahrbar)
+Sonstiger LKW-Weg
+(eingeschränkt befahrbar)
+Rettungspunkt
+bes. brandgefährdeter Nadelbestand
+Anwohner/Bebauung
+im Waldgebiet
+Nachdruck, Scannen oder sonstige Vervielfältigung nur mit 
+Genehmigung des Bauamtes der Landeshauptstadt Mainz.
+0
+250m
+500m
+750m
+1km
+Abbildung 18: Beispiel einer örtlichen Waldbrandschutzkarte der Landeshauptstadt Mainz, die in Zusam-
+menarbeit von Stadt, Feuerwehr und Forstamt entstanden ist
+erfolgreiche Laubbaumbeimischung, die in neun von 
+zehn Fällen durch natürliche Verjüngung entsteht 
+(BWI 2012). Mehr als die Hälfte der nachwachsen­
+den Generation sind Laubbäume. Durch natürlichen 
+Dichtstand entsprechend der naturnahen Wald­
+bewirtschaftung findet regelmäßig eine natürliche 
+Astreinigung statt. Differenzierte, punktwirksame 
+Eingriffe im Folgezeitraum führen dann zur Erzielung 
+qualitativ hochwertiger, stabiler und vitaler Einzel­
+bäume und Waldgesellschaften. 
+Gleichzeitig schaffte die mittelfristige Betriebspla­
+nung (= Forsteinrichtung) durch ihre Planung eine 
+Waldeinteilung in Einheiten (Betrieb > Abteilung > 
+Distrikt > Waldort > Befundeinheit) mit vergleich­
+baren Ausgangsbedingungen und vergleichbaren 
+Zielsetzungen, die digitalisiert vorliegen.
+Neben den gesetzlichen Grundlagen haben sich jene 
+mittel- bis langfristigen Vorbeugungsmaßnahmen 
+bewährt, die die Verringerung des Waldbrandrisikos 
+durch waldbauliche Maßnahmen (z. B. Baumarten­
+begünstigung, Waldpflege) aufgreifen und damit 
+
+33
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+eine bessere Abwehr von Waldbränden garantieren. 
+Durch die Begleitung der Waldökosysteme zu mehr 
+Resilienz im Klimawandel soll einerseits die Wald­
+brandentstehung verhindert, zum anderen sollen 
+Gegenmaßnahmen im Brandfall unterstützt bzw. 
+ermöglicht werden. 
+Im Folgenden sind einige Anpassungsstrategien eines 
+klimaangepassten Waldbaus gelistet:
+•	 Anwendung einer ordnungsgemäßen Forstwirt­
+schaft gemäß § 5 LWaldG
+	- Baumartenwahl 
+	- Verringerung der Brandgefahr durch Einbringung 
+von Laubbäumen (z. B. Buche, Eiche) in Nadel­
+bestände und Schaffung von bremsenden oder 
+stoppenden Strukturen
+	- Waldpflege 
+•	 Z. B. Ästung, Durchforstung, Mischwaldbewirt­
+schaftung und damit eine verringerte Gefahr eines 
+vollständigen Baumartenausfalls
+•	 Waldschutz unter Anwendung umweltschonender 
+Verfahren i. S. des § 15 LWaldG (z. B. keine Ab­
+brennarbeiten, keine feuergefährlichen Betriebs­
+arbeiten)
+•	 Fernhalten von Unterwuchs, um die Funktion einer 
+„Brandleiter“ zu verhindern
+•	 In begründeten Ausnahmefällen nach einer ein­
+gehenden Gefahrenanalyse die Anlage von Wund­
+streifen
+	- Außerhalb der Vegetationszeit vom 1. März bis 
+30. September
+	- Streifen ist frei von brennbarem Material (z. B. 
+Mulchen, Fräßen). Hinweis: Zertifizierung be­
+achten (z.B. in der Regel kein flächiges Befahren 
+in Waldorten zulässig)
+	- Beachtung naturschutzfachlicher Ziele 
+•	 Erhalt eines Waldinnenklimas
+•	 Wiedervernässung und Wasserrückhalt
+g. Öffentlichkeitsarbeit: 
+­Informations- und Pressearbeit
+Vor allem mit Blick darauf, dass der Mensch in der 
+Regel ursächlich ist für einen Waldbrand, geht es um 
+eine kontinuierliche und anlassbezogene Aufklärung 
+und Bewusstseinsbildung. 
+Die Öffentlichkeitsarbeit wird durch Landesforsten 
+durchgeführt. Hinweise und Konzepte werden dezen­
+tral mit Blick auf die vorkommenden Adressaten, Ge­
+gebenheiten und bewährten analogen und digitalen 
+Informations- und Kommunikationsmedien geregelt 
+(z. B. gedruckte Medien, Funk, Fernsehen, Internet). 
+Normalerweise erfolgt dies auf Ebene der Forstämter 
+mit der Information der lokalen Bevölkerung und ggf. 
+betroffener bzw. berührter Waldbesitzender (vgl. § 9 
+Abs. 1 LWaldG). Bei überregionalen oder landeswei­
+ten Themen liegt die Aufgabenkompetenz bei dem 
+Referat Kommunikation und Marketing (KOMMA) 
+der Zentralstelle der Forstverwaltung. 
+Abbildung 19: Infotafel zur Waldbrandgefahr, die 
+die gängigen Verhaltensregeln zur Vermeidung 
+von Waldbränden aufzeigt und auf die Subdomain 
+waldbrandgefahr.wald.rlp.de verweist, auf der in 
+der Zeit von März bis Oktober u. a. der Waldbrand-
+gefahrenindex des Deutschen Wetterdienstes 
+abgebildet wird. An stärker frequentierten Wander-
+parkplätzen, Aussichtspunkten oder Rastplätzen 
+kann so auf einen umsichtigen Umgang hingewie-
+sen werden.
+
+34
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+Nach dem Staatsvertrag zwischen dem Land Rhein­
+land-Pfalz und dem Saarland über die Errichtung und 
+Unterhaltung des Nationalparks Hunsrück-Hochwald 
+wird dort eine eigene Öffentlichkeitsarbeit betrieben 
+(vgl. §§ 6, 11, 13 Nationalparkplan).
+Aufgabe der Gemeinden und damit im Wesentlichen 
+der Feuerwehr ist die gleich gerichtete Brandschutz­
+erziehung und -aufklärung neben der Information zur 
+Verhütung von Bränden, dem sachgerechten Um­
+gang mit Feuer sowie der Selbsthilfefähigkeit (vgl. 
+§ 3 LBKG).
+Möglich und denkbar ist auch eine örtlich verwal­
+tungsabgestimmte Linie unter Einbezug des Touris­
+mus (z. B. Premiumwanderwege, Grill- und Über­
+nachtungsplätze) und privaten oder kommunalen 
+Waldbesitzenden.
+Entsprechende Themen vor oder während der Wald­
+brandsaison können sein:
+•	 Zusammenarbeit von Forstamt und Feuerwehr 
+(z. B. Übungen, Bereitschaftsdienst)
+•	 Hinweis auf das ganzjährige Rauchverbot im Wald 
+(z. B. Zigarettenstummel nicht aus dem Fahrzeug 
+werfen)
+•	 Kein unerlaubtes Grillen oder Feuermachen im 
+Wald oder mit einem Abstand von unter 100m
+•	 Forstwege nicht zuparken, da diese jederzeit durch 
+Behörden und Organisationen mit Sicherheitsauf­
+gaben benötigt werden könnten
+•	 Fahrzeuge nicht auf hohem Grasbewuchs abstellen 
+(Gefahr der Entzündung durch den heißen Kata­
+lysator)
+•	 Wachsamkeit bei Waldbesuchen stärken zum Bei­
+spiel mit den Hinweisen, einen Waldbrand direkt 
+an die Feuerwehr zu melden (Telefonnummer 112) 
+und einen sicheren Standort aufzusuchen
+•	 Unter Eigenschutz so weit und so lange wie mög­
+lich versuchen, Entstehungsbrände zu löschen
+Die Öffentlichkeitsarbeit im Waldbrand­
+schutz verfolgt das Ziel der Bewusst­
+seinsschärfung für die Gefährdungslage 
+Waldbrand. 
+h. Bildungsangebote, Bildungs­
+arbeit und unterjähriger Aus­
+tausch und regelmäßige Übun­
+gen
+Ein Informationsaustausch durch die partnerschaft­
+liche Zusammenarbeit zwischen Feuerwehren und 
+Forstämtern ist gewinnbringend und verdeutlicht die 
+Vorteile eines ganzheitlichen ämterübergreifenden 
+Konzepts. Gemeinsame Übungen, Fortbildungs­
+veranstaltungen (z. B. Schulungen, Planspiele), 
+Waldbegänge (z. B. zu Risikostandorten, Wasserent­
+nahmestellen) und unterjährige Besprechungen (z. B. 
+Bildung einer Arbeitsgruppe Waldbrand) ergänzen die 
+Zusammenarbeit zwischen Forstämtern und Feuer­
+wehren. In diesem Sinne ist das regelmäßige Abhal­
+ten von Übungen besonders wichtig. Fragen der Aus­
+rüstung, zu Gerätschaften und Schutzausrüstungen, 
+die vorhanden sind bzw. angeschafft werden sollten, 
+können so geklärt werden. Weitere Themen können 
+der Verbesserung dienen, z. B. wo ggf. Anpassungs- 
+bzw. Optimierungsbedarf besteht oder die Mittel­
+bereitstellung zur Unterhaltung oder Instandsetzung 
+von Wegen oder Wasserentnahmestellen notwendig 
+ist. Auch die Zuständigkeit der Fachberatung Forst 
+(z. B. grüne Signalweste) kann so geklärt werden. 
+Waldbrandbezogene Bildungsthemen auf Ebene der 
+Forstämter und der dazugehörigen örtlichen Feuer­
+wehren sind etwa (s. auch Anhang Checkliste):
+•	 Brand- und Rettungsübungen, Taktikschulungen
+•	 Kartenkunde (z.B. Austausch zu munitionsbe­
+lasteten Gebieten und damit Flächen, auf denen 
+brandschützende Personen den Wald aufgrund 
+der Munition nicht betreten können, sowie 
+Information und Kartierung von Schutzgebieten 
+(z. B. Wasserschutzgebiet) inklusive der örtlichen 
+Begutachtung und Besprechung der Gegeben­
+heiten in Verbindung mit Basiserschließungsplan 
+und Wasserentnahmestellen, ggf. im Verbund mit 
+Wasserversorgern.
+•	 Fahrtraining (Einsatzkräfte üben mit Fahrzeugen 
+unter Realbedingungen): Probefahrt auf Wegen 
+mit Feuerwehrfahrzeugen (Anforderungen der 
+Feuerwehr regelmäßig: Lichtraumprofil, ganzjähri­
+ge Befahrbarkeit)
+
+35
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+•	 Fahrzeugbeschaffung (auf nützliche Ausstattung 
+achten): Fahrgestell mit guter Geländefähigkeit, 
+Möglichkeit der Wasserabgabe während der Fahrt 
+durch Wasserwerfer: Gemeinsame Wasserwerfer 
+(gemeinsame Waldbrandübung, z. B. Kaskade im 
+Rettungswesen und Katastrophenschutz)
+•	 Austausch und Zusammenarbeit mit Streitkräften 
+(Großtanklöschfahrzeuge), Landwirtinnen und 
+Landwirten (Flüssigkeitstransporter können mit 
+Übergangsstücken Wasser an Feuerwehrfahrzeuge 
+abgeben), Polizeihubschrauberstaffeln (Anforde­
+rung durch Katastrophenschutzbehörde (Kreis- 
+oder Stadtverwaltung))
+•	 Austausch zur Ausstattung (z. B. zur Anzahl verfüg­
+barer Tanklöschfahrzeuge, Strahlrohre mit kleine­
+ren Durchmessern, kleinerer Schläuche)
+•	 Test der Funkanlagen und von deren Reichweite, 
+Netzabdeckung (wo gibt es Waldbereiche ohne 
+Funkempfang?)
+•	 Motorsägenkurse
+•	 Technische Einsatzbereitschaft (Gerät, Personal, 
+Fahrzeuge)
+•	 Lehrgänge zum Einsatz neuer Löschhilfen und 
+Sonderausrüstungsgegenstände
+•	 Anforderungen an die Fachberatung Forst sind 
+geklärt
+•	 Verbindliche Absprachen mit örtlichen Feuer­
+wehren mit Benennung von Ansprechpersonen 
+und konkreter Beschreibung des Beratungsbedarfs 
+(liegen aktualisierte Adresslisten vor?)
+Zentraler Kern der Aus- und Fortbildung auf lokaler 
+Ebene sind Übungen mit örtlichen Feuerwehren und 
+ggf. spezialisierten Waldbrandeinheiten. Flankiert 
+wird die gezielte Aus- und Fortbildung durch die 
+Landesfeuerwehr- und Katastrophenschutzakademie 
+(LFKA) und das Waldbildungszentrum Hachenburg 
+zur Vermittlung von Fachkenntnissen über Lösch­
+techniken und Taktikschulungen einerseits und Wäl­
+der andererseits. Notwendiges Bildungsmaterial wird 
+dort in eigener Zuständigkeit bereitgestellt.
+Schulungsmaterial der Akademie ist online 
+­abrufbar unter:
+https://bks-portal.rlp.de/aus-und-fortbildung/lfka
+In Rheinland-Pfalz kam es in der Vergangenheit 
+selten zu Großbränden. Dementsprechend ist wenig 
+Erfahrungswissen vorhanden. Sowohl in der forst­
+lichen als auch in der feuerwehrtechnischen Aus­
+bildung spielte das Thema lange Zeit eine unter­
+geordnete Rolle. Neben der Aus- und Fortbildung in 
+allen Laufbahnen können die Themen rund um die 
+Prävention Berücksichtigung finden im Bereich der 
+Waldpädagogik, z. B. in Formaten der Waldjugend­
+spiele, der Waldführungen oder waldpädagogischen 
+Lehreinheiten. Speziell ausgebildete, geschulte Wald­
+brandstaffeln im Land – die bereits einige Jahre in 
+der Handhabung spezieller Ausrüstungsgegenstände 
+geübt sind – können eingebunden werden.
+Der unterjährige Austausch zur Kon­
+taktherstellung und -pflege hat vor 
+der Waldbrandsaison zu erfolgen (vgl. 
+Terminkalender Forstämter). Ergänzt 
+werden kann der Austausch durch einen 
+jährlichen oder zweijährlich  Turnus von 
+Übungen oder Planspielen.
+Abbildung 20: Austausch der Feuerwehren Buden-
+heim, Ingelheim und Mainz mit dem örtlichen 
+Wasserversorger und dem Forstamt Rheinhessen zu 
+Beginn der Waldbrandsaison im Jahr 2022
+
+36
+2. PRÄVENTION, VORBEREITUNG UND WALDBRANDVERHÜTUNG
+i. Präventive Maßnahmen 
+bei steigender Waldbrand­
+gefährdung
+Bei dem fachlichen Austausch zu einem festen 
+unterjährigen Termin – im Frühjahr und noch vor der 
+Waldbrandzeit – können die jährliche Wegeinventur, 
+die Aktualität der Rettungspunkte, der Bedarf an 
+Schrankenschlüsseln, die Identifikation besonders 
+brandfördernder Waldteile oder gefährdeter Ein­
+richtungen am oder im Wald (z. B. Wohngebäude, 
+bewirtschaftete Hütten, Industrieanlagen, Trink­
+wasserschutzgebiete), die Prüfung der Anlage von 
+Laubholzriegeln oder Brandschneisen, bekannte 
+Wasserentnahmestellen und Instandsetzungen oder 
+Neuanlagen und ggf. deren Aufnahme in Kartenma­
+terial oder die Erreichbarkeit bei hoher Waldbrandge­
+fahrenstufe angesprochen werden. In der Regel sind 
+Ortstermine notwendig.
+Mit steigendem Waldbrandrisiko nimmt die Bedeu­
+tung präventiver Maßnahmen zu. Einige Bausteine 
+der klassischen Waldbrandvorbeugung sind im Fol­
+genden erwähnt: 
+•	 Aktualisierung der Waldbrandverhütungsstrategie 
+im Rahmen einer Dienstbesprechung (z. B. Alarm­
+kette, Alarmplan, Karten, Zuwegung, Löschwasser­
+quellen)
+•	 Kontaktaufnahme zu den Rettungskräften, Sen­
+sibilisierung für evtl. Waldbrandeinsätze, Klärung 
+logistischer Fragen
+•	 Organisation eines Alarmplanes und Erprobung 
+der Strategie im Rahmen der Übungen zur Ret­
+tungskette Forst
+•	 Information und Aufklärung der Bevölkerung plus 
+gezielte Öffentlichkeitsarbeit, sobald die Wald­
+brandgefahrenstufe 4 erstmalig erreicht wird 
+(Website waldbrandgefahr.wald.rlp.de oder Info­
+tafel Waldbrandgefahr)
+•	 Sensibilisierung der Privatpilotinnen und -piloten, 
+Waldbrände frühzeitig aus der Luft zu melden
+•	 Ggf. Gewährleistung einer Erreichbarkeit am 
+Wochenende. Diese Regelung und Ausgestaltung 
+obliegt den Forstämtern.
+•	 Regelmäßige Kontrolle besonders brandgefähr­
+dender Einrichtungen (Grillstellen, Rastplätze), ggf. 
+Instandsetzung
+•	 Ab Stufe 4 Schließen von Grillplätzen/keine Ab­
+brandgenehmigung (Forstamt im Verbund mit 
+Ordnungsbehörden und Feuerwehr)
+•	 Sicherstellung eines freien Wegesystems und 
+Waldzugangs
+•	 Prüfung des Zustands der Wasserentnahmestellen 
+(z. B. Anzahl, Wassermenge, Anfahrbarkeit)
+•	 Intensivierte Überwachung von Waldgebieten
+•	 Verstärkter Austausch zwischen Forst- und Brand­
+schutzdienststellen, ggf. weiteren fachlich berühr­
+ten Behörden
+In Ausnahmefällen:
+•	 Kontrollgänge/Feuerwachtürme, z. B. mit Blick auf 
+die Einhaltung und Kontrolle der Bestimmungen zu 
+Feuer/Rauchen im Wald oder in der Nähe zu Wald, 
+insbesondere. an Wochenenden und Feiertagen 
+in gefährdeten Waldkomplexen und Wetterlagen. 
+Nicht von Landesforsten Rheinland-Pfalz betreu­
+ten Waldbesitzarten wird das gleiche Vorgehen 
+geraten.
+•	 Anbringen von Hinweistafeln, Schildern o.Ä. an 
+ausgewählten Waldorten (z. B. Infotafel Wald­
+brandgefahr)
+•	 In Abstimmung mit Ordnungsbehörden die 
+Sperrung von Einrichtungen, Wegen oder Wald­
+teilen (Hinweis: keine Gesetzesgrundlage für eine 
+Sperrung nach LWaldG)
+•	 Luftüberwachung im Einzelfall und in begründeten 
+Ausnahmesituationen (Kontakt über ZdF Ref. 4.2 
+Waldschutz) 
+•	 Kontaktaufnahme mit der Bundeswehr und alliier­
+ten Streitkräften durch MKUEM
+
+37
+3. ERKENNUNG UND REAKTION: WALDBRANDBEKÄMPFUNG
+3. Erkennung 
+und ­Reaktion: 
+Waldbrand­
+bekämpfung
+Die originäre Aufgabe einer Feuerwehr ist „[...] die 
+Gewährleistung vorbeugender und abwehrender 
+Maßnahmen gegen Brandgefahren (Brandschutz) 
+[...]“ (zitiert nach dem Brand- und Katastrophen­
+schutzgesetz – LBKG). 
+Dass bisherige Brände weitgehend von Waldökosys­
+temen ausgeschlossen werden konnten, lag daran, 
+dass Waldbrände entweder ,dass Waldbrände sich 
+entweder langsam genug ausbreiteten oder oder 
+Feuerwehren schnell genug reagierten. Diese Tatsa­
+che ist positiv zu bewerten, da der Aufwand mit der 
+Zeit steigt. Besondere Schlagkraft erhält die Feuer­
+wehr durch ihre Organisation in zentrale und de­
+zentrale Strukturen (z. B. Integrierte Leitstellen (ILS); 
+Berufsfeuerwehren (BF), Freiwillige Feuerwehren 
+(FF)). Dadurch wird eine Präsenz in der Fläche ge­
+währleistet und es werden kurze Anfahrtswege und 
+Ausrückzeiten ermöglicht. An manchen Standorten 
+von Rheinland-Pfalz finden sich spezialisierte Wald­
+brandeinheiten.
+Mitentscheidend für die zielgerichtete Waldbrand­
+bekämpfung ist das Wissen um die Infrastruktur, 
+insbesondere die Wasserentnahmestellen und die 
+darauf abgestimmte Löschtaktik. 
+Vorkommen können: 
+•	 Vollfeuer 
+•	 Boden- bzw. Lauffeuer
+•	 Wipfel- bzw. Kronenfeuer
+•	 Stammfeuer in einzelnen trockenen Stämmen 
+•	 Unterbodenfeuer auf Torf oder Kohle und deren 
+Kombinationen
+In der Regel kommt es in Rheinland-Pfalz zu Boden­
+feuern. Daher ist die bodengestützte Brandbekämp­
+fung mit Fahrzeugen und Geräten das Mittel der 
+Wahl. Bodenfeuer werden direkt und unmittelbar 
+gelöscht (z. B. mit einer Feuerpatsche), wohingegen 
+bei größeren Bränden sich regelmäßig drei Fragen 
+stellen: Wie erfolgt ... Gelände? Wie weit muss ich 
+laufen? An wie vielen Stellen kann ich Wasser auf­
+füllen? Für eine erfolgreiche Waldbrandbekämpfung 
+ist vielfach nicht allein die (Wasser-)Menge entschei­
+dend, sondern der konstante Wassernachschub. Mit 
+sogenannten Tanklöschfahrzeugen ist ein Pendelver­
+kehr im Einsatzgebiet möglich. Zweckdienlich sind 
+auch die in Hanglagen aufstellbaren mobilen Lösch­
+wasserbehälter mit einem Fassungsvermögen von 
+10.000 bis 20.000 Litern. Die Rettungspunkte eignen 
+sich als zentrale Punkte zum Aufstellen. 
+Erfahrungsgemäß ist der alleinige Einsatz von Hub­
+schraubern mit Wasserbehältern und einer ozea­
+nischen Flutung zur Waldbrandbekämpfung wenig ef­
+fizient, hat dafür aber einen hohen Nachrichtenwert. 
+Die Ineffizienz entsteht aufgrund der Rotorabwinde 
+(„Downwash“) von Hubschraubern, die zu einer 
+verstärkten Sauerstoffzufuhr beitragen und Brände 
+noch stärker zum Auflodern bringen können. Um das 
+zu vermeiden, wäre der Wasserabwurf aus größerer 
+Höhe notwendig, womit wiederum eine feinere, un­
+gleichmäßigere Tröpfchenverteilung und eine gerin­
+gere Löschwirkung einhergehen. Zusätzlich wirkt das 
+Kronendach schirmartig schützend über den zumeist 
+vorkommenden Bodenfeuern. Eine Verdunstung 
+bereits in den Kronen verringert nochmals die bereits 
+verminderte brandhemmende Wirkung. 
+a. Alarmplan
+Grundsätzlich nehmen Integrierte Leitstellen (Not­
+ruf-)Meldungen entgegen, steuern und dokumentie­
+ren diese. Mit der Meldung eines Waldbrands bei der 
+örtlich zuständigen Forstdienststelle werden die not­
+wendigen Informationen ausgetauscht bzw. weiter­
+gegeben. Innerhalb einer Forstdienststelle regelt ein 
+entwickelter Alarmplan das weitere Vorgehen und 
+den Informationsfluss. Für die Alarmkette ist regel­
+mäßig die Klärung der Kommunikationswege der 
+jeweiligen Organisationsstrukturen, der Austausch 
+der Kontaktdaten und Hinweise auf Fundstellen (z. B. 
+Website Landesforsten) zu prüfen. 
+b. Waldbrandmeldung
+Waldbrände jeglicher Größe (besonders jene ­größer 
+als 1 Hektar) aller Waldbesitzarten im Sinne des 
+Gesetzes sind zeitnah per E-Mail an die Zentralstelle 
+der Forstverwaltung zu melden unter:
+zdf.waldschutz@wald-rlp.de 
+
+38
+3. ERKENNUNG UND REAKTION: WALDBRANDBEKÄMPFUNG
+Die inhaltlichen Mindestangaben:
+•	 Forstamt
+•	 Forstrevier
+•	 Informationen zum Waldbesitz
+•	 Naturaldaten (Flächen, Hauptbaumart, Alter)
+•	 Brandentwicklung und -bekämpfung
+Die Brandfläche ist als Punkt- oder Flächenmeldung 
+über das digitale Waldschutzmeldewesen einzuge­
+ben. Davon unberührt bleibt die jährliche Abfrage zur 
+Waldbrandstatistik zum Ende einer Saison. 
+Zum 20. November eines jeden Jahres meldet die 
+Zentralstelle der Forstverwaltung die jeweiligen 
+Brandereignisse für die Waldflächen innerhalb von 
+Rheinland-Pfalz (vgl. Az. 443-6427 vom 20.10.94). 
+c. Einsatzfall: Unterstützung im 
+Brandfall durch Forstleute
+IIm Brand- und Katastrophenschutzgesetz (LBKG) 
+findet sich findet sich unter § 8 zur Mitwirkung und 
+zu den Aufgaben der Feuerwehren, dass „die Feuer­
+wehren […] nach pflichtgemäßem Ermessen die 
+erforderlichen Maßnahmen zu treffen [haben], um 
+Brandgefahren oder andere Gefahren abzuwehren.“ 
+§ 25 LBKG konkretisiert die Befugnisse der Einsatzlei­
+tung, dass „die Einsatzleiterin oder der Einsatzleiter 
+[..] nach pflichtgemäßem Ermessen die zur Gefah­
+renabwehr notwendigen Maßnahmen [veranlasst]. 
+Hierbei sind die von den in ihrem Aufgabenbereich 
+berührten Fachbehörden für erforderlich gehaltenen 
+Maßnahmen zu berücksichtigen.“ 
+§ 24 Abs. I LWaldG flankiert diesen Aspekt, indem 
+„alle [..] verpflichtet [sind], bei der Verhütung und 
+Bekämpfung von Waldbränden mitzuwirken und An­
+ordnungen des Forstamtes zu befolgen.“ 
+Forstleute wirken als Ansprechpersonen für die Feu­
+erwehr, in zweiter Reihe als Fachberatung. Sie halten 
+sich grundsätzlich nicht im Gefahrenbereich eines 
+Waldbrands auf. Die Mitarbeitenden von Landesfors­
+ten sind in der Regel für die Brandbekämpfung nicht 
+ausgebildet oder ausgerüstet. Daher sollten aus Sicht 
+der Arbeitssicherheit solche Tätigkeiten stets unter­
+bleiben. Die Brandbekämpfung gehört nicht zum 
+Tätigkeitsspektrum von Forstwirten, einer Revierlei­
+tung bzw. von Forstleuten.
+Eine Ausnahme bildet die eigenständige Pflicht auch 
+der Waldbenutzenden, bei der Verhütung mitzuwir­
+ken, soweit dies ohne Eigengefährdung möglich ist, 
+z. B. das Austreten eines kleinen Entstehungsbrandes 
+oder das Aufbringen von Sand auf eine Grillstelle. 
+Dafür ist keine Qualifizierung bei der Feuerwehr und 
+auch keine spezielle persönliche Schutzausrüstung 
+notwendig. Der Versicherungsschutz dafür ist ge­
+geben, sowohl für Beamtinnen und Beamte als auch 
+für Versicherte. 
+Informationen und Unterstützungsleistungen durch 
+Forstleute:
+•	 Details  zu Forstamt, Forstrevier, Waldbesitzen­
+den, Infrastruktur, Wegekategorien, Anfahrbarkeit 
+von Rettungspunkten, Wasserentnahmestellen, 
+kritischer Infrastruktur im Wald (ggf. im Boden), 
+brandfördernden oder -hemmenden Waldbestän­
+den (Baumart, Baumalter, Flächengröße), morpho­
+logischen Geländeverhältnissen, Brandverhalten, 
+insbesondere. Prognose zum weiteren Brandver­
+lauf, lokalen Besonderheiten (z. B. lokale Winde)
+•	 Einweisung der Einsatzkräfte je nach Bedarf durch 
+ortskundiges Forstpersonal an die Einsatzstelle/zu 
+den Bereitstellungsräumen (Lotsung im Wald)
+•	 Unterstützung bei Fäll- und Räumarbeiten 
+•	 Unterstützung im Bereitstellungsraum bei größe­
+ren oder längeren Einsätzen (Verpflegung, Trans­
+port)
+•	 Pressearbeit
+•	 Erhebung und Bewertung des naturalen und tech­
+nischen Ist-Zustands
+•	 Forstbehördliche Maßnahmen
+Die Informationen können bei der Einsatztaktik (z. B. 
+Technische Einsatzleitung, Rückzugsweg) Eingang 
+finden. 
+Die Ausübung der Rolle als Fachberatung ist norma­
+les Dienstgeschäft. Ergänzend kann auf dienstliche 
+Anweisung eine Rufbereitschaft zwischen 7-22 Uhr, 
+sowohl werktags als auch am Wochenende, bei 
+hoher Waldbrandgefahr eingeführt werden. Dies ent­
+spricht keiner 24-Stunden-Schicht. Beginn und Ende 
+einer Rufbereitschaft sind der Leitstelle mitzuteilen. 
+Möglich ist dennoch, dass eine Erreichbarkeit nicht 
+gegeben ist (z. B. Dienstreise, Urlaub). 
+
+39
+3. ERKENNUNG UND REAKTION: WALDBRANDBEKÄMPFUNG
+In Rheinland-Pfalz kommt es in unterschiedlicher Intensität 
+seit einigen Jahren zu lokal gehäuften Einsätzen von Netz­
+mitteln (Hersteller z. B. BIOex® BIO FOR N, FIREX®). Diese 
+beinhalten Tenside, die insbesondere in Wasserschutzgebie­
+ten zu Problemen führen können.
+Es handelt sich um eine einsatztaktische Entscheidung der 
+Einsatzleitung, die auf einem Ermessensentscheid basiert. 
+Die Entscheidung ist mit berührten Verantwortlichen der am 
+Einsatz beteiligten bzw. zuständigen Behörden und Organi­
+sationen abgestimmt bzw. deren Einschätzung ist mit in den 
+Entscheidungsprozess einbezogen. Ohne forstfachliche Ein­
+schätzung würde damit bereits ein Ermessensfehlentscheid 
+vorliegen. Im Ergebnis führt das zu der Situation, dass bei 
+Waldbränden eine Entscheidung für oder gegen einen Einsatz 
+von Netzmitteln auf der Basis von Schaumbildnern immer in 
+der konkreten Situation getroffen werden muss. Kernseife ist 
+nicht unkritisch zu bewerten, im begründeten Einzelfall ggf. 
+erforderlich. Es sollte vermieden werden, Netzmittel nicht 
+zweckmäßig (z. T. als Standard) und in einem falschen Gebiet 
+(z. B. Wasserschutzgebiet) einzusetzen. Die Verwendung kann 
+angezeigt sein, sofern alternative Verfahren geprüft und aus­
+geschöpft sind oder eine Applikation von Netzmitteln den 
+ökologischen oder wirtschaftlichen Schaden wirkungsvoll 
+eindämmt. Die Anwendung kann im Einzelfall sinnvoll und 
+notwendig sein (z. B. bei Wurzelbränden) sein. Im Grundsatz 
+gilt: Keine Einbringung von Fremdstoffen in den Wald. Der 
+Einsatz von chemischen (Netz-)Mitteln ist auf das unbedingt 
+erforderliche Mindestmaß zu beschränken. Abhängigkeiten 
+bestehen u. a. beim Schutzgut, bei der zur Verfügung stehen­
+den Technik bzw. den Optionen, beim Personal(bedarf) usw. 
+Gesamtumweltbilanz, einer beherrschbaren Brandgröße, 
+des Brandgutes, der Zumischrate und -technik sowie der 
+Schaumabgabearmaturen.
+Mit Blick auf die Veröffentlichung „Leitfaden Brandschadens­
+fälle: Vorsorge, Bewältigung, Nachsorge“ von 2017, Kap. 
+4.2.8 aus dem rheinland-pfälzischen Umweltministerium 
+heißt es: „Nach Wegfall der unabhängigen amtlichen Prüf­
+stellen und aus den Erfahrungen der letzten Jahre heraus 
+sollten insbesondere Produktneuheiten auf dem Lösch­
+mittelmarkt sehr genau betrachtet werden.“In dem Kapitel 
+heißt es weiter, dass in Datenblättern häufig Angaben zu 
+Inhaltsstoffen und Rezepturen fehlen, Netzmittel grundsätz­
+lich als „fischgiftig“ gelten, eine Störung der Messsysteme 
+der Abwasseranlagen möglich ist und einzelne Netzmittel 
+selbst entzündend sein können. Auch ein Etikettenschwindel 
+durch das Wort „Bio“ im Namen sei möglich.
+Website: https://www.edoweb-rlp.de/resource/­
+edoweb:7010722/data
+39
+
+40
+4. NACHBEREITUNG
+Die Gesamteinsatzleitung liegt bis zur Alarmstufe 4 bei der Feuerwehr. Bei Alarmstufe 5 
+­haben Landrätin oder Landrat bzw. Oberbürgermeisterin oder Oberbürgermeister die Ein­
+satzleitung und übernehmen die politisch gesamtverantwortliche Leitung. Zu dieser ge­
+hören die administrativ-organisatorische Komponente (Verwaltungsstab im rückwärtigen 
+Bereich) und die operativ-taktische Komponente (Feuerwehr an der Einsatzstelle). 
+Ob und wenn ja, in welcher Art und Weise eine Unterstützung durch Forstleute notwendig 
+ist und sich Forstamts- bzw. Revierleitung im betreuten Wald einbringen sollen, liegt in der 
+Entscheidung der Einsatzleitung. Gleiches gilt für eine ausgewählte kundige Person für nicht 
+staatlich betreuten Wald.
+In der Führungsorganisation der Feuerwehr findet sich die Fachberatung Forst an der Ein­
+satzstelle der Feuerwehr wieder und die Forstverwaltung steht in Kontakt mit dem rück­
+wärtigen Bereich. Die zwei nachfolgenden Schaubilder zeigen die Einbindung der Forstver­
+waltung in die Struktur eines Feuerwehreinsatzes, um einen bei Alarmstufe 3, zum anderen 
+bei Alarmstufe 5.
+Alarmstufe 3
+Alarmstufe 5
+Abbildung 21: Führungsorganisation nach RAEP Waldbrand, Quelle: ADD, Referat 22
+Die örtlich zuständige Revier- oder Forstamtsleitung kann als fachliche Vertretung für Wald­
+besitzende von Privat- oder Kommunalwald herangezogen werden, soweit und solange dort 
+niemand erreichbar ist.
+
+41
+4. NACHBEREITUNG
+d. Kommunikation
+Die Kommunikation sowohl vor als auch während eines Brandes läuft über dasdas Mobilfunk- bzw. Telefon­
+netz. Eine Funktechnik, wie die der Behörden und Organisationen mit Sicherheitsaufgaben wird forstseitig 
+nicht zusätzlich vorgehalten. 
+Eine Rufbereitschaft der Forstverwaltung erfolgt durch eine örtliche Rufbereitschaft auf Anordnung der Forst­
+amtsleitung. 
+Kontaktlisten sind mindestens jährlich bzw. anlassbezogen zu aktualisieren. 
+Betreffend der Netzabdeckung sollten Empfangsinseln bzw. Funklöcher in den Waldgebieten wechselseitig 
+bekannt sein.
+4. Nachbereitung
+a. Einsatznachbesprechungen
+Auf örtlicher Ebene sind Waldbrände nachzubereiten und eine entsprechende Routine zu etablieren. Einsatz­
+nachbesprechungen, insbesondere größerer oder komplexer Brandereignisse unter Hinzuziehung des Brand- 
+und Katastrophenschutzinspekteurs (BKI), der Wehrleitung und unter Beteiligung der Fachberatung, dienen 
+der ergebnisoffenen Diskussion über die Abläufe und Ergebnisse (z. B. Meldeketten). Die Rolle der Fachbe­
+ratung (z. B. Wetterfachleute, Forstliche Fachberatung), die mit Spezialwissen in der Stabsarbeit – gerade bei 
+Großbränden – beraten und informieren, kann so verbessert werden, wenn es wieder heißt „in Krisen Köpfe 
+kennen“. 
+Relevante Informationen sollten an den Fachbeirat Waldbrandschutz auf Ebene der Mittelbehörde weitergege­
+ben werden. Ziel ist es, die Bandbreite an Fällen möglichst repräsentativ zu erfassen, um gelegentlich Land­
+schaftstypen oder Gefährdungen im Sinne einer Evaluation analysieren, bewerten und für die Zukunft oder 
+andere Regionen abschätzen zu können.
+
+42
+ANHANG
+Kriterien für die Gefährdungseinschätzung und 
+Lagebeurteilung im BrandfallMTT_ATT
+Kriterium
+Größe des Waldbrandes
+Waldeigentumsart
+staatlich (Bund)
+staatlich (Land)
+privat
+kommunal
+Jahreszeit
+Frühjahr
+Sommer
+Herbst
+WinterMTT_ATT
+Naturaldaten
+Kritische Infrastruktur
+nein 
+ja (z. B. Gasleitung, Autobahn, 
+­Bahnlinie, Umspannungswerk)
+Erholungsgebiet
+nein
+Ja
+Freizeiteinrichtung
+nein
+Ja (Waldkindergarten,  
+Klettergarten o. ä.)
+Kampfmittelbelastung
+nein
+Ja
+Waldfläche
+klein
+groß
+Waldpflegezustand
+niedrig
+hoch
+Totholzfläche
+klein 
+groß
+Baumarten
+Nadelwald
+Laubwald
+Baumalter
+jung 
+alt
+Zweite Baumschicht
+nein
+Ja, Laubbäume
+ja, Nadelbäume
+Humusform
+Laubstreu
+Nadelstreu, Rohhumus
+Waldbrandgefahrenindex (bezogen auf die Region)
+niedrig
+hoch
+Graslandfeuerindex (bezogen auf die Region) 
+niedrig
+hoch
+Geländeeigenschaften 
+(Exposition, Neigung, Höhenstufe, Windrichtung 
+ggf. lokale Winde und Windstärke)
+nördlich
+westlich, östlich
+südhang
+plan
+geneigt
+submontan
+kollin
+planar
+windstill
+West-Ost/Ost-West/Süd-Nord
+Abstand zur Wohnbebauung (Evakuierung)
+unkritisch
+kritisch
+Technisch 
+Löschwasser
+Löschwasserversorgung mittels Hydrant
+vorhanden
+nicht vorhanden
+Offenes Gewässer
+vorhanden
+nicht vorhanden
+Zisterne
+vorhanden
+nicht vorhanden
+Wassertransport lange Wegstrecke
+möglich
+nicht möglich
+Technisch, 
+Wald­
+erschließung
+Kartenmaterial 
+vorhanden
+nicht vorhanden
+Fahrwege 
+befahrbar
+nicht befahrbar
+Begegnungsverkehr
+möglich
+nicht möglich
+Einbahnregelung
+nicht notwendig
+notwendig
+Ausweichstellen
+vorhanden
+nicht vorhanden
+Lichtraumprofil
+vorhanden
+nicht vorhanden
+Technisch, 
+Ausstattung 
+der Feuerwehr
+D-Schläuche und Technik
+vorhanden
+nicht vorhanden
+Fahrzeugtechnik
+geeignet
+nicht geeignet
+Waldbrandgeeignete PSA
+vorhanden
+nicht vorhanden
+Personell
+Einsatzkräfteanzahl
+niedrig
+hoch
+Waldbrandausbildung
+vorhanden
+nicht vorhanden
+Verpflegung
+vorhanden
+nicht vorhanden
+Fachberatung
+vorhanden
+nicht vorhanden
+Zusammenarbeit mit Bundespolizei, Bundeswehr, 
+THW, KWL, Forstamt (Liste von Unternehmerinnen 
+und Unternehmern)
+vorhanden
+nicht vorhanden
+Bemerkungen
+GERING
+HOCH
+
+43
+ANHANG
+Checkliste
+1. Organisation/Kommunikation 
+•	 Klärung der jeweiligen Organisationsstrukturen 
+•	 Austausch der Kontaktdaten und Hinweis auf Fundstellen (z. B. Website Landesforsten) 
+•	 Fachlicher Austausch zu einem festen unterjährigen Termin
+	- Terminkalender Forstämter: 15. Februar eines jeden Jahres, vor der eigentlichen Saison
+•	 Rettungskarte Forst: 
+	- Sind überall aktuelle Karten vorhanden? 
+	- Wo sind zusätzlich digitale Karten sinnvoll?
+	- Seit 2020 gibt es eine Landeslizenz Rheinland-Pfalz für Behörden und Organisationen mit Sicherheits­
+aufgaben.
+	- Fehlen Rettungspunkte? 
+	- Stimmen die Wegekategorien? 
+	- Sind alle Rettungspunkte mit Einsatzfahrzeugen anfahrbar? 
+	- Wer braucht ggf. Schlüssel für Schranken? 
+•	 Infotafel Waldbrandprävention (Anbringung an häufigen Brandstellen) 
+•	 Fachberatung Forst 
+2. Maßnahmen zur Waldbrandvorsorge 
+•	 Rufbereitschaft: 
+	- Wann ist sie sinnvoll? (Waldbrandgefahrenstufen?) 
+	- Wie wird sie organisiert? Wie ist die Alarmkette? 
+•	 Pressearbeit (wer? wann?) 
+•	 Identifikation brandfördernder Bereiche (z. B. Grill-, Camping-, Trekkingplätze)
+	- Feuermachen an Standortanforderungen knüpfen (z. B. Funkverbindung zwingend notwendig, Feuer­
+löscher vor Ort, Saisonverlängerung in die kalte, feuchte Zeit, Anbringung von Hinweisschildern, Verein­
+barungen und Kontrollen gemeinsam mit Feuerwehr und Ordnungsamt)
+	- Forstamtsseitigen Genehmigungsvorbehalt nutzen (vgl. § 24 Abs. II LWaldG) und an Bedingungen 
+­knüpfen
+•	 Identifikation besonders brandfördernder Waldteile 
+	- Wo könnten Laubholzriegel oder Brandschneisen sinnvoll sein? 
+•	 Identifikation besonders gefährdeter Einrichtungen am oder im Wald (Wohngebäude, bewirtschaftete 
+­Hütten, Industrieanlagen, Trinkwasser-Schutzgebiete etc. ) 
+	- Ist eine Gefährdungskarte notwendig? 
+
+44
+ANHANG
+•	 Identifikation kritischer Infrastruktur im oder nahe zum Wald (z. B. Um­
+spannanlagen, Bahnlinien etc.)
+•	 Löschwasserentnahmestellen: 
+	- Sind alle Stellen bekannt? 
+	- Ist die Aufnahme in die Rettungskarte möglich? Müssen Instandset­
+zungen oder Neuanlagen erfolgen? (Ortstermin nötig) 
+	- Sind die DIN-gerechten Wasserentnahmestellen gekennzeichnet 
+nach DIN 4066?
+•	 Übungen mit örtlichen Feuerwehren: 
+	- Gemeinsame Brand- oder Rettungsübungen 
+	- Test der Funkanlagen und von deren Reichweite
+	- Fahrtraining im Wald 
+	- Erkundungsfahrten und Prüfung der Zugänglichkeit des Waldes auf 
+den NavLog Wegen Kategorie I und II
+•	 In grenznahen Gebieten (z. B. Belgien, Frankreich, Luxemburg, Saar­
+land): grenzüberschreitender Kontakt und Austausch mit Behörden und 
+Organisationen mit Sicherheitsaufgaben und Forstbehörden
+3. Maßnahmen im Brandfall 
+•	 Klärung möglicher Unterstützungsaufgaben des Forstpersonals: 
+	- Einweisung, Verkehrsregelung 
+	- Ermittlung der Waldbesitzenden 
+	- Unterstützung bei Fäll- und Räumarbeiten 
+	- Unterstützung im Bereitschaftsraum bei größeren/längeren Einsät­
+zen (Verpflegung, Transport) 
+
+Eigene Notizen
+45
+
+Herausgeber: 
+Landesforsten Rheinland-Pfalz
+Zentralstelle der Forstverwaltung (ZdF) 
+Neustadt an der Weinstraße, Rheinland-Pfalz 
+www.wald.rlp.de
+Redaktion: 
+Fachbeirat Waldbrandschutz, Redaktionsleitung Tobias Stubenazy
+Aufsichts- und Dienstleistungsdirektion (ADD) 
+Referat 22 – Brand-, Katastrophen- und Zivilschutz, Rettungsdienst 
+Willy-Brandt-Platz 3 
+54290 Trier
+Feuerwehr- und Katastrophenschutzakademie (LFKA) 
+Lindenallee 41–43 
+56077 Koblenz
+Zentralstelle der Forstverwaltung (ZdF) 
+Referat 4.2 Waldschutz 
+Rhein-Mosel-Straße 7–9 
+56281 Emmelshausen
+Grafik und Gestaltung:
+Jonathan Fieber, igreen media (igreen.de)
+Fotos:
+Landesforsten.RLP.de/Jonathan Fieber: S. 4, 16, 17, 21, 33, 39 
+Landesforsten.RLP.de/Tobias Stubenazy: Abb. 3, 8, 11, 13, 14, 20 
+Polizeiinspektion Neustadt/Katja Weickert: Abb. 2 
+Scheidle-Design/AdobeStock: Titelbild Hintergrund
+Dieses Dokument finden Sie als PDF unter: 
+https://www.waldbrandgefahr.wald.rlp.de
+IMPRESSUM
+
+Folgen Sie Landesforsten RLP auch auf
+
+Le Quartier-Hornbach 9
+67433 Neustadt an der Weinstraße
+zdf.wald.rlp.de
