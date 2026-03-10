@@ -1,0 +1,12 @@
+osm-data
+__pycache__
+.git 
+.DS_Store
+*.env
+*.venv
+*.pyc
+*.pyo
+*.pyd
+readme.md
+.DS_Store
+
